@@ -4,3 +4,4 @@
 
 - [horamundial.com](https://yeikiu.github.io/published_nxwebs/horamundial.com/)
 
+- [fight-radar.com](https://yeikiu.github.io/published_nxwebs/fight-radar.com/)
