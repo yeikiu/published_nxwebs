@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Main pages
+Allow: /data-center
+Allow: /news
+Allow: /calendar
+
+# Disallow admin pages from indexing
+Disallow: /admin
+
+# Point to sitemap
+Sitemap: https://fight-radar.com/sitemap.xml
+
+# Crawl delay (be respectful)
+Crawl-delay: 1
