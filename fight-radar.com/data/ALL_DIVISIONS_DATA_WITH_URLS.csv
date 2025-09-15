@@ -122,7 +122,7 @@ Steve Erceg,Bantamweight,13-4-0,910,418,396,29,8,22,3,0,1,2,802,848,68,68,4,3,0,
 Tim Elliott,Flyweight,22-13-1,192,95,64,14,10,3,5,0,0,0,1055,569,67,66,3,1,0,0,0,2,1,0,0,1,0,251,184,7,4,1,4,"08/25,12/23,10/23,06/23",img/tim_elliott.png,http://ufcstats.com/fighter-details/c96d9178c9ed9e62
 Tagir Ulanbekov,Flyweight,17-2-0,243,138,140,18,6,7,7,0,1,0,1088,273,67,70,4,0,0,0,0,2,2,0,0,0,0,249,281,11,4,0,4,"06/25,01/25,12/23,11/22",img/tagir_ulanbekov.png,http://ufcstats.com/fighter-details/f00ac08ab056af5d
 Ramazan Temirov,Flyweight,19-3-0,194,78,70,2,1,3,0,0,3,0,28,78,64,63,2,0,0,1,0,0,1,0,0,0,0,235,172,3,0,0,2,"03/25,10/24",img/ramazan_temirov.png,http://ufcstats.com/fighter-details/7d0a1968b38ca439
-Bruno Silva,Flyweight,14-7-2 (1 NC),379,198,276,14,1,0,1,3,2,4,85,217,64,65,2,2,0,1,0,1,0,2,0,0,0,154.75,486,1,1,3,4,"06/25,12/24,07/24,03/23",img/bruno_silva.png,http://ufcstats.com/fighter-details/294aa73dbf37d281
+Bruno Silva (Bulldog),Flyweight,14-7-2 (1 NC),447,247,227,8,0,5,1,3,5,1,137,165,64,65,2,2,0,1,0,1,0,2,0,0,0,154.75,418,7,2,3,4,"06/25,12/24,07/24,03/23",img/bruno_silva_bulldog.png,http://ufcstats.com/fighter-details/294aa73dbf37d281
 Kai Asakura,Flyweight,21-6-0,116,38,59,0,0,5,0,1,0,0,25,280,68,69,0,2,0,0,0,0,0,0,0,2,0,202,123,10,5,3,2,"08/25,12/24",img/kai_asakura.png,http://ufcstats.com/fighter-details/d33da8a3d82bdb62
 Kayla Harrison,W_Bantamweight,19-1-0,219,136,35,16,6,2,2,0,0,0,1130,15,68,66,3,0,0,0,0,2,1,0,0,0,0,234,103,2,0,0,3,"06/25,10/24,04/24",img/kayla_harrison.png,http://ufcstats.com/fighter-details/1af1170ed937cba7
 Julianna Pena,W_Bantamweight,13-6-0,290,101,122,4,2,1,1,0,0,1,340,398,66,69,1,1,0,0,0,0,1,0,0,1,0,297.5,371,3,2,1,2,"06/25,10/24",img/julianna_pena.png,http://ufcstats.com/fighter-details/3253b16d38ae087d
@@ -965,7 +965,7 @@ Jack Shore,Featherweight,17-3-0,104,60,53,7,3,3,1,0,0,1,292,647,68,71,1,2,0,0,0,
 Ronal Siahaan,Flyweight,7-1-0,6,4,39,0,0,1,0,2,0,0,0,335,67,71,0,1,0,0,0,0,0,0,0,1,0,79,52,4,3,3,1,05/23,img/ronal_siahaan.png,http://ufcstats.com/fighter-details/762226efa2b01654
 Serhiy Sidey,Bantamweight,12-2-0,533,213,202,20,5,1,4,1,1,1,325,299,71,72,3,1,0,1,0,0,2,0,0,0,1,261.5,442,5,4,1,4,"05/25,11/24,01/24,09/23",img/serhiy_sidey.png,http://ufcstats.com/fighter-details/1a2bf44edb8055b6
 Joaquim Silva,Lightweight,14-6-0,381,198,253,4,2,30,4,0,3,0,284,1582,68,69,3,2,0,1,0,0,2,1,0,0,1,258.6,518,40,10,0,5,"09/25,05/24,12/23,06/23,10/22",img/joaquim_silva.png,http://ufcstats.com/fighter-details/ae7fe94f117f98cf
-Bruno Silva,Middleweight,23-13-0,377,180,313,11,3,15,0,0,1,3,408,713,72,74,1,5,0,1,0,0,0,1,0,1,3,219.83,525,19,4,1,6,"05/25,10/24,03/24,10/23,06/23,04/23",img/bruno_silva.png,http://ufcstats.com/fighter-details/12ebd7d157e91701
+Bruno Silva (Blindado),Middleweight,23-13-0,377,180,313,11,3,15,0,0,1,3,408,713,72,74,1,5,0,1,0,0,0,1,0,1,3,219.83,525,19,4,1,6,"05/25,10/24,03/24,10/23,06/23,04/23",img/bruno_silva_blindado.png,http://ufcstats.com/fighter-details/12ebd7d157e91701
 Natalia Silva,W_Flyweight,19-5-1,791,355,189,5,0,18,0,2,2,0,213,828,64,65,6,0,0,2,0,0,4,0,0,0,0,244.17,536,20,2,2,6,"05/25,09/24,02/24,08/23,05/23,11/22",img/natalia_silva.png,http://ufcstats.com/fighter-details/262d32ebda89efc4
 Erik Silva,Featherweight,9-3-0,30,21,25,4,3,5,0,0,0,0,168,594,69,71,0,2,0,0,0,0,0,1,0,1,0,132.5,40,8,3,1,2,"02/24,12/22",img/erik_silva.png,http://ufcstats.com/fighter-details/21b813b919776d90
 Janaina Silva,W_Strawweight,5-1-0,3,0,6,0,0,0,0,0,0,0,0,226,61,60,0,1,0,0,0,0,0,0,0,1,0,240,16,1,1,1,1,08/23,img/janaina_silva.jpg,http://ufcstats.com/fighter-details/4784a5b4a452464a
