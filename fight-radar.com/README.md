@@ -1,87 +1,172 @@
-# UFC Radar Dataset Maintenance
+# UFC Radar - Mantenimiento del Dataset
 
-## Dataset Maintenance Schedule
+## Programación de Mantenimiento del Dataset
 
-### Weekly (every 7 days) - **REQUIRED**
+### Semanal (cada 7 días) - **OBLIGATORIO**
 ```bash
-# Update existing fighters with latest fight data
+# Actualizar luchadores existentes con datos de peleas recientes
 node scripts/update_all_fighters.js --verbose
 ```
-- **Runtime**: 2-6 hours depending on roster size
-- **Purpose**: Updates all fighter stats with recent fights (36-month window)
-- **Auto-cleanup**: Removes inactive fighters (no fights in 36 months)
+- **Tiempo de ejecución**: 2-6 horas dependiendo del tamaño del roster
+- **Propósito**: Actualiza todas las estadísticas de luchadores con peleas recientes (ventana de 36 meses)
+- **Auto-limpieza**: Remueve luchadores inactivos (sin peleas en 36 meses)
 
-### Monthly (every 30 days) - **REQUIRED**
+### Mensual (cada 30 días) - **OBLIGATORIO**
 ```bash
-# Add new active UFC fighters to database
+# Agregar nuevos luchadores activos de UFC a la base de datos
 node scripts/check_fighters_and_divisions.js --verbose
 ```
-- **Runtime**: 3-8 hours
-- **Purpose**: Discovers and adds new active fighters from UFC roster
-- **Only processes**: Fighters with activity in last 36 months
+- **Tiempo de ejecución**: 3-8 horas
+- **Propósito**: Descubre y agrega nuevos luchadores activos del roster de UFC
+- **Solo procesa**: Luchadores con actividad en los últimos 36 meses
+- **Sincronización completa**: Remueve luchadores que ya no aparecen en UFC Stats
 
-### Individual Fighter Updates - **AS NEEDED**
+### Actualizaciones de Luchadores Individuales - **SEGÚN NECESIDAD**
 ```bash
-# Update specific fighter
+# Actualizar luchador específico
 node scripts/ufc_data_crawler.js "http://ufcstats.com/fighter-details/[fighter-id]" --persist --verbose
 ```
-- **When**: After major fights or roster changes
-- **Runtime**: 30-60 seconds per fighter
+- **Cuándo**: Después de peleas importantes o cambios en el roster
+- **Tiempo de ejecución**: 30-60 segundos por luchador
 
-## Script Execution Order
+## Orden de Ejecución de Scripts
 
-1. **Primary Maintenance** (run weekly):
+1. **Mantenimiento Primario** (ejecutar semanalmente):
    ```bash
    node scripts/update_all_fighters.js --verbose
    ```
 
-2. **New Fighter Discovery** (run monthly):
+2. **Descubrimiento de Nuevos Luchadores** (ejecutar mensualmente):
    ```bash
    node scripts/check_fighters_and_divisions.js --verbose
    ```
 
-3. **Individual Updates** (run as needed):
+3. **Actualizaciones Individuales** (ejecutar según necesidad):
    ```bash
    node scripts/ufc_data_crawler.js "[fighter-url]" --persist --verbose
    ```
 
-## Script Details
+## Detalles de Scripts
 
-### `update_all_fighters.js` - **Primary Maintenance Tool**
-- **User invocation**: Required weekly
-- **Internal calls**: Uses `ufc_data_crawler.js` automatically
-- **Rate limiting**: 5-15 second delays between fighters
-- **Auto-cleanup**: Removes inactive fighters at completion
-- **Resumable**: Can specify ranges with `start_index end_index`
-- **Picture-only mode**: `--picture-only` for image updates only
+### `update_all_fighters.js` - **Herramienta de Mantenimiento Principal**
+- **Invocación del usuario**: Requerida semanalmente
+- **Llamadas internas**: Usa `ufc_data_crawler.js` automáticamente
+- **Limitación de velocidad**: Demoras de 5-15 segundos entre luchadores
+- **Auto-limpieza**: Remueve luchadores inactivos al completar
+- **Reanudable**: Puede especificar rangos con `start_index end_index`
 
-### `check_fighters_and_divisions.js` - **New Fighter Discovery**
-- **User invocation**: Required monthly
-- **Internal calls**: Uses `ufc_data_crawler.js` automatically
-- **Rate limiting**: 15-45 second delays between fighters
-- **Active-only**: Only processes fighters with recent activity
-- **Incremental**: Can target specific letters with `[letters]`
+#### Banderas Disponibles:
+```bash
+# Ejemplos de uso
+node scripts/update_all_fighters.js                              # Procesar todos los luchadores
+node scripts/update_all_fighters.js 1 10                         # Procesar luchadores del 1 al 10
+node scripts/update_all_fighters.js --verbose                    # Mostrar logs detallados
+node scripts/update_all_fighters.js --reverse                    # Procesar en orden inverso (último a primero)
+node scripts/update_all_fighters.js --clean-inactive             # Solo remover luchadores inactivos, sin actualizar
+node scripts/update_all_fighters.js --picture-only               # Solo actualizar campo picture_url
+node scripts/update_all_fighters.js --no-delay                   # Deshabilitar pausas para procesamiento más rápido
+node scripts/update_all_fighters.js 1 5 --no-delay --verbose     # Combinar múltiples banderas
+```
 
-### `ufc_data_crawler.js` - **Core Data Engine**
-- **User invocation**: For individual fighters only
-- **Internal calls**: Called by other scripts automatically
-- **Never run manually**: For batch operations (use parent scripts)
-- **Output format**: Includes opponent names in new `MM/YY:OpponentName` format
+**Banderas:**
+- `--verbose` / `-v`: Mostrar registro detallado
+- `--reverse`: Procesar luchadores en orden inverso
+- `--clean-inactive`: Solo limpiar luchadores inactivos, sin actualizar
+- `--picture-only`: Solo actualizar imágenes de cada luchador
+- `--no-delay`: Deshabilitar las pausas entre luchadores para procesamiento más rápido
 
-### `ufc_picture_crawler.js` - **Utility Script**
-- **User invocation**: Rarely needed (internal tool)
-- **Purpose**: Standalone picture URL fetching
-- **Called by**: `ufc_data_crawler.js` automatically
+### `check_fighters_and_divisions.js` - **Descubrimiento de Nuevos Luchadores**
+- **Invocación del usuario**: Requerida mensualmente
+- **Llamadas internas**: Usa `ufc_data_crawler.js` automáticamente
+- **Limitación de velocidad**: Demoras de 15-45 segundos entre luchadores
+- **Solo-activos**: Solo procesa luchadores con actividad reciente
+- **Incremental**: Puede dirigirse a letras específicas con `[letters]`
+- **Sincronización completa**: Detecta y remueve luchadores faltantes de la fuente
 
-## Critical Notes
+#### Banderas Disponibles:
+```bash
+# Ejemplos de uso
+node scripts/check_fighters_and_divisions.js                     # Verificar todas las letras A-Z (solo luchadores activos)
+node scripts/check_fighters_and_divisions.js a                   # Verificar solo letra A
+node scripts/check_fighters_and_divisions.js abc                 # Verificar letras A, B, C
+node scripts/check_fighters_and_divisions.js a --verbose         # Verificar A con logs detallados
+node scripts/check_fighters_and_divisions.js --no-delay          # Saltar demoras para procesamiento más rápido
+node scripts/check_fighters_and_divisions.js abc --no-delay --verbose # Combinar banderas
+```
 
-- **Never run scripts in parallel** - Risk of rate limiting/IP blocks
-- **Always use `--verbose`** - Essential for monitoring progress
-- **Monitor rate limits** - Scripts include delays to prevent blocking
-- **CSV auto-backup** - Scripts preserve data integrity
-- **Opponent data** - New format includes opponent names for enhanced analysis
+**Banderas:**
+- `--verbose` / `-v`: Mostrar registro detallado
+- `--no-delay`: Saltar demoras entre luchadores y letras para procesamiento más rápido
 
-## Data Location
-- **CSV Database**: `public/data/ALL_DIVISIONS_DATA_WITH_URLS.csv`
-- **Format**: Enhanced with opponent names in `Dates_36m` field
-- **Auto-cleanup**: Inactive fighters removed automatically
+**Operaciones que realiza:**
+1. **Agrega nuevos luchadores activos** encontrados en UFC Stats pero no en CSV
+2. **Actualiza luchadores activos existentes** con datos frescos de UFC Stats
+3. **Remueve luchadores inactivos** que siguen en UFC Stats pero sin peleas en 36 meses
+4. **Remueve luchadores faltantes** que han desaparecido completamente de UFC Stats
+
+### `ufc_data_crawler.js` - **Motor de Datos Principal**
+- **Invocación del usuario**: Solo para luchadores individuales
+- **Llamadas internas**: Llamado por otros scripts automáticamente
+- **Nunca ejecutar manualmente**: Para operaciones en lote (usar scripts padre)
+- **Formato de salida**: Incluye fechas de nacimiento en formato DD-MM-YYYY
+
+#### Banderas Disponibles:
+```bash
+# Ejemplos de uso
+node scripts/ufc_data_crawler.js "http://ufcstats.com/fighter-details/[fighter-id]"
+node scripts/ufc_data_crawler.js "[fighter-url]" --verbose       # Mostrar logs detallados
+node scripts/ufc_data_crawler.js "[fighter-url]" --persist       # Actualizar CSV con datos frescos
+node scripts/ufc_data_crawler.js "[fighter-url]" --picture-only  # Solo actualizar picture_url
+node scripts/ufc_data_crawler.js "[fighter-url]" --no-delay      # Sin demoras para procesamiento más rápido
+```
+
+**Banderas:**
+- `--verbose`: Mostrar logs detallados
+- `--persist`: Actualizar CSV con datos frescos preservando campos específicos
+- `--picture-only`: Solo actualizar el campo picture_url del luchador
+- `--no-delay`: Deshabilitar pausas internas para procesamiento más rápido
+
+### `ufc_picture_crawler.js` - **Script de Utilidad**
+- **Invocación del usuario**: Raramente necesario (herramienta interna)
+- **Propósito**: Obtención independiente de URLs de imágenes
+- **Llamado por**: `ufc_data_crawler.js` automáticamente
+
+## Nuevas Características
+
+### Seguimiento de Fechas de Nacimiento
+- **Extracción automática**: Los scripts ahora extraen fechas de nacimiento de UFC Stats
+- **Formato**: Almacenado como DD-MM-YYYY en CSV
+- **Cálculo de edad**: Disponible en la interfaz de usuario
+- **Columnas UI**: Birth Date y Age disponibles en Data Center
+
+### Sincronización Mejorada
+- **Detección de faltantes**: `check_fighters_and_divisions.js` ahora detecta luchadores que han desaparecido de UFC Stats
+- **Limpieza automática**: Remueve registros huérfanos que ya no existen en la fuente
+- **Sincronización completa**: Mantiene el CSV perfectamente sincronizado con UFC Stats
+
+## Notas Críticas
+
+- **Nunca ejecutar scripts en paralelo** - Riesgo de limitación de velocidad/bloqueos de IP
+- **Siempre usar `--verbose`** - Esencial para monitorear progreso
+- **Monitorear límites de velocidad** - Los scripts incluyen demoras para prevenir bloqueos
+- **Respaldo automático de CSV** - Los scripts preservan la integridad de los datos
+- **Usar `--no-delay` con precaución** - Para procesamiento más rápido pero mayor riesgo de bloqueos
+
+## Ubicación de Datos
+- **Base de Datos CSV**: `public/data/ALL_DIVISIONS_DATA_WITH_URLS.csv`
+- **Formato**: Mejorado con columna Birth_Date como 3era columna
+- **Auto-limpieza**: Luchadores inactivos removidos automáticamente
+- **Estructura**: Fighter,Division,Birth_Date,Career_Record,...
+
+## Solución de Problemas
+
+### Si un script se cuelga o falla:
+1. **Usar Ctrl+C** para detener el proceso
+2. **Verificar logs** para identificar el último luchador procesado
+3. **Reanudar** desde un punto específico usando índices de inicio/fin
+4. **Usar `--no-delay`** si el servidor UFC Stats responde lentamente
+
+### Si hay errores de red:
+1. **Verificar conexión a internet**
+2. **Esperar** y reintentar (UFC Stats puede estar temporalmente no disponible)
+3. **Ejecutar en lotes más pequeños** usando rangos de índices
