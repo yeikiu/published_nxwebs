@@ -126,21 +126,39 @@ node scripts/ufc_data_crawler.js "[fighter-url]" --no-delay      # Sin demoras p
 - `--picture-only`: Solo actualizar el campo picture_url del luchador
 - `--no-delay`: Deshabilitar pausas internas para procesamiento más rápido
 
-### `ufc_picture_crawler.js` - **Script de Utilidad**
-- **Invocación del usuario**: Raramente necesario (herramienta interna)
-- **Propósito**: Obtención independiente de URLs de imágenes
+### `ufc_picture_crawler.js` - **Crawler de Imágenes**
+- **Búsqueda Google-powered**: Utiliza Google Images con consultas específicas por sitio
+- **Fuentes múltiples**: UFC.com, ESPN.com, Sherdog.com, MMA Junkie, Tapology
+- **Detección automática**: Reconoce formatos de imagen UFC como `athlete_bio_full_body`
 - **Llamado por**: `ufc_data_crawler.js` automáticamente
 
-## Nuevas Características
+#### Uso Manual (Opcional):
+```bash
+# Buscar imagen para un luchador específico
+node scripts/ufc_picture_crawler.js "Ilia Topuria"
+node scripts/ufc_picture_crawler.js "Elisha Ellison (The Snack Panther)"
+
+# Con opciones adicionales
+node scripts/ufc_picture_crawler.js "Fighter Name" --persist  # Actualizar CSV
+node scripts/ufc_picture_crawler.js "Fighter Name" --debug   # Mostrar navegador
+```
+
+**Características:**
+- **Extracción múltiple**: 5 métodos diferentes de extracción de URLs
+- **Búsqueda inteligente**: Consultas específicas por sitio en lugar de adivinación de URLs
+- **Alta precisión**: Detecta imágenes de atletas UFC con formatos específicos
+- **Fuentes confiables**: Prioriza dominios oficiales y de calidad
+
+## Características del Sistema
 
 ### Seguimiento de Fechas de Nacimiento
-- **Extracción automática**: Los scripts ahora extraen fechas de nacimiento de UFC Stats
+- **Extracción automática**: Los scripts extraen fechas de nacimiento de UFC Stats
 - **Formato**: Almacenado como DD-MM-YYYY en CSV
 - **Cálculo de edad**: Disponible en la interfaz de usuario
 - **Columnas UI**: Birth Date y Age disponibles en Data Center
 
-### Sincronización Mejorada
-- **Detección de faltantes**: `check_fighters_and_divisions.js` ahora detecta luchadores que han desaparecido de UFC Stats
+### Sincronización del Dataset
+- **Detección de faltantes**: `check_fighters_and_divisions.js` detecta luchadores que han desaparecido de UFC Stats
 - **Limpieza automática**: Remueve registros huérfanos que ya no existen en la fuente
 - **Sincronización completa**: Mantiene el CSV perfectamente sincronizado con UFC Stats
 
