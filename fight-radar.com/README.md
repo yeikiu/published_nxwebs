@@ -84,13 +84,10 @@ AI-powered predictions analyze:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Svelte 4 + TypeScript
+- **Frontend:** Svelte 5 + TypeScript
 - **Build Tool:** Vite
-- **Charts:** Apache ECharts
+- **Charts:** [Highcharts](https://www.highcharts.com)
 - **i18n:** svelte-i18n (4 languages)
-- **Styling:** Custom CSS with dark/light themes
-- **Data:** CSV-based fighter statistics
-- **Deployment:** Production-ready SPA
 
 ---
 
@@ -105,17 +102,6 @@ Experience the full platform with:
 - 🔍 Advanced search and filtering
 - 📌 Pin your favorite fighters
 - 🎬 YouTube highlight integration
-
----
-
-## 📊 Data Sources
-
-Fighter statistics are sourced from:
-- [UFC Stats](http://ufcstats.com/) - Official UFC statistics
-- ESPN MMA - Latest news and updates
-- YouTube - Fighter highlights and analysis
-
-*All data is updated regularly to reflect the last 36 months of activity.*
 
 ---
 
