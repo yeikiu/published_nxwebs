@@ -1,190 +1,151 @@
-# UFC Radar - Mantenimiento del Dataset
+# Fight Radar
 
-## Programación de Mantenimiento del Dataset
+![Fight Radar Header](public/header_bg.jpg)
 
-### Semanal (cada 7 días) - **OBLIGATORIO**
-```bash
-# Actualizar luchadores existentes con datos de peleas recientes
-node scripts/update_all_fighters.js --verbose
+**[🚀 Launch Fight Radar](https://fight-radar.com)**
+
+> Advanced UFC fighter analysis and statistics platform. Analyze · Compare · Dominate
+
+---
+
+## 🎯 What is Fight Radar?
+
+Fight Radar is a comprehensive UFC fighter analysis platform that transforms raw fight data into actionable insights. Using advanced radar charts, performance metrics, and AI-powered predictions, we help fans, analysts, and enthusiasts make data-driven decisions.
+
+### ✨ Key Features
+
+- **🎯 Interactive Fighter Comparison** - Compare any two fighters side-by-side with detailed radar charts
+- **📊 Advanced Analytics** - Deep dive into 100+ performance metrics per fighter
+- **🤖 AI-Powered Predictions** - Smart fight outcome predictions based on historical data
+- **📅 Event Calendar** - Stay updated with upcoming UFC events and fight cards
+- **📰 Latest News** - Curated UFC news and video highlights
+- **🗃️ Fighter Database** - Searchable database with 1000+ active UFC fighters
+- **🌍 Multi-language Support** - Available in English, Spanish, Portuguese, and French
+
+---
+
+## 📈 Platform Stats
+
 ```
-- **Tiempo de ejecución**: 2-6 horas dependiendo del tamaño del roster
-- **Propósito**: Actualiza todas las estadísticas de luchadores con peleas recientes (ventana de 36 meses)
-- **Auto-limpieza**: Remueve luchadores inactivos (sin peleas en 36 meses)
-
-### Mensual (cada 30 días) - **OBLIGATORIO**
-```bash
-# Agregar nuevos luchadores activos de UFC a la base de datos
-node scripts/check_fighters_and_divisions.js --verbose
-```
-- **Tiempo de ejecución**: 3-8 horas
-- **Propósito**: Descubre y agrega nuevos luchadores activos del roster de UFC
-- **Solo procesa**: Luchadores con actividad en los últimos 36 meses
-- **Sincronización completa**: Remueve luchadores que ya no aparecen en UFC Stats
-
-### Actualizaciones de Luchadores Individuales - **SEGÚN NECESIDAD**
-```bash
-# Actualizar luchador específico
-node scripts/ufc_data_crawler.js "http://ufcstats.com/fighter-details/[fighter-id]" --persist --verbose
-```
-- **Cuándo**: Después de peleas importantes o cambios en el roster
-- **Tiempo de ejecución**: 30-60 segundos por luchador
-
-## Orden de Ejecución de Scripts
-
-1. **Mantenimiento Primario** (ejecutar semanalmente):
-   ```bash
-   node scripts/update_all_fighters.js --verbose
-   ```
-
-2. **Descubrimiento de Nuevos Luchadores** (ejecutar mensualmente):
-   ```bash
-   node scripts/check_fighters_and_divisions.js --verbose
-   ```
-
-3. **Actualizaciones Individuales** (ejecutar según necesidad):
-   ```bash
-   node scripts/ufc_data_crawler.js "[fighter-url]" --persist --verbose
-   ```
-
-## Detalles de Scripts
-
-### `update_all_fighters.js` - **Herramienta de Mantenimiento Principal**
-- **Invocación del usuario**: Requerida semanalmente
-- **Llamadas internas**: Usa `ufc_data_crawler.js` automáticamente
-- **Limitación de velocidad**: Demoras de 5-15 segundos entre luchadores
-- **Auto-limpieza**: Remueve luchadores inactivos al completar
-- **Reanudable**: Puede especificar rangos con `start_index end_index`
-
-#### Banderas Disponibles:
-```bash
-# Ejemplos de uso
-node scripts/update_all_fighters.js                              # Procesar todos los luchadores
-node scripts/update_all_fighters.js 1 10                         # Procesar luchadores del 1 al 10
-node scripts/update_all_fighters.js --verbose                    # Mostrar logs detallados
-node scripts/update_all_fighters.js --reverse                    # Procesar en orden inverso (último a primero)
-node scripts/update_all_fighters.js --clean-inactive             # Solo remover luchadores inactivos, sin actualizar
-node scripts/update_all_fighters.js --picture-only               # Solo actualizar campo picture_url
-node scripts/update_all_fighters.js --no-delay                   # Deshabilitar pausas para procesamiento más rápido
-node scripts/update_all_fighters.js 1 5 --no-delay --verbose     # Combinar múltiples banderas
+🥊 1000+         Active Fighters Tracked
+📊 100+          Performance Metrics per Fighter
+🎯 6             Radar Chart Dimensions (Fight & IQ)
+🌐 4             Supported Languages
+⚡ Real-time     Data Updates (Last 36 months)
+🏆 Elite Tier    Opponent Quality Analysis
 ```
 
-**Banderas:**
-- `--verbose` / `-v`: Mostrar registro detallado
-- `--reverse`: Procesar luchadores en orden inverso
-- `--clean-inactive`: Solo limpiar luchadores inactivos, sin actualizar
-- `--picture-only`: Solo actualizar imágenes de cada luchador
-- `--no-delay`: Deshabilitar las pausas entre luchadores para procesamiento más rápido
+---
 
-### `check_fighters_and_divisions.js` - **Descubrimiento de Nuevos Luchadores**
-- **Invocación del usuario**: Requerida mensualmente
-- **Llamadas internas**: Usa `ufc_data_crawler.js` automáticamente
-- **Limitación de velocidad**: Demoras de 15-45 segundos entre luchadores
-- **Solo-activos**: Solo procesa luchadores con actividad reciente
-- **Incremental**: Puede dirigirse a letras específicas con `[letters]`
-- **Sincronización completa**: Detecta y remueve luchadores faltantes de la fuente
+## 🧠 How It Works
 
-#### Banderas Disponibles:
-```bash
-# Ejemplos de uso
-node scripts/check_fighters_and_divisions.js                     # Verificar todas las letras A-Z (solo luchadores activos)
-node scripts/check_fighters_and_divisions.js a                   # Verificar solo letra A
-node scripts/check_fighters_and_divisions.js abc                 # Verificar letras A, B, C
-node scripts/check_fighters_and_divisions.js a --verbose         # Verificar A con logs detallados
-node scripts/check_fighters_and_divisions.js --no-delay          # Saltar demoras para procesamiento más rápido
-node scripts/check_fighters_and_divisions.js abc --no-delay --verbose # Combinar banderas
-```
+### 1. **ROLE-DISC Archetype System**
+Fight Radar uses a proprietary **ROLE-DISC** classification system to categorize fighters into tactical archetypes:
 
-**Banderas:**
-- `--verbose` / `-v`: Mostrar registro detallado
-- `--no-delay`: Saltar demoras entre luchadores y letras para procesamiento más rápido
+- 🔴 **AT (Active Technical)** - Strategic pressure fighters
+- 🟡 **ANT (Active Non-Technical)** - Explosive, chaotic fighters
+- 🔵 **PT (Passive Technical)** - Counter-strikers and snipers
+- 🟢 **PNT (Passive Non-Technical)** - Defensive tanks
 
-**Operaciones que realiza:**
-1. **Agrega nuevos luchadores activos** encontrados en UFC Stats pero no en CSV
-2. **Actualiza luchadores activos existentes** con datos frescos de UFC Stats
-3. **Remueve luchadores inactivos** que siguen en UFC Stats pero sin peleas en 36 meses
-4. **Remueve luchadores faltantes** que han desaparecido completamente de UFC Stats
+Fighters can have **dual** or even **triple** archetypes, revealing tactical versatility.
 
-### `ufc_data_crawler.js` - **Motor de Datos Principal**
-- **Invocación del usuario**: Solo para luchadores individuales
-- **Llamadas internas**: Llamado por otros scripts automáticamente
-- **Nunca ejecutar manualmente**: Para operaciones en lote (usar scripts padre)
-- **Formato de salida**: Incluye fechas de nacimiento en formato DD-MM-YYYY
+### 2. **Dual Radar Analysis**
 
-#### Banderas Disponibles:
-```bash
-# Ejemplos de uso
-node scripts/ufc_data_crawler.js "http://ufcstats.com/fighter-details/[fighter-id]"
-node scripts/ufc_data_crawler.js "[fighter-url]" --verbose       # Mostrar logs detallados
-node scripts/ufc_data_crawler.js "[fighter-url]" --persist       # Actualizar CSV con datos frescos
-node scripts/ufc_data_crawler.js "[fighter-url]" --picture-only  # Solo actualizar picture_url
-node scripts/ufc_data_crawler.js "[fighter-url]" --no-delay      # Sin demoras para procesamiento más rápido
-```
+**Fight Radar** (Performance Metrics)
+- Striking Offense & Defense
+- Takedown Offense & Defense
+- Ground Control
+- Finish Threat
 
-**Banderas:**
-- `--verbose`: Mostrar logs detallados
-- `--persist`: Actualizar CSV con datos frescos preservando campos específicos
-- `--picture-only`: Solo actualizar el campo picture_url del luchador
-- `--no-delay`: Deshabilitar pausas internas para procesamiento más rápido
+**IQ Radar** (Tactical Intelligence)
+- Distance Management
+- Adaptability
+- Composure
+- Decision Making
+- Pace Control
+- Feints & Setup
 
-### `ufc_picture_crawler.js` - **Crawler de Imágenes**
-- **Búsqueda Google-powered**: Utiliza Google Images con consultas específicas por sitio
-- **Fuentes múltiples**: UFC.com, ESPN.com, Sherdog.com, MMA Junkie, Tapology
-- **Detección automática**: Reconoce formatos de imagen UFC como `athlete_bio_full_body`
-- **Llamado por**: `ufc_data_crawler.js` automáticamente
+### 3. **Enhanced Opponent Tier Score**
+Our algorithm evaluates fighter strength-of-schedule by analyzing:
+- Opponent quality (Elite/Contender/Solid/Mediocre)
+- Win/Loss outcomes
+- Method of victory
+- Recency weight (recent fights matter more)
 
-#### Uso Manual (Opcional):
-```bash
-# Buscar imagen para un luchador específico
-node scripts/ufc_picture_crawler.js "Ilia Topuria"
-node scripts/ufc_picture_crawler.js "Elisha Ellison (The Snack Panther)"
+### 4. **Smart Fight Predictions**
+AI-powered predictions analyze:
+- Historical performance data
+- Fighting styles matchup
+- Archetype compatibility
+- Recent form and momentum
+- Betting market insights
 
-# Con opciones adicionales
-node scripts/ufc_picture_crawler.js "Fighter Name" --persist  # Actualizar CSV
-node scripts/ufc_picture_crawler.js "Fighter Name" --debug   # Mostrar navegador
-```
+---
 
-**Características:**
-- **Extracción múltiple**: 5 métodos diferentes de extracción de URLs
-- **Búsqueda inteligente**: Consultas específicas por sitio en lugar de adivinación de URLs
-- **Alta precisión**: Detecta imágenes de atletas UFC con formatos específicos
-- **Fuentes confiables**: Prioriza dominios oficiales y de calidad
+## 🛠️ Tech Stack
 
-## Características del Sistema
+- **Frontend:** Svelte 4 + TypeScript
+- **Build Tool:** Vite
+- **Charts:** Apache ECharts
+- **i18n:** svelte-i18n (4 languages)
+- **Styling:** Custom CSS with dark/light themes
+- **Data:** CSV-based fighter statistics
+- **Deployment:** Production-ready SPA
 
-### Seguimiento de Fechas de Nacimiento
-- **Extracción automática**: Los scripts extraen fechas de nacimiento de UFC Stats
-- **Formato**: Almacenado como DD-MM-YYYY en CSV
-- **Cálculo de edad**: Disponible en la interfaz de usuario
-- **Columnas UI**: Birth Date y Age disponibles en Data Center
+---
 
-### Sincronización del Dataset
-- **Detección de faltantes**: `check_fighters_and_divisions.js` detecta luchadores que han desaparecido de UFC Stats
-- **Limpieza automática**: Remueve registros huérfanos que ya no existen en la fuente
-- **Sincronización completa**: Mantiene el CSV perfectamente sincronizado con UFC Stats
+## 🌐 Live Platform
 
-## Notas Críticas
+**Visit:** [https://fight-radar.com](https://fight-radar.com)
 
-- **Nunca ejecutar scripts en paralelo** - Riesgo de limitación de velocidad/bloqueos de IP
-- **Siempre usar `--verbose`** - Esencial para monitorear progreso
-- **Monitorear límites de velocidad** - Los scripts incluyen demoras para prevenir bloqueos
-- **Respaldo automático de CSV** - Los scripts preservan la integridad de los datos
-- **Usar `--no-delay` con precaución** - Para procesamiento más rápido pero mayor riesgo de bloqueos
+Experience the full platform with:
+- ⚡ Blazing-fast performance
+- 📱 Responsive design (mobile, tablet, desktop)
+- 🎨 Dark/Light theme toggle
+- 🔍 Advanced search and filtering
+- 📌 Pin your favorite fighters
+- 🎬 YouTube highlight integration
 
-## Ubicación de Datos
-- **Base de Datos CSV**: `public/data/ALL_DIVISIONS_DATA_WITH_URLS.csv`
-- **Formato**: Mejorado con columna Birth_Date como 3era columna
-- **Auto-limpieza**: Luchadores inactivos removidos automáticamente
-- **Estructura**: Fighter,Division,Birth_Date,Career_Record,...
+---
 
-## Solución de Problemas
+## 📊 Data Sources
 
-### Si un script se cuelga o falla:
-1. **Usar Ctrl+C** para detener el proceso
-2. **Verificar logs** para identificar el último luchador procesado
-3. **Reanudar** desde un punto específico usando índices de inicio/fin
-4. **Usar `--no-delay`** si el servidor UFC Stats responde lentamente
+Fighter statistics are sourced from:
+- [UFC Stats](http://ufcstats.com/) - Official UFC statistics
+- ESPN MMA - Latest news and updates
+- YouTube - Fighter highlights and analysis
 
-### Si hay errores de red:
-1. **Verificar conexión a internet**
-2. **Esperar** y reintentar (UFC Stats puede estar temporalmente no disponible)
-3. **Ejecutar en lotes más pequeños** usando rangos de índices
+*All data is updated regularly to reflect the last 36 months of activity.*
+
+---
+
+## 🤝 Contributing
+
+Fight Radar is a passion project built for the MMA community. While the codebase is currently private, we welcome feedback and feature suggestions.
+
+- 🐛 Found a bug? [Report it on GitHub](https://github.com/your-repo/issues)
+- 💡 Have an idea? Reach out via the contact form on the website
+- ⭐ Enjoying Fight Radar? Share it with fellow MMA fans!
+
+---
+
+## 📜 License
+
+© 2025 Fight Radar. All rights reserved.
+
+*Fight Radar is an independent platform and is not affiliated with or endorsed by the UFC or any fighter organization.*
+
+---
+
+## 🔗 Links
+
+- **Website:** [fight-radar.com](https://fight-radar.com)
+- **Instagaram:** [@Fight_Radar](https://www.instagram.com/fight_radar/#)
+- **Support:** Contact form available on website
+
+---
+
+<p align="center">
+  <strong>Built with ❤️ for the MMA community</strong><br>
+  <em>Analyze · Compare · Dominate</em>
+</p>
