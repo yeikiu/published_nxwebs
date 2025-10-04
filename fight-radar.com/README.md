@@ -1,6 +1,6 @@
 # Fight Radar
 
-![Fight Radar Header](public/header_bg.jpg)
+![Fight Radar Header](header_bg.jpg)
 
 **[🚀 Launch Fight Radar](https://fight-radar.com)**
 
