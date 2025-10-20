@@ -1,0 +1,704 @@
+{
+  "25-10-2025": {
+    "name": "UFC 321: Aspinall vs. Gane",
+    "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Tom Aspinall",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/399afbabc02376b5"
+        },
+        "fighter2": {
+          "name": "Ciryl Gane (Bon Gamin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Virna Jandiroba (Carcara)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7dda2cf308f24a02"
+        },
+        "fighter2": {
+          "name": "Mackenzie Dern",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7447e9f28508106a"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Umar Nurmagomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d"
+        },
+        "fighter2": {
+          "name": "Mario Bautista",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc711b6dd95c1af6"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Alexander Volkov (Drago)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/279566840aa55bf2"
+        },
+        "fighter2": {
+          "name": "Jailton Almeida (Malhadinho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/41e83a89929d1327"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Aleksandar Rakic (Rocket)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/333b9e5c723ac873"
+        },
+        "fighter2": {
+          "name": "Azamat Murzakanov (The Professional)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e"
+        },
+        "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ikram Aliskerov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624"
+        },
+        "fighter2": {
+          "name": "JunYong Park (The Iron Turtle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/285ae0b4a68221f4"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ludovit Klein (Mr. Highlight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5b86d491d63890c5"
+        },
+        "fighter2": {
+          "name": "Mateusz Rebecki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Abdul-Kareem Al-Selwady (Pride of Palestine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/597499ac7a5aac62"
+        },
+        "fighter2": {
+          "name": "Matheus Camilo (Jaguar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Nathaniel Wood (The Prospect)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/329e403448756217"
+        },
+        "fighter2": {
+          "name": "Jose Delgado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Hamdy Abdelwahab (The Hammer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3329d692aea4dc28"
+        },
+        "fighter2": {
+          "name": "Chris Barnett (Beastboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7a5e8c94a86f9895"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Azat Maksum (Qazaq)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7f1bf0c255ec8756"
+        },
+        "fighter2": {
+          "name": "Mitch Raposo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0be6776db31d98ec"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jaqueline Amorim",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08"
+        },
+        "fighter2": {
+          "name": "Mizuki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/43a59ce3bb40449e"
+        },
+        "weightClass": "Women's Strawweight"
+      }
+    ]
+  },
+  "01-11-2025": {
+    "name": "UFC Fight Night: Garcia vs. Onama",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Steve Garcia (Mean Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889"
+        },
+        "fighter2": {
+          "name": "David Onama",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ffe9703408fb5964"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Waldo Cortes-Acosta (Salsa Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4"
+        },
+        "fighter2": {
+          "name": "Ante Delija (Walking Trouble)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Donte Johnson (Lock Jaw)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946"
+        },
+        "fighter2": {
+          "name": "Nick Klein (Blue Collar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Isaac Dulgarian (The Midwest Choppa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a57cb948c4c70a47"
+        },
+        "fighter2": {
+          "name": "Yadier del Valle (The Cuban Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Phil Rowe (The Fresh Prince)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe"
+        },
+        "fighter2": {
+          "name": "Seokhyeon Ko (The Korean Tyson)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Timmy Cuamba (Twilight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75"
+        },
+        "fighter2": {
+          "name": "ChangHo Lee",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/117a06469813e4ef"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jeremiah Wells",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353"
+        },
+        "fighter2": {
+          "name": "Themba Gorimbo (The Answer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Charles Radtke (Chuck Buffalo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56"
+        },
+        "fighter2": {
+          "name": "Daniel Frunza",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7cec3c4a5e7b6d68"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Allan Nascimento (Puro Osso)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0"
+        },
+        "fighter2": {
+          "name": "Rafael Estevam (Macapa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/83455a9d17f57dae"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Billy Elekana (Son of Susie)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07a74004d964c7f4"
+        },
+        "fighter2": {
+          "name": "Kevin Christian",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116"
+        },
+        "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Alice Ardelean",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404"
+        },
+        "fighter2": {
+          "name": "Montserrat Conejo Ruiz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ketlen Vieira (Fenomeno)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9706f80d005036c"
+        },
+        "fighter2": {
+          "name": "Norma Dumont (The Immortal)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9"
+        },
+        "weightClass": "Women's Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Talita Alencar (Problem Child)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456"
+        },
+        "fighter2": {
+          "name": "Ariane Carnelossi (Sorriso)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c0d5c0c95c59050b"
+        },
+        "weightClass": "Women's Strawweight"
+      }
+    ]
+  },
+  "08-11-2025": {
+    "name": "UFC Fight Night: Bonfim vs. Brown",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Gabriel Bonfim (Marretinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/01641ba5df0c69b0"
+        },
+        "fighter2": {
+          "name": "Randy Brown (Rudeboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c6aee362c7a7d482"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Tecia Pennington (Tiny Tornado)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3"
+        },
+        "fighter2": {
+          "name": "Denise Gomes (Dee)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Adrian Yanez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
+        },
+        "fighter2": {
+          "name": "Cristian Quinonez (Problema)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Mayra Bueno Silva (Sheetara)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f"
+        },
+        "fighter2": {
+          "name": "Jacqueline Cavalcanti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635"
+        },
+        "weightClass": "Women's Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Josh Hokit (The Incredible Hok)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
+        },
+        "fighter2": {
+          "name": "Max Gimenis",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a311920edd73c85"
+        },
+        "weightClass": "Heavyweight"
+      }
+    ]
+  },
+  "15-11-2025": {
+    "name": "UFC 322: Della Maddalena vs. Makhachev",
+    "location": "New York City, New York, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Jack Della Maddalena",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b453bc35a823c3f"
+        },
+        "fighter2": {
+          "name": "Islam Makhachev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/275aca31f61ba28c"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Valentina Shevchenko (Bullet)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/132deb59abae64b1"
+        },
+        "fighter2": {
+          "name": "Zhang Weili (Magnum)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1ebe20ebbfa15e29"
+        },
+        "weightClass": "Women's Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Sean Brady",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b"
+        },
+        "fighter2": {
+          "name": "Michael Morales",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c32aeb1a59e6272d"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Leon Edwards (Rocky)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f1fac969a1d70b08"
+        },
+        "fighter2": {
+          "name": "Carlos Prates (The Nightmare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7ee0fd831c0fe7c3"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Baisangur Susurkaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503"
+        },
+        "fighter2": {
+          "name": "Eric McConico",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Roman Kopylov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6"
+        },
+        "fighter2": {
+          "name": "Gregory Rodrigues (Robocop)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bo Nickal",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
+        },
+        "fighter2": {
+          "name": "Rodolfo Vieira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Erin Blanchfield (Cold Blooded)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/669970f7feba8ecd"
+        },
+        "fighter2": {
+          "name": "Tracy Cortez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/68d4a891e5cf2029"
+        },
+        "weightClass": "Women's Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Kyle Daukaus",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440"
+        },
+        "fighter2": {
+          "name": "Gerald Meerschaert (GM3)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Angela Hill (Overkill)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f0feeb2192937424"
+        },
+        "fighter2": {
+          "name": "Fatima Kline (The Archangel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Beneil Dariush",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/08af939f41b5a57b"
+        },
+        "fighter2": {
+          "name": "Benoit Saint Denis (God of War)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56"
+        },
+        "weightClass": "Lightweight"
+      }
+    ]
+  },
+  "22-11-2025": {
+    "name": "UFC Fight Night: Tsarukyan vs. Hooker",
+    "location": "Doha, Qatar",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Arman Tsarukyan (Ahalkalakets)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eae48ff31db420c2"
+        },
+        "fighter2": {
+          "name": "Dan Hooker (The Hangman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Belal Muhammad (Remember the Name)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1b0729d27936f2f"
+        },
+        "fighter2": {
+          "name": "Ian Machado Garry (The Future)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/442c9011034ae1fd"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Volkan Oezdemir (No Time)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0845c81e37d3bcb3"
+        },
+        "fighter2": {
+          "name": "Alonzo Menifield (Atomic)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f"
+        },
+        "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Felipe Lima (Jungle Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e"
+        },
+        "fighter2": {
+          "name": "Daniel Marcos (Soncora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/850266b3dc4e506e"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bekzat Almakhan (The Turan Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1"
+        },
+        "fighter2": {
+          "name": "Aleksandre Topuria (El Conquistador)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f"
+        },
+        "fighter2": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Serghei Spivac (Polar Bear)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c"
+        },
+        "fighter2": {
+          "name": "Shamil Gaziev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0"
+        },
+        "fighter2": {
+          "name": "Rafael Cerqueira (The Lion)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/09a4447655fd4b7b"
+        },
+        "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bogdan Grad (The Unleashed)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fb37795db81f93f3"
+        },
+        "fighter2": {
+          "name": "Luke Riley",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
+        },
+        "fighter2": {
+          "name": "Ryan Loder (Man of Steel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Tagir Ulanbekov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f00ac08ab056af5d"
+        },
+        "fighter2": {
+          "name": "Kyoji Horiguchi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jack Hermansson (The Joker)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0a1942069c9ad6b6"
+        },
+        "fighter2": {
+          "name": "Myktybek Orolbai",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1"
+        },
+        "weightClass": "Welterweight"
+      }
+    ]
+  },
+  "06-12-2025": {
+    "name": "UFC 323: Dvalishvili vs. Yan 2",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Merab Dvalishvili (The Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c03520b5c88ed6b4"
+        },
+        "fighter2": {
+          "name": "Petr Yan (No Mercy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d661ce4da776fc20"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Alexandre Pantoja (The Cannibal)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a0f0004aadf10b71"
+        },
+        "fighter2": {
+          "name": "Joshua Van (The Fearless)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17e97649403ba428"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Brandon Moreno (The Assassin Baby)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6"
+        },
+        "fighter2": {
+          "name": "Tatsuro Taira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4461d7e47375a895"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Henry Cejudo (Triple C)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/056c493bbd76a918"
+        },
+        "fighter2": {
+          "name": "Payton Talbott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e743a33d56bdaa4"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jan Blachowicz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8"
+        },
+        "fighter2": {
+          "name": "Bogdan Guskov (Czarevitch)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f"
+        },
+        "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Nazim Sadykhov (Black Wolf)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13"
+        },
+        "fighter2": {
+          "name": "Fares Ziam (Smile Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85"
+        },
+        "weightClass": "Lightweight"
+      }
+    ]
+  },
+  "13-12-2025": {
+    "name": "UFC Fight Night: Royval vs. Kape",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Brandon Royval (Raw Dawg)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e15f63b6c2e2c15"
+        },
+        "fighter2": {
+          "name": "Manel Kape (StarBoy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074"
+        },
+        "weightClass": "Flyweight"
+      }
+    ]
+  }
+}
