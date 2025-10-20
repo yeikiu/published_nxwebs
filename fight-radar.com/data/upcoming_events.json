@@ -134,6 +134,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/43a59ce3bb40449e"
         },
         "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Nasrat Haqparast",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b7b84ccd221be298"
+        },
+        "fighter2": {
+          "name": "Quillan Salkilld",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7"
+        },
+        "weightClass": "Lightweight"
       }
     ]
   },
