@@ -60,6 +60,17 @@
       },
       {
         "fighter1": {
+          "name": "Nasrat Haqparast",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b7b84ccd221be298"
+        },
+        "fighter2": {
+          "name": "Quillan Salkilld",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
           "name": "Ikram Aliskerov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624"
         },
@@ -90,6 +101,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705"
         },
         "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Valter Walker (The Clean Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec"
+        },
+        "fighter2": {
+          "name": "Louie Sutherland",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26"
+        },
+        "weightClass": "Heavyweight"
       },
       {
         "fighter1": {
@@ -134,17 +156,6 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/43a59ce3bb40449e"
         },
         "weightClass": "Women's Strawweight"
-      },
-      {
-        "fighter1": {
-          "name": "Nasrat Haqparast",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b7b84ccd221be298"
-        },
-        "fighter2": {
-          "name": "Quillan Salkilld",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7"
-        },
-        "weightClass": "Lightweight"
       }
     ]
   },
@@ -176,14 +187,14 @@
       },
       {
         "fighter1": {
-          "name": "Donte Johnson (Lock Jaw)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946"
+          "name": "Jeremiah Wells",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353"
         },
         "fighter2": {
-          "name": "Nick Klein (Blue Collar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa"
+          "name": "Themba Gorimbo (The Answer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1"
         },
-        "weightClass": "Middleweight"
+        "weightClass": "Welterweight"
       },
       {
         "fighter1": {
@@ -195,39 +206,6 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8"
         },
         "weightClass": "Featherweight"
-      },
-      {
-        "fighter1": {
-          "name": "Phil Rowe (The Fresh Prince)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe"
-        },
-        "fighter2": {
-          "name": "Seokhyeon Ko (The Korean Tyson)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c"
-        },
-        "weightClass": "Welterweight"
-      },
-      {
-        "fighter1": {
-          "name": "Timmy Cuamba (Twilight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75"
-        },
-        "fighter2": {
-          "name": "ChangHo Lee",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/117a06469813e4ef"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Jeremiah Wells",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353"
-        },
-        "fighter2": {
-          "name": "Themba Gorimbo (The Answer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1"
-        },
-        "weightClass": "Welterweight"
       },
       {
         "fighter1": {
@@ -264,14 +242,25 @@
       },
       {
         "fighter1": {
-          "name": "Alice Ardelean",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404"
+          "name": "Timmy Cuamba (Twilight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75"
         },
         "fighter2": {
-          "name": "Montserrat Conejo Ruiz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e"
+          "name": "ChangHo Lee",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/117a06469813e4ef"
         },
-        "weightClass": "Women's Strawweight"
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Donte Johnson (Lock Jaw)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946"
+        },
+        "fighter2": {
+          "name": "Nick Klein (Blue Collar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa"
+        },
+        "weightClass": "Middleweight"
       },
       {
         "fighter1": {
@@ -283,6 +272,28 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9"
         },
         "weightClass": "Women's Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Alice Ardelean",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404"
+        },
+        "fighter2": {
+          "name": "Montserrat Conejo Ruiz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Phil Rowe (The Fresh Prince)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe"
+        },
+        "fighter2": {
+          "name": "Seokhyeon Ko (The Korean Tyson)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c"
+        },
+        "weightClass": "Welterweight"
       },
       {
         "fighter1": {
@@ -314,17 +325,6 @@
       },
       {
         "fighter1": {
-          "name": "Tecia Pennington (Tiny Tornado)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3"
-        },
-        "fighter2": {
-          "name": "Denise Gomes (Dee)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
-        },
-        "weightClass": "Women's Strawweight"
-      },
-      {
-        "fighter1": {
           "name": "Adrian Yanez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
         },
@@ -333,6 +333,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
         },
         "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Josh Hokit (The Incredible Hok)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
+        },
+        "fighter2": {
+          "name": "Max Gimenis",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a311920edd73c85"
+        },
+        "weightClass": "Heavyweight"
       },
       {
         "fighter1": {
@@ -347,14 +358,14 @@
       },
       {
         "fighter1": {
-          "name": "Josh Hokit (The Incredible Hok)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
+          "name": "Tecia Pennington (Tiny Tornado)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3"
         },
         "fighter2": {
-          "name": "Max Gimenis",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a311920edd73c85"
+          "name": "Denise Gomes (Dee)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
         },
-        "weightClass": "Heavyweight"
+        "weightClass": "Women's Strawweight"
       }
     ]
   },
