@@ -93,17 +93,6 @@
       },
       {
         "fighter1": {
-          "name": "Abdul-Kareem Al-Selwady (Pride of Palestine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/597499ac7a5aac62"
-        },
-        "fighter2": {
-          "name": "Matheus Camilo (Jaguar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705"
-        },
-        "weightClass": "Lightweight"
-      },
-      {
-        "fighter1": {
           "name": "Valter Walker (The Clean Monster)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec"
         },
@@ -493,6 +482,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56"
         },
         "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Malcolm Wellmaker (The Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8"
+        },
+        "fighter2": {
+          "name": "Cody Haddon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e6654e9f0461b8f"
+        },
+        "weightClass": "Bantamweight"
       }
     ]
   },
@@ -703,6 +703,83 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85"
         },
         "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Muhammad Naimov (Hillman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7"
+        },
+        "fighter2": {
+          "name": "Mairon Santos (The Legend)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/480779d7f9a424d3"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a"
+        },
+        "fighter2": {
+          "name": "Brunno Ferreira (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Maycee Barber (The Future)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a740daf1b279661"
+        },
+        "fighter2": {
+          "name": "Karine Silva (Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d62c2d8ee151f08"
+        },
+        "weightClass": "Women's Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Edson Barboza (Junior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64a50dad704d1d49"
+        },
+        "fighter2": {
+          "name": "Jalin Turner (The Tarantula)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Iwo Baraniewski (Rudy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40"
+        },
+        "fighter2": {
+          "name": "Ibo Aslan (The Last Ottoman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e8f1bcdda94ff45"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Grant Dawson (KGD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d"
+        },
+        "fighter2": {
+          "name": "Manuel Torres (El Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Mansur Abdul-Malik",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521"
+        },
+        "fighter2": {
+          "name": "Antonio Trocoli (Malvado)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d48a2df51749d91"
+        },
+        "weightClass": "Middleweight"
       }
     ]
   },
