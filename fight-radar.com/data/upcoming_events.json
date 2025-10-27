@@ -248,6 +248,17 @@
       },
       {
         "fighter1": {
+          "name": "Bo Nickal",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
+        },
+        "fighter2": {
+          "name": "Rodolfo Vieira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
           "name": "Leon Edwards (Rocky)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f1fac969a1d70b08"
         },
@@ -259,14 +270,14 @@
       },
       {
         "fighter1": {
-          "name": "Baisangur Susurkaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503"
+          "name": "Beneil Dariush",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/08af939f41b5a57b"
         },
         "fighter2": {
-          "name": "Eric McConico",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450"
+          "name": "Benoit Saint Denis (God of War)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56"
         },
-        "weightClass": "Middleweight"
+        "weightClass": "Lightweight"
       },
       {
         "fighter1": {
@@ -281,17 +292,6 @@
       },
       {
         "fighter1": {
-          "name": "Bo Nickal",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
-        },
-        "fighter2": {
-          "name": "Rodolfo Vieira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
-        },
-        "weightClass": "Middleweight"
-      },
-      {
-        "fighter1": {
           "name": "Erin Blanchfield (Cold Blooded)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/669970f7feba8ecd"
         },
@@ -300,6 +300,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/68d4a891e5cf2029"
         },
         "weightClass": "Women's Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Malcolm Wellmaker (The Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8"
+        },
+        "fighter2": {
+          "name": "Cody Haddon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e6654e9f0461b8f"
+        },
+        "weightClass": "Bantamweight"
       },
       {
         "fighter1": {
@@ -325,25 +336,14 @@
       },
       {
         "fighter1": {
-          "name": "Beneil Dariush",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/08af939f41b5a57b"
+          "name": "Baisangur Susurkaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503"
         },
         "fighter2": {
-          "name": "Benoit Saint Denis (God of War)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56"
+          "name": "Eric McConico",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450"
         },
-        "weightClass": "Lightweight"
-      },
-      {
-        "fighter1": {
-          "name": "Malcolm Wellmaker (The Machine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8"
-        },
-        "fighter2": {
-          "name": "Cody Haddon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e6654e9f0461b8f"
-        },
-        "weightClass": "Bantamweight"
+        "weightClass": "Middleweight"
       }
     ]
   },
@@ -386,36 +386,14 @@
       },
       {
         "fighter1": {
-          "name": "Felipe Lima (Jungle Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e"
+          "name": "Jack Hermansson (The Joker)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0a1942069c9ad6b6"
         },
         "fighter2": {
-          "name": "Daniel Marcos (Soncora)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/850266b3dc4e506e"
+          "name": "Myktybek Orolbai",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1"
         },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Bekzat Almakhan (The Turan Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1"
-        },
-        "fighter2": {
-          "name": "Aleksandre Topuria (El Conquistador)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Alex Perez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f"
-        },
-        "fighter2": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09"
-        },
-        "weightClass": "Flyweight"
+        "weightClass": "Welterweight"
       },
       {
         "fighter1": {
@@ -430,36 +408,14 @@
       },
       {
         "fighter1": {
-          "name": "Abdul Rakhman Yakhyaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0"
+          "name": "Bekzat Almakhan (The Turan Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1"
         },
         "fighter2": {
-          "name": "Rafael Cerqueira (The Lion)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/09a4447655fd4b7b"
+          "name": "Aleksandre Topuria (El Conquistador)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61"
         },
-        "weightClass": "Light Heavyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Bogdan Grad (The Unleashed)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fb37795db81f93f3"
-        },
-        "fighter2": {
-          "name": "Luke Riley",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319"
-        },
-        "weightClass": "Featherweight"
-      },
-      {
-        "fighter1": {
-          "name": "Ismail Naurdiev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
-        },
-        "fighter2": {
-          "name": "Ryan Loder (Man of Steel)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
-        },
-        "weightClass": "Middleweight"
+        "weightClass": "Bantamweight"
       },
       {
         "fighter1": {
@@ -474,14 +430,58 @@
       },
       {
         "fighter1": {
-          "name": "Jack Hermansson (The Joker)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0a1942069c9ad6b6"
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f"
         },
         "fighter2": {
-          "name": "Myktybek Orolbai",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1"
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09"
         },
-        "weightClass": "Welterweight"
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Felipe Lima (Jungle Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e"
+        },
+        "fighter2": {
+          "name": "Daniel Marcos (Soncora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/850266b3dc4e506e"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
+        },
+        "fighter2": {
+          "name": "Ryan Loder (Man of Steel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bogdan Grad (The Unleashed)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fb37795db81f93f3"
+        },
+        "fighter2": {
+          "name": "Luke Riley",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0"
+        },
+        "fighter2": {
+          "name": "Rafael Cerqueira (The Lion)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/09a4447655fd4b7b"
+        },
+        "weightClass": "Light Heavyweight"
       }
     ]
   },
@@ -513,28 +513,6 @@
       },
       {
         "fighter1": {
-          "name": "Brandon Moreno (The Assassin Baby)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6"
-        },
-        "fighter2": {
-          "name": "Tatsuro Taira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4461d7e47375a895"
-        },
-        "weightClass": "Flyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Henry Cejudo (Triple C)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/056c493bbd76a918"
-        },
-        "fighter2": {
-          "name": "Payton Talbott",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6e743a33d56bdaa4"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
           "name": "Jan Blachowicz",
           "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8"
         },
@@ -543,6 +521,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f"
         },
         "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Brandon Moreno (The Assassin Baby)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6"
+        },
+        "fighter2": {
+          "name": "Tatsuro Taira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4461d7e47375a895"
+        },
+        "weightClass": "Flyweight"
       },
       {
         "fighter1": {
@@ -557,14 +546,14 @@
       },
       {
         "fighter1": {
-          "name": "Muhammad Naimov (Hillman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7"
+          "name": "Henry Cejudo (Triple C)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/056c493bbd76a918"
         },
         "fighter2": {
-          "name": "Mairon Santos (The Legend)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/480779d7f9a424d3"
+          "name": "Payton Talbott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e743a33d56bdaa4"
         },
-        "weightClass": "Featherweight"
+        "weightClass": "Bantamweight"
       },
       {
         "fighter1": {
@@ -590,6 +579,17 @@
       },
       {
         "fighter1": {
+          "name": "Grant Dawson (KGD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d"
+        },
+        "fighter2": {
+          "name": "Manuel Torres (El Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
           "name": "Edson Barboza (Junior)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/64a50dad704d1d49"
         },
@@ -608,18 +608,7 @@
           "name": "Ibo Aslan (The Last Ottoman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6e8f1bcdda94ff45"
         },
-        "weightClass": "Heavyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Grant Dawson (KGD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d"
-        },
-        "fighter2": {
-          "name": "Manuel Torres (El Loco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca"
-        },
-        "weightClass": "Lightweight"
+        "weightClass": "Light Heavyweight"
       },
       {
         "fighter1": {
@@ -631,6 +620,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/6d48a2df51749d91"
         },
         "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Muhammad Naimov (Hillman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7"
+        },
+        "fighter2": {
+          "name": "Mairon Santos (The Legend)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/480779d7f9a424d3"
+        },
+        "weightClass": "Featherweight"
       }
     ]
   },
