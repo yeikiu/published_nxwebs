@@ -64,10 +64,10 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0"
         },
         "fighter2": {
-          "name": "Rafael Estevam (Macapa)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/83455a9d17f57dae"
+          "name": "Cody Durden (Custom Made)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036"
         },
-        "weightClass": "Flyweight"
+        "weightClass": "Catch Weight"
       },
       {
         "fighter1": {
@@ -206,6 +206,94 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
         },
         "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Matt Schnell (Danger)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/67c1d46f4ed16f9e"
+        },
+        "fighter2": {
+          "name": "Joseph Morales (Bopo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2fe9032955c2e013"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Muslim Salikhov (King of Kung Fu)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/447f9858ae78f921"
+        },
+        "fighter2": {
+          "name": "Uros Medic (The Doctor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Chris Padilla (Taco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/06626b6287e1ae1e"
+        },
+        "fighter2": {
+          "name": "Ismael Bonfim (Marreta)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eb393afdbe3293d5"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ricky Simon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290"
+        },
+        "fighter2": {
+          "name": "Raoni Barcelos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Christian Leroy Duncan (CLD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb"
+        },
+        "fighter2": {
+          "name": "Marco Tulio (Matuto)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9384e71bca6c409d"
+        },
+        "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Hyder Amil (The Hurricane)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/41cc71cbf210e0fe"
+        },
+        "fighter2": {
+          "name": "Jamall Emmers (Pretty Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e00a3dee329a51f7"
+        },
+        "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Miles Johns (Chapo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/46e0d677f91bacc0"
+        },
+        "fighter2": {
+          "name": "Daniel Marcos (Soncora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/850266b3dc4e506e"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jackson McVey (The Moose)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12"
+        },
+        "fighter2": {
+          "name": "Robert Valentin (Robzilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0cd0456d6029cec2"
+        },
+        "weightClass": "Middleweight"
       }
     ]
   },
@@ -441,17 +529,6 @@
       },
       {
         "fighter1": {
-          "name": "Felipe Lima (Jungle Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e"
-        },
-        "fighter2": {
-          "name": "Daniel Marcos (Soncora)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/850266b3dc4e506e"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
           "name": "Ismail Naurdiev",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
         },
@@ -648,6 +725,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074"
         },
         "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Jamey-Lyn Horth",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc"
+        },
+        "fighter2": {
+          "name": "Tereza Bleda",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/59c438c81fbf3ece"
+        },
+        "weightClass": "Women's Flyweight"
       }
     ]
   }
