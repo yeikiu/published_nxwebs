@@ -165,50 +165,6 @@
       },
       {
         "fighter1": {
-          "name": "Adrian Yanez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
-        },
-        "fighter2": {
-          "name": "Cristian Quinonez (Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Josh Hokit (The Incredible Hok)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
-        },
-        "fighter2": {
-          "name": "Max Gimenis",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a311920edd73c85"
-        },
-        "weightClass": "Heavyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Mayra Bueno Silva (Sheetara)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f"
-        },
-        "fighter2": {
-          "name": "Jacqueline Cavalcanti",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635"
-        },
-        "weightClass": "Women's Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Tecia Pennington (Tiny Tornado)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3"
-        },
-        "fighter2": {
-          "name": "Denise Gomes (Dee)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
-        },
-        "weightClass": "Women's Strawweight"
-      },
-      {
-        "fighter1": {
           "name": "Matt Schnell (Danger)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/67c1d46f4ed16f9e"
         },
@@ -272,6 +228,50 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/e00a3dee329a51f7"
         },
         "weightClass": "Featherweight"
+      },
+      {
+        "fighter1": {
+          "name": "Adrian Yanez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
+        },
+        "fighter2": {
+          "name": "Cristian Quinonez (Problema)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Mayra Bueno Silva (Sheetara)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f"
+        },
+        "fighter2": {
+          "name": "Jacqueline Cavalcanti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635"
+        },
+        "weightClass": "Women's Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Josh Hokit (The Incredible Hok)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
+        },
+        "fighter2": {
+          "name": "Max Gimenis",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a311920edd73c85"
+        },
+        "weightClass": "Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Tecia Pennington (Tiny Tornado)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3"
+        },
+        "fighter2": {
+          "name": "Denise Gomes (Dee)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1"
+        },
+        "weightClass": "Women's Strawweight"
       },
       {
         "fighter1": {
@@ -496,28 +496,6 @@
       },
       {
         "fighter1": {
-          "name": "Bekzat Almakhan (The Turan Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1"
-        },
-        "fighter2": {
-          "name": "Aleksandre Topuria (El Conquistador)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Tagir Ulanbekov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f00ac08ab056af5d"
-        },
-        "fighter2": {
-          "name": "Kyoji Horiguchi",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6"
-        },
-        "weightClass": "Flyweight"
-      },
-      {
-        "fighter1": {
           "name": "Alex Perez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f"
         },
@@ -526,17 +504,6 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09"
         },
         "weightClass": "Flyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Ismail Naurdiev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
-        },
-        "fighter2": {
-          "name": "Ryan Loder (Man of Steel)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
-        },
-        "weightClass": "Middleweight"
       },
       {
         "fighter1": {
@@ -559,6 +526,39 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/09a4447655fd4b7b"
         },
         "weightClass": "Light Heavyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Tagir Ulanbekov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f00ac08ab056af5d"
+        },
+        "fighter2": {
+          "name": "Kyoji Horiguchi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6"
+        },
+        "weightClass": "Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bekzat Almakhan (The Turan Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1"
+        },
+        "fighter2": {
+          "name": "Aleksandre Topuria (El Conquistador)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61"
+        },
+        "weightClass": "Bantamweight"
+      },
+      {
+        "fighter1": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113"
+        },
+        "fighter2": {
+          "name": "Ryan Loder (Man of Steel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
+        },
+        "weightClass": "Middleweight"
       }
     ]
   },
