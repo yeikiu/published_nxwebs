@@ -1,6 +1,6 @@
 {
-  "name": "UFC Radar - Fighter Analysis & Statistics",
-  "short_name": "UFC Radar",
+  "name": "Fight-Radar - Fighter Analysis & Statistics",
+  "short_name": "Fight-Radar",
   "description": "Advanced UFC fighter radar charts, statistics, and performance analysis",
   "start_url": "/",
   "scope": "/",
