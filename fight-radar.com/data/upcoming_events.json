@@ -1,153 +1,4 @@
 {
-  "01-11-2025": {
-    "name": "UFC Fight Night: Garcia vs. Onama",
-    "location": "Las Vegas, Nevada, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Steve Garcia (Mean Machine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889"
-        },
-        "fighter2": {
-          "name": "David Onama",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ffe9703408fb5964"
-        },
-        "weightClass": "Featherweight"
-      },
-      {
-        "fighter1": {
-          "name": "Waldo Cortes-Acosta (Salsa Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4"
-        },
-        "fighter2": {
-          "name": "Ante Delija (Walking Trouble)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae"
-        },
-        "weightClass": "Heavyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Jeremiah Wells",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353"
-        },
-        "fighter2": {
-          "name": "Themba Gorimbo (The Answer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1"
-        },
-        "weightClass": "Welterweight"
-      },
-      {
-        "fighter1": {
-          "name": "Isaac Dulgarian (The Midwest Choppa)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a57cb948c4c70a47"
-        },
-        "fighter2": {
-          "name": "Yadier del Valle (The Cuban Problem)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8"
-        },
-        "weightClass": "Featherweight"
-      },
-      {
-        "fighter1": {
-          "name": "Charles Radtke (Chuck Buffalo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56"
-        },
-        "fighter2": {
-          "name": "Daniel Frunza",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7cec3c4a5e7b6d68"
-        },
-        "weightClass": "Welterweight"
-      },
-      {
-        "fighter1": {
-          "name": "Allan Nascimento (Puro Osso)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0"
-        },
-        "fighter2": {
-          "name": "Cody Durden (Custom Made)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036"
-        },
-        "weightClass": "Catch Weight"
-      },
-      {
-        "fighter1": {
-          "name": "Billy Elekana (Son of Susie)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07a74004d964c7f4"
-        },
-        "fighter2": {
-          "name": "Kevin Christian",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116"
-        },
-        "weightClass": "Light Heavyweight"
-      },
-      {
-        "fighter1": {
-          "name": "Timmy Cuamba (Twilight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75"
-        },
-        "fighter2": {
-          "name": "ChangHo Lee",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/117a06469813e4ef"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Donte Johnson (Lock Jaw)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946"
-        },
-        "fighter2": {
-          "name": "Sedriques Dumas (The Reaper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256"
-        },
-        "weightClass": "Middleweight"
-      },
-      {
-        "fighter1": {
-          "name": "Ketlen Vieira (Fenomeno)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9706f80d005036c"
-        },
-        "fighter2": {
-          "name": "Norma Dumont (The Immortal)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9"
-        },
-        "weightClass": "Women's Bantamweight"
-      },
-      {
-        "fighter1": {
-          "name": "Alice Ardelean",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404"
-        },
-        "fighter2": {
-          "name": "Montserrat Conejo Ruiz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e"
-        },
-        "weightClass": "Women's Strawweight"
-      },
-      {
-        "fighter1": {
-          "name": "Phil Rowe (The Fresh Prince)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe"
-        },
-        "fighter2": {
-          "name": "Seokhyeon Ko (The Korean Tyson)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c"
-        },
-        "weightClass": "Welterweight"
-      },
-      {
-        "fighter1": {
-          "name": "Talita Alencar (Problem Child)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456"
-        },
-        "fighter2": {
-          "name": "Ariane Carnelossi (Sorriso)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c0d5c0c95c59050b"
-        },
-        "weightClass": "Women's Strawweight"
-      }
-    ]
-  },
   "08-11-2025": {
     "name": "UFC Fight Night: Bonfim vs. Brown",
     "location": "Las Vegas, Nevada, USA",
@@ -253,7 +104,7 @@
       },
       {
         "fighter1": {
-          "name": "Josh Hokit (The Incredible Hok)",
+          "name": "Josh Hokit",
           "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50"
         },
         "fighter2": {
@@ -336,17 +187,6 @@
       },
       {
         "fighter1": {
-          "name": "Bo Nickal",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
-        },
-        "fighter2": {
-          "name": "Rodolfo Vieira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
-        },
-        "weightClass": "Middleweight"
-      },
-      {
-        "fighter1": {
           "name": "Leon Edwards (Rocky)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f1fac969a1d70b08"
         },
@@ -366,6 +206,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56"
         },
         "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Bo Nickal",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
+        },
+        "fighter2": {
+          "name": "Rodolfo Vieira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
+        },
+        "weightClass": "Middleweight"
       },
       {
         "fighter1": {
