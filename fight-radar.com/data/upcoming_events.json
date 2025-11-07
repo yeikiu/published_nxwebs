@@ -49,17 +49,6 @@
       },
       {
         "fighter1": {
-          "name": "Ricky Simon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290"
-        },
-        "fighter2": {
-          "name": "Raoni Barcelos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7"
-        },
-        "weightClass": "Bantamweight"
-      },
-      {
-        "fighter1": {
           "name": "Christian Leroy Duncan (CLD)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb"
         },
@@ -82,12 +71,12 @@
       },
       {
         "fighter1": {
-          "name": "Adrian Yanez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
+          "name": "Ricky Simon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290"
         },
         "fighter2": {
-          "name": "Cristian Quinonez (Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
+          "name": "Raoni Barcelos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7"
         },
         "weightClass": "Bantamweight"
       },
@@ -137,14 +126,14 @@
       },
       {
         "fighter1": {
+          "name": "Zachary Reese (Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8"
+        },
+        "fighter2": {
           "name": "Jackson McVey (The Moose)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12"
         },
-        "fighter2": {
-          "name": "Robert Valentin (Robzilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0cd0456d6029cec2"
-        },
-        "weightClass": "Middleweight"
+        "weightClass": "Catch Weight"
       }
     ]
   },
@@ -261,6 +250,17 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345"
         },
         "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Pat Sabatini",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b8bbdeff718dbb7d"
+        },
+        "fighter2": {
+          "name": "Chepe Mariscal (Machine Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e0c6edcb5b5d0b90"
+        },
+        "weightClass": "Featherweight"
       },
       {
         "fighter1": {
@@ -410,6 +410,39 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/d5bab53a1a603aac"
         },
         "weightClass": "Middleweight"
+      },
+      {
+        "fighter1": {
+          "name": "Nurullo Aliev (Tajik Eagle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9"
+        },
+        "fighter2": {
+          "name": "Shaqueme Rock",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/52b6bf4528130e86"
+        },
+        "weightClass": "Lightweight"
+      },
+      {
+        "fighter1": {
+          "name": "Nicolas Dalby (Danish Dynamite)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d19d9e4aa2662e8"
+        },
+        "fighter2": {
+          "name": "Saygid Izagakhmaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de26d906f2874dd4"
+        },
+        "weightClass": "Welterweight"
+      },
+      {
+        "fighter1": {
+          "name": "Marek Bujlo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ac0874309da489b9"
+        },
+        "fighter2": {
+          "name": "Denzel Freeman",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b5c19c34f12c917e"
+        },
+        "weightClass": "Heavyweight"
       }
     ]
   },
@@ -587,6 +620,28 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/59c438c81fbf3ece"
         },
         "weightClass": "Women's Flyweight"
+      },
+      {
+        "fighter1": {
+          "name": "Amanda Lemos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f"
+        },
+        "fighter2": {
+          "name": "Gillian Robertson (The Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712"
+        },
+        "weightClass": "Women's Strawweight"
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Croden (Scare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984"
+        },
+        "fighter2": {
+          "name": "Luana Santos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4"
+        },
+        "weightClass": "Women's Bantamweight"
       }
     ]
   }
