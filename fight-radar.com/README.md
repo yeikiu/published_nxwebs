@@ -1,16 +1,16 @@
-# Fight Radar
+# Fight-Radar
 
-![Fight Radar Header](header_bg.jpg)
+![Fight-Radar Header](header_bg.jpg)
 
-**[🚀 Launch Fight Radar](https://fight-radar.com)**
+**[🚀 Launch Fight-Radar](https://fight-radar.com)**
 
 > Advanced UFC fighter analysis and statistics platform. Analyze · Compare · Dominate
 
 ---
 
-## 🎯 What is Fight Radar?
+## 🎯 What is Fight-Radar?
 
-Fight Radar is a comprehensive UFC fighter analysis platform that transforms raw fight data into actionable insights. Using advanced radar charts, performance metrics, and AI-powered predictions, we help fans, analysts, and enthusiasts make data-driven decisions.
+Fight-Radar is a comprehensive UFC fighter analysis platform that transforms raw fight data into actionable insights. Using advanced radar charts, performance metrics, and AI-powered predictions, we help fans, analysts, and enthusiasts make data-driven decisions.
 
 ### ✨ Key Features
 
@@ -40,7 +40,7 @@ Fight Radar is a comprehensive UFC fighter analysis platform that transforms raw
 ## 🧠 How It Works
 
 ### 1. **ROLE-DISC Archetype System**
-Fight Radar uses a proprietary **ROLE-DISC** classification system to categorize fighters into tactical archetypes:
+Fight-Radar uses a proprietary **ROLE-DISC** classification system to categorize fighters into tactical archetypes:
 
 - 🔴 **AT (Active Technical)** - Strategic pressure fighters
 - 🟡 **ANT (Active Non-Technical)** - Explosive, chaotic fighters
@@ -51,7 +51,7 @@ Fighters can have **dual** or even **triple** archetypes, revealing tactical ver
 
 ### 2. **Dual Radar Analysis**
 
-**Fight Radar** (Performance Metrics)
+**Fight-Radar** (Performance Metrics)
 - Striking Offense & Defense
 - Takedown Offense & Defense
 - Ground Control
@@ -107,19 +107,19 @@ Experience the full platform with:
 
 ## 🤝 Contributing
 
-Fight Radar is a passion project built for the MMA community. While the codebase is currently private, we welcome feedback and feature suggestions.
+Fight-Radar is a passion project built for the MMA community. While the codebase is currently private, we welcome feedback and feature suggestions.
 
 - 🐛 Found a bug? [Report it on GitHub](https://github.com/your-repo/issues)
 - 💡 Have an idea? Reach out via the contact form on the website
-- ⭐ Enjoying Fight Radar? Share it with fellow MMA fans!
+- ⭐ Enjoying Fight-Radar? Share it with fellow MMA fans!
 
 ---
 
 ## 📜 License
 
-© 2025 Fight Radar. All rights reserved.
+© 2025 Fight-Radar. All rights reserved.
 
-*Fight Radar is an independent platform and is not affiliated with or endorsed by the UFC or any fighter organization.*
+*Fight-Radar is an independent platform and is not affiliated with or endorsed by the UFC or any fighter organization.*
 
 ---
 
