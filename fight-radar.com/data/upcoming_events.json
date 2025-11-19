@@ -7,12 +7,12 @@
         "fighter1": {
           "name": "Arman Tsarukyan (Ahalkalakets)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
-          "division_ranking": "2"
+          "division_ranking": "1"
         },
         "fighter2": {
           "name": "Dan Hooker (The Hangman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
-          "division_ranking": "7"
+          "division_ranking": "6"
         },
         "weightClass": "Lightweight",
         "scheduledRounds": 5
@@ -21,7 +21,7 @@
         "fighter1": {
           "name": "Belal Muhammad (Remember the Name)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b1b0729d27936f2f",
-          "division_ranking": "1"
+          "division_ranking": "2"
         },
         "fighter2": {
           "name": "Ian Machado Garry (The Future)",
@@ -75,14 +75,14 @@
       },
       {
         "fighter1": {
-          "name": "Alex Perez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
-          "division_ranking": "8"
+          "name": "Tagir Ulanbekov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f00ac08ab056af5d",
+          "division_ranking": "11"
         },
         "fighter2": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "9"
+          "name": "Kyoji Horiguchi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "division_ranking": ""
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 3
@@ -103,6 +103,34 @@
       },
       {
         "fighter1": {
+          "name": "Nicolas Dalby (Danish Dynamite)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d19d9e4aa2662e8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Saygid Izagakhmaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de26d906f2874dd4",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+          "division_ranking": "7"
+        },
+        "fighter2": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "division_ranking": "8"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Abdul Rakhman Yakhyaev (Hunter)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
           "division_ranking": ""
@@ -113,20 +141,6 @@
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tagir Ulanbekov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f00ac08ab056af5d",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Kyoji Horiguchi",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -169,20 +183,6 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nicolas Dalby (Danish Dynamite)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9d19d9e4aa2662e8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Saygid Izagakhmaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de26d906f2874dd4",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -235,20 +235,6 @@
       },
       {
         "fighter1": {
-          "name": "Jan Blachowicz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Bogdan Guskov (Czarevitch)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "11"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Brandon Moreno (The Assassin Baby)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
           "division_ranking": "2"
@@ -259,20 +245,6 @@
           "division_ranking": "5"
         },
         "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nazim Sadykhov (Black Wolf)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Fares Ziam (Smile Killer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -291,16 +263,44 @@
       },
       {
         "fighter1": {
-          "name": "Marvin Vettori (The Italian Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "name": "Jan Blachowicz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "fighter2": {
+          "name": "Bogdan Guskov (Czarevitch)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
+          "division_ranking": "11"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Grant Dawson (KGD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+          "division_ranking": "13"
+        },
+        "fighter2": {
+          "name": "Manuel Torres (El Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Terrance McKinney (T. Wrecks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Chris Duncan (The Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -319,16 +319,30 @@
       },
       {
         "fighter1": {
-          "name": "Grant Dawson (KGD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
-          "division_ranking": "14"
+          "name": "Nazim Sadykhov (Black Wolf)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
+          "division_ranking": ""
         },
         "fighter2": {
-          "name": "Manuel Torres (El Loco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
+          "name": "Fares Ziam (Smile Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Brunno Ferreira (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -402,7 +416,7 @@
         "fighter2": {
           "name": "Manel Kape (StarBoy)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074",
-          "division_ranking": "7"
+          "division_ranking": "6"
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 5
