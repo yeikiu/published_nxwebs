@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/published_nxwebs/fusionnuclear.com/sw.js', { scope: '/published_nxwebs/fusionnuclear.com/' })})}
