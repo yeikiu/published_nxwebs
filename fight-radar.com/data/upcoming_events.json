@@ -63,7 +63,7 @@
         "fighter1": {
           "name": "Jan Blachowicz",
           "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": ""
+          "division_ranking": "5"
         },
         "fighter2": {
           "name": "Bogdan Guskov (Czarevitch)",
@@ -235,58 +235,16 @@
       },
       {
         "fighter1": {
-          "name": "Neil Magny (The Haitian Sensation)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
+          "name": "Cesar Almeida (Cesinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Yaroslav Amosov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
+          "name": "Cezary Oleksiejczuk",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/084532da3d25f3b8",
           "division_ranking": ""
         },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kennedy Nzechukwu (African Savage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marcus Buchecha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/095854a135e6db55",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Joanderson Brito (Tubarao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Melsik Baghdasaryan (The Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Amanda Lemos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Gillian Robertson (The Savage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
-          "division_ranking": "10"
-        },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -305,16 +263,58 @@
       },
       {
         "fighter1": {
-          "name": "Cesar Almeida (Cesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
+          "name": "Kennedy Nzechukwu (African Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Cezary Oleksiejczuk",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/084532da3d25f3b8",
+          "name": "Marcus Buchecha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/095854a135e6db55",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Amanda Lemos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Gillian Robertson (The Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
+          "division_ranking": "10"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Joanderson Brito (Tubarao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Melsik Baghdasaryan (The Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Neil Magny (The Haitian Sensation)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yaroslav Amosov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
