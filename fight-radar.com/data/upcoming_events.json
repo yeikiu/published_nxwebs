@@ -288,6 +288,62 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Michael Johnson (The Menace)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alexander Hernandez (El Gran Chango)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/262a7d06203657e6",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nikita Krylov (The Miner)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
+          "division_ranking": "13"
+        },
+        "fighter2": {
+          "name": "Modestas Bukauskas (The Baltic Gladiator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "division_ranking": "13"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Denzel Freeman (Luke Fox)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b5c19c34f12c917e",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -364,6 +420,132 @@
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Serghei Spivac (Polar Bear)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
+          "division_ranking": "7"
+        },
+        "fighter2": {
+          "name": "Ante Delija (Walking Trouble)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
+          "division_ranking": "9"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kaan Ofli (Genghis)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yizha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Junior Tafa (The Juggernaut)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Billy Elekana (Son of Susie)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07a74004d964c7f4",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cam Rowston",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Cody Brundage",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Sangwook Kim (Frogman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a264d4e9a4d6bfe4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Dom Mar Fan (Street Buddha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Keiichiro Nakamura",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sebastian Szalay (Seb)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f201f21cf2c79eb2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jacob Malkoun (Mamba)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Torrez Finney (The Punisher)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fbb60f24af5d5a02",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Sulangrangbo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1dd1a3aacde66f72",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lawrence Lui (Lok Yin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a1ad35b98a9136e5",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Aaron Tau (Tauzemup)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7abf7f8778472b7b",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Namsrai Batbayar (Steppe Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e1f8beeb6d2d871a",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -384,6 +566,20 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Ode Osbourne (The Jamaican Sensation)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alibi Idiris",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/30cad5a751adcb48",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
     ]
   },
