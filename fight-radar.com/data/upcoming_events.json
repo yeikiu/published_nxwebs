@@ -75,6 +75,20 @@
       },
       {
         "fighter1": {
+          "name": "King Green",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lance Gibson Jr.",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
+          "division_ranking": ""
+        },
+        "weightClass": "Catch Weight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Amanda Lemos",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
           "division_ranking": "5"
@@ -221,6 +235,20 @@
       },
       {
         "fighter1": {
+          "name": "Waldo Cortes Acosta (Salsa Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Derrick Lewis (The Black Beast)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
+          "division_ranking": "8"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Arnold Allen (Almighty)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/040a74bb0a465c54",
           "division_ranking": "6"
@@ -245,20 +273,6 @@
           "division_ranking": "6"
         },
         "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Waldo Cortes Acosta (Salsa Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Derrick Lewis (The Black Beast)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
-          "division_ranking": "8"
-        },
-        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -343,6 +357,20 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ricky Turcios",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Cameron Smotherman (The Baby-Faced Killa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5c84f673b7bb7c15",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ]
@@ -545,6 +573,34 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jonathan Micallef (The Captain)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Oban Elliott (The Welsh Gangster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Quillan Salkilld",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rongzhu",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a13d755965a4ec9f",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
