@@ -108,8 +108,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Melsik Baghdasaryan (The Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
+          "name": "Isaac Thomson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5d8006587d6a6711",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -451,30 +451,16 @@
       },
       {
         "fighter1": {
-          "name": "Serghei Spivac (Polar Bear)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
-          "division_ranking": "7"
-        },
-        "fighter2": {
-          "name": "Ante Delija (Walking Trouble)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
-          "division_ranking": "9"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kaan Ofli (Genghis)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "name": "Quillan Salkilld",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Yizha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
+          "name": "Rongzhu",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a13d755965a4ec9f",
           "division_ranking": ""
         },
-        "weightClass": "Featherweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -507,6 +493,48 @@
       },
       {
         "fighter1": {
+          "name": "Jacob Malkoun (Mamba)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Torrez Finney (The Punisher)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fbb60f24af5d5a02",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jonathan Micallef (The Captain)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Oban Elliott (The Welsh Gangster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kaan Ofli (Genghis)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yizha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Sangwook Kim (Frogman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a264d4e9a4d6bfe4",
           "division_ranking": ""
@@ -531,20 +559,6 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jacob Malkoun (Mamba)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Torrez Finney (The Punisher)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fbb60f24af5d5a02",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -574,34 +588,26 @@
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 3
-      },
+      }
+    ]
+  },
+  "07-02-2026": {
+    "name": "UFC Fight Night",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
       {
         "fighter1": {
-          "name": "Jonathan Micallef (The Captain)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
+          "name": "Michal Oleksiejczuk (Hussar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Oban Elliott (The Welsh Gangster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
+          "name": "Marc-Andre Barriault (Powerbar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e9eb3fc86db0f7d",
           "division_ranking": ""
         },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Quillan Salkilld",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Rongzhu",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a13d755965a4ec9f",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
+        "weightClass": "Middleweight",
+        "scheduledRounds": 5
       }
     ]
   },
@@ -639,6 +645,26 @@
       }
     ]
   },
+  "28-02-2026": {
+    "name": "UFC Fight Night: Moreno vs. Almabayev",
+    "location": "Mexico City, Distrito Federal, Mexico",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Brandon Moreno (The Assassin Baby)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "division_ranking": "7"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 5
+      }
+    ]
+  },
   "07-03-2026": {
     "name": "UFC 326: Holloway vs. Oliveira 2",
     "location": "Las Vegas, Nevada, USA",
@@ -658,5 +684,20 @@
         "scheduledRounds": 5
       }
     ]
+  },
+  "14-03-2026": {
+    "name": "UFC Fight Night",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": []
+  },
+  "21-03-2026": {
+    "name": "UFC Fight Night",
+    "location": "London, England, United Kingdom",
+    "fights": []
+  },
+  "28-03-2026": {
+    "name": "UFC Fight Night",
+    "location": "Seattle, Washington, USA",
+    "fights": []
   }
 }
