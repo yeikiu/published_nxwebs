@@ -1,192 +1,4 @@
 {
-  "13-12-2025": {
-    "name": "UFC Fight Night: Royval vs. Kape",
-    "location": "Las Vegas, Nevada, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Brandon Royval (Raw Dawg)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6e15f63b6c2e2c15",
-          "division_ranking": "3"
-        },
-        "fighter2": {
-          "name": "Manel Kape (StarBoy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074",
-          "division_ranking": "6"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Giga Chikadze (Ninja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Kevin Vallejos (El Chino)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cesar Almeida (Cesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cezary Oleksiejczuk",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/084532da3d25f3b8",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Melquizael Costa (Melk Cauthy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Morgan Charriere (The Last Pirate)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b03b61f9d90125e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kennedy Nzechukwu (African Savage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marcus Buchecha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/095854a135e6db55",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "King Green",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Lance Gibson Jr.",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
-          "division_ranking": ""
-        },
-        "weightClass": "Catch Weight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Amanda Lemos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Gillian Robertson (The Savage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
-          "division_ranking": "10"
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Joanderson Brito (Tubarao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Isaac Thomson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5d8006587d6a6711",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Neil Magny (The Haitian Sensation)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yaroslav Amosov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sean Sharaf (The Smoke)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Steven Asplund (Concrete)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Melissa Croden (Scare)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luana Santos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
-          "division_ranking": "15"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Allen Frye Jr.",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/73a78713bd899f4c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Guilherme Pat",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ba15006c804a8de0",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jamey-Lyn Horth",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tereza Bleda",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/59c438c81fbf3ece",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "24-01-2026": {
     "name": "UFC 324: Gaethje vs. Pimblett",
     "location": "Las Vegas, Nevada, USA",
@@ -223,7 +35,7 @@
         "fighter1": {
           "name": "Sean O'Malley (Suga)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b50a426a33da0012",
-          "division_ranking": "2"
+          "division_ranking": "3"
         },
         "fighter2": {
           "name": "Song Yadong (Kung Fu Kid)",
@@ -279,7 +91,7 @@
         "fighter1": {
           "name": "Umar Nurmagomedov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
-          "division_ranking": "1"
+          "division_ranking": "2"
         },
         "fighter2": {
           "name": "Deiveson Figueiredo (Deus da Guerra)",
@@ -592,9 +404,51 @@
     ]
   },
   "07-02-2026": {
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Bautista vs. Oliveira",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Mario Bautista",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc711b6dd95c1af6",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Vinicius Oliveira (LokDog)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
+          "division_ranking": "13"
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Amir Albazi (The Prince)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d35bf94f7d30241",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Kyoji Horiguchi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "division_ranking": "8"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ryan Spann (Superman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rizvan Kuniev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
       {
         "fighter1": {
           "name": "Michal Oleksiejczuk (Hussar)",
@@ -607,7 +461,35 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jean Matsumoto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ffd3224638c01b57",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Farid Basharat (Ferocious)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a09ed60aa67a3f67",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Uran Satybaldiev (Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/02f484417a6fa69d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julius Walker (Juice Box)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -653,7 +535,7 @@
         "fighter1": {
           "name": "Brandon Moreno (The Assassin Baby)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
-          "division_ranking": "2"
+          "division_ranking": "4"
         },
         "fighter2": {
           "name": "Asu Almabayev (Zulfikar)",
