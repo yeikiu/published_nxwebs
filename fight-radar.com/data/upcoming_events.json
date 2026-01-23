@@ -535,20 +535,6 @@
       },
       {
         "fighter1": {
-          "name": "Jean Matsumoto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ffd3224638c01b57",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Farid Basharat (Ferocious)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a09ed60aa67a3f67",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Said Nurmagomedov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/0fd5f4b838e890cc",
           "division_ranking": ""
@@ -1058,9 +1044,23 @@
     ]
   },
   "14-03-2026": {
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Emmett vs. Vallejos",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Josh Emmett (CC0)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fba03cd6cc28dc41",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Kevin Vallejos (El Chino)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
+          "division_ranking": "13"
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Amanda Lemos",
@@ -1073,7 +1073,7 @@
           "division_ranking": "10"
         },
         "weightClass": "Women's Strawweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
