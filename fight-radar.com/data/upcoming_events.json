@@ -277,6 +277,20 @@
       },
       {
         "fighter1": {
+          "name": "Bruna Brasil",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ketlen Souza (Esquentadinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Uran Satybaldiev (Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/02f484417a6fa69d",
           "division_ranking": ""
@@ -291,16 +305,16 @@
       },
       {
         "fighter1": {
-          "name": "Bruna Brasil",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
+          "name": "Said Nurmagomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0fd5f4b838e890cc",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Ketlen Souza (Esquentadinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+          "name": "Javid Basharat (The Snow Leopard)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bbab3baf66128ae2",
           "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -319,20 +333,6 @@
       },
       {
         "fighter1": {
-          "name": "Klaudia Sygula",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Priscila Cachoeira (Zombie Girl)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Muin Gafurov (Tajik)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a54660deb6a8489c",
           "division_ranking": ""
@@ -347,16 +347,16 @@
       },
       {
         "fighter1": {
-          "name": "Said Nurmagomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0fd5f4b838e890cc",
+          "name": "Klaudia Sygula",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Javid Basharat (The Snow Leopard)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bbab3baf66128ae2",
+          "name": "Priscila Cachoeira (Zombie Girl)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
           "division_ranking": ""
         },
-        "weightClass": "Bantamweight",
+        "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
       }
     ]
@@ -381,6 +381,20 @@
       },
       {
         "fighter1": {
+          "name": "Dan Ige (50K)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/82a5152216251682",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Melquizael Costa (The Dalmatian)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Serghei Spivac (Polar Bear)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
           "division_ranking": "7"
@@ -395,16 +409,16 @@
       },
       {
         "fighter1": {
-          "name": "Dan Ige (50K)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/82a5152216251682",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Melquizael Costa (The Dalmatian)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+          "name": "Jacobe Smith (Cobe)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
           "division_ranking": ""
         },
-        "weightClass": "Featherweight",
+        "fighter2": {
+          "name": "Seokhyeon Ko (The Korean Tyson)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -423,13 +437,69 @@
       },
       {
         "fighter1": {
-          "name": "Jacobe Smith (Cobe)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+          "name": "Chidi Njokuani (Bang Bang)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Seokhyeon Ko (The Korean Tyson)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+          "name": "Carlos Leal (The Lion)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/28d421729451c8ca",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ode Osbourne (The Jamaican Sensation)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alibi Idiris",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/30cad5a751adcb48",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alden Coria (Cobra)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Luis Gurule (Grim)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nora Cornolle",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Joselyne Edwards (La Pantera)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f9ab66e67240db7b",
+          "division_ranking": "14"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Austin Vanderford (The Gentleman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/32c3ee378671a5d9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jean-Paul Lebosnoyani (Mufasa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a3dda21be645be93",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
@@ -451,34 +521,6 @@
       },
       {
         "fighter1": {
-          "name": "Ode Osbourne (The Jamaican Sensation)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alibi Idiris",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/30cad5a751adcb48",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chidi Njokuani (Bang Bang)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Carlos Leal (The Lion)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/28d421729451c8ca",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Juliana Miller (Killer)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/aa0c573da7119292",
           "division_ranking": ""
@@ -489,48 +531,6 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Austin Vanderford (The Gentleman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32c3ee378671a5d9",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jean-Paul Lebosnoyani (Mufasa)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a3dda21be645be93",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nora Cornolle",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Joselyne Edwards (La Pantera)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f9ab66e67240db7b",
-          "division_ranking": "14"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alden Coria (Cobra)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Gurule (Grim)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
         "scheduledRounds": 3
       }
     ]
