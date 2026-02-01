@@ -1,206 +1,4 @@
 {
-  "31-01-2026": {
-    "name": "UFC 325: Volkanovski vs. Lopes 2",
-    "location": "Sydney, New South Wales, Australia",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Alexander Volkanovski (The Great)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e1248941344b3288",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Diego Lopes",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f166e93d04a8c274",
-          "division_ranking": "2"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Dan Hooker (The Hangman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Benoit Saint Denis (God of War)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56",
-          "division_ranking": "8"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rafael Fiziev (Ataman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c814b4c899793af6",
-          "division_ranking": "9"
-        },
-        "fighter2": {
-          "name": "Mauricio Ruffy",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
-          "division_ranking": "14"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tai Tuivasa (Bam Bam)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Tallison Teixeira (Xicao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "division_ranking": "15"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Quillan Salkilld",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jamie Mullarkey",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/af9f42e6894047fc",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Junior Tafa (The Juggernaut)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Billy Elekana (Son of Susie)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07a74004d964c7f4",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cam Rowston",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cody Brundage",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jacob Malkoun (Mamba)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Torrez Finney (The Punisher)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fbb60f24af5d5a02",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jonathan Micallef (The Captain)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Oban Elliott (The Welsh Gangster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kaan Ofli (Genghis)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yizha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sangwook Kim (Frogman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a264d4e9a4d6bfe4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Dom Mar Fan (Street Buddha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Keiichiro Nakamura",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sebastian Szalay (Seb)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f201f21cf2c79eb2",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sulangrangbo",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1dd1a3aacde66f72",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Lawrence Lui (Lok Yin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a1ad35b98a9136e5",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Aaron Tau (Tauzemup)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7abf7f8778472b7b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Namsrai Batbayar (Steppe Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e1f8beeb6d2d871a",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "07-02-2026": {
     "name": "UFC Fight Night: Bautista vs. Oliveira",
     "location": "Las Vegas, Nevada, USA",
@@ -214,7 +12,7 @@
         "fighter2": {
           "name": "Vinicius Oliveira (LokDog)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
-          "division_ranking": "13"
+          "division_ranking": "11"
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 5
@@ -235,9 +33,9 @@
       },
       {
         "fighter1": {
-          "name": "Ryan Spann (Superman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
-          "division_ranking": ""
+          "name": "Jailton Almeida (Malhadinho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/41e83a89929d1327",
+          "division_ranking": "6"
         },
         "fighter2": {
           "name": "Rizvan Kuniev",
@@ -277,6 +75,34 @@
       },
       {
         "fighter1": {
+          "name": "Dustin Jacoby (The Hanyak)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e4277e87a789d687",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julius Walker (Juice Box)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alex Morono (The Great White)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb96af67d096b1e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Daniil Donchenko",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Bruna Brasil",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
           "division_ranking": ""
@@ -287,20 +113,6 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Uran Satybaldiev (Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/02f484417a6fa69d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Julius Walker (Juice Box)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -703,12 +515,12 @@
         "fighter1": {
           "name": "Max Holloway (Blessed)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/150ff4cc642270b9",
-          "division_ranking": "3"
+          "division_ranking": "4"
         },
         "fighter2": {
           "name": "Charles Oliveira (Do Bronxs)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/07225ba28ae309b6",
-          "division_ranking": "2"
+          "division_ranking": "3"
         },
         "weightClass": "Lightweight",
         "scheduledRounds": 5
@@ -787,12 +599,12 @@
         "fighter1": {
           "name": "Gregory Rodrigues (Robocop)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
-          "division_ranking": "14"
+          "division_ranking": "13"
         },
         "fighter2": {
           "name": "Brunno Ferreira (The Hulk)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
@@ -801,7 +613,7 @@
         "fighter1": {
           "name": "Rob Font",
           "ufcstats_url": "http://ufcstats.com/fighter-details/05339613bf8e9808",
-          "division_ranking": "12"
+          "division_ranking": "13"
         },
         "fighter2": {
           "name": "Raul Rosas Jr. (El Nino Problema)",
@@ -963,7 +775,7 @@
         "fighter2": {
           "name": "Joe Pyfer (Bodybagz)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c1085e1701b13eca",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
