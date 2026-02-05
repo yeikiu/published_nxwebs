@@ -228,7 +228,7 @@
         "fighter2": {
           "name": "Ante Delija (Walking Trouble)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
-          "division_ranking": "9"
+          "division_ranking": "10"
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -362,7 +362,7 @@
     ]
   },
   "28-02-2026": {
-    "name": "UFC Fight Night: Moreno vs. Almabayev",
+    "name": "UFC Fight Night: Moreno vs. Kavanagh",
     "location": "Mexico City, Distrito Federal, Mexico",
     "fights": [
       {
@@ -372,9 +372,9 @@
           "division_ranking": "5"
         },
         "fighter2": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "7"
+          "name": "Lone'er Kavanagh",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
+          "division_ranking": "15"
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 5
@@ -439,12 +439,12 @@
         "fighter1": {
           "name": "Macy Chiasson",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
-          "division_ranking": "7"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Ailin Perez (Fiona)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-          "division_ranking": "8"
+          "division_ranking": "7"
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
@@ -517,6 +517,20 @@
           "division_ranking": "10"
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Erik Silva (The King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/21b813b919776d90",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Francis Marshall (Fire)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
@@ -708,7 +722,7 @@
         "fighter2": {
           "name": "Gillian Robertson (The Savage)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
-          "division_ranking": "10"
+          "division_ranking": "8"
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
@@ -725,20 +739,6 @@
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bruno Silva (Bulldog)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/294aa73dbf37d281",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Lone'er Kavanagh",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
-          "division_ranking": "15"
-        },
-        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -812,7 +812,7 @@
         "fighter2": {
           "name": "Lerone Murphy (The Miracle)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/396fe87b84ac2e1c",
-          "division_ranking": "4"
+          "division_ranking": "3"
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 5
@@ -1009,7 +1009,7 @@
         "fighter1": {
           "name": "Alexa Grasso",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
-          "division_ranking": "4"
+          "division_ranking": "3"
         },
         "fighter2": {
           "name": "Maycee Barber (The Future)",
@@ -1031,6 +1031,104 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Navajo Stirling",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Bruno Lopes (Brunao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0abcf6bc47191219",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marcin Tybura (Tybur)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Valter Walker (The Clean Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
+          "division_ranking": "14"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Michael Chiesa (Maverick)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c58f51dedb310998",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Carlston Harris (Mocambique)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mansur Abdul-Malik",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yousri Belgaroui",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Casey O'Neill (King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Gabriella Fernandes (Gabi)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a6eb54ae17a551be",
+          "division_ranking": "15"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Julian Erosa (Juicy J)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lerryan Douglas (Gunslinger)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/640a0f838f057a81",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Zhu Kangjie",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6f4ec5aa3eced219",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Marcio Barbosa (Ticoto)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c85bad793cd14e28",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
