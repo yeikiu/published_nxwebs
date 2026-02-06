@@ -131,13 +131,13 @@
       },
       {
         "fighter1": {
-          "name": "Said Nurmagomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0fd5f4b838e890cc",
+          "name": "Javid Basharat (The Snow Leopard)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bbab3baf66128ae2",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Javid Basharat (The Snow Leopard)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bbab3baf66128ae2",
+          "name": "Gianni Vazquez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51ec9dc3b4964f19",
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
@@ -532,6 +532,20 @@
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Douglas Silva de Andrade (D Silva)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3a314d9fa7c6825d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Javier Reyes (Blair)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a574b8512fc1b30",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -743,20 +757,6 @@
       },
       {
         "fighter1": {
-          "name": "Rinya Nakamura (Hybred)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luan Lacerda",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6fc506e1099afe20",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Marwan Rahiki (Freaky)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
           "division_ranking": ""
@@ -795,6 +795,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Luan Lacerda",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6fc506e1099afe20",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Hecher Sosa (Guanche Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ec3bd30378d63dd1",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ]
@@ -984,6 +998,20 @@
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Michael Page (Venom)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sam Patterson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -1129,6 +1157,20 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Carol Foro (Anabelle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/77ba5b2939c4018b",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Stephanie Luciano (Rondinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1b35af4d1529adf6",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
