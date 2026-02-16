@@ -19,6 +19,20 @@
       },
       {
         "fighter1": {
+          "name": "Geoff Neal (Handz of Steel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b997be68943010fc",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Uros Medic (The Doctor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Dan Ige (50K)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/82a5152216251682",
           "division_ranking": "14"
@@ -40,7 +54,7 @@
         "fighter2": {
           "name": "Ante Delija (Walking Trouble)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
-          "division_ranking": "10"
+          "division_ranking": "9"
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -52,8 +66,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Seokhyeon Ko (The Korean Tyson)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+          "name": "Josiah Harrell",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
@@ -131,8 +145,22 @@
       },
       {
         "fighter1": {
-          "name": "Austin Vanderford (The Gentleman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32c3ee378671a5d9",
+          "name": "Ramiz Brahimaj",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3d074044a33825e7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Punahele Soriano (Puna)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64facb6cc564262d",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Phil Rowe (The Fresh Prince)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe",
           "division_ranking": ""
         },
         "fighter2": {
@@ -181,7 +209,7 @@
         "fighter1": {
           "name": "Brandon Moreno (The Assassin Baby)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
-          "division_ranking": "5"
+          "division_ranking": "6"
         },
         "fighter2": {
           "name": "Lone'er Kavanagh",
@@ -195,7 +223,7 @@
         "fighter1": {
           "name": "Marlon Vera (Chito)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7c7332319c14094c",
-          "division_ranking": "8"
+          "division_ranking": "9"
         },
         "fighter2": {
           "name": "David Martinez (Doctor)",
@@ -636,6 +664,34 @@
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Elijah Smith (Swift)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "SuYoung You (Yoo-Jitsu)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bolaji Oki (The Zulu Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Manoel Sousa (Manumito)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5870c541798124ae",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -787,7 +843,7 @@
         "fighter1": {
           "name": "Mick Parkin",
           "ufcstats_url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
-          "division_ranking": "13"
+          "division_ranking": "15"
         },
         "fighter2": {
           "name": "Mario Pinto",
@@ -905,7 +961,7 @@
         "fighter1": {
           "name": "Marcin Tybura (Tybur)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "8"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Valter Walker (The Clean Monster)",
@@ -947,7 +1003,7 @@
         "fighter1": {
           "name": "Casey O'Neill (King)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
-          "division_ranking": "11"
+          "division_ranking": "12"
         },
         "fighter2": {
           "name": "Gabriella Fernandes (Gabi)",
@@ -997,6 +1053,68 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Terrance McKinney (T. Wrecks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kyle Nelson (The Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/31f8081c7600da93",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      }
+    ]
+  },
+  "04-04-2026": {
+    "name": "UFC Fight Night",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Jose Delano",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d7c4956d61ae76a9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Robert Ruchala (Faker)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/92aed9d16794f42b",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Tofiq Musayev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ae81a3ac7b260411",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Samuel Sanches (The Prodigy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/438d497617ecb16e",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Edmen Shahbazyan (The Golden Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "JunYong Park (The Iron Turtle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/285ae0b4a68221f4",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ]
