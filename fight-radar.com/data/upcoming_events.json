@@ -409,20 +409,6 @@
       },
       {
         "fighter1": {
-          "name": "Renato Moicano",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Brian Ortega (T-City)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Caio Borralho (The Natural)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
           "division_ranking": "7"
@@ -431,62 +417,6 @@
           "name": "Reinier de Ridder (RdR)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
           "division_ranking": "8"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cody Garbrandt (No Love)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c7c61b176e3994",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Xiao Long",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/86bace9e4ad85542",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sumudaerji (The Tibetan Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jesus Aguilar",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Luke Fernandez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d62e280d0f7b6d6f",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Rodolfo Bellato (Trator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Gregory Rodrigues (Robocop)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": "15"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
@@ -507,16 +437,30 @@
       },
       {
         "fighter1": {
-          "name": "Cody Durden (Custom Made)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "name": "Gregory Rodrigues (Robocop)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
+          "division_ranking": "13"
+        },
+        "fighter2": {
+          "name": "Brunno Ferreira (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "division_ranking": "15"
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cody Garbrandt (No Love)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c7c61b176e3994",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Nyamjargal Tumendemberel (Art of Knockout)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17cb6d8e8187f304",
+          "name": "Xiao Long",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/86bace9e4ad85542",
           "division_ranking": ""
         },
-        "weightClass": "Flyweight",
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -535,6 +479,34 @@
       },
       {
         "fighter1": {
+          "name": "Cody Durden (Custom Made)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nyamjargal Tumendemberel (Art of Knockout)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17cb6d8e8187f304",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Sumudaerji (The Tibetan Eagle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jesus Aguilar",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "JooSang Yoo (Zombie Jr.)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
           "division_ranking": ""
@@ -545,6 +517,34 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Luke Fernandez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d62e280d0f7b6d6f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rodolfo Bellato (Trator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Renato Moicano",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Brian Ortega (T-City)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
@@ -731,7 +731,7 @@
         "fighter1": {
           "name": "Michael Page (Venom)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Sam Patterson",
@@ -1115,6 +1115,90 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alessandro Costa (Nono)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Stewart Nicoll (Kakamora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Virna Jandiroba (Carcara)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7dda2cf308f24a02",
+          "division_ranking": "3"
+        },
+        "fighter2": {
+          "name": "Tabatha Ricci (Baby Shark)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d25240135aee03e5",
+          "division_ranking": "7"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ethyn Ewing (The Professor Finesser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d776b5814f2400b4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rafael Estevam (Macapa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/83455a9d17f57dae",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Guilherme Pat (Kong)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ba15006c804a8de0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Thomas Petersen (The Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/764d39074a352e33",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alice Pereira (Golden Girl)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/81d2c551886bd5a1",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Hailey Cowan (All Hail)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3c26c420584d912d",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Dione Barbosa (The Witch)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/27b388f0aab49780",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Melissa Gatto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a4a80dd7336ffd59",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
       }
     ]
