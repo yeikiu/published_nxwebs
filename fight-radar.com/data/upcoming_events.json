@@ -1,206 +1,4 @@
 {
-  "21-02-2026": {
-    "name": "UFC Fight Night: Strickland vs. Hernandez",
-    "location": "Houston, Texas, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Sean Strickland",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d8011111be000b2",
-          "division_ranking": "3"
-        },
-        "fighter2": {
-          "name": "Anthony Hernandez (Fluffy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/093e1f5bb73850be",
-          "division_ranking": "4"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Geoff Neal (Handz of Steel)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b997be68943010fc",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Uros Medic (The Doctor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dan Ige (50K)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/82a5152216251682",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Melquizael Costa (The Dalmatian)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Serghei Spivac (Polar Bear)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
-          "division_ranking": "7"
-        },
-        "fighter2": {
-          "name": "Ante Delija (Walking Trouble)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
-          "division_ranking": "9"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jacobe Smith (Cobe)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Josiah Harrell",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Zach Reese (Savage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michel Pereira (Demolidor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/595db60957de51d3",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chidi Njokuani (Bang Bang)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Carlos Leal (The Lion)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/28d421729451c8ca",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ode Osbourne (The Jamaican Sensation)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alibi Idiris",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/30cad5a751adcb48",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alden Coria (Cobra)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Gurule (Grim)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nora Cornolle",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Joselyne Edwards (La Pantera)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f9ab66e67240db7b",
-          "division_ranking": "14"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ramiz Brahimaj",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3d074044a33825e7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Punahele Soriano (Puna)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64facb6cc564262d",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Phil Rowe (The Fresh Prince)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e382b585a92affe",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jean-Paul Lebosnoyani (Mufasa)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a3dda21be645be93",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jordan Leavitt (The Monkey King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ac026518a9b4dc0f",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yadier del Valle (The Cuban Problem)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Juliana Miller (Killer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/aa0c573da7119292",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Carli Judice (Crispy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "28-02-2026": {
     "name": "UFC Fight Night: Moreno vs. Kavanagh",
     "location": "Mexico City, Distrito Federal, Mexico",
@@ -273,6 +71,20 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Santiago Luna (BorderBoy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/faf317c665546a36",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Angel Pacheco",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07797f10b9569cfc",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -371,20 +183,6 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Santiago Luna (BorderBoy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/faf317c665546a36",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Angel Pacheco",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07797f10b9569cfc",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ]
@@ -535,16 +333,16 @@
       },
       {
         "fighter1": {
-          "name": "Renato Moicano",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Brian Ortega (T-City)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
+          "name": "Ricky Turcios",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
           "division_ranking": ""
         },
-        "weightClass": "Lightweight",
+        "fighter2": {
+          "name": "Alberto Montes (The Promise)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
@@ -691,6 +489,34 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Vitor Petrino",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/71171fc96445bf65",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Steven Asplund (Concrete)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Andre Fili (Touchy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Delgado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
@@ -1072,9 +898,23 @@
     ]
   },
   "04-04-2026": {
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Moicano vs. Duncan",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Renato Moicano",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Chris Duncan (The Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Jose Delano",
@@ -1087,7 +927,7 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -1200,6 +1040,66 @@
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
+      }
+    ]
+  },
+  "11-04-2026": {
+    "name": "UFC 327",
+    "location": "Miami, Florida, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Joshua Van (The Fearless)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17e97649403ba428",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Tatsuro Taira (The Best)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4461d7e47375a895",
+          "division_ranking": "3"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 5
+      }
+    ]
+  },
+  "18-04-2026": {
+    "name": "UFC Fight Night: Burns vs. Malott",
+    "location": "Winnipeg, Manitoba, Canada",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Gilbert Burns (Durinho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23024fdfc966410a",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Mike Malott (Proper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/dd6103dd7127db1d",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
+      }
+    ]
+  },
+  "25-04-2026": {
+    "name": "UFC Fight Night: Brady vs. Buckley",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Sean Brady",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Joaquin Buckley (New Mansa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9437600497350f3",
+          "division_ranking": "9"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
       }
     ]
   }
