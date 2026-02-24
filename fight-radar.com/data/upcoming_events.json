@@ -1,5 +1,6 @@
 {
   "28-02-2026": {
+    "date": "28-02-2026",
     "name": "UFC Fight Night: Moreno vs. Kavanagh",
     "location": "Mexico City, Distrito Federal, Mexico",
     "fights": [
@@ -188,6 +189,7 @@
     ]
   },
   "07-03-2026": {
+    "date": "07-03-2026",
     "name": "UFC 326: Holloway vs. Oliveira 2",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
@@ -348,6 +350,7 @@
     ]
   },
   "14-03-2026": {
+    "date": "14-03-2026",
     "name": "UFC Fight Night: Emmett vs. Vallejos",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
@@ -522,6 +525,7 @@
     ]
   },
   "21-03-2026": {
+    "date": "21-03-2026",
     "name": "UFC Fight Night: Evloev vs. Murphy",
     "location": "London, England, United Kingdom",
     "fights": [
@@ -724,6 +728,7 @@
     ]
   },
   "28-03-2026": {
+    "date": "28-03-2026",
     "name": "UFC Fight Night: Adesanya vs. Pyfer",
     "location": "Seattle, Washington, USA",
     "fights": [
@@ -898,6 +903,7 @@
     ]
   },
   "04-04-2026": {
+    "date": "04-04-2026",
     "name": "UFC Fight Night: Moicano vs. Duncan",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
@@ -1044,6 +1050,7 @@
     ]
   },
   "11-04-2026": {
+    "date": "11-04-2026",
     "name": "UFC 327",
     "location": "Miami, Florida, USA",
     "fights": [
@@ -1064,6 +1071,7 @@
     ]
   },
   "18-04-2026": {
+    "date": "18-04-2026",
     "name": "UFC Fight Night: Burns vs. Malott",
     "location": "Winnipeg, Manitoba, Canada",
     "fights": [
@@ -1084,6 +1092,7 @@
     ]
   },
   "25-04-2026": {
+    "date": "25-04-2026",
     "name": "UFC Fight Night: Brady vs. Buckley",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
