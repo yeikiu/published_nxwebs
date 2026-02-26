@@ -13,7 +13,7 @@
         "fighter2": {
           "name": "Lone'er Kavanagh",
           "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
-          "division_ranking": "15"
+          "division_ranking": ""
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 5
@@ -146,8 +146,8 @@
       },
       {
         "fighter1": {
-          "name": "Sofia Montenegro (La Bruja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8b1b051038354655",
+          "name": "Regina Tarin",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5609dba6584ab2",
           "division_ranking": ""
         },
         "fighter2": {
@@ -155,7 +155,7 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/e4faa79383c9f214",
           "division_ranking": ""
         },
-        "weightClass": "Women's Flyweight",
+        "weightClass": "Catch Weight",
         "scheduledRounds": 3
       },
       {
@@ -346,6 +346,20 @@
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Drew Dober",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michael Johnson (The Menace)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -363,7 +377,7 @@
         "fighter2": {
           "name": "Kevin Vallejos (El Chino)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 5
@@ -498,7 +512,7 @@
         "fighter1": {
           "name": "Vitor Petrino",
           "ufcstats_url": "http://ufcstats.com/fighter-details/71171fc96445bf65",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "fighter2": {
           "name": "Steven Asplund (Concrete)",
@@ -671,20 +685,6 @@
       },
       {
         "fighter1": {
-          "name": "Mick Parkin",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Mario Pinto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Shem Rock",
           "ufcstats_url": "http://ufcstats.com/fighter-details/52b6bf4528130e86",
           "division_ranking": ""
@@ -724,6 +724,20 @@
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mario Pinto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Felipe Franco (Negao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -736,7 +750,7 @@
         "fighter1": {
           "name": "Israel Adesanya (The Last Stylebender)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/1338e2c7480bdf9e",
-          "division_ranking": "6"
+          "division_ranking": "5"
         },
         "fighter2": {
           "name": "Joe Pyfer (Bodybagz)",
@@ -792,7 +806,7 @@
         "fighter1": {
           "name": "Marcin Tybura (Tybur)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "10"
+          "division_ranking": "9"
         },
         "fighter2": {
           "name": "Valter Walker (The Clean Monster)",
@@ -839,7 +853,7 @@
         "fighter2": {
           "name": "Gabriella Fernandes (Gabi)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a6eb54ae17a551be",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
@@ -1067,6 +1081,104 @@
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Kevin Holland (Trailblazer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3a46b268013afede",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Randy Brown (Rudeboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c6aee362c7a7d482",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tatiana Suarez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b08012bbe542592a",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Loopy Godinez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
+          "division_ranking": "6"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Curtis Blaydes (Razor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Dominick Reyes (The Devastator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Johnny Walker",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "division_ranking": "12"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Azamat Murzakanov (The Professional)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Paulo Costa (The Eraser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
+          "division_ranking": "12"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cub Swanson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d247691a6c0e9034",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nate Landwehr (The Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kyle Daukaus",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Vicente Luque (The Silent Assassin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -1088,6 +1200,34 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Jasmine Jasudavicius",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a9e260472d321361",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Karine Silva (Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d62c2d8ee151f08",
+          "division_ranking": "9"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Croden (Scare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Daria Zhelezniakova (Iron Lady)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07047eb7d17fb0a2",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
