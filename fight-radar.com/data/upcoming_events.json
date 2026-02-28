@@ -237,6 +237,20 @@
       },
       {
         "fighter1": {
+          "name": "Drew Dober",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michael Johnson (The Menace)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Gregory Rodrigues (Robocop)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
           "division_ranking": "13"
@@ -275,6 +289,20 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ricky Turcios",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alberto Montes (The Promise)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -331,34 +359,6 @@
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ricky Turcios",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alberto Montes (The Promise)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Drew Dober",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michael Johnson (The Menace)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
@@ -1065,9 +1065,23 @@
   },
   "11-04-2026": {
     "date": "11-04-2026",
-    "name": "UFC 327",
+    "name": "UFC 327: Prochazka vs. Ulberg",
     "location": "Miami, Florida, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Jiri Prochazka",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/009341ed974bad72",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Carlos Ulberg (Black Jag)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9014c02eff8b3d62",
+          "division_ranking": "3"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Joshua Van (The Fearless)",
