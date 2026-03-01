@@ -1,193 +1,4 @@
 {
-  "28-02-2026": {
-    "date": "28-02-2026",
-    "name": "UFC Fight Night: Moreno vs. Kavanagh",
-    "location": "Mexico City, Distrito Federal, Mexico",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Brandon Moreno (The Assassin Baby)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Lone'er Kavanagh",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Marlon Vera (Chito)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7c7332319c14094c",
-          "division_ranking": "9"
-        },
-        "fighter2": {
-          "name": "David Martinez (Doctor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa",
-          "division_ranking": "10"
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Daniel Zellhuber (Golden Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4148802ae4a50768",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "King Green",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Edgar Chairez (Puro Chicali)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5ef94841c4bc3f86",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Felipe Bunes (Felipinho)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/53c10176e3bc7416",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Imanol Rodriguez (Himan)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6e8349a0a0476d60",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kevin Borjas (El Gallo Negro)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/34b96d52db1d26e6",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Santiago Luna (BorderBoy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/faf317c665546a36",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Angel Pacheco",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07797f10b9569cfc",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ryan Gandra (Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e463ce0a2ca474f4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Daniel Medina (Chicho)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/baa9be02c3e3e038",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ailin Perez (Fiona)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-          "division_ranking": "7"
-        },
-        "fighter2": {
-          "name": "Macy Chiasson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
-          "division_ranking": "8"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cristian Quinonez (Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7debc13b36343605",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kris Moutinho",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9c27f3217891f3f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Douglas Silva de Andrade (D Silva)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3a314d9fa7c6825d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Javier Reyes (Blair)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a574b8512fc1b30",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Regina Tarin",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5609dba6584ab2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ernesta Kareckaite (Heavy-Handed)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e4faa79383c9f214",
-          "division_ranking": ""
-        },
-        "weightClass": "Catch Weight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Erik Silva (The King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/21b813b919776d90",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Francis Marshall (Fire)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Damian Pinas (The Baba Yaga)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Wes Schultz (Party Time)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "07-03-2026": {
     "date": "07-03-2026",
     "name": "UFC 326: Holloway vs. Oliveira 2",
@@ -806,7 +617,7 @@
         "fighter1": {
           "name": "Marcin Tybura (Tybur)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "9"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Valter Walker (The Clean Monster)",
@@ -1098,6 +909,118 @@
       },
       {
         "fighter1": {
+          "name": "Curtis Blaydes (Razor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Beneil Dariush",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/08af939f41b5a57b",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Manuel Torres (El Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
+          "division_ranking": "14"
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Dominick Reyes (The Devastator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Johnny Walker",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "division_ranking": "12"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kyle Daukaus",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Vicente Luque (The Silent Assassin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Azamat Murzakanov (The Professional)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Paulo Costa (The Eraser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Patricio Freire (Pitbull)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Aaron Pico",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mateusz Gamrot (Gamer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/72db2a14ffa73ece",
+          "division_ranking": "7"
+        },
+        "fighter2": {
+          "name": "Esteban Ribovics (El Gringo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cub Swanson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d247691a6c0e9034",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nate Landwehr (The Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Kevin Holland (Trailblazer)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3a46b268013afede",
           "division_ranking": ""
@@ -1126,72 +1049,16 @@
       },
       {
         "fighter1": {
-          "name": "Curtis Blaydes (Razor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Josh Hokit",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dominick Reyes (The Devastator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Johnny Walker",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
-          "division_ranking": "12"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Azamat Murzakanov (The Professional)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Paulo Costa (The Eraser)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
-          "division_ranking": "12"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cub Swanson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d247691a6c0e9034",
+          "name": "Christopher Alvidrez (The Newborn)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f4abf9aeda861283",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Nate Landwehr (The Train)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
+          "name": "Francisco Prado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
           "division_ranking": ""
         },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kyle Daukaus",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Vicente Luque (The Silent Assassin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
     ]
@@ -1260,6 +1127,27 @@
           "name": "Joaquin Buckley (New Mansa)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b9437600497350f3",
           "division_ranking": "9"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
+      }
+    ]
+  },
+  "02-05-2026": {
+    "date": "02-05-2026",
+    "name": "UFC Fight Night: Della Maddalena vs. Prates",
+    "location": "Perth, Western Australia, Australia",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Jack Della Maddalena",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b453bc35a823c3f",
+          "division_ranking": "1"
+        },
+        "fighter2": {
+          "name": "Carlos Prates (The Nightmare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7ee0fd831c0fe7c3",
+          "division_ranking": "5"
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
