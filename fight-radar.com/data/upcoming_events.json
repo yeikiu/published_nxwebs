@@ -95,8 +95,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Dusko Todorovic (Thunder)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/866fd7b1a6c90e7f",
+          "name": "Cody Brundage",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
@@ -146,8 +146,22 @@
       },
       {
         "fighter1": {
-          "name": "JooSang Yoo (Zombie Jr.)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
+          "name": "Rafael Tobias (Bipolar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6a8edb7410223a0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Diyar Nurgozhay",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "JeongYeong Lee (Korean Tiger)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
           "division_ranking": ""
         },
         "fighter2": {
@@ -281,12 +295,12 @@
         "fighter1": {
           "name": "Charles Johnson (InnerG)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Bruno Silva (Bulldog)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/294aa73dbf37d281",
-          "division_ranking": "14"
+          "division_ranking": "15"
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 3
@@ -981,7 +995,7 @@
         "fighter1": {
           "name": "Patricio Freire (Pitbull)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
-          "division_ranking": "12"
+          "division_ranking": "13"
         },
         "fighter2": {
           "name": "Aaron Pico",
@@ -1130,6 +1144,20 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Davey Grant (Dangerous)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Adrian Luna Martinetti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3b30b573e7f0d19",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
