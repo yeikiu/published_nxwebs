@@ -1123,6 +1123,76 @@
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Julien Leblanc",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Robert Valentin (Robzilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0cd0456d6029cec2",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tanner Boser (The Bulldozer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/04c8b08b16a5b99e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Gokhan Saricam",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1a97a3ef4c758fae",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "DongHun Choi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3be16d817b36098b",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andre Lima (Mascote)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mitch Raposo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0be6776db31d98ec",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Allan Nascimento (Puro Osso)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "John Castaneda (Sexi Mexi)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mark Vologdin",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e6b611451a9a7d8",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
