@@ -1,193 +1,4 @@
 {
-  "07-03-2026": {
-    "date": "07-03-2026",
-    "name": "UFC 326: Holloway vs. Oliveira 2",
-    "location": "Las Vegas, Nevada, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Max Holloway (Blessed)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/150ff4cc642270b9",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Charles Oliveira (Do Bronxs)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07225ba28ae309b6",
-          "division_ranking": "3"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Caio Borralho (The Natural)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
-          "division_ranking": "7"
-        },
-        "fighter2": {
-          "name": "Reinier de Ridder (RdR)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
-          "division_ranking": "8"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rob Font",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/05339613bf8e9808",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Raul Rosas Jr. (El Nino Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Drew Dober",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michael Johnson (The Menace)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Gregory Rodrigues (Robocop)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": "15"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cody Garbrandt (No Love)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c7c61b176e3994",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Xiao Long",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/86bace9e4ad85542",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Donte Johnson (Lock Jaw)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cody Brundage",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ricky Turcios",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alberto Montes (The Promise)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cody Durden (Custom Made)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nyamjargal Tumendemberel (Art of Knockout)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17cb6d8e8187f304",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sumudaerji (The Tibetan Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jesus Aguilar",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rafael Tobias (Bipolar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d6a8edb7410223a0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Diyar Nurgozhay",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "JeongYeong Lee (Korean Tiger)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Gaston Bolanos (The Dreamkiller)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/96924b0019b3aff1",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Luke Fernandez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d62e280d0f7b6d6f",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Rodolfo Bellato (Trator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "14-03-2026": {
     "date": "14-03-2026",
     "name": "UFC Fight Night: Emmett vs. Vallejos",
@@ -237,6 +48,20 @@
       },
       {
         "fighter1": {
+          "name": "Andre Fili (Touchy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Delgado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Marwan Rahiki (Freaky)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
           "division_ranking": ""
@@ -247,6 +72,76 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Vitor Petrino",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/71171fc96445bf65",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Steven Asplund (Concrete)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Bruno Silva (Bulldog)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/294aa73dbf37d281",
+          "division_ranking": "15"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Brad Tavares",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0c6d9ea8306c029e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Eryk Anders (Ya Boi)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cad24459b28592ca",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Chris Curtis (Action-Man)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5442f1bc4b47eaf3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Myktybek Orolbai",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bolaji Oki (The Zulu Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Manoel Sousa (Manumito)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5870c541798124ae",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -279,34 +174,6 @@
       },
       {
         "fighter1": {
-          "name": "Piera Rodriguez (La Fiera)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sam Hughes (Sampage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e94085e821bd81de",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Charles Johnson (InnerG)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Bruno Silva (Bulldog)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/294aa73dbf37d281",
-          "division_ranking": "15"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Elijah Smith (Swift)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
           "division_ranking": ""
@@ -321,44 +188,16 @@
       },
       {
         "fighter1": {
-          "name": "Bolaji Oki (The Zulu Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "name": "Piera Rodriguez (La Fiera)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Manoel Sousa (Manumito)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5870c541798124ae",
+          "name": "Sam Hughes (Sampage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e94085e821bd81de",
           "division_ranking": ""
         },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Vitor Petrino",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/71171fc96445bf65",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Steven Asplund (Concrete)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Andre Fili (Touchy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Delgado",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
