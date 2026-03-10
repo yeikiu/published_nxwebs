@@ -62,7 +62,7 @@
       },
       {
         "fighter1": {
-          "name": "Marwan Rahiki (Freaky)",
+          "name": "Marwan Rahiki",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
           "division_ranking": ""
         },
@@ -137,7 +137,7 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Manoel Sousa (Manumito)",
+          "name": "Manoel Sousa",
           "ufcstats_url": "http://ufcstats.com/fighter-details/5870c541798124ae",
           "division_ranking": ""
         },
@@ -151,7 +151,7 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Hecher Sosa (Guanche Warrior)",
+          "name": "Hecher Sosa",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ec3bd30378d63dd1",
           "division_ranking": ""
         },
@@ -160,7 +160,7 @@
       },
       {
         "fighter1": {
-          "name": "Bia Mesquita",
+          "name": "Bia Mesquita (The Lady GOAT)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
           "division_ranking": ""
         },
@@ -239,7 +239,7 @@
         "fighter1": {
           "name": "Michael Page (Venom)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
-          "division_ranking": "14"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Sam Patterson",
@@ -279,7 +279,7 @@
       },
       {
         "fighter1": {
-          "name": "Kurtis Campbell (The Pink Panther)",
+          "name": "Kurtis Campbell",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
           "division_ranking": ""
         },
@@ -363,7 +363,7 @@
       },
       {
         "fighter1": {
-          "name": "Shanelle Dyer (The Nightmare)",
+          "name": "Shanelle Dyer",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cfbb3edab781dfd2",
           "division_ranking": ""
         },
@@ -396,7 +396,7 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Felipe Franco (Negao)",
+          "name": "Felipe Franco",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
           "division_ranking": ""
         },
@@ -440,13 +440,55 @@
       },
       {
         "fighter1": {
-          "name": "Chase Hooper (The Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
+          "name": "Michael Chiesa (Maverick)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c58f51dedb310998",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Lance Gibson Jr. (Fearless)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
+          "name": "Carlston Harris (Mocambique)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Julian Erosa (Juicy J)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lerryan Douglas",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/640a0f838f057a81",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mansur Abdul-Malik",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yousri Belgaroui",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Terrance McKinney (T. Wrecks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kyle Nelson (The Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/31f8081c7600da93",
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
@@ -482,30 +524,16 @@
       },
       {
         "fighter1": {
-          "name": "Michael Chiesa (Maverick)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c58f51dedb310998",
+          "name": "Chase Hooper (The Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Carlston Harris (Mocambique)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
+          "name": "Lance Gibson Jr. (Fearless)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
           "division_ranking": ""
         },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mansur Abdul-Malik",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yousri Belgaroui",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -524,16 +552,16 @@
       },
       {
         "fighter1": {
-          "name": "Julian Erosa (Juicy J)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
-          "division_ranking": ""
+          "name": "Alexia Thainara (Burguesinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/545092d13c67aa49",
+          "division_ranking": "13"
         },
         "fighter2": {
-          "name": "Lerryan Douglas (Gunslinger)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/640a0f838f057a81",
+          "name": "Bruna Brasil",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
           "division_ranking": ""
         },
-        "weightClass": "Featherweight",
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       },
       {
@@ -543,39 +571,11 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Marcio Barbosa (Ticoto)",
+          "name": "Marcio Barbosa",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c85bad793cd14e28",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Carol Foro (Anabelle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/77ba5b2939c4018b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Stephanie Luciano (Rondinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1b35af4d1529adf6",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Terrance McKinney (T. Wrecks)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kyle Nelson (The Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/31f8081c7600da93",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
@@ -620,7 +620,7 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Samuel Sanches (The Prodigy)",
+          "name": "Samuel Sanches",
           "ufcstats_url": "http://ufcstats.com/fighter-details/438d497617ecb16e",
           "division_ranking": ""
         },
@@ -804,20 +804,6 @@
       },
       {
         "fighter1": {
-          "name": "Kyle Daukaus",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Vicente Luque (The Silent Assassin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Azamat Murzakanov (The Professional)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
           "division_ranking": "6"
@@ -825,7 +811,7 @@
         "fighter2": {
           "name": "Paulo Costa (The Eraser)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
-          "division_ranking": ""
+          "division_ranking": "12"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -902,7 +888,7 @@
       },
       {
         "fighter1": {
-          "name": "Christopher Alvidrez (The Newborn)",
+          "name": "Christopher Alvidrez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f4abf9aeda861283",
           "division_ranking": ""
         },
@@ -1061,7 +1047,7 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Adrian Luna Martinetti",
+          "name": "Juan Adrian Martinetti",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e3b30b573e7f0d19",
           "division_ranking": ""
         },
@@ -1088,6 +1074,97 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      }
+    ]
+  },
+  "14-06-2026": {
+    "date": "14-06-2026",
+    "name": "UFC Freedom 250",
+    "location": "Washington, DC, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Ilia Topuria (El Matador)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/54f64b5e283b0ce7",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Justin Gaethje (The Highlight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9e8f6c728eb01124",
+          "division_ranking": "1"
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Alex Pereira (Poatan)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e5549c82bfb5582d",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Ciryl Gane (Bon Gamin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+          "division_ranking": "1"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Sean O'Malley (Suga)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b50a426a33da0012",
+          "division_ranking": "3"
+        },
+        "fighter2": {
+          "name": "Aiemann Zahabi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/24656ef4d605c96f",
+          "division_ranking": "6"
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mauricio Ruffy",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Michael Chandler (Iron)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4b93a88f3b1de35b",
+          "division_ranking": "13"
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bo Nickal",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kyle Daukaus",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Diego Lopes",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f166e93d04a8c274",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Steve Garcia (Mean Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
+          "division_ranking": "9"
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
       }
     ]
   }
