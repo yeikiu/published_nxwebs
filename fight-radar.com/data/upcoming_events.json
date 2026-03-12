@@ -321,13 +321,13 @@
       },
       {
         "fighter1": {
-          "name": "Louie Sutherland (Vanilla Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
+          "name": "Mario Pinto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Brando Pericic (The Balkan Bear)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
+          "name": "Felipe Franco",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
@@ -345,6 +345,20 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Louie Sutherland (Vanilla Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Brando Pericic (The Balkan Bear)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -387,20 +401,6 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mario Pinto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Felipe Franco",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ]
@@ -496,30 +496,16 @@
       },
       {
         "fighter1": {
-          "name": "Navajo Stirling",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+          "name": "Ignacio Bahamondes (La Jaula)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Bruno Lopes (Brunao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0abcf6bc47191219",
+          "name": "Tofiq Musayev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ae81a3ac7b260411",
           "division_ranking": ""
         },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marcin Tybura (Tybur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Valter Walker (The Clean Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "14"
-        },
-        "weightClass": "Heavyweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -538,6 +524,20 @@
       },
       {
         "fighter1": {
+          "name": "Marcin Tybura (Tybur)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Valter Walker (The Clean Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
+          "division_ranking": "14"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Casey O'Neill (King)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
           "division_ranking": "12"
@@ -548,6 +548,20 @@
           "division_ranking": "14"
         },
         "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Navajo Stirling",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Bruno Lopes (Brunao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0abcf6bc47191219",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -601,62 +615,6 @@
       },
       {
         "fighter1": {
-          "name": "Jose Delano",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d7c4956d61ae76a9",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Robert Ruchala (Faker)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/92aed9d16794f42b",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tofiq Musayev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ae81a3ac7b260411",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Samuel Sanches",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/438d497617ecb16e",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Edmen Shahbazyan (The Golden Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "JunYong Park (The Iron Turtle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/285ae0b4a68221f4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alessandro Costa (Nono)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Stewart Nicoll (Kakamora)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Virna Jandiroba (Carcara)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7dda2cf308f24a02",
           "division_ranking": "3"
@@ -667,6 +625,20 @@
           "division_ranking": "7"
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Brendson Ribeiro (The Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -685,6 +657,34 @@
       },
       {
         "fighter1": {
+          "name": "Tommy McMillen",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Manolo Zecchini (Angelo Veneziano)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fd7ab338e4953644",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Charles Radtke (Chuck Buffalo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Henrique",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20a0e4cc5227c117",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Guilherme Pat (Kong)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ba15006c804a8de0",
           "division_ranking": ""
@@ -694,7 +694,49 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/764d39074a352e33",
           "division_ranking": ""
         },
-        "weightClass": "Light Heavyweight",
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jose Delano",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d7c4956d61ae76a9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Robert Ruchala (Faker)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/92aed9d16794f42b",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alessandro Costa (Nono)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Stewart Nicoll (Kakamora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Lando Vannata (Groovy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f9b200db02b488d9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Darrius Flowers (Beast Mode)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/65db4065e2bc107d",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -709,6 +751,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Azamat Bekoev (Iron)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Tresean Gore (Mr. Vicious)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
