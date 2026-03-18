@@ -225,7 +225,7 @@
         "fighter1": {
           "name": "Alexa Grasso",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
-          "division_ranking": "4"
+          "division_ranking": "3"
         },
         "fighter2": {
           "name": "Maycee Barber (The Future)",
@@ -323,7 +323,7 @@
         "fighter1": {
           "name": "Marcin Tybura (Tybur)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "8"
+          "division_ranking": "9"
         },
         "fighter2": {
           "name": "Valter Walker (The Clean Monster)",
@@ -400,7 +400,7 @@
         "fighter1": {
           "name": "Renato Moicano",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "11"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Chris Duncan (The Problem)",
@@ -857,6 +857,20 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "JJ Aldrich",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6fd953151d981979",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Jamey-Lyn Horth",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -869,7 +883,7 @@
         "fighter1": {
           "name": "Aljamain Sterling (Funk Master)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cb696ebfb6598724",
-          "division_ranking": ""
+          "division_ranking": "5"
         },
         "fighter2": {
           "name": "Youssef Zalal (The Moroccan Devil)",
@@ -926,6 +940,76 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tai Tuivasa (Bam Bam)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sean Sharaf (The Smoke)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Junior Tafa (The Juggernaut)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kevin Christian",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cam Rowston",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Robert Bryczek",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jacob Malkoun (Mamba)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Gerald Meerschaert (GM3)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Steve Erceg (Astroboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Tim Elliott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
+          "division_ranking": "11"
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       }
     ]
@@ -1003,6 +1087,20 @@
           "division_ranking": "9"
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "King Green",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jeremy Stephens (Lil' Heathen)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/18968f97ad34f15c",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
