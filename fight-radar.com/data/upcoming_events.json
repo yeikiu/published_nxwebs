@@ -1,207 +1,4 @@
 {
-  "21-03-2026": {
-    "date": "21-03-2026",
-    "name": "UFC Fight Night: Evloev vs. Murphy",
-    "location": "London, England, United Kingdom",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Movsar Evloev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/76e2870ffafbe38f",
-          "division_ranking": "1"
-        },
-        "fighter2": {
-          "name": "Lerone Murphy (The Miracle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/396fe87b84ac2e1c",
-          "division_ranking": "3"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Luke Riley",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michael Aswell Jr. (The Texas Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Michael Page (Venom)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Sam Patterson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Iwo Baraniewski (Rudy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Austen Lane",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/be9bdec19b7e9ffe",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Roman Dolidze",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/327d5f279895110d",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Christian Leroy Duncan (CLD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kurtis Campbell",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Danny Silva (El Puma)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d964a59c48381cb6",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mason Jones (The Dragon)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f6ad6a1e4d600e0d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Axel Sola",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nathaniel Wood (The Prospect)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/329e403448756217",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Losene Keita",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mario Pinto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Felipe Franco",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mantas Kondratavicius",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Antonio Trocoli (Malvado)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d48a2df51749d91",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Louie Sutherland (Vanilla Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Brando Pericic (The Balkan Bear)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Shem Rock",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/52b6bf4528130e86",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Abdul-Kareem Al-Selwady (Pride of Palestine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/597499ac7a5aac62",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Shanelle Dyer",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cfbb3edab781dfd2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ravena Oliveira (Kenoudy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4948e412fa6ab67d",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Melissa Mullins (No Mess)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bd532e9a2b93870c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luana Carolina (Dread)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/528b071cf3da7c56",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "28-03-2026": {
     "date": "28-03-2026",
     "name": "UFC Fight Night: Adesanya vs. Pyfer",
@@ -326,9 +123,9 @@
           "division_ranking": "9"
         },
         "fighter2": {
-          "name": "Valter Walker (The Clean Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "14"
+          "name": "Tyrell Fortune",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7f4b2d4c2724a2",
+          "division_ranking": ""
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -359,6 +156,20 @@
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ricky Simon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Adrian Yanez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -1101,6 +912,20 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Clayton Carpenter",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b62d5280966b2460",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Ochoa (Kalzifer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/88be62d6c1e6dadb",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       }
     ]
