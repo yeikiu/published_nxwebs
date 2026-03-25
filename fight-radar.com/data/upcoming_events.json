@@ -22,7 +22,7 @@
         "fighter1": {
           "name": "Alexa Grasso",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
-          "division_ranking": "3"
+          "division_ranking": "4"
         },
         "fighter2": {
           "name": "Maycee Barber (The Future)",
@@ -39,8 +39,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Carlston Harris (Mocambique)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
+          "name": "Niko Price (The Hybrid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d8da10db80131bec",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
@@ -185,20 +185,6 @@
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Zhu Kangjie",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6f4ec5aa3eced219",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marcio Barbosa",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c85bad793cd14e28",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
       }
     ]
   },
@@ -211,7 +197,7 @@
         "fighter1": {
           "name": "Renato Moicano",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "10"
+          "division_ranking": "11"
         },
         "fighter2": {
           "name": "Chris Duncan (The Problem)",
@@ -682,6 +668,20 @@
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kyler Phillips (The Matrix)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/60425d07ef4b91a7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Charles Jourdain (Air)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f1d64ae34e088832",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -716,6 +716,104 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Norma Dumont (The Immortal)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
+          "division_ranking": "3"
+        },
+        "fighter2": {
+          "name": "Joselyne Edwards (La Pantera)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f9ab66e67240db7b",
+          "division_ranking": "11"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Montel Jackson (Quik)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Raoni Barcelos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Talita Alencar (Problem Child)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julia Polastri (Psycho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Rodolfo Vieira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Eric McConico",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jafel Filho (Pastor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lucas Rocha (Fenomeno)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e0d3d9b564f95635",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mayra Bueno Silva (Sheetara)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Michelle Montague (The Wild One)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ca80d72da81d7224",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jackson McVey (The Moose)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sedriques Dumas (The Reaper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ]
@@ -813,7 +911,7 @@
         "fighter1": {
           "name": "Steve Erceg (Astroboy)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
-          "division_ranking": ""
+          "division_ranking": "12"
         },
         "fighter2": {
           "name": "Tim Elliott",
