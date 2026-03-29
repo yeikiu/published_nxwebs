@@ -1,193 +1,4 @@
 {
-  "28-03-2026": {
-    "date": "28-03-2026",
-    "name": "UFC Fight Night: Adesanya vs. Pyfer",
-    "location": "Seattle, Washington, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Israel Adesanya (The Last Stylebender)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1338e2c7480bdf9e",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Joe Pyfer (Bodybagz)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c1085e1701b13eca",
-          "division_ranking": "14"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Alexa Grasso",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Maycee Barber (The Future)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a740daf1b279661",
-          "division_ranking": "5"
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Michael Chiesa (Maverick)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c58f51dedb310998",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Niko Price (The Hybrid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d8da10db80131bec",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Julian Erosa (Juicy J)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Lerryan Douglas",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/640a0f838f057a81",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mansur Abdul-Malik",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yousri Belgaroui",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Terrance McKinney (T. Wrecks)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kyle Nelson (The Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/31f8081c7600da93",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ignacio Bahamondes (La Jaula)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tofiq Musayev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ae81a3ac7b260411",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chase Hooper (The Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Lance Gibson Jr. (Fearless)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marcin Tybura (Tybur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "9"
-        },
-        "fighter2": {
-          "name": "Tyrell Fortune",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7f4b2d4c2724a2",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Casey O'Neill (King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Gabriella Fernandes (Gabi)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a6eb54ae17a551be",
-          "division_ranking": "14"
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Navajo Stirling",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Bruno Lopes (Brunao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0abcf6bc47191219",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ricky Simon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Adrian Yanez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alexia Thainara (Burguesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/545092d13c67aa49",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Bruna Brasil",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "04-04-2026": {
     "date": "04-04-2026",
     "name": "UFC Fight Night: Moicano vs. Duncan",
@@ -681,6 +492,20 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mandel Nallo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8f4528c10bd34fab",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jai Herbert (Black Country Banger)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4c88a1db5a46c6a4",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
     ]
