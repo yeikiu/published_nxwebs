@@ -76,20 +76,6 @@
       },
       {
         "fighter1": {
-          "name": "Charles Radtke (Chuck Buffalo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Henrique",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20a0e4cc5227c117",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Guilherme Pat (Kong)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ba15006c804a8de0",
           "division_ranking": ""
@@ -955,6 +941,20 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Iwo Baraniewski (Rudy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Billy Elekana (Son of Susie)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07a74004d964c7f4",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
       }
     ]
   },
