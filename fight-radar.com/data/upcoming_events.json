@@ -1,179 +1,4 @@
 {
-  "11-04-2026": {
-    "date": "11-04-2026",
-    "name": "UFC 327: Prochazka vs. Ulberg",
-    "location": "Miami, Florida, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Jiri Prochazka",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/009341ed974bad72",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Carlos Ulberg (Black Jag)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9014c02eff8b3d62",
-          "division_ranking": "3"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Azamat Murzakanov (The Professional)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Paulo Costa (The Eraser)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Curtis Blaydes (Razor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Josh Hokit",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dominick Reyes (The Devastator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Johnny Walker",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
-          "division_ranking": "12"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cub Swanson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d247691a6c0e9034",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nate Landwehr (The Train)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Patricio Freire (Pitbull)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Aaron Pico",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kevin Holland (Trailblazer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3a46b268013afede",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Randy Brown (Rudeboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c6aee362c7a7d482",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mateusz Gamrot (Gamer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/72db2a14ffa73ece",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Esteban Ribovics (El Gringo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tatiana Suarez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b08012bbe542592a",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Loopy Godinez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
-          "division_ranking": "6"
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chris Padilla (Taco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/06626b6287e1ae1e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "MarQuel Mederos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e2be0c1a9b886d92",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kelvin Gastelum",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8c0580d4fff106c1",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Vicente Luque (The Silent Assassin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Charles Radtke (Chuck Buffalo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Francisco Prado",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "18-04-2026": {
     "date": "18-04-2026",
     "name": "UFC Fight Night: Burns vs. Malott",
@@ -346,6 +171,20 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jamie Siraj",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e6679e38e7fab7a8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "John Yannis",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/450bcab0968562c4",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -370,20 +209,6 @@
       },
       {
         "fighter1": {
-          "name": "Davey Grant (Dangerous)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Juan Adrian Martinetti",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e3b30b573e7f0d19",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Norma Dumont (The Immortal)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
           "division_ranking": "3"
@@ -394,6 +219,34 @@
           "division_ranking": "11"
         },
         "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Rafa Garcia (Gifted)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alexander Hernandez (El Gran Chango)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/262a7d06203657e6",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Davey Grant (Dangerous)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Juan Adrian Martinetti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3b30b573e7f0d19",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -412,16 +265,16 @@
       },
       {
         "fighter1": {
-          "name": "Talita Alencar (Problem Child)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+          "name": "Marcus Buchecha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/095854a135e6db55",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Julia Polastri (Psycho)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+          "name": "Ryan Spann (Superman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
           "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -440,16 +293,16 @@
       },
       {
         "fighter1": {
-          "name": "Jafel Filho (Pastor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
+          "name": "Jackson McVey (The Moose)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Lucas Rocha (Fenomeno)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e0d3d9b564f95635",
+          "name": "Sedriques Dumas (The Reaper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256",
           "division_ranking": ""
         },
-        "weightClass": "Flyweight",
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -468,16 +321,30 @@
       },
       {
         "fighter1": {
-          "name": "Jackson McVey (The Moose)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
+          "name": "Jafel Filho (Pastor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Sedriques Dumas (The Reaper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "name": "Lucas Rocha (Fenomeno)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e0d3d9b564f95635",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Talita Alencar (Problem Child)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julia Polastri (Psycho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
@@ -517,6 +384,34 @@
       },
       {
         "fighter1": {
+          "name": "Tim Elliott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Steve Erceg (Astroboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
+          "division_ranking": "12"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Shamil Gaziev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+          "division_ranking": "13"
+        },
+        "fighter2": {
+          "name": "Brando Pericic (The Balkan Bear)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Tai Tuivasa (Bam Bam)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
           "division_ranking": ""
@@ -527,20 +422,6 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Junior Tafa (The Juggernaut)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kevin Christian",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -559,6 +440,20 @@
       },
       {
         "fighter1": {
+          "name": "Junior Tafa (The Juggernaut)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kevin Christian",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Jacob Malkoun (Mamba)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
           "division_ranking": ""
@@ -573,16 +468,44 @@
       },
       {
         "fighter1": {
-          "name": "Steve Erceg (Astroboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
-          "division_ranking": "12"
+          "name": "Colby Thicknesse (Slickness)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
+          "division_ranking": ""
         },
         "fighter2": {
-          "name": "Tim Elliott",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
-          "division_ranking": "11"
+          "name": "Vince Morales (Vandetta)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/37098a6e6c27fb66",
+          "division_ranking": ""
         },
-        "weightClass": "Flyweight",
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Benjamin Johnston",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3261aa79bf6caa64",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Wes Schultz (Party Time)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jonathan Micallef (The Captain)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Themba Gorimbo (The Answer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -706,6 +629,20 @@
       },
       {
         "fighter1": {
+          "name": "Joel Alvarez (El Fenomeno)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/58bbef3770bb2dfc",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yaroslav Amosov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Roman Kopylov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
           "division_ranking": ""
@@ -713,6 +650,20 @@
         "fighter2": {
           "name": "Marco Tulio (Matuto)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9384e71bca6c409d",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Baisangur Susurkaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Djorden Santos (Shakur)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/312f7d7b2b2f7de4",
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
@@ -730,20 +681,6 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Baisangur Susurkaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Djorden Santos (Shakur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/312f7d7b2b2f7de4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ]
@@ -996,6 +933,20 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Angela Hill (Overkill)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f0feeb2192937424",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Xiong Jingnan",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2cdb479a0ef0ee1d",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
