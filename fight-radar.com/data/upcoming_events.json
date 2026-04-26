@@ -1,193 +1,4 @@
 {
-  "25-04-2026": {
-    "date": "25-04-2026",
-    "name": "UFC Fight Night: Sterling vs. Zalal",
-    "location": "Las Vegas, Nevada, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Aljamain Sterling (Funk Master)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cb696ebfb6598724",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Youssef Zalal (The Moroccan Devil)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/52c2ae6d2f2d2613",
-          "division_ranking": "7"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Norma Dumont (The Immortal)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
-          "division_ranking": "3"
-        },
-        "fighter2": {
-          "name": "Joselyne Edwards (La Pantera)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f9ab66e67240db7b",
-          "division_ranking": "11"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rafa Garcia (Gifted)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alexander Hernandez (El Gran Chango)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/262a7d06203657e6",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Davey Grant (Dangerous)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Adrian Luna Martinetti",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e3b30b573e7f0d19",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Montel Jackson (Quik)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Raoni Barcelos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marcus Buchecha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/095854a135e6db55",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ryan Spann (Superman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rodolfo Vieira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Eric McConico",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jackson McVey (The Moose)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sedriques Dumas (The Reaper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mayra Bueno Silva (Sheetara)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Michelle Montague (The Wild One)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ca80d72da81d7224",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jafel Filho (Pastor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cody Durden (Custom Made)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Francis Marshall (Fire)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Lucas Brennan",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/33a8708747b7f943",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Max Griffin (Pain)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b0d6a1d8ac3d563d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Victor Valenzuela",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/078695e385ec2f57",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Talita Alencar (Problem Child)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d35298b6df168456",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Julia Polastri (Psycho)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "02-05-2026": {
     "date": "02-05-2026",
     "name": "UFC Fight Night: Della Maddalena vs. Prates",
@@ -256,8 +67,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Sean Sharaf (The Smoke)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+          "name": "Louie Sutherland (Vanilla Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
@@ -321,7 +132,7 @@
       },
       {
         "fighter1": {
-          "name": "Benjamin Johnston",
+          "name": "Ben Johnston",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3261aa79bf6caa64",
           "division_ranking": ""
         },
@@ -440,20 +251,6 @@
       },
       {
         "fighter1": {
-          "name": "Jan Blachowicz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Bogdan Guskov (Hitman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "10"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Ateba Gautier (The Storm)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2f815ed5f8278ba6",
           "division_ranking": ""
@@ -482,6 +279,20 @@
       },
       {
         "fighter1": {
+          "name": "Grant Dawson (KGD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mateusz Rebecki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Roman Kopylov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
           "division_ranking": ""
@@ -492,6 +303,20 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Pat Sabatini",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b8bbdeff718dbb7d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "William Gomis (Jaguar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e1d40e8782d80bc2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -521,20 +346,6 @@
         },
         "weightClass": "Flyweight",
         "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Grant Dawson (KGD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mateusz Rebecki",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
       }
     ]
   },
@@ -556,104 +367,6 @@
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Shauna Bannon (Mama B)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9c442aaf149ea982",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nicolle Caliari",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ketlen Vieira (Fenomeno)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9706f80d005036c",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Jacqueline Cavalcanti",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635",
-          "division_ranking": "10"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Daniel Barez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e8fe9c15d348e778",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Gurule (Grim)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Timmy Cuamba (Twilight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Benardo Sopaj (Lion King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b6c37948cb226e8c",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tuco Tokkos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3e8118c1ab52f211",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ivan Erslan",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64ad3e3b0efa30bb",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Modestas Bukauskas (The Baltic Gladiator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Rodolfo Bellato (Trator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alice Ardelean",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Polyana Viana (Dama de Ferro)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9673a497a9da119a",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -685,6 +398,34 @@
       },
       {
         "fighter1": {
+          "name": "Modestas Bukauskas (The Baltic Gladiator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rodolfo Bellato (Trator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Timmy Cuamba (Twilight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Benardo Sopaj (Lion King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b6c37948cb226e8c",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Jeremiah Wells",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353",
           "division_ranking": ""
@@ -695,6 +436,20 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tuco Tokkos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3e8118c1ab52f211",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ivan Erslan",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64ad3e3b0efa30bb",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -713,6 +468,20 @@
       },
       {
         "fighter1": {
+          "name": "Ketlen Vieira (Fenomeno)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9706f80d005036c",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Jacqueline Cavalcanti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635",
+          "division_ranking": "10"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Cody Brundage",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
           "division_ranking": ""
@@ -723,6 +492,48 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alice Ardelean",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Polyana Viana (Dama de Ferro)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9673a497a9da119a",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Daniel Barez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e8fe9c15d348e778",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Luis Gurule (Grim)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Shauna Bannon (Mama B)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9c442aaf149ea982",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nicolle Caliari",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
@@ -748,20 +559,6 @@
       },
       {
         "fighter1": {
-          "name": "Sergei Pavlovich",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f14cf73e51b29254",
-          "division_ranking": "3"
-        },
-        "fighter2": {
-          "name": "Tallison Teixeira (Xicao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "division_ranking": "13"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Zhang Mingyang (Mountain Tiger)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/8a65fd9ba31fd3f7",
           "division_ranking": ""
@@ -776,72 +573,16 @@
       },
       {
         "fighter1": {
-          "name": "Alex Perez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
-          "division_ranking": "10"
+          "name": "Sergei Pavlovich",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f14cf73e51b29254",
+          "division_ranking": "3"
         },
         "fighter2": {
-          "name": "Sumudaerji (The Tibetan Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
-          "division_ranking": ""
+          "name": "Tallison Teixeira (Xicao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
+          "division_ranking": "13"
         },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Loma Lookboonmee",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30e4250cb08b61",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jaqueline Amorim",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Yi Sak Lee",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e6666480a830f764",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Felipe Dias",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/33a86e839ad202d8",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rei Tsuruya",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jesus Aguilar",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Aoriqileng (The Mongolian Murderer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d420039bbfe7c1a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cody Haddon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e6654e9f0461b8f",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -860,16 +601,16 @@
       },
       {
         "fighter1": {
-          "name": "Angela Hill (Overkill)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f0feeb2192937424",
-          "division_ranking": "14"
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+          "division_ranking": "10"
         },
         "fighter2": {
-          "name": "Xiong Jingnan",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2cdb479a0ef0ee1d",
+          "name": "Sumudaerji (The Tibetan Eagle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
           "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -884,6 +625,76 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Yi Sak Lee",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e6666480a830f764",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Luis Felipe Dias",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/33a86e839ad202d8",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Aoriqileng (The Mongolian Murderer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d420039bbfe7c1a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Cody Haddon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e6654e9f0461b8f",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Rei Tsuruya",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jesus Aguilar",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Angela Hill (Overkill)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f0feeb2192937424",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Xiong Jingnan",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2cdb479a0ef0ee1d",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Loma Lookboonmee",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30e4250cb08b61",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jaqueline Amorim",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
@@ -961,6 +772,104 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Brendan Allen (All In)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2f181c0467965b98",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Edmen Shahbazyan (The Golden Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bryce Mitchell (Thug Nasty)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d9c6f19f958643e9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Victor Henry (La Mangosta)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eb8d8c2a95cfccb8",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marcus McGhee (The Maniac)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c0ac37a4a1133da9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jakub Wiklacz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6902fcf0610dd303",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jordan Leavitt (The Monkey King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ac026518a9b4dc0f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Joanderson Brito (Tubarao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Fares Ziam (The Smile Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Tom Nolan (Big Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ketlen Souza (Esquentadinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ariane Carnelossi (Sorriso)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c0d5c0c95c59050b",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Priscila Cachoeira (Zombie Girl)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Chelsea Chandler",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
       }
     ]
