@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_date": "2 de mayo de 2026",
+  "event_date_iso": "2026-05-02",
+  "fight": {
+    "fighter_a": "Beneil Dariush",
+    "fighter_b": "Quillan Salkilld",
+    "prediction": "Quillan Salkilld",
+    "confidence": 89,
+    "stats": {
+      "striking": 99,
+      "grappling": 64,
+      "pace": 79
+    },
+    "method": "KO/TKO",
+    "method_prob": 86,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 75,
+    "raw_fighter_a": "Beneil Dariush",
+    "raw_fighter_b": "Quillan Salkilld",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": "Lightweight"
+  },
+  "sections_es": {
+    "intro": "Análisis no disponible.",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en el **peso ligero** presenta una dinámica interesante entre la experiencia y la forma física reciente. **Beneil Dariush**, clasificado como el **#12 del ranking**, llega con un récord total de carrera de **23-7-1**. Sin embargo, su racha en los últimos 36 meses muestra una vulnerabilidad crítica: **1-3-0**, una métrica que incluye **3 derrota(s)** consecutivas en su historial reciente. En contraste, **Quillan Salkilld**, quien carece de posición oficial en el top 15, demuestra una consistencia absoluta con un registro de **4-0-0** en sus cuatro encuentros más recientes.\n\nLa diferencia en el estado físico reciente sugiere que el ritmo del encuentro podría favorecer a Salkilld, quien mantiene una racha impecable mientras Dariush enfrenta la presión de superar un periodo negativo. Aunque Dariush aporta una base de **23 victorias** en su carrera profesional, la ausencia de victorias en su último tramo de actividad contrasta con la invencibilidad de su oponente en el mismo periodo. La estadística de **4-0-0** para Salkilld indica que su equipo y él han encontrado una fórmula de éxito constante, mientras que Dariush busca reactivar su nivel anterior."
+    ],
+    "quick_reads": [
+      "**Quillan Salkilld** encabeza la proyección con un **89%** de ventaja decisiva.\nEl **peso ligero** se define por un método de finalización probable: **KO/TKO**.\nEste duelo enfrenta a un **#12 del ranking** contra un rival **4-0-0** en el tramo reciente."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a Quillan Salkilld con un 89% de probabilidad.\nPor separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": "Análisis no disponible."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_date": "2 de mayo de 2026",
+  "event_date_iso": "2026-05-02",
+  "fight": {
+    "fighter_a": "Jacob Malkoun",
+    "fighter_b": "Gerald Meerschaert",
+    "prediction": "Jacob Malkoun",
+    "confidence": 89,
+    "stats": {
+      "striking": 81,
+      "grappling": 81,
+      "pace": 96
+    },
+    "method": "Decision",
+    "method_prob": 71,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 88,
+    "raw_fighter_a": "Jacob Malkoun (Mamba)",
+    "raw_fighter_b": "Gerald Meerschaert (GM3)",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": "Middleweight"
+  },
+  "sections_es": {
+    "intro": "Análisis no disponible.",
+    "breakdowns": [
+      "(COMBATE):\nJacob Malkoun, quien opera sin ranking oficial en top 15, presenta un récord total de carrera de **9-3-0** y una racha reciente de **2-1-0** en los últimos 36 meses. Su perfil de combate destaca por un ritmo excepcional de **96/100**, lo que sugiere una capacidad de presión ininterrumpida que podría saturar a su oponente.\n\nPor otro lado, Gerald Meerschaert también se encuentra fuera del top 15 con un histórico de **37-21-0**. Sin embargo, su forma reciente muestra una tendencia preocupante de **2-5-0** en el último año, acumulando **5 derrotas** consecutivas en sus últimos siete encuentros. La diferencia en consistencia reciente entre ambos contendientes podría ser el factor determinante en este enfrentamiento de alto nivel."
+    ],
+    "quick_reads": [
+      "El radar favorece a **Jacob Malkoun** con un **89%** de probabilidad.\nPor separado, el método más probable de finalización es **Decision**, independientemente de quién gane.\nEste duelo de **Middleweight** promete alto ritmo y presión constante."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a Jacob Malkoun con un 89% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": "Análisis no disponible."
+  }
+}

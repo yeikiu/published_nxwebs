@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_date": "2 de mayo de 2026",
+  "event_date_iso": "2026-05-02",
+  "fight": {
+    "fighter_a": "Jack Della Maddalena",
+    "fighter_b": "Carlos Prates",
+    "prediction": "Carlos Prates",
+    "confidence": 89,
+    "stats": {
+      "striking": 99,
+      "grappling": 64,
+      "pace": 79
+    },
+    "method": "KO/TKO",
+    "method_prob": 79,
+    "duration": "OVER 3.5 rounds",
+    "duration_prob": 46,
+    "raw_fighter_a": "Jack Della Maddalena",
+    "raw_fighter_b": "Carlos Prates (The Nightmare)",
+    "rounds": 5,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": "Welterweight"
+  },
+  "sections_es": {
+    "intro": "Análisis no disponible.",
+    "breakdowns": [
+      "(MAIN EVENT):\nLa presión de la posición número uno recae sobre **Jack Della Maddalena**, quien llega con un récord total de carrera de **18-3-0**. Sin embargo, su forma reciente en los últimos 36 meses muestra una vulnerabilidad crítica: **4-1-0** en cinco encuentros, un tramo que incluye una **derrota** que no puede ser ignorada. Esa sola caída reciente podría ser el factor determinante para **Carlos Prates**, el retador con un historial mucho más consistente en el periodo actual de **6-1-0** en siete peleas.\n\nLa estadística de golpeo de **99/100** sugiere que la violencia del intercambio será el protagonista, independientemente de quién controle el ritmo. Aunque **Jack Della Maddalena** aporta un nivel de lucha del **64/100**, la dinámica de este combate apunta hacia un desenlace explosivo. **Carlos Prates** demuestra una resiliencia superior con solo una derrota en su tramo reciente, lo que le otorga la ventaja decisiva en este enfrentamiento de alto nivel."
+    ],
+    "quick_reads": [
+      "El radar favorece a **Carlos Prates** con un **89%** de probabilidad.\nLa vía más probable de finalización es **KO/TKO**.\nEste duelo enfrenta al **#1 del ranking peso wélter** contra al **#5 del ranking peso wélter**."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a **Carlos Prates** con un **89%** de probabilidad.\nPor separado, el método más probable de finalización es **KO/TKO**, independientemente de quién gane."
+    ],
+    "conclusion": "Análisis no disponible."
+  }
+}

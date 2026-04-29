@@ -2,12 +2,12 @@
   "event": "UFC Fight Night: Della Maddalena vs. Prates",
   "event_date": "2 de mayo de 2026",
   "event_date_iso": "2026-05-02",
-  "generated_at": "2026-04-28T23:32:06Z",
+  "generated_at": "2026-04-29T17:57:11Z",
   "locales": [
     "en",
     "es",
-    "pt",
-    "fr"
+    "fr",
+    "pt"
   ],
   "fights": [
     {
@@ -16,8 +16,8 @@
       "slug_a": "jack-della-maddalena",
       "slug_b": "carlos-prates",
       "files": {
-        "en": "newsletter/2026-05-02/en/newsletter_jack-della-maddalena_vs_carlos-prates.html",
         "es": "newsletter/2026-05-02/es/newsletter_jack-della-maddalena_vs_carlos-prates.html",
+        "en": "newsletter/2026-05-02/en/newsletter_jack-della-maddalena_vs_carlos-prates.html",
         "pt": "newsletter/2026-05-02/pt/newsletter_jack-della-maddalena_vs_carlos-prates.html",
         "fr": "newsletter/2026-05-02/fr/newsletter_jack-della-maddalena_vs_carlos-prates.html"
       }
@@ -28,8 +28,8 @@
       "slug_a": "beneil-dariush",
       "slug_b": "quillan-salkilld",
       "files": {
-        "en": "newsletter/2026-05-02/en/newsletter_beneil-dariush_vs_quillan-salkilld.html",
         "es": "newsletter/2026-05-02/es/newsletter_beneil-dariush_vs_quillan-salkilld.html",
+        "en": "newsletter/2026-05-02/en/newsletter_beneil-dariush_vs_quillan-salkilld.html",
         "pt": "newsletter/2026-05-02/pt/newsletter_beneil-dariush_vs_quillan-salkilld.html",
         "fr": "newsletter/2026-05-02/fr/newsletter_beneil-dariush_vs_quillan-salkilld.html"
       }
@@ -40,8 +40,8 @@
       "slug_a": "tim-elliott",
       "slug_b": "steve-erceg",
       "files": {
-        "en": "newsletter/2026-05-02/en/newsletter_tim-elliott_vs_steve-erceg.html",
         "es": "newsletter/2026-05-02/es/newsletter_tim-elliott_vs_steve-erceg.html",
+        "en": "newsletter/2026-05-02/en/newsletter_tim-elliott_vs_steve-erceg.html",
         "pt": "newsletter/2026-05-02/pt/newsletter_tim-elliott_vs_steve-erceg.html",
         "fr": "newsletter/2026-05-02/fr/newsletter_tim-elliott_vs_steve-erceg.html"
       }
@@ -52,8 +52,8 @@
       "slug_a": "jacob-malkoun",
       "slug_b": "gerald-meerschaert",
       "files": {
-        "en": "newsletter/2026-05-02/en/newsletter_jacob-malkoun_vs_gerald-meerschaert.html",
         "es": "newsletter/2026-05-02/es/newsletter_jacob-malkoun_vs_gerald-meerschaert.html",
+        "en": "newsletter/2026-05-02/en/newsletter_jacob-malkoun_vs_gerald-meerschaert.html",
         "pt": "newsletter/2026-05-02/pt/newsletter_jacob-malkoun_vs_gerald-meerschaert.html",
         "fr": "newsletter/2026-05-02/fr/newsletter_jacob-malkoun_vs_gerald-meerschaert.html"
       }
