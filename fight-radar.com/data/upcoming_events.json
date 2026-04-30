@@ -307,6 +307,20 @@
       },
       {
         "fighter1": {
+          "name": "Jim Miller (A-10)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jared Gordon (Flash)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Roman Kopylov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
           "division_ranking": ""
@@ -709,6 +723,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Zhu Kangjie",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6f4ec5aa3eced219",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ramon Taveras (The Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c5ccd878231c5407",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]

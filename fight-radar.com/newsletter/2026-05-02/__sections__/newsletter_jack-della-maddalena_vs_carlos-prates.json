@@ -8,33 +8,33 @@
     "prediction": "Carlos Prates",
     "confidence": 89,
     "stats": {
-      "striking": 99,
-      "grappling": 64,
-      "pace": 79
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
     },
-    "method": "KO/TKO",
+    "method": "KO / TKO",
     "method_prob": 79,
     "duration": "OVER 3.5 rounds",
     "duration_prob": 46,
     "raw_fighter_a": "Jack Della Maddalena",
-    "raw_fighter_b": "Carlos Prates (The Nightmare)",
-    "rounds": 5,
+    "raw_fighter_b": "Carlos Prates",
+    "rounds": 3,
     "has_prediction": true,
     "card_label": "MAIN EVENT",
     "is_women": false,
-    "division": "Welterweight"
+    "division": ""
   },
   "sections_es": {
-    "intro": "Análisis no disponible.",
+    "intro": "",
     "breakdowns": [
-      "(MAIN EVENT):\nLa presión de la posición número uno recae sobre **Jack Della Maddalena**, quien llega con un récord total de carrera de **18-3-0**. Sin embargo, su forma reciente en los últimos 36 meses muestra una vulnerabilidad crítica: **4-1-0** en cinco encuentros, un tramo que incluye una **derrota** que no puede ser ignorada. Esa sola caída reciente podría ser el factor determinante para **Carlos Prates**, el retador con un historial mucho más consistente en el periodo actual de **6-1-0** en siete peleas.\n\nLa estadística de golpeo de **99/100** sugiere que la violencia del intercambio será el protagonista, independientemente de quién controle el ritmo. Aunque **Jack Della Maddalena** aporta un nivel de lucha del **64/100**, la dinámica de este combate apunta hacia un desenlace explosivo. **Carlos Prates** demuestra una resiliencia superior con solo una derrota en su tramo reciente, lo que le otorga la ventaja decisiva en este enfrentamiento de alto nivel."
+      "(MAIN EVENT)\nEste combate entre el <strong>#1 del ranking peso wélter</strong> y el <strong>#5 del ranking peso wélter</strong> promete definir la cumbre de la división. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jack+Della+Maddalena\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jack Della Maddalena</a> muestra una forma reciente de <strong>4-1-0</strong> en los últimos 36 meses, aunque su historial reciente incluye una <strong>derrota</strong> que no se debe omitir. Por su parte, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a> mantiene una racha impecable con <strong>6 victorias</strong> y solo <strong>1 derrota</strong> en el mismo periodo. La estadística indica que el peleador con más empates en su historial reciente es el favorito para cerrar la pelea.\nLa dinámica de este duelo divisional dependerá de la gestión del ritmo. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jack+Della+Maddalena\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jack Della Maddalena</a> aporta un golpeo de <strong>99/100</strong> y un ritmo de <strong>79/100</strong>, mientras que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a> cuenta con una base de lucha de <strong>64/100</strong>. La probabilidad de finalización por KO/TKO es alta, lo que sugiere que cualquier error en el intercambio de golpes podría resultar en un desenlace rápido. La presencia de una <strong>derrota</strong> reciente en el historial de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jack+Della+Maddalena\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jack Della Maddalena</a> contrasta con la consistencia de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a>, quien ha acumulado siete victorias seguidas en su tramo más reciente."
     ],
     "quick_reads": [
-      "El radar favorece a **Carlos Prates** con un **89%** de probabilidad.\nLa vía más probable de finalización es **KO/TKO**.\nEste duelo enfrenta al **#1 del ranking peso wélter** contra al **#5 del ranking peso wélter**."
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jack+Della+Maddalena\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jack Della Maddalena</a> llega como el <strong>#1 del ranking peso wélter</strong> con un récord de <strong>18-3-0</strong>.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a> se presenta como el <strong>#5 del ranking peso wélter</strong> con un récord de <strong>23-7-0</strong>.\nEl radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a></strong> para imponerse con un <strong>89%</strong> de confianza."
     ],
     "fight_conclusions": [
-      "El radar favorece a **Carlos Prates** con un **89%** de probabilidad.\nPor separado, el método más probable de finalización es **KO/TKO**, independientemente de quién gane."
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Carlos+Prates+%28The+Nightmare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Carlos Prates</a> con un 89% de probabilidad.\nPor separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
     ],
-    "conclusion": "Análisis no disponible."
+    "conclusion": ""
   }
 }

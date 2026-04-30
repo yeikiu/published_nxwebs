@@ -8,33 +8,33 @@
     "prediction": "Jacob Malkoun",
     "confidence": 89,
     "stats": {
-      "striking": 81,
-      "grappling": 81,
-      "pace": 96
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
     },
-    "method": "Decision",
+    "method": "DECISIÓN",
     "method_prob": 71,
     "duration": "OVER 1.5 rounds",
     "duration_prob": 88,
-    "raw_fighter_a": "Jacob Malkoun (Mamba)",
-    "raw_fighter_b": "Gerald Meerschaert (GM3)",
+    "raw_fighter_a": "Jacob Malkoun",
+    "raw_fighter_b": "Gerald Meerschaert",
     "rounds": 3,
     "has_prediction": true,
     "card_label": "COMBATE",
     "is_women": false,
-    "division": "Middleweight"
+    "division": ""
   },
   "sections_es": {
-    "intro": "Análisis no disponible.",
+    "intro": "",
     "breakdowns": [
-      "(COMBATE):\nJacob Malkoun, quien opera sin ranking oficial en top 15, presenta un récord total de carrera de **9-3-0** y una racha reciente de **2-1-0** en los últimos 36 meses. Su perfil de combate destaca por un ritmo excepcional de **96/100**, lo que sugiere una capacidad de presión ininterrumpida que podría saturar a su oponente.\n\nPor otro lado, Gerald Meerschaert también se encuentra fuera del top 15 con un histórico de **37-21-0**. Sin embargo, su forma reciente muestra una tendencia preocupante de **2-5-0** en el último año, acumulando **5 derrotas** consecutivas en sus últimos siete encuentros. La diferencia en consistencia reciente entre ambos contendientes podría ser el factor determinante en este enfrentamiento de alto nivel."
+      "(COMBATE):\nEn este combate del peso medio, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jacob+Malkoun+%28Mamba%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacob Malkoun</a></strong> se enfrenta a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a></strong> en un duelo que promete ser de alto nivel. El peleador con récord de <strong>9-3-0</strong> muestra una consistencia notable en los últimos 36 meses, registrando <strong>2 victorias y 1 derrota</strong>. Por otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a></strong>, quien ostenta un récord histórico de <strong>37-21-0</strong>, atraviesa un momento crítico con un balance reciente de solo <strong>2 victorias frente a 5 derrotas</strong>. La diferencia en la forma actual es evidente, donde el oponente de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jacob+Malkoun+%28Mamba%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacob Malkoun</a> ha logrado imponerse en tres ocasiones consecutivas, mientras que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a> ha sufrido tres caídas seguidas en su último tramo."
     ],
     "quick_reads": [
-      "El radar favorece a **Jacob Malkoun** con un **89%** de probabilidad.\nPor separado, el método más probable de finalización es **Decision**, independientemente de quién gane.\nEste duelo de **Middleweight** promete alto ritmo y presión constante."
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jacob+Malkoun+%28Mamba%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacob Malkoun</a> llega con un récord total de <strong>9-3-0</strong> y una forma reciente de <strong>2-1-0</strong>.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a> presenta un historial de <strong>37-21-0</strong> pero con una racha difícil de <strong>2-5-0</strong>.\nEl radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jacob+Malkoun+%28Mamba%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacob Malkoun</a></strong> con un <strong>89%</strong> de probabilidad de victoria."
     ],
     "fight_conclusions": [
-      "El radar favorece a Jacob Malkoun con un 89% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jacob+Malkoun+%28Mamba%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacob Malkoun</a> con un 89% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
     ],
-    "conclusion": "Análisis no disponible."
+    "conclusion": ""
   }
 }

@@ -8,33 +8,33 @@
     "prediction": "Tim Elliott",
     "confidence": 79,
     "stats": {
-      "striking": 71,
-      "grappling": 71,
-      "pace": 86
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
     },
-    "method": "Decision",
+    "method": "DECISIÓN",
     "method_prob": 71,
     "duration": "OVER 1.5 rounds",
     "duration_prob": 91,
     "raw_fighter_a": "Tim Elliott",
-    "raw_fighter_b": "Steve Erceg (Astroboy)",
+    "raw_fighter_b": "Steve Erceg",
     "rounds": 3,
     "has_prediction": true,
     "card_label": "COMBATE",
     "is_women": false,
-    "division": "Flyweight"
+    "division": ""
   },
   "sections_es": {
-    "intro": "Análisis no disponible.",
+    "intro": "",
     "breakdowns": [
-      "(COMBATE):\nEste combate en la división de peso mosca promete ser un duelo de alto nivel entre dos contendientes de élite. **Tim Elliott**, el **#11 del ranking peso mosca**, presenta un récord total de carrera de **22-13-1** y muestra una forma reciente sólida con **3 victorias, 1 derrota y 0 empates** en sus últimos 36 meses. Su ritmo se sitúa en **86/100**, lo que sugiere un peleador que busca imponer su velocidad en las primeras etapas del combate.\n\nPor su parte, **Steve Erceg**, clasificado como el **#12 del ranking peso mosca**, cuenta con un historial de **13-4-0** en su trayectoria. Su forma actual es de **4 victorias, 3 derrotas y 0 empates** en el periodo de tres años, lo que incluye **3 derrota(s)** recientes que el análisis debe considerar sin omitir ninguna cifra. Con un nivel de golpeo y lucha de **71/100**, el **#12 del ranking peso mosca** se presenta como un oponente físico equilibrado que no subestimará la resistencia del favorito."
+      "(COMBATE):\nEste combate de Flyweight enfrenta a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tim+Elliott\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tim Elliott</a></strong>, el <strong>#11 del ranking</strong>, contra <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Steve+Erceg+%28Astroboy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Steve Erceg</a></strong>, el <strong>#12 del ranking</strong>. Ambos contendientes muestran un nivel técnico equilibrado, con puntuaciones de golpeo y lucha idénticas de <strong>71/100</strong>. La diferencia clave reside en la consistencia reciente: <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tim+Elliott\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tim Elliott</a></strong> ha mantenido un registro impecable de <strong>3-1-0</strong> en sus últimas cuatro peleas, mientras que <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Steve+Erceg+%28Astroboy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Steve Erceg</a></strong> ha acumulado <strong>3 derrotas</strong> en su tramo de 36 meses, aunque su récord total de carrera es de <strong>13-4-0</strong>. La velocidad y el ritmo son factores decisivos, con ambos mostrando un <strong>86/100</strong> en ese aspecto."
     ],
     "quick_reads": [
-      "**Tim Elliott** lidera el enfrentamiento con un 79% de probabilidad.\n**Steve Erceg** busca su oportunidad tras una racha reciente de 4-3-0.\nEl radar apunta a una **Decision** como desenlace más probable."
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tim+Elliott\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tim Elliott</a></strong> llega como el favorito con un <strong>79%</strong> de probabilidad de victoria.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Steve+Erceg+%28Astroboy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Steve Erceg</a> enfrenta una racha reciente de <strong>4-3-0</strong> en los últimos 36 meses.\nEl método más probable de finalización es <strong>Decision</strong>, independientemente del resultado."
     ],
     "fight_conclusions": [
-      "El radar favorece a Tim Elliott con un 79% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tim+Elliott\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tim Elliott</a> con un 79% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
     ],
-    "conclusion": "Análisis no disponible."
+    "conclusion": ""
   }
 }
