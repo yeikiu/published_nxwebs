@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/published_nxwebs/fight-radar.com/sw.js', { scope: '/published_nxwebs/fight-radar.com/' })})}
