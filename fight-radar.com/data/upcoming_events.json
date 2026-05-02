@@ -1,193 +1,4 @@
 {
-  "02-05-2026": {
-    "date": "02-05-2026",
-    "name": "UFC Fight Night: Della Maddalena vs. Prates",
-    "location": "Perth, Western Australia, Australia",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Jack Della Maddalena",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b453bc35a823c3f",
-          "division_ranking": "1"
-        },
-        "fighter2": {
-          "name": "Carlos Prates (The Nightmare)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7ee0fd831c0fe7c3",
-          "division_ranking": "5"
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Beneil Dariush",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/08af939f41b5a57b",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Quillan Salkilld",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tim Elliott",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Steve Erceg (Astroboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
-          "division_ranking": "12"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marwan Rahiki (Freaky)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ollie Schmid",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b701f095e6ccb149",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Shamil Gaziev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Brando Pericic (The Balkan Bear)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tai Tuivasa (Bam Bam)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Louie Sutherland (Vanilla Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cam Rowston",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Robert Bryczek",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Junior Tafa (The Juggernaut)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kevin Christian",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7e9b36a9847db116",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jacob Malkoun (Mamba)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Gerald Meerschaert (GM3)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Colby Thicknesse (Slickness)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Vince Morales (Vandetta)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/37098a6e6c27fb66",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ben Johnston",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3261aa79bf6caa64",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Wes Schultz (Party Time)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jonathan Micallef (The Captain)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Themba Gorimbo (The Answer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dom Mar Fan (Street Buddha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kody Steele",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "09-05-2026": {
     "date": "09-05-2026",
     "name": "UFC 328: Chimaev vs. Strickland",
@@ -1023,9 +834,23 @@
   },
   "20-06-2026": {
     "date": "20-06-2026",
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Kape vs. Horiguchi",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Manel Kape (StarBoy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Kyoji Horiguchi (Karate Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "division_ranking": "5"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Allan Nascimento (Puro Osso)",
@@ -1038,7 +863,63 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ion Cutelaba (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd13728ae1151f46",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Navajo Stirling",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Andre Lima (Mascote)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kevin Borjas (El Gallo Negro)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/34b96d52db1d26e6",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Hyder Amil (The Hurricane)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/41cc71cbf210e0fe",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Christian Rodriguez (Ceerod)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5ec591b78349ba7e",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bia Mesquita (The Lady GOAT)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Melissa Mullins (No Mess)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bd532e9a2b93870c",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
