@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Roman Kopylov",
+    "fighter_b": "Marco Tulio",
+    "prediction": "Marco Tulio",
+    "confidence": 51,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "KO / TKO",
+    "method_prob": 86,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 70,
+    "raw_fighter_a": "Roman Kopylov",
+    "raw_fighter_b": "Marco Tulio",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en peso medio enfrenta a dos perfiles distintos dentro de la división. <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Roman+Kopylov\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Roman Kopylov</a></strong>, quien opera sin ranking oficial en top 15, presenta un récord total de carrera de <strong>14-5-0</strong>. Su forma reciente en los últimos 36 meses muestra una racha de <strong>4-3-0</strong>, lo que incluye <strong>3 derrota(s)</strong> que no deben pasarse por alto al evaluar su consistencia actual. Por otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong>, también sin posición en el top 15, mantiene un historial impecable de <strong>14-2-0</strong> en toda su carrera. En su tramo reciente, el peleador ha registrado <strong>2-1-0</strong> en tres enfrentamientos, demostrando una solidez que contrasta con las inconsistencias de su rival.\nLa dinámica del duelo sugiere un alto potencial de finalización temprana. Las métricas indican un golpeo de <strong>67/100</strong> frente a una lucha de <strong>30/100</strong>, lo que apunta a un desenlace violento. A pesar de que <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Roman+Kopylov\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Roman Kopylov</a></strong> podría aprovechar su ritmo de <strong>41/100</strong> para complicar las cosas, la eficiencia defensiva y el poder de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong> parecen ser factores determinantes. La estadística de los últimos tres años de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong> refuerza la idea de que su capacidad para cerrar combates es superior a la de su oponente en este momento específico."
+    ],
+    "quick_reads": [
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a> llega con un récord total de carrera de <strong>14-2-0</strong>.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Roman+Kopylov\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Roman Kopylov</a> enfrenta un historial de <strong>14-5-0</strong> en su trayectoria.\nEl radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong> con un <strong>51%</strong> de probabilidad."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a> con un 51% de probabilidad.\nPor separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

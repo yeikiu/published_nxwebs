@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Pat Sabatini",
+    "fighter_b": "William Gomis",
+    "prediction": "Pat Sabatini",
+    "confidence": 52,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 94,
+    "raw_fighter_a": "Pat Sabatini",
+    "raw_fighter_b": "William Gomis",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEl radar detecta una clara superioridad táctica en el <strong>Ritmo</strong> para <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Pat+Sabatini\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pat Sabatini</a></strong>, quien registra una puntuación de <strong>62/100</strong> frente a los <strong>44/100</strong> de su rival. Aunque ambos combatientes carecen de posición oficial en el top 15, la consistencia reciente de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Pat+Sabatini\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pat Sabatini</a></strong> es notable: en los últimos 36 meses ha acumulado <strong>4 victorias y 1 derrota (4-1-0)</strong>, manteniendo una racha de actividad constante con resultados como la victoria el 15-11-2025 y la derrota el 11-11-2023. Por otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=William+Gomis+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">William Gomis</a></strong> presenta un historial total de <strong>15-3-0</strong>, pero su forma reciente muestra una vulnerabilidad específica con una sola caída en el mismo periodo (<strong>3-1-0</strong>), incluyendo la pérdida el 01-03-2025. La dinámica de este encuentro en <strong>peso pluma</strong> dependerá de cómo <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=William+Gomis+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">William Gomis</a></strong> pueda gestionar la presión del oponente, quien ha mostrado una capacidad de mantener el ritmo en sus cinco encuentros más recientes."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Pat+Sabatini\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pat Sabatini</a></strong> lidera la proyección con un <strong>52%</strong> de ventaja.\nLa <strong>Decision</strong> se perfila como el desenlace más probable.\nEste duelo en <strong>peso pluma</strong> promete alta intensidad."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Pat+Sabatini\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pat Sabatini</a> con un 52% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

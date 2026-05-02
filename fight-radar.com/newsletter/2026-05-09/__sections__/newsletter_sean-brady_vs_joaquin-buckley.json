@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Sean Brady",
+    "fighter_b": "Joaquin Buckley",
+    "prediction": "Joaquin Buckley",
+    "confidence": 89,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "KO / TKO",
+    "method_prob": 86,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 78,
+    "raw_fighter_a": "Sean Brady",
+    "raw_fighter_b": "Joaquin Buckley",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sean+Brady\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sean Brady</a>, <strong>#6 del ranking peso wélter</strong>, llega a este duelo con un récord total de carrera de <strong>18-2-0</strong>. Sin embargo, su racha reciente muestra vulnerabilidad, con un balance de <strong>3-1-0</strong> en los últimos 36 meses que incluye una derrota reciente. Su golpeo se valora alto, pero la consistencia reciente es clave para mantenerse en pie.\nPor otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Joaquin+Buckley+%28New+Mansa%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Joaquin Buckley</a></strong> presenta una forma en ascenso con un récord reciente de <strong>6-1-0</strong> en su último tramo de 36 meses, mostrando una resistencia superior a la del oponente. Aunque su récord total es de <strong>21-7-0</strong>, su capacidad para imponerse en las últimas peleas sugiere una ventaja táctica decisiva. La estadística de golpeo del evento favorece claramente a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Joaquin+Buckley+%28New+Mansa%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Joaquin Buckley</a>, lo que podría ser determinante si la pelea se decide antes de la tercera ronda."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Joaquin+Buckley+%28New+Mansa%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Joaquin Buckley</a></strong> lidera el análisis con un 89% de probabilidad de victoria.\nEl método más probable de finalización es <strong>KO/TKO</strong> en un combate de tres rondas.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sean+Brady\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sean Brady</a> enfrenta un reto directo en el <strong>peso wélter</strong> contra el #9 del ranking."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Joaquin+Buckley+%28New+Mansa%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Joaquin Buckley</a> con un 89% de probabilidad.\nPor separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

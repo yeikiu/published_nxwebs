@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Jim Miller",
+    "fighter_b": "Jared Gordon",
+    "prediction": "Jim Miller",
+    "confidence": 52,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 72,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 75,
+    "raw_fighter_a": "Jim Miller",
+    "raw_fighter_b": "Jared Gordon",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste duelo en <strong>peso ligero</strong> presenta un choque entre dos contendientes sin posición en la clasificación oficial. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a>, con un historial de <strong>38-19-0</strong>, muestra una resiliencia notable en su última racha de tres años, donde acumuló <strong>3 victorias y 2 derrotas</strong> en un total de cinco combates. Por su parte, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jared+Gordon+%28Flash%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jared Gordon</a>, con un récord de <strong>21-8-0</strong>, ha experimentado una mayor inestabilidad reciente, registrando <strong>2 victorias y 2 derrotas</strong> en el mismo periodo. La estadística de golpeo para ambos es baja, mientras que la habilidad de lucha es el aspecto central de este enfrentamiento, con un valor de <strong>65/100</strong> que sugiere un combate de grappling intensivo. La dinámica de ritmo se sitúa en <strong>42/100</strong>, lo que indica un intercambio técnico más que un bombardeo de golpes."
+    ],
+    "quick_reads": [
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a>, sin ranking oficial, llega con un récord total de <strong>38-19-0</strong>.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jared+Gordon+%28Flash%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jared Gordon</a>, también fuera del top 15, cuenta con <strong>21-8-0</strong> en su historial.\nEl radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a></strong> con un <strong>52%</strong> de probabilidad de victoria."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a> con un 52% de probabilidad.\nPor separado, el método más probable de finalización es Submission, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

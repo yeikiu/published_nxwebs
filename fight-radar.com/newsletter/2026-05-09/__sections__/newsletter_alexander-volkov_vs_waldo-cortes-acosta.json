@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Alexander Volkov",
+    "fighter_b": "Waldo Cortes Acosta",
+    "prediction": "Waldo Cortes Acosta",
+    "confidence": 89,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "DECISIÓN",
+    "method_prob": 76,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "Alexander Volkov",
+    "raw_fighter_b": "Waldo Cortes Acosta",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate enfrenta a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexander+Volkov+%28Drago%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexander Volkov</a></strong>, el <strong>#2 del ranking peso pesado</strong>, contra a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Waldo+Cortes+Acosta+%28Salsa+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Waldo Cortes Acosta</a></strong>, el <strong>#4 del ranking peso pesado</strong>. Ambos son contendientes de élite sin ser campeones. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexander+Volkov+%28Drago%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexander Volkov</a> presenta un récord total de carrera de <strong>39-11-0</strong>, mientras que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Waldo+Cortes+Acosta+%28Salsa+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Waldo Cortes Acosta</a> luce un historial de <strong>17-2-0</strong>.\nEn el tramo reciente, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexander+Volkov+%28Drago%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexander Volkov</a> muestra una forma mixta con <strong>3 victorias, 1 derrota y 0 empates</strong> en sus últimos cuatro encuentros. Es vital notar esa <strong>1 derrota</strong> reciente en su historial de los últimos 36 meses. Por su parte, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Waldo+Cortes+Acosta+%28Salsa+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Waldo Cortes Acosta</a> ha demostrado una racha más consistente con <strong>8 victorias, 1 derrota y 0 empates</strong> en sus nueve peleas recientes. La estadística reciente de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexander+Volkov+%28Drago%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexander Volkov</a> indica una vulnerabilidad que podría ser explotada, aunque su golpeo y lucha son puntuados igual en la categoría."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Waldo+Cortes+Acosta+%28Salsa+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Waldo Cortes Acosta</a></strong> lidera el análisis con un 89% de probabilidad de victoria.\nEl duelo se libra en el <strong>peso pesado</strong> con una duración máxima de tres rondas.\nEl método más probable es una <strong>Decision</strong>, sin importar quién imponga su marca."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Waldo+Cortes+Acosta+%28Salsa+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Waldo Cortes Acosta</a> con un 89% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

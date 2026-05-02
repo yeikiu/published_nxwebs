@@ -1,0 +1,122 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "generated_at": "2026-05-02T14:28:29Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Khamzat Chimaev",
+      "fighter_b": "Sean Strickland",
+      "slug_a": "khamzat-chimaev",
+      "slug_b": "sean-strickland",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_khamzat-chimaev_vs_sean-strickland.html",
+        "en": "newsletter/2026-05-09/en/newsletter_khamzat-chimaev_vs_sean-strickland.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_khamzat-chimaev_vs_sean-strickland.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_khamzat-chimaev_vs_sean-strickland.html"
+      }
+    },
+    {
+      "fighter_a": "Joshua Van",
+      "fighter_b": "Tatsuro Taira",
+      "slug_a": "joshua-van",
+      "slug_b": "tatsuro-taira",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_joshua-van_vs_tatsuro-taira.html",
+        "en": "newsletter/2026-05-09/en/newsletter_joshua-van_vs_tatsuro-taira.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_joshua-van_vs_tatsuro-taira.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_joshua-van_vs_tatsuro-taira.html"
+      }
+    },
+    {
+      "fighter_a": "Alexander Volkov",
+      "fighter_b": "Waldo Cortes Acosta",
+      "slug_a": "alexander-volkov",
+      "slug_b": "waldo-cortes-acosta",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_alexander-volkov_vs_waldo-cortes-acosta.html",
+        "en": "newsletter/2026-05-09/en/newsletter_alexander-volkov_vs_waldo-cortes-acosta.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_alexander-volkov_vs_waldo-cortes-acosta.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_alexander-volkov_vs_waldo-cortes-acosta.html"
+      }
+    },
+    {
+      "fighter_a": "Sean Brady",
+      "fighter_b": "Joaquin Buckley",
+      "slug_a": "sean-brady",
+      "slug_b": "joaquin-buckley",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_sean-brady_vs_joaquin-buckley.html",
+        "en": "newsletter/2026-05-09/en/newsletter_sean-brady_vs_joaquin-buckley.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_sean-brady_vs_joaquin-buckley.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_sean-brady_vs_joaquin-buckley.html"
+      }
+    },
+    {
+      "fighter_a": "Grant Dawson",
+      "fighter_b": "Mateusz Rebecki",
+      "slug_a": "grant-dawson",
+      "slug_b": "mateusz-rebecki",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_grant-dawson_vs_mateusz-rebecki.html",
+        "en": "newsletter/2026-05-09/en/newsletter_grant-dawson_vs_mateusz-rebecki.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_grant-dawson_vs_mateusz-rebecki.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_grant-dawson_vs_mateusz-rebecki.html"
+      }
+    },
+    {
+      "fighter_a": "Jim Miller",
+      "fighter_b": "Jared Gordon",
+      "slug_a": "jim-miller",
+      "slug_b": "jared-gordon",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_jim-miller_vs_jared-gordon.html",
+        "en": "newsletter/2026-05-09/en/newsletter_jim-miller_vs_jared-gordon.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_jim-miller_vs_jared-gordon.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_jim-miller_vs_jared-gordon.html"
+      }
+    },
+    {
+      "fighter_a": "Roman Kopylov",
+      "fighter_b": "Marco Tulio",
+      "slug_a": "roman-kopylov",
+      "slug_b": "marco-tulio",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_roman-kopylov_vs_marco-tulio.html",
+        "en": "newsletter/2026-05-09/en/newsletter_roman-kopylov_vs_marco-tulio.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_roman-kopylov_vs_marco-tulio.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_roman-kopylov_vs_marco-tulio.html"
+      }
+    },
+    {
+      "fighter_a": "Pat Sabatini",
+      "fighter_b": "William Gomis",
+      "slug_a": "pat-sabatini",
+      "slug_b": "william-gomis",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_pat-sabatini_vs_william-gomis.html",
+        "en": "newsletter/2026-05-09/en/newsletter_pat-sabatini_vs_william-gomis.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_pat-sabatini_vs_william-gomis.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_pat-sabatini_vs_william-gomis.html"
+      }
+    },
+    {
+      "fighter_a": "Clayton Carpenter",
+      "fighter_b": "Jose Ochoa",
+      "slug_a": "clayton-carpenter",
+      "slug_b": "jose-ochoa",
+      "files": {
+        "es": "newsletter/2026-05-09/es/newsletter_clayton-carpenter_vs_jose-ochoa.html",
+        "en": "newsletter/2026-05-09/en/newsletter_clayton-carpenter_vs_jose-ochoa.html",
+        "pt": "newsletter/2026-05-09/pt/newsletter_clayton-carpenter_vs_jose-ochoa.html",
+        "fr": "newsletter/2026-05-09/fr/newsletter_clayton-carpenter_vs_jose-ochoa.html"
+      }
+    }
+  ]
+}

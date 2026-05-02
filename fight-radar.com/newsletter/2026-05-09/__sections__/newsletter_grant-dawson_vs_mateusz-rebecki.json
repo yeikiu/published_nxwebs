@@ -1,0 +1,40 @@
+{
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "9 de mayo de 2026",
+  "event_date_iso": "2026-05-09",
+  "fight": {
+    "fighter_a": "Grant Dawson",
+    "fighter_b": "Mateusz Rebecki",
+    "prediction": "Grant Dawson",
+    "confidence": 89,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 94,
+    "raw_fighter_a": "Grant Dawson",
+    "raw_fighter_b": "Mateusz Rebecki",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate de <strong>peso ligero</strong> presenta un choque entre dos perfiles de alto riesgo. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a>, quien carece de posición oficial en el top 15, aporta una <strong>Ritmo</strong> casi perfecto de <strong>99/100</strong>, lo que sugiere un intercambio constante y agresivo. Por su parte, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a>, también sin clasificación en los 15 mejores, enfrenta una racha reciente de <strong>3-3-0</strong> en los últimos 36 meses, donde debe superar <strong>3 derrota(s)</strong> para encontrar su camino a la victoria.\nLa estadística reciente de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> es notable: en su tramo de 36 meses, ha acumulado <strong>4 victorias</strong> frente a <strong>2 derrotas</strong>, manteniendo <strong>0 empates</strong>. En contraste, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a> registra <strong>3 victorias</strong> y <strong>3 derrotas</strong> en el mismo periodo, con <strong>0 empates</strong>. La ventaja decisiva de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> radica en su consistencia reciente, que contrasta con la irregularidad de su rival. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> ha logrado victorias clave desde junio de 2024, mientras que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a> ha sufrido caídas significativas en octubre de 2025 y agosto de 2025. La capacidad de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> para mantener el ritmo y la precisión de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a> serán las variables determinantes en un encuentro de tres rondas."
+    ],
+    "quick_reads": [
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> lidera el radar con un <strong>89%</strong> de probabilidad de victoria.\nEl duelo en <strong>peso ligero</strong> muestra un ritmo ofensivo de <strong>99/100</strong>.\nLa vía más probable de conclusión es una <strong>Decision</strong>, sin importar el resultado."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Grant+Dawson+%28KGD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Grant Dawson</a> con un 89% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
