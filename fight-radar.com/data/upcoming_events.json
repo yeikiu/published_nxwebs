@@ -1,193 +1,4 @@
 {
-  "09-05-2026": {
-    "date": "09-05-2026",
-    "name": "UFC 328: Chimaev vs. Strickland",
-    "location": "Newark, New Jersey, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Khamzat Chimaev (Borz)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/767755fd74662dbf",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Sean Strickland",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d8011111be000b2",
-          "division_ranking": "3"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Joshua Van (The Fearless)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17e97649403ba428",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Tatsuro Taira (The Best)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4461d7e47375a895",
-          "division_ranking": "3"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Alexander Volkov (Drago)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/279566840aa55bf2",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Waldo Cortes Acosta (Salsa Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
-          "division_ranking": "4"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sean Brady",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Joaquin Buckley (New Mansa)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9437600497350f3",
-          "division_ranking": "9"
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "King Green",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jeremy Stephens (Lil' Heathen)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/18968f97ad34f15c",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ateba Gautier (The Storm)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2f815ed5f8278ba6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ozzy Diaz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6967153c7edb4d87",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Joel Alvarez (El Fenomeno)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/58bbef3770bb2dfc",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yaroslav Amosov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
-          "division_ranking": "14"
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Grant Dawson (KGD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mateusz Rebecki",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jim Miller (A-10)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jared Gordon (Flash)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Roman Kopylov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marco Tulio (Matuto)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9384e71bca6c409d",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Pat Sabatini",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b8bbdeff718dbb7d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "William Gomis (Jaguar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e1d40e8782d80bc2",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Baisangur Susurkaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Djorden Santos (Shakur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/312f7d7b2b2f7de4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Clayton Carpenter",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b62d5280966b2460",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Ochoa (Kalzifer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/88be62d6c1e6dadb",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "16-05-2026": {
     "date": "16-05-2026",
     "name": "UFC Fight Night: Allen vs. Costa",
@@ -419,7 +230,7 @@
         "fighter2": {
           "name": "Tallison Teixeira (Xicao)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -442,7 +253,7 @@
         "fighter1": {
           "name": "Alex Perez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
-          "division_ranking": "10"
+          "division_ranking": "11"
         },
         "fighter2": {
           "name": "Sumudaerji (The Tibetan Eagle)",
@@ -549,6 +360,20 @@
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ding Meng",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e0664abaa023fd6f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Henrique",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20a0e4cc5227c117",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -561,7 +386,7 @@
         "fighter1": {
           "name": "Belal Muhammad (Remember the Name)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b1b0729d27936f2f",
-          "division_ranking": "4"
+          "division_ranking": "5"
         },
         "fighter2": {
           "name": "Gabriel Bonfim (Marretinha)",
@@ -919,6 +744,41 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      }
+    ]
+  },
+  "27-06-2026": {
+    "date": "27-06-2026",
+    "name": "UFC Fight Night: Fiziev vs. Torres",
+    "location": "Baku, Azerbaijan",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Rafael Fiziev (Ataman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c814b4c899793af6",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Manuel Torres (El Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Shara Magomedov (Bullet)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michel Pereira (Demolidor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/595db60957de51d3",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ]
