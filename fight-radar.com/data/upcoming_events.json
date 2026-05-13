@@ -53,11 +53,11 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Rodolfo Bellato (Trator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+          "name": "Christian Edwards",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
           "division_ranking": ""
         },
-        "weightClass": "Light Heavyweight",
+        "weightClass": "Catch Weight",
         "scheduledRounds": 3
       },
       {
@@ -76,13 +76,13 @@
       },
       {
         "fighter1": {
-          "name": "Jeremiah Wells",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353",
+          "name": "Nikolay Veretennikov (Gladiator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0f1efce7d2571d10",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Nicolas Dalby (Lokomotivo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9d19d9e4aa2662e8",
+          "name": "Khaos Williams (The OxFighter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2558ae2e5671e318",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
@@ -104,13 +104,13 @@
       },
       {
         "fighter1": {
-          "name": "Trey Ogden (Shamurai)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cfc3e7bb44685289",
+          "name": "Tommy Gantt",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de83f920fd302871",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Tommy Gantt",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de83f920fd302871",
+          "name": "Artur Minev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20d37922ba85e6fc",
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
@@ -251,20 +251,6 @@
       },
       {
         "fighter1": {
-          "name": "Alex Perez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Sumudaerji (The Tibetan Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Muslim Salikhov (King of Kung Fu)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/447f9858ae78f921",
           "division_ranking": ""
@@ -279,6 +265,20 @@
       },
       {
         "fighter1": {
+          "name": "Alex Perez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Sumudaerji (The Tibetan Eagle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Yi Sak Lee",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e6666480a830f764",
           "division_ranking": ""
@@ -289,6 +289,20 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ding Meng",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e0664abaa023fd6f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Henrique",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20a0e4cc5227c117",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -335,20 +349,6 @@
       },
       {
         "fighter1": {
-          "name": "Loma Lookboonmee",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30e4250cb08b61",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jaqueline Amorim",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Zhu Kangjie",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6f4ec5aa3eced219",
           "division_ranking": ""
@@ -363,16 +363,16 @@
       },
       {
         "fighter1": {
-          "name": "Ding Meng",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e0664abaa023fd6f",
+          "name": "Loma Lookboonmee",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30e4250cb08b61",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Jose Henrique",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20a0e4cc5227c117",
+          "name": "Jaqueline Amorim",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
           "division_ranking": ""
         },
-        "weightClass": "Welterweight",
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ]
@@ -601,6 +601,20 @@
       },
       {
         "fighter1": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Derrick Lewis (The Black Beast)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
+          "division_ranking": "9"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Mauricio Ruffy",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
           "division_ranking": "10"
@@ -639,20 +653,6 @@
           "division_ranking": "9"
         },
         "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Josh Hokit",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Derrick Lewis (The Black Beast)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
-          "division_ranking": "9"
-        },
-        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ]
@@ -779,6 +779,132 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ikram Aliskerov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Brunno Ferreira (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nursulton Ruziboev (Black)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andrey Pulyaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/22e07d3da1aa3475",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nazim Sadykhov (Black Wolf)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Matheus Camilo (Jaguar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Daniil Donchenko",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andreas Gustafsson (Bane)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2caf993f53541fa1",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bekzat Almakhan (The Turan Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jean Matsumoto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ffd3224638c01b57",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abus Magomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michal Oleksiejczuk (Hussar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julius Walker (Juice Box)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "division_ranking": "13"
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       }
     ]
