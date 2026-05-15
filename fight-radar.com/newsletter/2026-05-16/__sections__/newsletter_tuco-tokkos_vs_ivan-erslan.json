@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Allen vs. Costa",
+  "event_date": "16 de mayo de 2026",
+  "event_date_iso": "2026-05-16",
+  "fight": {
+    "fighter_a": "Tuco Tokkos",
+    "fighter_b": "Ivan Erslan",
+    "prediction": "Tuco Tokkos",
+    "confidence": 83,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "DECISIÓN",
+    "method_prob": 72,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Tuco Tokkos",
+    "raw_fighter_b": "Ivan Erslan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en peso semipesado enfrenta a dos hombres fuera del top 15, donde el ritmo es la clave. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tuco+Tokkos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tuco Tokkos</a> presenta un historial reciente marcado por dos derrotas consecutivas, lo que eleva la tensión en este duelo. Por su parte, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ivan+Erslan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ivan Erslan</a> ha acumulado tres pérdidas recientes, mostrando una tendencia preocupante en su forma actual. A pesar de que ambos luchadores carecen de un ranking oficial, sus estadísticas totales muestran que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ivan+Erslan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ivan Erslan</a> posee más victorias en su carrera, mientras que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tuco+Tokkos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tuco Tokkos</a> ha mantenido una racha de victorias previas a esta fecha."
+    ],
+    "quick_reads": [
+      "<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tuco+Tokkos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tuco Tokkos</a> llega con un <strong>83%</strong> de probabilidad de victoria sobre su rival.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ivan+Erslan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ivan Erslan</a> enfrenta una racha difícil de <strong>0-3-0</strong> en sus últimos tres combates.\nEl método más probable de finalización es una <strong>Decision</strong>, sin importar el resultado."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tuco+Tokkos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tuco Tokkos</a> con un 83% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
