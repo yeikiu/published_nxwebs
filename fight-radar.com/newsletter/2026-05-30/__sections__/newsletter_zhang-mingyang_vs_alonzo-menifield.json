@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Song vs. Figueiredo",
+  "event_date": "30 de mayo de 2026",
+  "event_date_iso": "2026-05-30",
+  "fight": {
+    "fighter_a": "Zhang Mingyang",
+    "fighter_b": "Alonzo Menifield",
+    "prediction": "Zhang Mingyang",
+    "confidence": 82,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "KO / TKO",
+    "method_prob": 86,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 75,
+    "raw_fighter_a": "Zhang Mingyang",
+    "raw_fighter_b": "Alonzo Menifield",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en <strong>peso semipesado</strong> presenta un choque interesante entre un joven talento y un veterano con experiencia en la élite. <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Zhang+Mingyang+%28Mountain+Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zhang Mingyang</a></strong>, quien carece de una posición oficial en el top 15, ofrece un perfil ofensivo con una puntuación de golpeo de 98/100. Su forma reciente muestra consistencia, aunque el registro indica una <strong>derrota</strong> en su último encuentro de los últimos 36 meses. Por su parte, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alonzo+Menifield+%28Atomic%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alonzo Menifield</a></strong>, el <strong>#15 del ranking</strong>, aporta una base sólida con un récord total de 17-6-1. Su trayectoria reciente incluye victorias y derrotas, reflejando la volatilidad común en la división. La dinámica sugiere que la pelea podría definirse por la capacidad de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Zhang+Mingyang+%28Mountain+Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zhang Mingyang</a></strong> para imponer su ritmo ofensivo contra la defensa de un oponente que ha acumulado varias caídas recientes."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Zhang+Mingyang+%28Mountain+Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zhang Mingyang</a></strong> busca su primer ranking tras un <strong>récord reciente de 3-1-0</strong>.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alonzo+Menifield+%28Atomic%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alonzo Menifield</a></strong> llega con experiencia y un historial de <strong>4-3-0</strong> en el periodo.\nEl método más probable de finalización es <strong>KO/TKO</strong> en este duelo."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Zhang+Mingyang+%28Mountain+Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zhang Mingyang</a> con un 82% de probabilidad.\nPor separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -748,7 +748,7 @@
         "fighter2": {
           "name": "Max Holloway (Blessed)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/150ff4cc642270b9",
-          "division_ranking": "4"
+          "division_ranking": ""
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
@@ -813,7 +813,7 @@
         "fighter1": {
           "name": "Robert Whittaker (The Reaper)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
-          "division_ranking": "10"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Nikita Krylov (The Miner)",

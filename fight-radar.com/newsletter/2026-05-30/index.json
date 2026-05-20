@@ -1,0 +1,86 @@
+{
+  "event": "UFC Fight Night: Song vs. Figueiredo",
+  "event_date": "30 de mayo de 2026",
+  "event_date_iso": "2026-05-30",
+  "generated_at": "2026-05-20T11:34:45Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Song Yadong",
+      "fighter_b": "Deiveson Figueiredo",
+      "slug_a": "song-yadong",
+      "slug_b": "deiveson-figueiredo",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_song-yadong_vs_deiveson-figueiredo.html",
+        "en": "newsletter/2026-05-30/en/newsletter_song-yadong_vs_deiveson-figueiredo.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_song-yadong_vs_deiveson-figueiredo.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_song-yadong_vs_deiveson-figueiredo.html"
+      }
+    },
+    {
+      "fighter_a": "Zhang Mingyang",
+      "fighter_b": "Alonzo Menifield",
+      "slug_a": "zhang-mingyang",
+      "slug_b": "alonzo-menifield",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_zhang-mingyang_vs_alonzo-menifield.html",
+        "en": "newsletter/2026-05-30/en/newsletter_zhang-mingyang_vs_alonzo-menifield.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_zhang-mingyang_vs_alonzo-menifield.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_zhang-mingyang_vs_alonzo-menifield.html"
+      }
+    },
+    {
+      "fighter_a": "Sergei Pavlovich",
+      "fighter_b": "Tallison Teixeira",
+      "slug_a": "sergei-pavlovich",
+      "slug_b": "tallison-teixeira",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_sergei-pavlovich_vs_tallison-teixeira.html",
+        "en": "newsletter/2026-05-30/en/newsletter_sergei-pavlovich_vs_tallison-teixeira.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_sergei-pavlovich_vs_tallison-teixeira.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_sergei-pavlovich_vs_tallison-teixeira.html"
+      }
+    },
+    {
+      "fighter_a": "Muslim Salikhov",
+      "fighter_b": "Jake Matthews",
+      "slug_a": "muslim-salikhov",
+      "slug_b": "jake-matthews",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_muslim-salikhov_vs_jake-matthews.html",
+        "en": "newsletter/2026-05-30/en/newsletter_muslim-salikhov_vs_jake-matthews.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_muslim-salikhov_vs_jake-matthews.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_muslim-salikhov_vs_jake-matthews.html"
+      }
+    },
+    {
+      "fighter_a": "Alex Perez",
+      "fighter_b": "Sumudaerji",
+      "slug_a": "alex-perez",
+      "slug_b": "sumudaerji",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_alex-perez_vs_sumudaerji.html",
+        "en": "newsletter/2026-05-30/en/newsletter_alex-perez_vs_sumudaerji.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_alex-perez_vs_sumudaerji.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_alex-perez_vs_sumudaerji.html"
+      }
+    },
+    {
+      "fighter_a": "Loma Lookboonmee",
+      "fighter_b": "Jaqueline Amorim",
+      "slug_a": "loma-lookboonmee",
+      "slug_b": "jaqueline-amorim",
+      "files": {
+        "es": "newsletter/2026-05-30/es/newsletter_loma-lookboonmee_vs_jaqueline-amorim.html",
+        "en": "newsletter/2026-05-30/en/newsletter_loma-lookboonmee_vs_jaqueline-amorim.html",
+        "pt": "newsletter/2026-05-30/pt/newsletter_loma-lookboonmee_vs_jaqueline-amorim.html",
+        "fr": "newsletter/2026-05-30/fr/newsletter_loma-lookboonmee_vs_jaqueline-amorim.html"
+      }
+    }
+  ]
+}

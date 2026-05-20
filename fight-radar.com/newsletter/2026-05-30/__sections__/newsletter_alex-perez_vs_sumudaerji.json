@@ -1,0 +1,40 @@
+{
+  "event": "UFC Fight Night: Song vs. Figueiredo",
+  "event_date": "30 de mayo de 2026",
+  "event_date_iso": "2026-05-30",
+  "fight": {
+    "fighter_a": "Alex Perez",
+    "fighter_b": "Sumudaerji",
+    "prediction": "Sumudaerji",
+    "confidence": 73,
+    "stats": {
+      "striking": 50,
+      "grappling": 50,
+      "pace": 50
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 94,
+    "raw_fighter_a": "Alex Perez",
+    "raw_fighter_b": "Sumudaerji",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en peso mosca presenta un contraste claro entre la experiencia reciente y el potencial de ascenso. <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alex+Perez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alex Perez</a></strong>, el <strong>#11 del ranking peso mosca</strong>, enfrenta una racha difícil en sus últimos cinco encuentros, con un registro de <strong>2 victorias frente a 3 derrotas y 0 empates</strong> en el periodo de 36 meses. Es crucial notar que sus datos recientes incluyen <strong>3 derrotas</strong> que no deben pasarse por alto, ya que afectan su confianza y ritmo actual. Por otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sumudaerji+%28The+Tibetan+Eagle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sumudaerji</a></strong> se presenta con un historial de <strong>3 victorias y 2 derrotas</strong> en el mismo lapso, demostrando una consistencia superior en su etapa más reciente.\nLa dinámica del duelo se inclina hacia la técnica y el desgaste físico, dado que ambos luchadores poseen un nivel de golpeo y lucha idéntico de <strong>65/100</strong>, pero <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sumudaerji+%28The+Tibetan+Eagle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sumudaerji</a></strong> destaca con un <strong>ritmo de 83/100</strong>. Esta diferencia en la velocidad podría ser determinante para imponer el control en las primeras rondas. En una pelea de tres rondas, la capacidad de mantener el ritmo alto mientras se conserva la energía será la clave para evitar el desgaste. La estadística de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alex+Perez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alex Perez</a></strong> refleja un declive en su producción reciente, mientras que la de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sumudaerji+%28The+Tibetan+Eagle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sumudaerji</a></strong> sugiere una trayectoria ascendente. La narrativa de este enfrentamiento gira en torno a quién logra imponer su marca antes de que la fatiga afecte el rendimiento."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alex+Perez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alex Perez</a></strong> llega con un récord de <strong>2-3-0</strong> en los últimos 36 meses, incluyendo <strong>3 derrotas</strong>.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sumudaerji+%28The+Tibetan+Eagle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sumudaerji</a></strong> muestra una forma reciente de <strong>3-2-0</strong>, con un ritmo superior de <strong>83/100</strong>.\nEl método más probable de finalización es una <strong>Decision</strong>, independientemente del resultado."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sumudaerji+%28The+Tibetan+Eagle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sumudaerji</a> con un 73% de probabilidad.\nPor separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
