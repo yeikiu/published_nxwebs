@@ -90,7 +90,7 @@
       },
       {
         "fighter1": {
-          "name": "Yi Sak Lee",
+          "name": "YiSak Lee",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e6666480a830f764",
           "division_ranking": ""
         },
@@ -99,7 +99,7 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/33a86e839ad202d8",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -428,7 +428,7 @@
         "fighter1": {
           "name": "Mauricio Ruffy",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
-          "division_ranking": "10"
+          "division_ranking": "9"
         },
         "fighter2": {
           "name": "Michael Chandler (Iron)",
@@ -556,6 +556,76 @@
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jhonata Diniz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/25f9a5f3e8a52618",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Montanha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30f2761b6bd3b5",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Karol Rosa",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Luana Santos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+          "division_ranking": "14"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Gaston Bolanos (The Dreamkiller)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/96924b0019b3aff1",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michael Aswell Jr. (The Texas Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melsik Baghdasaryan (The Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Murtazali Magomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Farid Basharat (Ferocious)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a09ed60aa67a3f67",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Ethyn Ewing (The Professor Finesser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d776b5814f2400b4",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -594,16 +664,30 @@
       },
       {
         "fighter1": {
-          "name": "Ismail Naurdiev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "name": "Nazim Sadykhov (Black Wolf)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Marvin Vettori (The Italian Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "name": "Matheus Camilo (Jaguar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "division_ranking": "14"
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -622,6 +706,62 @@
       },
       {
         "fighter1": {
+          "name": "Abus Magomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michal Oleksiejczuk (Hussar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Farman Hasanov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c88f8a9c1ea7165d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Eric Nolan (Nightime)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Julius Walker (Juice Box)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Nursulton Ruziboev (Black)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
           "division_ranking": ""
@@ -632,20 +772,6 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nazim Sadykhov (Black Wolf)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Matheus Camilo (Jaguar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -674,62 +800,6 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abus Magomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michal Oleksiejczuk (Hussar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abdul Rakhman Yakhyaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Julius Walker (Juice Box)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Charles Johnson (InnerG)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "division_ranking": "14"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Farman Hasanov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c88f8a9c1ea7165d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Eric Nolan (Nightime)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
     ]
@@ -913,6 +983,20 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Chase Hooper (The Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mitch Ramirez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e99eb0ef25885de5",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ]
   },
