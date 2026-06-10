@@ -64,7 +64,7 @@
         "fighter1": {
           "name": "Mauricio Ruffy",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
-          "division_ranking": "9"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Michael Chandler (Iron)",
@@ -183,7 +183,7 @@
         "fighter1": {
           "name": "Bia Mesquita (The Lady GOAT)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
-          "division_ranking": "15"
+          "division_ranking": "13"
         },
         "fighter2": {
           "name": "Melissa Mullins (No Mess)",
@@ -225,12 +225,12 @@
         "fighter1": {
           "name": "Karol Rosa",
           "ufcstats_url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
-          "division_ranking": "10"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Luana Santos",
           "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
-          "division_ranking": "14"
+          "division_ranking": "11"
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
@@ -258,7 +258,7 @@
         "fighter2": {
           "name": "Vinicius Oliveira (LokDog)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
-          "division_ranking": "12"
+          "division_ranking": ""
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
@@ -330,7 +330,7 @@
         "fighter1": {
           "name": "Ikram Aliskerov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "fighter2": {
           "name": "Brunno Ferreira (The Hulk)",
@@ -482,7 +482,7 @@
         "fighter2": {
           "name": "Mario Bautista",
           "ufcstats_url": "http://ufcstats.com/fighter-details/bc711b6dd95c1af6",
-          "division_ranking": "8"
+          "division_ranking": "7"
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
@@ -524,7 +524,7 @@
         "fighter2": {
           "name": "Nikita Krylov (The Miner)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
-          "division_ranking": "13"
+          "division_ranking": "12"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -734,7 +734,7 @@
         "fighter2": {
           "name": "David Martinez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa",
-          "division_ranking": "9"
+          "division_ranking": "8"
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
@@ -848,7 +848,7 @@
         "fighter1": {
           "name": "Uros Medic (The Doctor)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Daniel Rodriguez (D-Rod)",
@@ -867,7 +867,7 @@
         "fighter2": {
           "name": "Johnny Walker",
           "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
-          "division_ranking": "14"
+          "division_ranking": ""
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -876,7 +876,7 @@
         "fighter1": {
           "name": "Aleksandar Rakic (Rocket)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/333b9e5c723ac873",
-          "division_ranking": "12"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Marcin Tybura (Tybur)",

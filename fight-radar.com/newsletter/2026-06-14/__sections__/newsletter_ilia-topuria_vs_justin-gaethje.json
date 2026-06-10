@@ -1,0 +1,51 @@
+{
+  "event": "UFC Freedom 250",
+  "event_date": "14 de junio de 2026",
+  "event_date_iso": "2026-06-14",
+  "fight": {
+    "fighter_a": "Ilia Topuria",
+    "fighter_b": "Justin Gaethje",
+    "prediction": "Ilia Topuria",
+    "confidence": 84,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 86,
+    "duration": "OVER 2.5 rounds",
+    "duration_prob": 69,
+    "raw_fighter_a": "Ilia Topuria",
+    "raw_fighter_b": "Justin Gaethje",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste duelo de <strong>peso ligero</strong> enfrenta a dos perfiles opuestos. <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ilia+Topuria+%28El+Matador%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ilia Topuria</a></strong> llega como campeón con un récord total de carrera impecable de <strong>17-0-0</strong>, y en los últimos 3 años firma un <strong>4-0-0</strong> que refuerza su momento de forma intacto. Enfrente, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Justin+Gaethje+%28The+Highlight%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Justin Gaethje</a></strong>, <strong>#1 del ranking peso ligero</strong>, presenta un récord total de <strong>27-5-0</strong> y un tramo reciente de <strong>3-1-0</strong> en los últimos 3 años, un registro sólido que, sin embargo, incluye una derrota que no conviene pasar por alto.\nEl choque estilístico marca el guion. El radar dibuja a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ilia+Topuria+%28El+Matador%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ilia Topuria</a> como un peleador completísimo: <strong>derribo ofensivo de 100, derribo defensivo de 100 y un control de 94</strong> que apunta a imponer dónde y cómo se pelea. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Justin+Gaethje+%28The+Highlight%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Justin Gaethje</a> responde con su sello, un <strong>golpeo ofensivo de 55</strong> que es su mayor amenaza, aunque su <strong>golpeo defensivo de 45</strong> sugiere que recibe tanto como reparte. En una pelea pactada a <strong>5 rondas</strong>, esa diferencia en la gestión de la distancia y en el juego de lucha puede ir acumulando peaje a favor del favorito, que además exhibe una mayor <strong>amenaza de finalización (75 frente a 33)</strong>."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ilia+Topuria+%28El+Matador%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ilia Topuria</a></strong> llega invicto (<strong>17-0-0</strong>) y parte como favorito claro frente al <strong>#1 del ranking</strong> <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Justin+Gaethje+%28The+Highlight%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Justin Gaethje</a>.\nLa diferencia decisiva está en la lucha: <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ilia+Topuria+%28El+Matador%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ilia Topuria</a> domina el <strong>derribo ofensivo (100) y el control (94)</strong>, terreno donde <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Justin+Gaethje+%28The+Highlight%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Justin Gaethje</a> queda expuesto.\nEl método más probable de cierre es el <strong>KO/TKO</strong>, la vía que mantiene viva la chispa de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Justin+Gaethje+%28The+Highlight%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Justin Gaethje</a> pese a ir por detrás."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ilia+Topuria+%28El+Matador%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ilia Topuria</a> con un <strong>84%</strong> de probabilidad. Por separado, el método más probable de finalización es <strong>KO/TKO</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
