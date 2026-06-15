@@ -1,109 +1,4 @@
 {
-  "14-06-2026": {
-    "date": "14-06-2026",
-    "name": "UFC Freedom 250",
-    "location": "Washington, DC, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Ilia Topuria (El Matador)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/54f64b5e283b0ce7",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Justin Gaethje (The Highlight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9e8f6c728eb01124",
-          "division_ranking": "1"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Alex Pereira (Poatan)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e5549c82bfb5582d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ciryl Gane (Bon Gamin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
-          "division_ranking": "1"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Sean O'Malley (Suga)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b50a426a33da0012",
-          "division_ranking": "3"
-        },
-        "fighter2": {
-          "name": "Aiemann Zahabi",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/24656ef4d605c96f",
-          "division_ranking": "6"
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Josh Hokit",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Derrick Lewis (The Black Beast)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
-          "division_ranking": "9"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mauricio Ruffy",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Michael Chandler (Iron)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4b93a88f3b1de35b",
-          "division_ranking": "13"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bo Nickal",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kyle Daukaus",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Diego Lopes",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f166e93d04a8c274",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Steve Garcia (Mean Machine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
-          "division_ranking": "9"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "20-06-2026": {
     "date": "20-06-2026",
     "name": "UFC Fight Night: Kape vs. Horiguchi",
@@ -135,6 +30,20 @@
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Vinicius Oliveira (LokDog)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andre Fili (Touchy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -195,6 +104,20 @@
       },
       {
         "fighter1": {
+          "name": "Jhonata Diniz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/25f9a5f3e8a52618",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Montanha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30f2761b6bd3b5",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Allan Nascimento (Puro Osso)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0",
           "division_ranking": ""
@@ -237,27 +160,27 @@
       },
       {
         "fighter1": {
-          "name": "Jhonata Diniz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/25f9a5f3e8a52618",
+          "name": "Leon Shahbazyan",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9eed2bcc9e0b92af",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Jose Montanha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30f2761b6bd3b5",
+          "name": "Levan Chokheli",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a69a7120cf26669d",
           "division_ranking": ""
         },
-        "weightClass": "Heavyweight",
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
         "fighter1": {
-          "name": "Giga Chikadze (Ninja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
+          "name": "Shane Collins",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70fc8214822b5a85",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Vinicius Oliveira (LokDog)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
+          "name": "Otari Tanzilovi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9124c308671e303",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
