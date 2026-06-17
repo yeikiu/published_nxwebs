@@ -34,20 +34,6 @@
       },
       {
         "fighter1": {
-          "name": "Vinicius Oliveira (LokDog)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Andre Fili (Touchy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Hyder Amil (The Hurricane)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/41cc71cbf210e0fe",
           "division_ranking": ""
@@ -55,6 +41,34 @@
         "fighter2": {
           "name": "Christian Rodriguez (Ceerod)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/5ec591b78349ba7e",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melsik Baghdasaryan (The Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Murtazali Magomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Vinicius Oliveira (LokDog)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andre Fili (Touchy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -76,20 +90,6 @@
       },
       {
         "fighter1": {
-          "name": "Melsik Baghdasaryan (The Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Murtazali Magomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Bia Mesquita (The Lady GOAT)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
           "division_ranking": "13"
@@ -100,20 +100,6 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jhonata Diniz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/25f9a5f3e8a52618",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Montanha",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4e30f2761b6bd3b5",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -146,20 +132,6 @@
       },
       {
         "fighter1": {
-          "name": "Karol Rosa",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Luana Santos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
-          "division_ranking": "11"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Leon Shahbazyan",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9eed2bcc9e0b92af",
           "division_ranking": ""
@@ -170,6 +142,20 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Karol Rosa",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Luana Santos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+          "division_ranking": "11"
+        },
+        "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -202,7 +188,7 @@
         "fighter2": {
           "name": "Manuel Torres (El Loco)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "weightClass": "Lightweight",
         "scheduledRounds": 5
@@ -253,7 +239,7 @@
         "fighter1": {
           "name": "Ikram Aliskerov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
-          "division_ranking": "15"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Brunno Ferreira (The Hulk)",
@@ -652,7 +638,7 @@
         "fighter1": {
           "name": "Umar Nurmagomedov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
-          "division_ranking": "2"
+          "division_ranking": "3"
         },
         "fighter2": {
           "name": "David Martinez",
@@ -671,7 +657,7 @@
         "fighter2": {
           "name": "Tyrell Fortune",
           "ufcstats_url": "http://ufcstats.com/fighter-details/bc7f4b2d4c2724a2",
-          "division_ranking": "10"
+          "division_ranking": "9"
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -785,7 +771,7 @@
         "fighter1": {
           "name": "Ante Delija (Walking Trouble)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
-          "division_ranking": "11"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Johnny Walker",
