@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Kape vs. Horiguchi",
+  "event_date": "20 de junio de 2026",
+  "event_date_iso": "2026-06-20",
+  "fight": {
+    "fighter_a": "Hyder Amil",
+    "fighter_b": "Christian Rodriguez",
+    "prediction": "Christian Rodriguez",
+    "confidence": 71,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 94,
+    "raw_fighter_a": "Hyder Amil",
+    "raw_fighter_b": "Christian Rodriguez",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Hyder+Amil+%28The+Hurricane%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hyder Amil</a></strong> llega a este combate con un récord total de carrera de <strong>11-2-0</strong>, aunque su forma reciente cuenta otra historia: en los últimos 3 años acumula <strong>3-2-0</strong>, con dos derrotas consecutivas en sus salidas más recientes (agosto y junio de 2025). Su perfil es el de un peleador de riesgo: un <strong>golpeo ofensivo de 53</strong> sostenido por la métrica más llamativa de su radar, una <strong>amenaza de finalización de 67</strong>. Cuando conecta, hace daño.\nEnfrente está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a></strong>, también fuera del top 15, con un récord total de carrera de <strong>12-4-0</strong> y una marca de <strong>3-3-0</strong> en los últimos 36 meses que incluye tres derrotas. Su juego es más estructurado: iguala el golpeo ofensivo en 53, pero lo respalda con un <strong>golpeo defensivo de 56</strong>, una <strong>defensa de derribo de 68</strong> y un <strong>control de 44</strong> que le permiten dictar el ritmo y neutralizar el peligro. Su amenaza de finalización es de 0, lo que refuerza la lectura de un peleador que busca acumular y gestionar más que cerrar de golpe.\nLa clave del enfrentamiento es de contraste: la pólvora ofensiva de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Hyder+Amil+%28The+Hurricane%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hyder Amil</a> contra la solidez defensiva y la capacidad de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a> para llevar la pelea a su terreno. Si <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a> logra anular la amenaza de finalización del rival y arrastrar el combate a aguas profundas, su ventaja estructural debería pesar a lo largo de las tres rondas. El radar le concede un <strong>71%</strong> de probabilidad por ese motivo."
+    ],
+    "quick_reads": [
+      "El radar inclina la balanza hacia <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a></strong> en este duelo de peso pluma entre dos peleadores sin ranking oficial en el top 15.\nLa diferencia decisiva está en la <strong>defensa de derribo (68) y el control en el suelo</strong> de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a> frente a un <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Hyder+Amil+%28The+Hurricane%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hyder Amil</a> más explosivo de pie.\nEl desenlace más probable apunta a una <strong>decisión</strong>, con la pelea estirándose a las tres rondas completas."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Rodriguez+%28Ceerod%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Rodriguez</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

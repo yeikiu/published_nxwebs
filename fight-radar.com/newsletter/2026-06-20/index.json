@@ -1,0 +1,74 @@
+{
+  "event": "UFC Fight Night: Kape vs. Horiguchi",
+  "event_date": "20 de junio de 2026",
+  "event_date_iso": "2026-06-20",
+  "generated_at": "2026-06-18T18:38:58Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Ion Cutelaba",
+      "fighter_b": "Navajo Stirling",
+      "slug_a": "ion-cutelaba",
+      "slug_b": "navajo-stirling",
+      "files": {
+        "es": "newsletter/2026-06-20/es/newsletter_ion-cutelaba_vs_navajo-stirling.html",
+        "en": "newsletter/2026-06-20/en/newsletter_ion-cutelaba_vs_navajo-stirling.html",
+        "pt": "newsletter/2026-06-20/pt/newsletter_ion-cutelaba_vs_navajo-stirling.html",
+        "fr": "newsletter/2026-06-20/fr/newsletter_ion-cutelaba_vs_navajo-stirling.html"
+      }
+    },
+    {
+      "fighter_a": "Hyder Amil",
+      "fighter_b": "Christian Rodriguez",
+      "slug_a": "hyder-amil",
+      "slug_b": "christian-rodriguez",
+      "files": {
+        "es": "newsletter/2026-06-20/es/newsletter_hyder-amil_vs_christian-rodriguez.html",
+        "en": "newsletter/2026-06-20/en/newsletter_hyder-amil_vs_christian-rodriguez.html",
+        "pt": "newsletter/2026-06-20/pt/newsletter_hyder-amil_vs_christian-rodriguez.html",
+        "fr": "newsletter/2026-06-20/fr/newsletter_hyder-amil_vs_christian-rodriguez.html"
+      }
+    },
+    {
+      "fighter_a": "Vinicius Oliveira",
+      "fighter_b": "Andre Fili",
+      "slug_a": "vinicius-oliveira",
+      "slug_b": "andre-fili",
+      "files": {
+        "es": "newsletter/2026-06-20/es/newsletter_vinicius-oliveira_vs_andre-fili.html",
+        "en": "newsletter/2026-06-20/en/newsletter_vinicius-oliveira_vs_andre-fili.html",
+        "pt": "newsletter/2026-06-20/pt/newsletter_vinicius-oliveira_vs_andre-fili.html",
+        "fr": "newsletter/2026-06-20/fr/newsletter_vinicius-oliveira_vs_andre-fili.html"
+      }
+    },
+    {
+      "fighter_a": "Andre Lima",
+      "fighter_b": "Kevin Borjas",
+      "slug_a": "andre-lima",
+      "slug_b": "kevin-borjas",
+      "files": {
+        "es": "newsletter/2026-06-20/es/newsletter_andre-lima_vs_kevin-borjas.html",
+        "en": "newsletter/2026-06-20/en/newsletter_andre-lima_vs_kevin-borjas.html",
+        "pt": "newsletter/2026-06-20/pt/newsletter_andre-lima_vs_kevin-borjas.html",
+        "fr": "newsletter/2026-06-20/fr/newsletter_andre-lima_vs_kevin-borjas.html"
+      }
+    },
+    {
+      "fighter_a": "Karol Rosa",
+      "fighter_b": "Luana Santos",
+      "slug_a": "karol-rosa",
+      "slug_b": "luana-santos",
+      "files": {
+        "es": "newsletter/2026-06-20/es/newsletter_karol-rosa_vs_luana-santos.html",
+        "en": "newsletter/2026-06-20/en/newsletter_karol-rosa_vs_luana-santos.html",
+        "pt": "newsletter/2026-06-20/pt/newsletter_karol-rosa_vs_luana-santos.html",
+        "fr": "newsletter/2026-06-20/fr/newsletter_karol-rosa_vs_luana-santos.html"
+      }
+    }
+  ]
+}

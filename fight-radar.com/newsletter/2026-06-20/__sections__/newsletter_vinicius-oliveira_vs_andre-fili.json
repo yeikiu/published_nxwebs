@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Kape vs. Horiguchi",
+  "event_date": "20 de junio de 2026",
+  "event_date_iso": "2026-06-20",
+  "fight": {
+    "fighter_a": "Vinicius Oliveira",
+    "fighter_b": "Andre Fili",
+    "prediction": "Vinicius Oliveira",
+    "confidence": 80,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 94,
+    "raw_fighter_a": "Vinicius Oliveira",
+    "raw_fighter_b": "Andre Fili",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE)\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Vinicius+Oliveira+%28LokDog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vinicius Oliveira</a></strong> se presenta a este duelo de peso pluma sin ranking oficial en el top 15, pero con un currículum que respalda su condición de favorito: un récord total de carrera de <strong>23-4-0</strong> y una forma reciente de <strong>4-1-0 en los últimos 3 años</strong> (incluida una derrota el 7 de febrero de 2026). Su perfil estadístico es equilibrado y se sostiene sobre una notable <strong>defensa de derribo (69/100)</strong> y un golpeo defensivo de 57, lo que lo convierte en un peleador difícil de descifrar y aún más difícil de llevar al suelo.\nEnfrente, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Andre+Fili+%28Touchy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Andre Fili</a></strong> comparte la condición de estar fuera del top 15 y carga un récord total de <strong>25-13-0 (1 NC)</strong>, con una forma reciente claramente irregular: <strong>3-4-0 en los últimos 3 años</strong>, cuatro de ellas derrotas que no conviene pasar por alto. Su mayor argumento es físico-técnico: una <strong>defensa de derribo de 80</strong> y un <strong>control de 69</strong>, métricas que sugieren que puede neutralizar el grappling rival y dictar el ritmo si logra imponer su lucha. El problema es que su golpeo ofensivo (40) y su amenaza de finalización (33) no son lo bastante explosivos como para cambiar el guion de golpe.\nCon dos peleadores tan sólidos en la <strong>defensa de derribo</strong>, el combate apunta a vivirse de pie y a estirarse en el reloj. A tres asaltos, la diferencia la marcará quién acumule más volumen y control efectivo, terreno en el que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Vinicius+Oliveira+%28LokDog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vinicius Oliveira</a> llega con mejores credenciales recientes."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Vinicius+Oliveira+%28LokDog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vinicius Oliveira</a></strong> parte como favorito claro frente a un <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Andre+Fili+%28Touchy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Andre Fili</a> que llega con balance negativo reciente.\nLa clave está en la <strong>defensa de derribo</strong> y el control: ambos peleadores son sólidos ahí, lo que empuja el combate hacia los asaltos largos.\nEl desenlace más probable apunta a una <strong>decisión</strong>, sin una vía de finalización dominante para ninguno."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Vinicius+Oliveira+%28LokDog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vinicius Oliveira</a> con un 80% de probabilidad. Por separado, el método más probable de finalización es la <strong>decisión</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
