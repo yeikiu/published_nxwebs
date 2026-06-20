@@ -172,7 +172,9 @@
         "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1318,
+    "startTime": "2026-06-20T21:00Z"
   },
   "27-06-2026": {
     "date": "27-06-2026",
@@ -307,6 +309,20 @@
       },
       {
         "fighter1": {
+          "name": "Kaan Ofli (Genghis)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Javier Reyes (Blair)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a574b8512fc1b30",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Daniil Donchenko",
           "ufcstats_url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
           "division_ranking": ""
@@ -332,22 +348,10 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kaan Ofli (Genghis)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Javier Reyes (Blair)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a574b8512fc1b30",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1319,
+    "startTime": "2026-06-27T13:00Z"
   },
   "11-07-2026": {
     "date": "11-07-2026",
@@ -412,6 +416,20 @@
       },
       {
         "fighter1": {
+          "name": "Nikita Krylov (The Miner)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Robert Whittaker (The Reaper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Gable Steveson",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
           "division_ranking": ""
@@ -422,48 +440,6 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Robert Whittaker (The Reaper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nikita Krylov (The Miner)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
-          "division_ranking": "12"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Luke Riley",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kai Kamaka (The Fighting Hawaiian)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eee0ef3e2b14816b",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Damian Pinas (The Baba Yaga)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cesar Almeida (Cesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -482,6 +458,20 @@
       },
       {
         "fighter1": {
+          "name": "Luke Riley",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kai Kamaka (The Fighting Hawaiian)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eee0ef3e2b14816b",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Tracy Cortez",
           "ufcstats_url": "http://ufcstats.com/fighter-details/68d4a891e5cf2029",
           "division_ranking": "8"
@@ -496,16 +486,16 @@
       },
       {
         "fighter1": {
-          "name": "Ode Osbourne (The Jamaican Sensation)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "name": "Damian Pinas (The Baba Yaga)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Cody Durden (Custom Made)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "name": "Cesar Almeida (Cesinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
           "division_ranking": ""
         },
-        "weightClass": "Flyweight",
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       },
       {
@@ -521,8 +511,24 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ode Osbourne (The Jamaican Sensation)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Cody Durden (Custom Made)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1316,
+    "startTime": "2026-07-11T21:00Z"
   },
   "18-07-2026": {
     "date": "18-07-2026",
@@ -612,8 +618,24 @@
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alden Coria (Cobra)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Stewart Nicoll (Kakamora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1320,
+    "startTime": "2026-07-18T20:00Z"
   },
   "25-07-2026": {
     "date": "25-07-2026",
@@ -746,7 +768,9 @@
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1322,
+    "startTime": "2026-07-25T13:00Z"
   },
   "01-08-2026": {
     "date": "01-08-2026",
@@ -879,12 +903,45 @@
         "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1321,
+    "startTime": "2026-08-01T15:00Z"
   },
   "15-08-2026": {
     "date": "15-08-2026",
-    "name": "UFC 330",
+    "name": "UFC 330: Makhachev vs. Machado Garry",
     "location": "Philadelphia, Pennsylvania, USA",
-    "fights": []
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Islam Makhachev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/275aca31f61ba28c",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Ian Machado Garry (The Future)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/442c9011034ae1fd",
+          "division_ranking": "1"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Mackenzie Dern",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7447e9f28508106a",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Gillian Robertson (The Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
+          "division_ranking": "5"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 5
+      }
+    ],
+    "ufcEventId": 1317,
+    "startTime": "2026-08-15T23:00Z"
   }
 }
