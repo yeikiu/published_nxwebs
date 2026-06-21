@@ -1,181 +1,4 @@
 {
-  "20-06-2026": {
-    "date": "20-06-2026",
-    "name": "UFC Fight Night: Kape vs. Horiguchi",
-    "location": "Las Vegas, Nevada, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Manel Kape (StarBoy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Kyoji Horiguchi (Karate Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
-          "division_ranking": "5"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Ion Cutelaba (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cd13728ae1151f46",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Navajo Stirling",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Hyder Amil (The Hurricane)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/41cc71cbf210e0fe",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Christian Rodriguez (Ceerod)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5ec591b78349ba7e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Melsik Baghdasaryan (The Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a52bc1e62cf0b7c6",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Murtazali Magomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Vinicius Oliveira (LokDog)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Andre Fili (Touchy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Andre Lima (Mascote)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kevin Borjas (El Gallo Negro)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/34b96d52db1d26e6",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bia Mesquita (The Lady GOAT)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Melissa Mullins (No Mess)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bd532e9a2b93870c",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Allan Nascimento (Puro Osso)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/253076a23d03dcd0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mitch Raposo",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0be6776db31d98ec",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Gaston Bolanos (The Dreamkiller)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/96924b0019b3aff1",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michael Aswell Jr. (The Texas Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Leon Shahbazyan",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9eed2bcc9e0b92af",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Levan Chokheli",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a69a7120cf26669d",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Karol Rosa",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Luana Santos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
-          "division_ranking": "11"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Shane Collins",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70fc8214822b5a85",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Otari Tanzilovi",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b9124c308671e303",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1318,
-    "startTime": "2026-06-20T21:00Z"
-  },
   "27-06-2026": {
     "date": "27-06-2026",
     "name": "UFC Fight Night: Fiziev vs. Torres",
@@ -328,8 +151,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Andreas Gustafsson (Bane)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2caf993f53541fa1",
+          "name": "Theodor Berggren",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
@@ -347,6 +170,20 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tahir Abdullayev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jefferson Nascimento",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
     ],
@@ -532,9 +369,23 @@
   },
   "18-07-2026": {
     "date": "18-07-2026",
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Du Plessis vs. Usman",
     "location": "Oklahoma City, Oklahoma, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Dricus Du Plessis (Stillknocks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d7b51c9d2649a6e",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Kamaru Usman (The Nigerian Nightmare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f1b2aa7853d1ed6e",
+          "division_ranking": "9"
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Brad Tavares",
@@ -547,7 +398,7 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -902,6 +753,34 @@
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jan Blachowicz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Bogdan Guskov (Hitman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
+          "division_ranking": "10"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Oban Elliott (The Welsh Gangster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michael Oliveira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/037cfd34a27d59e9",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1321,
@@ -939,6 +818,34 @@
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Edson Barboza (Junior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64a50dad704d1d49",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Esteban Ribovics (El Gringo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Erin Blanchfield (Cold Blooded)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/669970f7feba8ecd",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Jasmine Jasudavicius",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a9e260472d321361",
+          "division_ranking": "6"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1317,
