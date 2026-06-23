@@ -50,7 +50,7 @@
         "fighter1": {
           "name": "Asu Almabayev (Zulfikar)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "8"
+          "division_ranking": "9"
         },
         "fighter2": {
           "name": "Charles Johnson (InnerG)",
@@ -64,7 +64,7 @@
         "fighter1": {
           "name": "Ikram Aliskerov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
-          "division_ranking": ""
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Brunno Ferreira (The Hulk)",
@@ -381,7 +381,7 @@
         "fighter2": {
           "name": "Kamaru Usman (The Nigerian Nightmare)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f1b2aa7853d1ed6e",
-          "division_ranking": "9"
+          "division_ranking": ""
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
@@ -539,7 +539,7 @@
         "fighter1": {
           "name": "Valter Walker (The Clean Monster)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Thomas Petersen (The Train)",
@@ -614,7 +614,7 @@
         "fighter2": {
           "name": "Dustin Jacoby (The Hanyak)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e4277e87a789d687",
-          "division_ranking": ""
+          "division_ranking": "11"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -842,7 +842,7 @@
         "fighter2": {
           "name": "Jasmine Jasudavicius",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a9e260472d321361",
-          "division_ranking": "6"
+          "division_ranking": "7"
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
