@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Fiziev vs. Torres",
+  "event_date": "27 de junio de 2026",
+  "event_date_iso": "2026-06-27",
+  "fight": {
+    "fighter_a": "Shara Magomedov",
+    "fighter_b": "Michel Pereira",
+    "prediction": "Shara Magomedov",
+    "confidence": 73,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 72,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Shara Magomedov",
+    "raw_fighter_b": "Michel Pereira",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Shara+Magomedov+%28Bullet%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Shara Magomedov</a></strong> entra a este enfrentamiento de peso medio sin ranking oficial en el top 15, pero con un récord total de carrera (<strong>16-1-0</strong>) que habla por sí solo. En los últimos 3 años acumula un <strong>5-1-0</strong> en seis peleas, una forma reciente notable que incluye una única derrota, fechada en febrero de 2025. Su perfil estadístico se sostiene en un golpeo ofensivo de <strong>63</strong> y, sobre todo, en una defensa de derribo de <strong>71/100</strong> que será decisiva ante el estilo de su rival.\nEnfrente está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Michel+Pereira+%28Demolidor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michel Pereira</a></strong>, también fuera del top 15, con un récord total de carrera de <strong>32-14-0 (2 NC)</strong> y un tramo reciente más irregular: <strong>4-3-0</strong> en los últimos 36 meses, con tres derrotas que conviene no pasar por alto. Su mayor amenaza reside en el derribo ofensivo (<strong>67</strong>) y en una elevada amenaza de finalización (<strong>75/100</strong>), aunque choca contra precisamente la fortaleza defensiva del favorito. El contraste es claro: el peleador que busca llevar la pelea al suelo se topa con quien mejor sabe evitarlo, y ahí se explica buena parte del <strong>73%</strong> que el radar otorga a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Shara+Magomedov+%28Bullet%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Shara Magomedov</a>."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Shara+Magomedov+%28Bullet%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Shara Magomedov</a></strong> llega como favorito claro del radar con un <strong>73%</strong> de probabilidad en este duelo de peso medio.\nSu sólida defensa de derribo (<strong>71/100</strong>) neutraliza el principal recurso ofensivo de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Michel+Pereira+%28Demolidor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michel Pereira</a></strong>.\nEl desenlace más probable apunta a la <strong>decisión</strong>, en un combate pactado a 3 asaltos."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Shara+Magomedov+%28Bullet%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Shara Magomedov</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es la <strong>decisión</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

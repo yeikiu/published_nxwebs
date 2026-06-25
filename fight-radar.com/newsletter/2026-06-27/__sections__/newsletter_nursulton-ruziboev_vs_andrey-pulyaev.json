@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Fiziev vs. Torres",
+  "event_date": "27 de junio de 2026",
+  "event_date_iso": "2026-06-27",
+  "fight": {
+    "fighter_a": "Nursulton Ruziboev",
+    "fighter_b": "Andrey Pulyaev",
+    "prediction": "Nursulton Ruziboev",
+    "confidence": 78,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 68,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 75,
+    "raw_fighter_a": "Nursulton Ruziboev",
+    "raw_fighter_b": "Andrey Pulyaev",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a></strong> llega a este combate de peso medio sin posición en el top 15, pero con un currículo profundo: un récord total de carrera de <strong>36-9-2 (2 NC)</strong> y una forma reciente sólida de <strong>4-1-0</strong> en los últimos 3 años, sobre 5 peleas. Sus números de radar dibujan a un peleador peligroso en cuanto la pelea se desequilibra: un derribo ofensivo de <strong>67</strong> y una amenaza de finalización de <strong>75</strong> lo convierten en una constante presión para llevar el combate a su terreno.\nEnfrente está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Andrey+Pulyaev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Andrey Pulyaev</a></strong>, también fuera del top 15, con un récord total de carrera de <strong>10-4-0</strong> y un tramo reciente complicado: <strong>1-2-0</strong> en los últimos 3 años sobre 3 peleas, con dos derrotas que pesan en la lectura. Su perfil es curioso: aporta un golpeo defensivo de <strong>57</strong> y un máximo de <strong>100</strong> en amenaza de finalización, lo que lo hace siempre peligroso, pero su derribo ofensivo de <strong>0</strong> y su control de <strong>15</strong> revelan una clara carencia en el juego de lucha. Si <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> impone su derribo, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Andrey+Pulyaev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Andrey Pulyaev</a> tendrá que sobrevivir desde una posición incómoda; si el duelo se queda de pie, la pelea se vuelve mucho más abierta. El radar inclina la balanza hacia <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> con un <strong>78%</strong> de confianza."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a></strong> parte como favorito claro en este duelo de peso medio entre contendientes sin ranking oficial.\nSu amenaza de finalización (<strong>75</strong>) y su derribo ofensivo (<strong>67</strong>) marcan la diferencia frente a un rival que apenas genera ataque de lucha.\nEl método más probable de cerrar la pelea es por <strong>KO/TKO</strong>, una vía abierta para cualquiera de los dos."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> con un 78% de probabilidad. Por separado, el método más probable de finalización es <strong>KO/TKO</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

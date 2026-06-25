@@ -253,6 +253,20 @@
       },
       {
         "fighter1": {
+          "name": "King Green",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Terrance McKinney (T. Wrecks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Nikita Krylov (The Miner)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
           "division_ranking": "12"
@@ -333,6 +347,20 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Farid Basharat (Ferocious)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a09ed60aa67a3f67",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Ethyn Ewing (The Professor Finesser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d776b5814f2400b4",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -444,20 +472,6 @@
       },
       {
         "fighter1": {
-          "name": "Amanda Ribas",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/beecb672a279223e",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Fatima Kline (The Archangel)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da",
-          "division_ranking": "11"
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Veronica Hardy",
           "ufcstats_url": "http://ufcstats.com/fighter-details/4798e823ada58fe9",
           "division_ranking": ""
@@ -482,6 +496,76 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tommy McMillen (Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alberto Montes (The Promise)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Austin Bashi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Delgado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tabatha Ricci (Baby Shark)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d25240135aee03e5",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Fatima Kline (The Archangel)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da",
+          "division_ranking": "11"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Levi Rodrigues Jr.",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9ac4e43ed56429ed",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Felipe Franco",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Allen Frye Jr.",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/73a78713bd899f4c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alvin Hines (Goozie)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ab2a4b5e04dc5fe9",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ],
@@ -780,6 +864,20 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nina Milosevic",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Hailey Cowan (All Hail)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3c26c420584d912d",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
       }
     ],
