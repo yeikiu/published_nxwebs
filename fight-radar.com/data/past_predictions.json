@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-28T02:12:58.970Z",
+  "generatedAt": "2026-07-02T01:53:05.617Z",
   "globalStats": {
-    "totalFights": 1566,
-    "winnerCorrect": 401,
-    "winnerAttempts": 605,
-    "methodCorrect": 423,
-    "methodAttempts": 712,
-    "durationCorrect": 521,
-    "durationAttempts": 716,
-    "noDataFights": 784,
+    "totalFights": 1554,
+    "winnerCorrect": 400,
+    "winnerAttempts": 602,
+    "methodCorrect": 421,
+    "methodAttempts": 709,
+    "durationCorrect": 520,
+    "durationAttempts": 717,
+    "noDataFights": 775,
     "nonOfficialFights": 28
   },
   "events": [
@@ -253,13 +253,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 68,
+              "pick": "Decision",
+              "confidence": 67,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 89,
               "correct": false
             }
           },
@@ -573,7 +573,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 68,
+              "confidence": 69,
               "correct": false
             },
             "duration": {
@@ -941,13 +941,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 71,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 78,
               "correct": true
             }
           },
@@ -1057,14 +1057,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 72,
+              "pick": "KO/TKO",
+              "confidence": 86,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 92,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -1109,12 +1109,12 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "confidence": 62,
+              "confidence": 65,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 84,
+              "confidence": 85,
               "correct": false
             }
           },
@@ -1221,7 +1221,7 @@
             },
             "duration": {
               "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 80,
               "correct": true
             }
           },
@@ -1248,14 +1248,14 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -1585,13 +1585,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 77,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 79,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": false
             }
           },
@@ -1701,14 +1701,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 78,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 92,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -2172,7 +2172,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 78,
+              "confidence": 83,
               "correct": true
             }
           },
@@ -2205,7 +2205,7 @@
             },
             "duration": {
               "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 80,
               "correct": true
             }
           },
@@ -2233,12 +2233,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 71,
+              "confidence": 73,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -2350,14 +2350,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
+              "pick": "KO/TKO",
               "confidence": 71,
-              "correct": true
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 88,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -2615,7 +2615,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 86,
+              "confidence": 85,
               "correct": false
             },
             "duration": {
@@ -2783,9 +2783,14 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 68,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 75,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 3.5 rounds",
+              "confidence": 89,
+              "correct": false
             }
           },
           "noData": false,
@@ -2812,12 +2817,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 93,
+              "confidence": 94,
               "correct": true
             }
           },
@@ -3075,13 +3080,8 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 64,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
+              "pick": "KO/TKO",
+              "confidence": 86,
               "correct": true
             }
           },
@@ -3131,7 +3131,7 @@
             },
             "duration": {
               "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 80,
               "correct": false
             }
           },
@@ -3159,7 +3159,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 78,
+              "confidence": 84,
               "correct": true
             },
             "duration": {
@@ -3351,9 +3351,14 @@
               "confidence": 72,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 77,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -3663,14 +3668,9 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 67,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "confidence": 83,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 81,
+              "correct": true
             }
           },
           "noData": false,
@@ -3791,14 +3791,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 78,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 71,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -4051,7 +4051,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 68,
+              "confidence": 67,
               "correct": true
             },
             "duration": {
@@ -4260,7 +4260,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 65,
+              "confidence": 63,
               "correct": false
             },
             "duration": {
@@ -4343,12 +4343,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 65,
+              "confidence": 67,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 88,
+              "confidence": 89,
               "correct": false
             }
           },
@@ -4375,14 +4375,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 76,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -4409,7 +4409,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 65,
+              "confidence": 64,
               "correct": false
             },
             "duration": {
@@ -4600,12 +4600,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 72,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 91,
+              "confidence": 89,
               "correct": true
             }
           },
@@ -4698,13 +4698,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 71,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 89,
+              "confidence": 78,
               "correct": false
             }
           },
@@ -4732,7 +4732,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 80,
+              "confidence": 78,
               "correct": true
             },
             "duration": {
@@ -4994,14 +4994,9 @@
               "confidence": 72,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 72,
-              "correct": true
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 87,
+              "confidence": 75,
               "correct": true
             }
           },
@@ -5204,7 +5199,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 66,
+              "confidence": 64,
               "correct": false
             },
             "duration": {
@@ -5369,13 +5364,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 60,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 75,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 89,
               "correct": true
             }
           },
@@ -5532,7 +5527,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 63,
+              "confidence": 62,
               "correct": true
             },
             "duration": {
@@ -5638,14 +5633,14 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 71,
+              "correct": true
             },
             "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
-              "correct": false
+              "pick": "OVER 1.5 rounds",
+              "confidence": 84,
+              "correct": true
             }
           },
           "noData": false,
@@ -5880,12 +5875,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 76,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 88,
+              "confidence": 87,
               "correct": true
             }
           },
@@ -5912,9 +5907,9 @@
               "correct": true
             },
             "method": {
-              "pick": "Submission",
-              "confidence": 72,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 84,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
@@ -6000,9 +5995,9 @@
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -6028,13 +6023,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 64,
-              "correct": false
+              "pick": "Submission",
+              "confidence": 72,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 84,
+              "confidence": 78,
               "correct": true
             }
           },
@@ -6260,7 +6255,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 70,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -6411,6 +6406,11 @@
               "pick": "KO/TKO",
               "confidence": 86,
               "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -6890,20 +6890,15 @@
             "time": "2:25"
           },
           "prediction": {
-            "moneyline": {
-              "pick": "Grant Dawson",
-              "confidence": 62,
-              "correct": false
-            },
             "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 79,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -7019,12 +7014,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 68,
+              "confidence": 69,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 90,
+              "confidence": 91,
               "correct": true
             }
           },
@@ -7213,9 +7208,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 70,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -7242,7 +7237,7 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 86,
+              "confidence": 87,
               "correct": false
             }
           },
@@ -7269,13 +7264,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 73,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 72,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 92,
+              "confidence": 78,
               "correct": false
             }
           },
@@ -7474,7 +7469,7 @@
           "prediction": {
             "method": {
               "pick": "Submission",
-              "confidence": 67,
+              "confidence": 66,
               "correct": false
             },
             "duration": {
@@ -7605,9 +7600,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 60,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -7629,7 +7624,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 82,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
@@ -7657,17 +7652,17 @@
           "prediction": {
             "moneyline": {
               "pick": "Gregory Rodrigues",
-              "confidence": 63,
+              "confidence": 62,
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 68,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 89,
               "correct": true
             }
           },
@@ -7794,13 +7789,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
+              "pick": "Decision",
               "confidence": 76,
-              "correct": false
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -7986,9 +7981,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
+              "pick": "Decision",
+              "confidence": 74,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
               "confidence": 86,
-              "correct": false
+              "correct": true
             }
           },
           "noData": false,
@@ -8091,9 +8091,14 @@
               "confidence": 83,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 76,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -8592,7 +8597,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 83,
+              "confidence": 82,
               "correct": false
             },
             "duration": {
@@ -8745,7 +8750,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 68,
+              "confidence": 69,
               "correct": false
             },
             "duration": {
@@ -8776,9 +8781,14 @@
               "confidence": 67,
               "correct": false
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 74,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 91,
               "correct": true
             }
           },
@@ -8899,14 +8909,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 76,
-              "correct": true
+              "pick": "Submission",
+              "confidence": 72,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -8982,9 +8992,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 76,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -9086,12 +9096,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 80,
+              "confidence": 79,
               "correct": false
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 90,
+              "confidence": 89,
               "correct": false
             }
           },
@@ -9118,13 +9128,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 65,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 90,
+              "confidence": 75,
               "correct": true
             }
           },
@@ -9263,14 +9273,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 74,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 92,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -9635,13 +9645,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 84,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 74,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -9836,10 +9846,15 @@
               "confidence": 78,
               "correct": false
             },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+            "method": {
+              "pick": "Submission",
+              "confidence": 63,
               "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -10415,14 +10430,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 63,
+              "pick": "Submission",
+              "confidence": 72,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -10499,14 +10514,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 67,
+              "pick": "Submission",
+              "confidence": 72,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 88,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -11153,7 +11168,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 66,
+              "confidence": 61,
               "correct": true
             },
             "duration": {
@@ -11209,7 +11224,7 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
@@ -11421,12 +11436,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 70,
+              "confidence": 72,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 92,
               "correct": false
             }
           },
@@ -11701,13 +11716,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 71,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 94,
               "correct": true
             }
           },
@@ -11763,9 +11778,9 @@
           },
           "prediction": {
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 75,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -11915,14 +11930,9 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 71,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 91,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -12003,9 +12013,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 60,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -12077,12 +12087,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 74,
+              "confidence": 76,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 92,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -12224,7 +12234,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 67,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -12255,9 +12265,14 @@
               "confidence": 85,
               "correct": false
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 73,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -12480,13 +12495,13 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 66,
+              "confidence": 72,
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -12637,7 +12652,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 79,
+              "confidence": 83,
               "correct": true
             },
             "duration": {
@@ -12668,15 +12683,10 @@
               "confidence": 78,
               "correct": true
             },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -12746,9 +12756,14 @@
               "confidence": 73,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 94,
               "correct": false
             }
           },
@@ -12794,6 +12809,11 @@
             "method": {
               "pick": "Submission",
               "confidence": 72,
+              "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
               "correct": true
             }
           },
@@ -12894,13 +12914,8 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 76,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "confidence": 91,
+              "pick": "KO/TKO",
+              "confidence": 73,
               "correct": false
             }
           },
@@ -12959,15 +12974,10 @@
               "confidence": 77,
               "correct": false
             },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -13073,7 +13083,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 66,
+              "confidence": 60,
               "correct": true
             },
             "duration": {
@@ -13141,14 +13151,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 65,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 3.5 rounds",
-              "confidence": 84,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -13394,9 +13404,14 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 73,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 3.5 rounds",
+              "confidence": 91,
+              "correct": true
             }
           },
           "noData": false,
@@ -13562,9 +13577,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 76,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -13815,7 +13830,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 79,
+              "confidence": 78,
               "correct": false
             },
             "duration": {
@@ -13885,9 +13900,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -13913,14 +13928,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 83,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 90,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -14155,7 +14170,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 67,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -14278,9 +14293,14 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 74,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 79,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 3.5 rounds",
+              "confidence": 91,
+              "correct": false
             }
           },
           "noData": false,
@@ -14323,9 +14343,9 @@
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 60,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -14352,13 +14372,13 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 60,
+              "confidence": 70,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -14402,7 +14422,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 76,
+              "confidence": 78,
               "correct": false
             },
             "duration": {
@@ -14538,12 +14558,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 80,
+              "confidence": 77,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 91,
+              "confidence": 90,
               "correct": true
             }
           },
@@ -14681,13 +14701,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 63,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 83,
+              "confidence": 78,
               "correct": false
             }
           },
@@ -14791,15 +14811,10 @@
             "time": "1:27"
           },
           "prediction": {
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -14950,7 +14965,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 73,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
@@ -15236,7 +15251,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 69,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -15408,12 +15423,12 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 93,
+              "confidence": 94,
               "correct": true
             }
           },
@@ -15548,12 +15563,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 88,
+              "confidence": 86,
               "correct": true
             }
           },
@@ -15666,6 +15681,11 @@
               "pick": "KO/TKO",
               "confidence": 86,
               "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -15757,13 +15777,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 68,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 73,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 85,
+              "confidence": 70,
               "correct": true
             }
           },
@@ -15941,14 +15961,9 @@
               "confidence": 72,
               "correct": false
             },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": false
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 60,
+              "confidence": 69,
               "correct": true
             }
           },
@@ -15992,13 +16007,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 67,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 90,
+              "confidence": 75,
               "correct": true
             }
           },
@@ -16185,12 +16200,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 80,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 94,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -16249,15 +16264,10 @@
               "confidence": 68,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -16425,13 +16435,13 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 80,
+              "confidence": 86,
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -16769,7 +16779,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 78,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
@@ -17078,12 +17088,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 64,
+              "confidence": 67,
               "correct": true
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 82,
+              "confidence": 84,
               "correct": true
             }
           },
@@ -17373,7 +17383,7 @@
             },
             "duration": {
               "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 80,
               "correct": true
             }
           },
@@ -17609,7 +17619,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 76,
+              "confidence": 77,
               "correct": false
             },
             "duration": {
@@ -17707,15 +17717,10 @@
               "confidence": 74,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -17844,12 +17849,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 70,
+              "confidence": 73,
               "correct": false
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 89,
+              "confidence": 90,
               "correct": true
             }
           },
@@ -17949,13 +17954,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 61,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 76,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 85,
+              "confidence": 70,
               "correct": true
             }
           },
@@ -18044,13 +18049,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 82,
+              "pick": "Decision",
+              "confidence": 74,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 89,
               "correct": true
             }
           },
@@ -18136,12 +18141,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 69,
+              "confidence": 71,
               "correct": true
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 90,
+              "confidence": 91,
               "correct": true
             }
           },
@@ -18219,13 +18224,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Submission",
-              "confidence": 66,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 78,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -18718,9 +18723,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -19011,7 +19016,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 72,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
@@ -19370,14 +19375,14 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 72,
+              "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 92,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -19403,14 +19408,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 76,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -19756,13 +19761,13 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
+              "pick": "Decision",
               "confidence": 74,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": false
             }
           },
@@ -19866,14 +19871,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 77,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 94,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -19954,9 +19959,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 75,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -20247,14 +20252,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 76,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 85,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 88,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -20427,7 +20432,7 @@
           "prediction": {
             "method": {
               "pick": "Submission",
-              "confidence": 62,
+              "confidence": 61,
               "correct": true
             },
             "duration": {
@@ -20492,9 +20497,14 @@
               "confidence": 78,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 75,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": false
             }
           },
@@ -20630,7 +20640,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 69,
+              "confidence": 68,
               "correct": false
             },
             "duration": {
@@ -20728,9 +20738,14 @@
               "confidence": 72,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 94,
               "correct": false
             }
           },
@@ -20830,14 +20845,9 @@
               "confidence": 80,
               "correct": false
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64,
-              "correct": true
-            },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 89,
+              "confidence": 69,
               "correct": true
             }
           },
@@ -20865,7 +20875,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 79,
+              "confidence": 80,
               "correct": true
             },
             "duration": {
@@ -21200,7 +21210,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 85,
+              "confidence": 83,
               "correct": true
             },
             "duration": {
@@ -21232,13 +21242,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Submission",
-              "confidence": 69,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 68,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 90,
               "correct": false
             }
           },
@@ -21534,7 +21544,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 66,
+              "confidence": 67,
               "correct": true
             },
             "duration": {
@@ -21662,7 +21672,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 69,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -21903,13 +21913,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Submission",
-              "confidence": 72,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 77,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -21982,12 +21992,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 63,
+              "confidence": 64,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 86,
+              "confidence": 87,
               "correct": true
             }
           },
@@ -22140,7 +22150,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 78,
               "correct": true
             },
             "duration": {
@@ -22321,15 +22331,10 @@
               "confidence": 70,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 69,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 86,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -22366,9 +22371,14 @@
             "time": "3:19"
           },
           "prediction": {
+            "method": {
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": false
             }
           },
@@ -22899,9 +22909,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
-              "correct": true
+              "pick": "OVER 1.5 rounds",
+              "confidence": 60,
+              "correct": false
             }
           },
           "noData": false,
@@ -22977,14 +22987,9 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 66,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 84,
-              "correct": true
+              "pick": "Submission",
+              "confidence": 65,
+              "correct": false
             }
           },
           "noData": false,
@@ -23116,14 +23121,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 73,
+              "pick": "KO/TKO",
+              "confidence": 77,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -23233,9 +23238,14 @@
               "confidence": 73,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 76,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": false
             }
           },
@@ -23404,7 +23414,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 64,
+              "confidence": 62,
               "correct": true
             },
             "duration": {
@@ -23436,13 +23446,13 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 77,
+              "pick": "Decision",
+              "confidence": 68,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 89,
               "correct": true
             }
           },
@@ -23573,7 +23583,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 70,
+              "confidence": 71,
               "correct": false
             },
             "duration": {
@@ -23671,13 +23681,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 71,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 60,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 86,
+              "confidence": 75,
               "correct": true
             }
           },
@@ -23837,15 +23847,10 @@
               "confidence": 80,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 78,
-              "correct": true
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -24192,9 +24197,14 @@
               "confidence": 72,
               "correct": true
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 76,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": false
             }
           },
@@ -24507,7 +24517,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 83,
+              "confidence": 82,
               "correct": false
             },
             "duration": {
@@ -24535,7 +24545,7 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "confidence": 77,
+              "confidence": 76,
               "correct": false
             }
           },
@@ -24557,13 +24567,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 61,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 76,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -24608,7 +24618,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 72,
+              "confidence": 77,
               "correct": false
             },
             "duration": {
@@ -24706,15 +24716,10 @@
               "confidence": 60,
               "correct": false
             },
-            "method": {
-              "pick": "Decision",
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
               "confidence": 80,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 94,
-              "correct": true
             }
           },
           "noData": false,
@@ -24756,15 +24761,10 @@
               "confidence": 86,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 94,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -24853,7 +24853,7 @@
             },
             "duration": {
               "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 80,
               "correct": true
             }
           },
@@ -25079,13 +25079,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 71,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 73,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -25161,15 +25161,10 @@
               "confidence": 77,
               "correct": false
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 94,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -25402,7 +25397,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 65,
+              "confidence": 64,
               "correct": false
             }
           },
@@ -25424,9 +25419,9 @@
           },
           "prediction": {
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 85,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -25451,14 +25446,9 @@
               "confidence": 72,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": false
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 94,
+              "confidence": 78,
               "correct": false
             }
           },
@@ -25529,15 +25519,10 @@
               "confidence": 73,
               "correct": false
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": true
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -25788,15 +25773,10 @@
             "time": "2:28"
           },
           "prediction": {
-            "method": {
-              "pick": "Decision",
-              "confidence": 77,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -26187,7 +26167,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 61,
+              "confidence": 63,
               "correct": true
             },
             "duration": {
@@ -26639,11 +26619,6 @@
               "confidence": 80,
               "correct": true
             },
-            "method": {
-              "pick": "Submission",
-              "confidence": 65,
-              "correct": true
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
               "confidence": 78,
@@ -26672,9 +26647,14 @@
               "confidence": 73,
               "correct": false
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 77,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -26697,7 +26677,7 @@
           "prediction": {
             "moneyline": {
               "pick": "Randy Brown",
-              "confidence": 76,
+              "confidence": 75,
               "correct": true
             },
             "method": {
@@ -26946,9 +26926,14 @@
             "time": "1:30"
           },
           "prediction": {
+            "method": {
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 94,
               "correct": false
             }
           },
@@ -27223,12 +27208,12 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 69,
+              "confidence": 78,
               "correct": true
             },
             "duration": {
-              "pick": "OVER 2.5 rounds",
-              "confidence": 69,
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
               "correct": false
             }
           },
@@ -27569,9 +27554,9 @@
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -27598,7 +27583,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 81,
+              "confidence": 80,
               "correct": false
             },
             "duration": {
@@ -27663,9 +27648,9 @@
               "correct": true
             },
             "method": {
-              "pick": "Submission",
-              "confidence": 72,
-              "correct": false
+              "pick": "KO/TKO",
+              "confidence": 74,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
@@ -27887,6 +27872,11 @@
               "confidence": 76,
               "correct": true
             },
+            "method": {
+              "pick": "Submission",
+              "confidence": 72,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
               "confidence": 76,
@@ -27967,7 +27957,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 76,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
@@ -28241,13 +28231,13 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 79,
+              "confidence": 86,
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -28386,7 +28376,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 64,
+              "confidence": 70,
               "correct": true
             },
             "duration": {
@@ -28524,14 +28514,14 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 67,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 73,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 2.5 rounds",
-              "confidence": 79,
-              "correct": true
+              "pick": "UNDER 2.5 rounds",
+              "confidence": 76,
+              "correct": false
             }
           },
           "noData": false,
@@ -28603,7 +28593,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 69,
+              "confidence": 75,
               "correct": true
             },
             "duration": {
@@ -28822,13 +28812,13 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 74,
-              "correct": true
+              "pick": "Decision",
+              "confidence": 73,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -29052,7 +29042,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 72,
+              "confidence": 74,
               "correct": false
             },
             "duration": {
@@ -29253,15 +29243,10 @@
               "confidence": 72,
               "correct": false
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": false
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 89,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -29434,9 +29419,9 @@
               "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -29662,12 +29647,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 70,
+              "confidence": 72,
               "correct": true
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 87,
+              "confidence": 88,
               "correct": true
             }
           },
@@ -29773,12 +29758,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 77,
+              "confidence": 79,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 93,
+              "confidence": 94,
               "correct": true
             }
           },
@@ -29807,6 +29792,11 @@
             "method": {
               "pick": "KO/TKO",
               "confidence": 86,
+              "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
               "correct": true
             }
           },
@@ -29867,7 +29857,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 74,
+              "confidence": 80,
               "correct": false
             },
             "duration": {
@@ -30168,14 +30158,14 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 73,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 85,
+              "correct": false
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 90,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -30234,15 +30224,10 @@
               "confidence": 71,
               "correct": true
             },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 86,
-              "correct": true
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 70,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -30310,7 +30295,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 72,
+              "confidence": 67,
               "correct": false
             },
             "duration": {
@@ -30559,7 +30544,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 78,
+              "confidence": 86,
               "correct": true
             }
           },
@@ -30604,7 +30589,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 86,
+              "confidence": 85,
               "correct": false
             },
             "duration": {
@@ -30832,6 +30817,16 @@
               "pick": "Joe Pyfer",
               "confidence": 85,
               "correct": false
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 2.5 rounds",
+              "confidence": 60,
+              "correct": true
             }
           },
           "noData": false,
@@ -30948,7 +30943,7 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "confidence": 72,
+              "confidence": 74,
               "correct": false
             },
             "duration": {
@@ -31027,7 +31022,7 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "confidence": 73,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
@@ -31059,13 +31054,13 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 61,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 74,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 91,
               "correct": true
             }
           },
@@ -31240,7 +31235,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 79,
+              "confidence": 80,
               "correct": true
             },
             "duration": {
@@ -31455,12 +31450,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 76,
+              "confidence": 72,
               "correct": true
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 90,
+              "confidence": 88,
               "correct": true
             }
           },
@@ -31839,13 +31834,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 68,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 77,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 89,
+              "confidence": 75,
               "correct": true
             }
           },
@@ -32059,14 +32054,9 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 70,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "confidence": 81,
-              "correct": true
+              "pick": "Submission",
+              "confidence": 72,
+              "correct": false
             }
           },
           "noData": false,
@@ -32609,13 +32599,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 62,
+              "pick": "Submission",
+              "confidence": 72,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 89,
+              "confidence": 75,
               "correct": false
             }
           },
@@ -32700,7 +32690,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 82,
+              "confidence": 81,
               "correct": true
             },
             "duration": {
@@ -33041,7 +33031,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 76,
+              "confidence": 80,
               "correct": false
             },
             "duration": {
@@ -33140,13 +33130,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Submission",
+              "pick": "Decision",
               "confidence": 72,
-              "correct": true
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 87,
               "correct": true
             }
           },
@@ -33343,9 +33333,14 @@
             "time": "3:15"
           },
           "prediction": {
+            "method": {
+              "pick": "Decision",
+              "confidence": 78,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -33534,7 +33529,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 72,
+              "confidence": 74,
               "correct": true
             },
             "duration": {
@@ -33612,8 +33607,8 @@
               "correct": false
             },
             "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "confidence": 76,
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
               "correct": false
             }
           },
@@ -33752,13 +33747,13 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 79,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 76,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 70,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -33943,13 +33938,13 @@
               "correct": true
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 70,
-              "correct": false
+              "pick": "Submission",
+              "confidence": 72,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 78,
               "correct": true
             }
           },
@@ -34408,9 +34403,14 @@
               "confidence": 82,
               "correct": false
             },
+            "method": {
+              "pick": "KO/TKO",
+              "confidence": 72,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 78,
+              "confidence": 69,
               "correct": false
             }
           },
@@ -34455,7 +34455,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 85,
+              "confidence": 86,
               "correct": false
             },
             "duration": {
@@ -34614,15 +34614,10 @@
             "time": "5:00"
           },
           "prediction": {
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": true
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -34689,12 +34684,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 79,
+              "confidence": 75,
               "correct": false
             },
             "duration": {
               "pick": "OVER 3.5 rounds",
-              "confidence": 90,
+              "confidence": 88,
               "correct": false
             }
           },
@@ -34856,7 +34851,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 61,
+              "confidence": 66,
               "correct": true
             },
             "duration": {
@@ -35251,6 +35246,11 @@
             "method": {
               "pick": "KO/TKO",
               "confidence": 86,
+              "correct": false
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
               "correct": false
             }
           },
@@ -35735,7 +35735,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 63,
+              "confidence": 66,
               "correct": true
             },
             "duration": {
@@ -35767,13 +35767,13 @@
               "correct": false
             },
             "method": {
-              "pick": "KO/TKO",
-              "confidence": 61,
-              "correct": false
+              "pick": "Decision",
+              "confidence": 72,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -36038,7 +36038,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 79,
+              "confidence": 86,
               "correct": false
             },
             "duration": {
@@ -36282,12 +36282,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 74,
+              "confidence": 75,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 92,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -36360,9 +36360,14 @@
             "time": "5:00"
           },
           "prediction": {
+            "method": {
+              "pick": "Decision",
+              "confidence": 75,
+              "correct": true
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 75,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -36394,9 +36399,9 @@
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 78,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -36455,15 +36460,10 @@
               "confidence": 79,
               "correct": true
             },
-            "method": {
-              "pick": "Decision",
-              "confidence": 66,
-              "correct": true
-            },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": true
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": false
             }
           },
           "noData": false,
@@ -36748,12 +36748,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 70,
+              "confidence": 72,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -36781,12 +36781,12 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 71,
+              "confidence": 73,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 91,
+              "confidence": 92,
               "correct": true
             }
           },
@@ -37010,13 +37010,13 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 76,
+              "confidence": 86,
               "correct": true
             },
             "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 75,
-              "correct": false
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 80,
+              "correct": true
             }
           },
           "noData": false,
@@ -37076,7 +37076,7 @@
             },
             "method": {
               "pick": "Submission",
-              "confidence": 72,
+              "confidence": 70,
               "correct": true
             },
             "duration": {
@@ -37177,7 +37177,7 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "confidence": 69,
+              "confidence": 68,
               "correct": true
             },
             "duration": {
@@ -37210,7 +37210,7 @@
             },
             "method": {
               "pick": "Decision",
-              "confidence": 79,
+              "confidence": 80,
               "correct": false
             },
             "duration": {
@@ -37471,13 +37471,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "Decision",
-              "confidence": 65,
+              "pick": "KO/TKO",
+              "confidence": 86,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 84,
+              "confidence": 78,
               "correct": true
             }
           },
@@ -37899,9 +37899,14 @@
               "confidence": 69,
               "correct": false
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 75,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 69,
+              "confidence": 93,
               "correct": true
             }
           },
@@ -37928,13 +37933,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
-              "confidence": 64,
-              "correct": true
+              "pick": "KO/TKO",
+              "confidence": 86,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 83,
+              "confidence": 69,
               "correct": true
             }
           },
@@ -38034,13 +38039,13 @@
           },
           "prediction": {
             "method": {
-              "pick": "KO/TKO",
+              "pick": "Decision",
               "confidence": 77,
-              "correct": true
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "confidence": 78,
+              "confidence": 93,
               "correct": false
             }
           },
@@ -38099,10 +38104,15 @@
               "confidence": 74,
               "correct": false
             },
+            "method": {
+              "pick": "Decision",
+              "confidence": 80,
+              "correct": false
+            },
             "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "confidence": 75,
-              "correct": true
+              "pick": "OVER 1.5 rounds",
+              "confidence": 90,
+              "correct": false
             }
           },
           "noData": false,
@@ -38168,255 +38178,6 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Esteban Ribovics",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        }
-      ]
-    },
-    {
-      "dateKey": "01-07-2023",
-      "eventName": "UFC Fight Night: Strickland vs. Magomedov",
-      "location": "Las Vegas, Nevada, USA",
-      "fights": [
-        {
-          "fighter1": "Abus Magomedov",
-          "fighter2": "Sean Strickland",
-          "fighter1Image": "img/abus_magomedov.png",
-          "fighter2Image": "img/sean_strickland.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 5,
-          "actual": {
-            "winner": "Sean Strickland",
-            "resultType": "KO",
-            "round": 2,
-            "time": "4:20"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Grant Dawson (KGD)",
-          "fighter2": "Damir Ismagulov (Qazaq)",
-          "fighter1Image": "img/grant_dawson.png",
-          "fighter2Image": "img/damir_ismagulov.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Grant Dawson",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Grant Dawson",
-              "confidence": 81,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 75,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 93,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Max Griffin (Pain)",
-          "fighter2": "Michael Morales",
-          "fighter1Image": "img/max_griffin.png",
-          "fighter2Image": "img/michael_morales.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Michael Morales",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Ariane da Silva (Queen of Violence)",
-          "fighter2": "Melissa Gatto",
-          "fighter1Image": "img/ariane_da_silva.png",
-          "fighter2Image": "img/melissa_gatto.png",
-          "weightClass": "W_Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Ariane da Silva",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Melissa Gatto",
-              "confidence": 72,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 87,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Benoit Saint Denis (God of War)",
-          "fighter2": "Ismael Bonfim (Marreta)",
-          "fighter1Image": "img/benoit_saint_denis.png",
-          "fighter2Image": "img/ismael_bonfim.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Benoit Saint Denis",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "4:48"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Nursulton Ruziboev (Black)",
-          "fighter2": "Brunno Ferreira (The Hulk)",
-          "fighter1Image": "img/nursulton_ruziboev.png",
-          "fighter2Image": "img/brunno_ferreira.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Nursulton Ruziboev",
-            "resultType": "KO",
-            "round": 1,
-            "time": "1:17"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Rinat Fakhretdinov (Gladiator)",
-          "fighter2": "Kevin Lee (The Motown Phenom)",
-          "fighter1Image": "img/rinat_fakhretdinov.png",
-          "fighter2Image": "img/kevin_lee.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Rinat Fakhretdinov",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "0:55"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Joanderson Brito (Tubarao)",
-          "fighter2": "Westin Wilson",
-          "fighter1Image": "img/joanderson_brito.png",
-          "fighter2Image": "img/westin_wilson.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Joanderson Brito",
-            "resultType": "KO",
-            "round": 1,
-            "time": "2:54"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Karol Rosa",
-          "fighter2": "Yana Santos",
-          "fighter1Image": "img/karol_rosa.png",
-          "fighter2Image": "img/yana_santos.png",
-          "weightClass": "W_Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Karol Rosa",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "method": {
-              "pick": "Decision",
-              "confidence": 80,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 94,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Elves Brener",
-          "fighter2": "Guram Kutateladze (Georgian Viking)",
-          "fighter1Image": "img/elves_brener.png",
-          "fighter2Image": "img/guram_kutateladze.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Elves Brener",
-            "resultType": "KO",
-            "round": 3,
-            "time": "3:17"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Ivana Petrovic",
-          "fighter2": "Luana Carolina (Dread)",
-          "fighter1Image": "img/ivana_petrovic.png",
-          "fighter2Image": "img/luana_carolina.png",
-          "weightClass": "W_Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Luana Carolina",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Alexandr Romanov (King Kong)",
-          "fighter2": "Blagoy Ivanov (Baga)",
-          "fighter1Image": "img/alexandr_romanov.png",
-          "fighter2Image": "img/blagoy_ivanov.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Alexandr Romanov",
             "resultType": "Decision",
             "round": 3,
             "time": "5:00"
