@@ -1,0 +1,51 @@
+{
+  "event": "UFC 329: McGregor vs. Holloway 2",
+  "event_date": "11 de julio de 2026",
+  "event_date_iso": "2026-07-11",
+  "fight": {
+    "fighter_a": "Nikita Krylov",
+    "fighter_b": "Robert Whittaker",
+    "prediction": "Nikita Krylov",
+    "confidence": 78,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 70,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 88,
+    "raw_fighter_a": "Nikita Krylov",
+    "raw_fighter_b": "Robert Whittaker",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong>, <strong>#12 del ranking</strong> peso semipesado, llega a este combate con un récord total de carrera de <strong>31-11-0</strong>, aunque su tramo reciente es más irregular: en los últimos 36 meses acumula <strong>1-2-0</strong> en 3 peleas, con dos derrotas incluidas en ese lapso. Del otro lado está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a></strong>, sin ranking oficial en el top 15, con un récord total de <strong>27-9-0</strong> y un historial de los últimos 36 meses de <strong>2-3-0</strong> en 5 peleas, que también incluye tres derrotas.\nPese a esa forma reciente compartida, el radar marca diferencias claras en el terreno del control. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> domina el derribo defensivo con <strong>85/100</strong> frente al <strong>7/100</strong> de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a>, además de sostener una ventaja de control general de <strong>68</strong> contra apenas <strong>7</strong>. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a> responde con un golpeo ofensivo algo más alto (<strong>51</strong> frente a <strong>48</strong>) y un derribo ofensivo notablemente superior (<strong>50</strong> contra <strong>25</strong>), pero la amenaza de finalización favorece de forma contundente al contendiente ucraniano, con <strong>100</strong> frente a <strong>50</strong>. En una pelea a <strong>3 rondas</strong>, esa capacidad de imponer el ritmo desde el suelo podría resultar determinante."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong> llega como favorito claro con un <strong>78%</strong> de probabilidad a su favor.\nSu derribo defensivo de <strong>85/100</strong> contrasta con el <strong>7/100</strong> en control de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a>.\nLa vía más probable de cierre es la <strong>decisión</strong>, sin importar quién se lleve la victoria."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> con un 78% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

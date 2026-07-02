@@ -1,0 +1,98 @@
+{
+  "event": "UFC 329: McGregor vs. Holloway 2",
+  "event_date": "11 de julio de 2026",
+  "event_date_iso": "2026-07-11",
+  "generated_at": "2026-07-02T18:02:19Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Benoit Saint Denis",
+      "fighter_b": "Paddy Pimblett",
+      "slug_a": "benoit-saint-denis",
+      "slug_b": "paddy-pimblett",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_benoit-saint-denis_vs_paddy-pimblett.html",
+        "en": "newsletter/2026-07-11/en/newsletter_benoit-saint-denis_vs_paddy-pimblett.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_benoit-saint-denis_vs_paddy-pimblett.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_benoit-saint-denis_vs_paddy-pimblett.html"
+      }
+    },
+    {
+      "fighter_a": "Cory Sandhagen",
+      "fighter_b": "Mario Bautista",
+      "slug_a": "cory-sandhagen",
+      "slug_b": "mario-bautista",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_cory-sandhagen_vs_mario-bautista.html",
+        "en": "newsletter/2026-07-11/en/newsletter_cory-sandhagen_vs_mario-bautista.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_cory-sandhagen_vs_mario-bautista.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_cory-sandhagen_vs_mario-bautista.html"
+      }
+    },
+    {
+      "fighter_a": "Brandon Royval",
+      "fighter_b": "Lone'er Kavanagh",
+      "slug_a": "brandon-royval",
+      "slug_b": "loneer-kavanagh",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_brandon-royval_vs_loneer-kavanagh.html",
+        "en": "newsletter/2026-07-11/en/newsletter_brandon-royval_vs_loneer-kavanagh.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_brandon-royval_vs_loneer-kavanagh.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_brandon-royval_vs_loneer-kavanagh.html"
+      }
+    },
+    {
+      "fighter_a": "King Green",
+      "fighter_b": "Terrance McKinney",
+      "slug_a": "king-green",
+      "slug_b": "terrance-mckinney",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_king-green_vs_terrance-mckinney.html",
+        "en": "newsletter/2026-07-11/en/newsletter_king-green_vs_terrance-mckinney.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_king-green_vs_terrance-mckinney.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_king-green_vs_terrance-mckinney.html"
+      }
+    },
+    {
+      "fighter_a": "Nikita Krylov",
+      "fighter_b": "Robert Whittaker",
+      "slug_a": "nikita-krylov",
+      "slug_b": "robert-whittaker",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_nikita-krylov_vs_robert-whittaker.html",
+        "en": "newsletter/2026-07-11/en/newsletter_nikita-krylov_vs_robert-whittaker.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_nikita-krylov_vs_robert-whittaker.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_nikita-krylov_vs_robert-whittaker.html"
+      }
+    },
+    {
+      "fighter_a": "Tracy Cortez",
+      "fighter_b": "Wang Cong",
+      "slug_a": "tracy-cortez",
+      "slug_b": "wang-cong",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_tracy-cortez_vs_wang-cong.html",
+        "en": "newsletter/2026-07-11/en/newsletter_tracy-cortez_vs_wang-cong.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_tracy-cortez_vs_wang-cong.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_tracy-cortez_vs_wang-cong.html"
+      }
+    },
+    {
+      "fighter_a": "Alessandro Costa",
+      "fighter_b": "Cody Durden",
+      "slug_a": "alessandro-costa",
+      "slug_b": "cody-durden",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_alessandro-costa_vs_cody-durden.html",
+        "en": "newsletter/2026-07-11/en/newsletter_alessandro-costa_vs_cody-durden.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_alessandro-costa_vs_cody-durden.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_alessandro-costa_vs_cody-durden.html"
+      }
+    }
+  ]
+}

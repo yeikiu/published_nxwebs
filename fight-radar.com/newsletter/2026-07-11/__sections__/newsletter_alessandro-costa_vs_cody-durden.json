@@ -1,0 +1,51 @@
+{
+  "event": "UFC 329: McGregor vs. Holloway 2",
+  "event_date": "11 de julio de 2026",
+  "event_date_iso": "2026-07-11",
+  "fight": {
+    "fighter_a": "Alessandro Costa",
+    "fighter_b": "Cody Durden",
+    "prediction": "Cody Durden",
+    "confidence": 76,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 80,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "Alessandro Costa",
+    "raw_fighter_b": "Cody Durden",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT)\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alessandro+Costa+%28Nono%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alessandro Costa</a></strong> llega a este duelo estelar sin ranking oficial en el top 15, con un récord total de carrera de 15-5-0. En los últimos 36 meses su forma es de 3-2-0 en 5 peleas, un tramo que incluye 2 derrotas recientes. Su fortaleza más clara está en la defensa de derribo (82/100), un dato que contrasta con una amenaza de finalización que el radar marca en el máximo, 100/100, aunque su golpeo ofensivo (50) y defensivo (52) se mantienen en un nivel parejo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cody+Durden+%28Custom+Made%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cody Durden</a></strong>, también sin ranking oficial en el top 15, acumula un récord total de carrera de 18-10-1. Su tramo reciente de 36 meses es más irregular: 3-6-0 en 9 peleas, con 6 derrotas que pesan en el análisis. Aun así, el radar destaca su control (57) y su derribo ofensivo (51) como las herramientas que más pueden inclinar este enfrentamiento, apoyado en un golpeo defensivo (52) similar al de su rival. La amenaza de finalización de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cody+Durden+%28Custom+Made%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cody Durden</a> es notablemente menor (33), lo que refuerza la idea de una pelea que puede irse a las tarjetas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cody+Durden+%28Custom+Made%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cody Durden</a></strong> llega como favorito claro del radar en este duelo de peso mosca.\nSu ventaja se apoya en el <strong>control (57)</strong> y el derribo ofensivo, frente a un rival más sólido en la defensa de derribo.\nLa vía más probable de cierre es la <strong>decisión</strong>, en una pelea que puede extenderse a las 3 rondas programadas."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cody+Durden+%28Custom+Made%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cody Durden</a> con un 76% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

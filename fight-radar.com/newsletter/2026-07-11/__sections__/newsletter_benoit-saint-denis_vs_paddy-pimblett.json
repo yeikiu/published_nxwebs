@@ -1,0 +1,51 @@
+{
+  "event": "UFC 329: McGregor vs. Holloway 2",
+  "event_date": "11 de julio de 2026",
+  "event_date_iso": "2026-07-11",
+  "fight": {
+    "fighter_a": "Benoit Saint Denis",
+    "fighter_b": "Paddy Pimblett",
+    "prediction": "Benoit Saint Denis",
+    "confidence": 84,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 72,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Benoit Saint Denis",
+    "raw_fighter_b": "Paddy Pimblett",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Benoit+Saint+Denis+%28God+of+War%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Benoit Saint Denis</a></strong>, <strong>#5 del ranking peso ligero</strong>, llega a este combate con un récord total de carrera de 17-3-0 (1 NC) y una racha de 7-2-0 en 9 peleas durante los últimos 36 meses, un tramo que incluye 2 derrotas pero también una seguidilla reciente de victorias que lo mantienen en la conversación de la división. Su perfil estadístico respalda el favoritismo: un golpeo ofensivo de 61, un derribo defensivo de 64 y, sobre todo, un control de 80 sobre 100 que le permite imponer el ritmo cuando el combate llega al suelo. Su amenaza de finalización alcanza el máximo de 100, un dato que confirma su instinto por buscar la sumisión en cuanto se presenta la oportunidad.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Paddy+Pimblett+%28The+Baddy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Paddy Pimblett</a></strong>, <strong>#6 del ranking peso ligero</strong>, acumula un récord total de carrera de 23-4-0, con un tramo reciente de 3-1-0 en 4 peleas en los últimos 36 meses que incluye 1 derrota. Su golpeo ofensivo de 55 y un control de 61 muestran a un peleador competitivo, pero su derribo defensivo de apenas 27 y una amenaza de finalización de 67 lo dejan en desventaja frente a la insistencia de su rival en esta faceta. Ese contraste en la defensa de derribo —64 contra 27— apunta a ser el factor decisivo en un combate pactado a 3 rondas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Benoit+Saint+Denis+%28God+of+War%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Benoit Saint Denis</a></strong> llega como favorito claro en este duelo de peso ligero.\nSu <strong>control (80/100)</strong> y una amenaza de finalización que toca el máximo marcan la diferencia.\nLa vía más probable de cierre es la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Benoit+Saint+Denis+%28God+of+War%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Benoit Saint Denis</a> con un 84% de probabilidad. Por separado, el método más probable de finalización es la sumisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
