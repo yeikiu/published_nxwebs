@@ -6,7 +6,7 @@
     "fighter_a": "Tracy Cortez",
     "fighter_b": "Wang Cong",
     "prediction": "Wang Cong",
-    "confidence": 82,
+    "confidence": 67,
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -24,9 +24,9 @@
       "FIN_THREAT": 0
     },
     "method": "DECISIÓN",
-    "method_prob": 80,
+    "method_prob": 60,
     "duration": "OVER 1.5 rounds",
-    "duration_prob": 94,
+    "duration_prob": 79,
     "raw_fighter_a": "Tracy Cortez",
     "raw_fighter_b": "Wang Cong",
     "rounds": 3,
@@ -38,13 +38,13 @@
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tracy+Cortez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tracy Cortez</a></strong>, <strong>#8 del ranking peso mosca femenino</strong>, llega a este combate con un récord total de carrera de 12-3-0, aunque en los últimos 36 meses su forma reciente es más irregular: 2-2-0 en 4 peleas, con dos derrotas incluidas en ese tramo. Su golpeo defensivo (55) y su derribo defensivo (50) son sus mayores fortalezas, pero su amenaza de finalización se sitúa en 0, un dato que preocupa de cara a este enfrentamiento de ranking.\nAl otro lado, <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a></strong>, <strong>#12 del ranking peso mosca femenino</strong>, acumula un récord total de carrera de 9-1-0, con una forma reciente sólida: 4-1-0 en 5 peleas durante los últimos 36 meses, incluyendo una derrota que no debe omitirse. Su dominio en el derribo ofensivo (67) y especialmente en el derribo defensivo (84) le da una base de control notable sobre el suelo, aunque su control general en la pelea se queda en 29. Con una amenaza de finalización de 25, la peleadora presenta un perfil más completo que su rival para este duelo divisional."
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tracy+Cortez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tracy Cortez</a></strong>, <strong>#8 del ranking peso mosca femenino</strong>, acumula un récord total de carrera de 12-3-0, aunque en los últimos 36 meses su forma ha sido irregular: 2-2-0 en 4 peleas, con derrotas el 15-11-2025 y el 13-07-2024 que rompen la racha de victorias más antiguas. Su golpeo defensivo (55) se sostiene por encima de su golpeo ofensivo (44), y su producción en el suelo —43 en derribo ofensivo y 50 en derribo defensivo— queda por debajo de lo que exhibe su rival en este combate.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a></strong>, <strong>#12 del ranking peso mosca femenino</strong>, presenta un récord total de carrera de 9-1-0 y una forma reciente mucho más sólida: 4-1-0 en 5 peleas en los últimos 36 meses, con su única derrota el 23-11-2024 rodeada de victorias, incluida la más reciente el 07-02-2026. Su perfil estadístico es contundente en el terreno del control: 67 en derribo ofensivo y 84 en derribo defensivo, cifras que superan con claridad a las de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tracy+Cortez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tracy Cortez</a>. Su golpeo (56 ofensivo, 63 defensivo) y una amenaza de finalización de 25 —frente al 0 de su rival— completan un cuadro que la posiciona como la opción más completa en este enfrentamiento a 3 rondas."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a></strong> llega como la favorita clara para este duelo divisional en el peso mosca femenino.\nSu ventaja en el derribo (67 de ofensiva, 84 de defensiva) marca la diferencia frente a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tracy+Cortez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tracy Cortez</a></strong>.\nEl método más probable de finalización es la <strong>decisión</strong>, sin importar quién se lleve la victoria."
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a></strong> llega como favorita clara en este cruce del peso mosca femenino.\nSu dominio en el derribo (67 ofensivo / 84 defensivo) marca la diferencia frente al conjunto de <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tracy+Cortez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tracy Cortez</a></strong>.\nLa pelea apunta a extenderse hasta las tarjetas, con <strong>decisión</strong> como desenlace más probable."
     ],
     "fight_conclusions": [
-      "Ambas peleadoras llegan con argumentos, pero la balanza estadística se inclina con claridad hacia un lado. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a> con un 82% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a> con un 67% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
     ],
     "conclusion": ""
   }

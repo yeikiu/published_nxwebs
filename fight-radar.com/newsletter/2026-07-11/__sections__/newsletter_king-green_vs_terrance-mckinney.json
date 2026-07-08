@@ -6,7 +6,7 @@
     "fighter_a": "King Green",
     "fighter_b": "Terrance McKinney",
     "prediction": "King Green",
-    "confidence": 78,
+    "confidence": 66,
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -24,9 +24,9 @@
       "FIN_THREAT": 0
     },
     "method": "KO / TKO",
-    "method_prob": 86,
+    "method_prob": 60,
     "duration": "UNDER 1.5 rounds",
-    "duration_prob": 80,
+    "duration_prob": 64,
     "raw_fighter_a": "King Green",
     "raw_fighter_b": "Terrance McKinney",
     "rounds": 3,
@@ -38,13 +38,13 @@
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a></strong> llega a este combate con un récord total de carrera de <strong>35-17-1 (1 NC)</strong>, y en los últimos 36 meses muestra un balance de <strong>6-3-0 en 9 pelea(s)</strong>, una racha reciente irregular que incluye tres derrotas pero también victorias consecutivas en sus últimas dos salidas. Su fortaleza estadística está en el terreno: un derribo ofensivo de 88 y un control de 84 lo sitúan como un peleador capaz de imponer ritmo y posición durante los tres asaltos que dura este enfrentamiento.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a></strong> presenta un récord total de carrera de <strong>18-8-0</strong>, con un tramo de 36 meses de <strong>5-3-0 en 8 pelea(s)</strong> — también con tres derrotas en ese periodo, reflejo de la volatilidad que ha caracterizado su trayectoria reciente. Su arma principal es la amenaza de finalización, con una lectura de 100 en esa métrica, la más alta de todo el enfrentamiento, aunque su derribo defensivo de 60 y su golpeo defensivo de 43 sugieren vulnerabilidad si <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> logra llevar la pelea a terreno de agarre. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> con un <strong>78%</strong> de probabilidad, apoyado en su capacidad de controlar la distancia y el suelo frente al poder explosivo pero menos sostenido de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a>."
+      "(COMBATE): <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a></strong> llega a este combate con un récord total de carrera de 35-17-1 (1 NC), y en los últimos 36 meses exhibe un balance de 6-3-0 en 9 peleas, con tres derrotas en ese tramo reciente que no pueden pasarse por alto. Su fortaleza pasa por el terreno: un derribo ofensivo de 88 y un control de 84 lo posicionan como un peleador capaz de imponer el ritmo y dictar dónde se libra el enfrentamiento, apoyado además en una amenaza de finalización de 67.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a></strong>, del otro lado, acumula un récord total de carrera de 18-8-0, con un tramo de 5-3-0 en 8 peleas durante los últimos 36 meses —también con tres derrotas recientes—. Su perfil es opuesto al de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a>: una amenaza de finalización de 100 lo convierte en el peleador más peligroso del cruce en cualquier instante del combate, aunque su derribo defensivo de apenas 60 y su golpeo defensivo de 43 dejan puertas abiertas si el enfrentamiento se traslada al suelo. El choque entre el control de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> y la explosividad de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a> define el eje de este duelo divisional a 3 rondas."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> aparece como favorito claro</strong> en este duelo de peso ligero.\nSu control y su juego de derribo marcan una diferencia notable frente al golpeo suelto de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a>.\nEl <strong>KO/TKO</strong> se perfila como la vía más probable de cierre para este combate."
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a></strong> llega como favorito claro con un dominio marcado en el control del combate.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a></strong> representa la amenaza de finalización más alta de este cruce en el peso ligero.\nEl <strong>KO/TKO</strong> asoma como la vía más probable para cerrar este duelo antes del límite."
     ],
     "fight_conclusions": [
-      "Este enfrentamiento contrapone el control posicional contra el poder de finalización explosivo. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> con un 78% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+      "Este combate promete pocos momentos de calma dado el perfil ofensivo de ambos contendientes. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=King+Green\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">King Green</a> con un 66% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
     ],
     "conclusion": ""
   }

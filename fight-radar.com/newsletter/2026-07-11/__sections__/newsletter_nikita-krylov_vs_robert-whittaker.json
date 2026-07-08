@@ -6,7 +6,7 @@
     "fighter_a": "Nikita Krylov",
     "fighter_b": "Robert Whittaker",
     "prediction": "Nikita Krylov",
-    "confidence": 78,
+    "confidence": 66,
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -24,9 +24,9 @@
       "FIN_THREAT": 0
     },
     "method": "DECISIÓN",
-    "method_prob": 70,
+    "method_prob": 58,
     "duration": "OVER 1.5 rounds",
-    "duration_prob": 88,
+    "duration_prob": 75,
     "raw_fighter_a": "Nikita Krylov",
     "raw_fighter_b": "Robert Whittaker",
     "rounds": 3,
@@ -38,13 +38,13 @@
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong>, <strong>#12 del ranking</strong> peso semipesado, llega a este combate con un récord total de carrera de <strong>31-11-0</strong>, aunque su tramo reciente es más irregular: en los últimos 36 meses acumula <strong>1-2-0</strong> en 3 peleas, con dos derrotas incluidas en ese lapso. Del otro lado está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a></strong>, sin ranking oficial en el top 15, con un récord total de <strong>27-9-0</strong> y un historial de los últimos 36 meses de <strong>2-3-0</strong> en 5 peleas, que también incluye tres derrotas.\nPese a esa forma reciente compartida, el radar marca diferencias claras en el terreno del control. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> domina el derribo defensivo con <strong>85/100</strong> frente al <strong>7/100</strong> de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a>, además de sostener una ventaja de control general de <strong>68</strong> contra apenas <strong>7</strong>. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a> responde con un golpeo ofensivo algo más alto (<strong>51</strong> frente a <strong>48</strong>) y un derribo ofensivo notablemente superior (<strong>50</strong> contra <strong>25</strong>), pero la amenaza de finalización favorece de forma contundente al contendiente ucraniano, con <strong>100</strong> frente a <strong>50</strong>. En una pelea a <strong>3 rondas</strong>, esa capacidad de imponer el ritmo desde el suelo podría resultar determinante."
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong>, <strong>#12 del ranking</strong> de peso semipesado, acumula un récord total de carrera de 31-11-0, aunque su tramo más reciente ha sido irregular: en los últimos 36 meses registra 1-2-0 en 3 peleas, con dos derrotas que no pueden pasarse por alto. Aun así, su perfil defensivo sigue siendo su gran arma — un <strong>derribo defensivo de 85</strong> y un <strong>control de 68</strong> sugieren que puede neutralizar cualquier intento de intercambio prolongado, mientras su amenaza de finalización se mantiene en un contundente 100.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a></strong>, sin ranking oficial en el top 15, presenta un récord total de 27-9-0, pero su forma en los últimos 36 meses ha sido más cuesta arriba: 2-3-0 en 5 peleas, con tres derrotas en ese tramo. Su golpeo ofensivo de 51 y derribo ofensivo de 50 muestran que puede generar volumen, pero un control de apenas 7 frente al 68 de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> anticipa dificultades para imponer su ritmo si el combate se extiende. Con solo tres asaltos disponibles, el margen para revertir una desventaja posicional se reduce considerablemente."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong> llega como favorito claro con un <strong>78%</strong> de probabilidad a su favor.\nSu derribo defensivo de <strong>85/100</strong> contrasta con el <strong>7/100</strong> en control de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a>.\nLa vía más probable de cierre es la <strong>decisión</strong>, sin importar quién se lleve la victoria."
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a></strong> llega como favorito claro para este duelo divisional de peso semipesado.\nSu <strong>derribo defensivo de 85</strong> y un <strong>control de 68</strong> marcan la diferencia frente al desgaste reciente de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Robert+Whittaker+%28The+Reaper%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Robert Whittaker</a>.\nEl desenlace más probable apunta a que la pelea llegue a las tarjetas, con <strong>decisión</strong> como la vía de finalización más probable."
     ],
     "fight_conclusions": [
-      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> con un 78% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Nikita+Krylov+%28The+Miner%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikita Krylov</a> con un 66% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
     ],
     "conclusion": ""
   }

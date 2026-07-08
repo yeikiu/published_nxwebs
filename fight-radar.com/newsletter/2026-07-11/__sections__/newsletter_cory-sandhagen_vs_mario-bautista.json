@@ -6,7 +6,7 @@
     "fighter_a": "Cory Sandhagen",
     "fighter_b": "Mario Bautista",
     "prediction": "Mario Bautista",
-    "confidence": 74,
+    "confidence": 66,
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -24,9 +24,9 @@
       "FIN_THREAT": 0
     },
     "method": "DECISIÓN",
-    "method_prob": 80,
+    "method_prob": 60,
     "duration": "OVER 1.5 rounds",
-    "duration_prob": 94,
+    "duration_prob": 79,
     "raw_fighter_a": "Cory Sandhagen",
     "raw_fighter_b": "Mario Bautista",
     "rounds": 3,
@@ -38,13 +38,13 @@
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a></strong>, <strong>#4 del ranking</strong> peso gallo, llega con un récord total de carrera de 18-6-0, pero su tramo más reciente ha sido irregular: 2-2-0 en sus últimas 4 peleas, con dos derrotas incluidas en ese lapso. Su fortaleza más marcada está en el derribo ofensivo, donde su métrica de 82/100 lo sitúa muy por encima de la media divisional, respaldado además por un golpeo defensivo sólido de 55/100.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a></strong>, <strong>#7 del ranking</strong> peso gallo, presenta un contraste notable: su récord total de carrera es de 17-3-0, y en los últimos 36 meses acumula un 5-1-0 en 6 peleas, la única mancha una derrota en el camino. Su golpeo ofensivo (48/100) y defensivo (55/100) son ligeramente superiores a los de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a>, aunque su producción en el derribo ofensivo (23/100) queda muy por debajo del despliegue de su rival. El combate se disputará a <strong>3 asaltos</strong>, un formato que favorece la consistencia y el volumen que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> ha mostrado últimamente."
+      "(COMBATE):\nEste combate enfrenta a dos nombres asentados en la división peso gallo. <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a></strong>, <strong>#4 del ranking peso gallo</strong>, llega con un récord total de carrera de 18-6-0, pero su tramo más reciente muestra señales de altibajo: en los últimos 3 años acumula 2-2-0 en 4 peleas, incluyendo 2 derrotas que no pueden pasarse por alto. Su perfil estadístico sigue siendo el de un derribador de cuidado, con un derribo ofensivo de 82/100 que sobresale claramente por encima del resto de sus métricas, acompañado de un control de 60/100.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a></strong>, <strong>#7 del ranking peso gallo</strong>, presenta un total de carrera de 17-3-0 y una forma reciente mucho más sólida: 5-1-0 en sus últimas 6 peleas, con una sola derrota en ese tramo. Su perfil es más equilibrado en el golpeo, con un golpeo ofensivo de 48 y una defensa de derribos de 53/100, lo que podría dificultarle el trabajo a un rival que busca imponer su juego de suelo. La amenaza de finalización de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> es baja (20/100), en línea con un estilo que tiende a extender las peleas hasta la tarjeta de jueces."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a></strong> llega como favorito claro en este duelo del peso gallo.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a> impone el ritmo en el derribo ofensivo (82/100), pero <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> domina la forma reciente.\nEl método más probable de finalización es <strong>decisión</strong>, sin importar quién gane."
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a></strong> llega como favorito claro con un empuje reciente notable.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a></strong> arrastra un tramo reciente irregular pese a su experiencia en el ranking.\nLa vía más probable de cierre apunta a la <strong>decisión</strong>, con las tres rondas completas como escenario más plausible."
     ],
     "fight_conclusions": [
-      "La diferencia en forma reciente inclina claramente la balanza. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> con un 74% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+      "El impulso reciente de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> contrasta con el tramo irregular de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Cory+Sandhagen\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Cory Sandhagen</a>, y eso se refleja en el pronóstico. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Bautista\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Bautista</a> con un 66% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
     ],
     "conclusion": ""
   }

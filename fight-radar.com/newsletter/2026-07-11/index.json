@@ -2,7 +2,7 @@
   "event": "UFC 329: McGregor vs. Holloway 2",
   "event_date": "11 de julio de 2026",
   "event_date_iso": "2026-07-11",
-  "generated_at": "2026-07-02T18:02:19Z",
+  "generated_at": "2026-07-08T21:19:00Z",
   "locales": [
     "en",
     "es",
@@ -68,6 +68,18 @@
         "en": "newsletter/2026-07-11/en/newsletter_nikita-krylov_vs_robert-whittaker.html",
         "pt": "newsletter/2026-07-11/pt/newsletter_nikita-krylov_vs_robert-whittaker.html",
         "fr": "newsletter/2026-07-11/fr/newsletter_nikita-krylov_vs_robert-whittaker.html"
+      }
+    },
+    {
+      "fighter_a": "Cody Garbrandt",
+      "fighter_b": "Adrian Yanez",
+      "slug_a": "cody-garbrandt",
+      "slug_b": "adrian-yanez",
+      "files": {
+        "es": "newsletter/2026-07-11/es/newsletter_cody-garbrandt_vs_adrian-yanez.html",
+        "en": "newsletter/2026-07-11/en/newsletter_cody-garbrandt_vs_adrian-yanez.html",
+        "pt": "newsletter/2026-07-11/pt/newsletter_cody-garbrandt_vs_adrian-yanez.html",
+        "fr": "newsletter/2026-07-11/fr/newsletter_cody-garbrandt_vs_adrian-yanez.html"
       }
     },
     {
