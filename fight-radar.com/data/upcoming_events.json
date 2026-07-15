@@ -253,6 +253,20 @@
       },
       {
         "fighter1": {
+          "name": "Abubakar Vagaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Magomedrasul Gasanov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/30ba4c2779e68a1e",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Valter Walker (The Clean Monster)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
           "division_ranking": "13"
