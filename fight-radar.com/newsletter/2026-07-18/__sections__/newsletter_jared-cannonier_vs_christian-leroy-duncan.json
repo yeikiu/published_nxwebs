@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Du Plessis vs. Usman",
+  "event_date": "18 de julio de 2026",
+  "event_date_iso": "2026-07-18",
+  "fight": {
+    "fighter_a": "Jared Cannonier",
+    "fighter_b": "Christian Leroy Duncan",
+    "prediction": "Christian Leroy Duncan",
+    "confidence": 73,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 64,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 64,
+    "raw_fighter_a": "Jared Cannonier",
+    "raw_fighter_b": "Christian Leroy Duncan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jared+Cannonier+%28The+Killa+Gorilla%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jared Cannonier</a></strong>, <strong>#11 del ranking peso medio</strong>, suma un récord total de carrera de 18-9-0, pero su tramo reciente pinta un panorama distinto: en los últimos 36 meses acumula 1-3-0 en 4 peleas, con tres derrotas que pesan sobre su candidatura en este enfrentamiento. Aun así, su amenaza de finalización roza el máximo (100 sobre 100), un recordatorio de que su poder de golpeo sigue intacto pese al bajón de resultados. Su fortaleza defensiva en el suelo también es notable, con un derribo defensivo de 75 y un control de 83, cifras que sugieren que si la pelea se estanca en el clinch o contra la jaula, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jared+Cannonier+%28The+Killa+Gorilla%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jared Cannonier</a> puede imponer condiciones.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Leroy+Duncan+%28CLD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Leroy Duncan</a></strong>, <strong>#13 del ranking peso medio</strong>, presenta un perfil ascendente: 14-2-0 en su carrera total y un sólido 6-1-0 en los últimos 36 meses repartidos en 7 peleas, con una sola derrota en ese tramo. Su golpeo ofensivo (60) y defensivo (58) superan a los de su rival, y aunque su juego de derribo es más limitado (22 en ofensivo), compensa con una amenaza de finalización de 67. El contraste de forma reciente entre ambos —una racha ganadora sostenida frente a un tramo con tres caídas— es el factor que más pesa en la lectura del radar para este combate a 3 rondas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Leroy+Duncan+%28CLD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Leroy Duncan</a></strong> llega como favorito claro en este duelo de peso medio.\n<strong>#11</strong> del ranking, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jared+Cannonier+%28The+Killa+Gorilla%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jared Cannonier</a> atraviesa un tramo reciente complicado, con <strong>3 derrotas</strong> en sus últimas 4 peleas.\nEl <strong>KO/TKO</strong> se perfila como la vía más probable para cerrar este combate."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan con argumentos de golpeo capaces de decidir el resultado antes del límite. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Christian+Leroy+Duncan+%28CLD%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Christian Leroy Duncan</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

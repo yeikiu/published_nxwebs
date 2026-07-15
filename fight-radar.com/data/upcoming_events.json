@@ -22,12 +22,12 @@
         "fighter1": {
           "name": "Jared Cannonier (The Killa Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
-          "division_ranking": "11"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Christian Leroy Duncan (CLD)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
-          "division_ranking": "13"
+          "division_ranking": "12"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
@@ -157,6 +157,20 @@
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ezra Elliott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b852ad2b35354fcb",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Damien Anderson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/df619b9a86ce0a9a",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1320,
@@ -164,7 +178,7 @@
   },
   "25-07-2026": {
     "date": "25-07-2026",
-    "name": "UFC Fight Night: Ankalaev vs. Rountree Jr",
+    "name": "UFC Fight Night: Ankalaev vs. Guskov",
     "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
     "fights": [
       {
@@ -174,9 +188,9 @@
           "division_ranking": "1"
         },
         "fighter2": {
-          "name": "Khalil Rountree Jr.",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/749f572d1d3161fb",
-          "division_ranking": "5"
+          "name": "Bogdan Guskov (Hitman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
+          "division_ranking": "10"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 5
@@ -241,7 +255,7 @@
         "fighter1": {
           "name": "Valter Walker (The Clean Monster)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "14"
+          "division_ranking": "13"
         },
         "fighter2": {
           "name": "Thomas Petersen (The Train)",
@@ -343,20 +357,6 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Jan Blachowicz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Bogdan Guskov (Hitman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "10"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -686,7 +686,7 @@
         "fighter2": {
           "name": "Gregory Rodrigues (Robocop)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
-          "division_ranking": "12"
+          "division_ranking": "11"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
@@ -695,12 +695,12 @@
         "fighter1": {
           "name": "Roman Dolidze",
           "ufcstats_url": "http://ufcstats.com/fighter-details/327d5f279895110d",
-          "division_ranking": "14"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Reinier de Ridder (RdR)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
-          "division_ranking": "8"
+          "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -807,7 +807,7 @@
         "fighter2": {
           "name": "Song Yadong (Kung Fu Kid)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/efb96bf3e9ada36f",
-          "division_ranking": "5"
+          "division_ranking": "6"
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 5
