@@ -1,0 +1,50 @@
+{
+  "event": "UFC Fight Night: Ankalaev vs. Guskov",
+  "event_date": "25 de julio de 2026",
+  "event_date_iso": "2026-07-25",
+  "generated_at": "2026-07-22T16:55:06Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Magomed Ankalaev",
+      "fighter_b": "Bogdan Guskov",
+      "slug_a": "magomed-ankalaev",
+      "slug_b": "bogdan-guskov",
+      "files": {
+        "es": "newsletter/2026-07-25/es/newsletter_magomed-ankalaev_vs_bogdan-guskov.html",
+        "en": "newsletter/2026-07-25/en/newsletter_magomed-ankalaev_vs_bogdan-guskov.html",
+        "pt": "newsletter/2026-07-25/pt/newsletter_magomed-ankalaev_vs_bogdan-guskov.html",
+        "fr": "newsletter/2026-07-25/fr/newsletter_magomed-ankalaev_vs_bogdan-guskov.html"
+      }
+    },
+    {
+      "fighter_a": "Valter Walker",
+      "fighter_b": "Thomas Petersen",
+      "slug_a": "valter-walker",
+      "slug_b": "thomas-petersen",
+      "files": {
+        "es": "newsletter/2026-07-25/es/newsletter_valter-walker_vs_thomas-petersen.html",
+        "en": "newsletter/2026-07-25/en/newsletter_valter-walker_vs_thomas-petersen.html",
+        "pt": "newsletter/2026-07-25/pt/newsletter_valter-walker_vs_thomas-petersen.html",
+        "fr": "newsletter/2026-07-25/fr/newsletter_valter-walker_vs_thomas-petersen.html"
+      }
+    },
+    {
+      "fighter_a": "Santiago Ponzinibbio",
+      "fighter_b": "Sam Patterson",
+      "slug_a": "santiago-ponzinibbio",
+      "slug_b": "sam-patterson",
+      "files": {
+        "es": "newsletter/2026-07-25/es/newsletter_santiago-ponzinibbio_vs_sam-patterson.html",
+        "en": "newsletter/2026-07-25/en/newsletter_santiago-ponzinibbio_vs_sam-patterson.html",
+        "pt": "newsletter/2026-07-25/pt/newsletter_santiago-ponzinibbio_vs_sam-patterson.html",
+        "fr": "newsletter/2026-07-25/fr/newsletter_santiago-ponzinibbio_vs_sam-patterson.html"
+      }
+    }
+  ]
+}

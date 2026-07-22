@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Ankalaev vs. Guskov",
+  "event_date": "25 de julio de 2026",
+  "event_date_iso": "2026-07-25",
+  "fight": {
+    "fighter_a": "Valter Walker",
+    "fighter_b": "Thomas Petersen",
+    "prediction": "Valter Walker",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 56,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 64,
+    "raw_fighter_a": "Valter Walker",
+    "raw_fighter_b": "Thomas Petersen",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Valter+Walker+%28The+Clean+Monster%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Valter Walker</a></strong> llega a este combate como el <strong>#13 del ranking peso pesado</strong>, respaldado por un récord total de carrera de 15-1-0. En los últimos 36 meses su forma es sólida: 4-1-0 en 5 peleas, con una única derrota el 06-04-2024 y una racha de tres victorias consecutivas desde entonces. Los números del radar refuerzan esa lectura: un control de 94 y una amenaza de finalización que toca el máximo de 100, cifras que hablan de un peleador capaz de imponer el ritmo una vez que la pelea toca el suelo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Thomas+Petersen+%28The+Train%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Thomas Petersen</a></strong>, sin ranking oficial en el top 15, presenta un total de carrera de 11-4-0. Su tramo reciente es más irregular: 3-3-0 en 6 peleas, alternando victorias y derrotas casi pelea a pelea. En el plano ofensivo de pie sus números son competitivos —58 en golpeo ofensivo frente al 52 de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Valter+Walker+%28The+Clean+Monster%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Valter Walker</a>— pero su derribo ofensivo (38) queda muy por debajo del 69 que exhibe su rival, y su amenaza de finalización se sitúa en 0. Esa combinación sugiere que, si el combate se traslada al suelo, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Thomas+Petersen+%28The+Train%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Thomas Petersen</a> tendrá que apoyarse casi exclusivamente en su derribo defensivo (86) para sobrevivir."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Valter+Walker+%28The+Clean+Monster%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Valter Walker</a></strong> llega como favorito claro con una ventaja marcada en el control del combate.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Thomas+Petersen+%28The+Train%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Thomas Petersen</a> recibe <strong>3 derrotas</strong> en sus últimos 36 meses, un dato que pesa en la balanza.\nEl desenlace más probable pasa por la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Valter+Walker+%28The+Clean+Monster%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Valter Walker</a> con un 68% de probabilidad. Por separado, el método más probable de finalización es la sumisión, independientemente de quién gane. El combate está pactado a 3 asaltos, y la diferencia en control y amenaza de finalización apunta a que la vía de la sumisión será protagonista antes de llegar al límite de rondas."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Ankalaev vs. Guskov",
+  "event_date": "25 de julio de 2026",
+  "event_date_iso": "2026-07-25",
+  "fight": {
+    "fighter_a": "Magomed Ankalaev",
+    "fighter_b": "Bogdan Guskov",
+    "prediction": "Bogdan Guskov",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 64,
+    "duration": "UNDER 2.5 rounds",
+    "duration_prob": 64,
+    "raw_fighter_a": "Magomed Ankalaev",
+    "raw_fighter_b": "Bogdan Guskov",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Ankalaev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Ankalaev</a></strong>, <strong>#1 del ranking peso semipesado</strong>, llega con un récord total de carrera de 21-2-1 (1 NC), una trayectoria que lo sitúa entre los nombres más sólidos de la división. Sin embargo, en los últimos 36 meses su forma es más mixta: 3-1-0 en 5 peleas, con una derrota reciente el 04-10-2025 que conviene no perder de vista. Su fortaleza pasa por el control (87/100) y una defensa de derribo prácticamente perfecta (100/100), un perfil que le permite neutralizar el juego de piso rival y dictar el ritmo desde la distancia.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bogdan+Guskov+%28Hitman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bogdan Guskov</a></strong>, <strong>#9 del ranking peso semipesado</strong>, presenta un récord total de carrera de 18-3-1. En el tramo reciente acumula 4-1-1 en 6 peleas, con una derrota (02-09-2023) y un empate (06-12-2025) que matizan un balance por lo demás ofensivo. Lo que distingue a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bogdan+Guskov+%28Hitman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bogdan Guskov</a> es su amenaza de finalización, en el máximo posible (100/100), respaldada por un golpeo ofensivo de 56 y un derribo ofensivo de 45 que le dan variedad para buscar el cierre desde distintos ángulos. Frente al control que impone <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Ankalaev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Ankalaev</a>, esa capacidad de generar peligro en cualquier instante de las 5 rondas pesa en el análisis del radar."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bogdan+Guskov+%28Hitman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bogdan Guskov</a></strong> llega como favorito con un <strong>68%</strong> de probabilidad según el radar.\nSu amenaza de finalización roza el máximo (<strong>100/100</strong>), muy por encima del control que exhibe <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Ankalaev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Ankalaev</a></strong>.\nEl desenlace más probable apunta a un <strong>KO/TKO</strong> antes de que la pelea llegue a los últimos tramos."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan con currículos que respaldan un cruce parejo sobre el papel, pero el desequilibrio en la amenaza de finalización inclina la balanza. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bogdan+Guskov+%28Hitman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bogdan Guskov</a> con un 68% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Ankalaev vs. Guskov",
+  "event_date": "25 de julio de 2026",
+  "event_date_iso": "2026-07-25",
+  "fight": {
+    "fighter_a": "Santiago Ponzinibbio",
+    "fighter_b": "Sam Patterson",
+    "prediction": "Sam Patterson",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 55,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Santiago Ponzinibbio",
+    "raw_fighter_b": "Sam Patterson",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Santiago+Ponzinibbio+%28Argentine+Dagger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Santiago Ponzinibbio</a></strong>, fuera del top 15 de la división, llega a este combate con un récord total de carrera de 31-9-0, aunque su tramo reciente pinta un panorama más complicado: 1-2-0 en los últimos 36 meses, con dos derrotas en sus últimas tres presentaciones. Aun así, su perfil estadístico sigue siendo peligroso: una defensa de derribo de 100/100, un control de 90/100 y una amenaza de finalización que también toca el máximo de 100/100 lo convierten en un rival incómodo para cualquiera que busque llevarlo al suelo o sostener un ritmo prolongado.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sam+Patterson\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sam Patterson</a></strong>, también fuera del top 15, presenta un contraste marcado en su forma reciente: 4-1-0 en los últimos 36 meses, con cuatro victorias en sus últimas cinco salidas y solo una derrota, la más reciente el 21-03-2026. Su récord total de carrera es de 14-3-1. En el plano estadístico destaca un derribo ofensivo de 50/100, muy superior al 23/100 de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Santiago+Ponzinibbio+%28Argentine+Dagger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Santiago Ponzinibbio</a>, y una defensa de derribo de 85/100 que debería sostener frente a la presión de su rival. La amenaza de finalización de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sam+Patterson\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sam Patterson</a> también llega a 100/100, lo que deja la puerta abierta a un desenlace súbito pese a que el método más probable señala hacia los jueces."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sam+Patterson\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sam Patterson</a></strong> llega como el favorito claro del radar en este cruce de peso wélter.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Santiago+Ponzinibbio+%28Argentine+Dagger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Santiago Ponzinibbio</a></strong> aporta un <strong>control de 90/100</strong> y una defensa de derribo perfecta como su mayor arma.\nEl desenlace más probable apunta a <strong>decisión</strong>, con la pelea limitada a 3 asaltos."
+    ],
+    "fight_conclusions": [
+      "La forma reciente y la capacidad de derribo de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sam+Patterson\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sam Patterson</a> inclinan la balanza del radar en su favor. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Sam+Patterson\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Sam Patterson</a> con un 68% de probabilidad. Por separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

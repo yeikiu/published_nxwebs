@@ -13,7 +13,7 @@
         "fighter2": {
           "name": "Bogdan Guskov (Hitman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "10"
+          "division_ranking": "9"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 5
@@ -106,7 +106,7 @@
         "fighter1": {
           "name": "Dustin Jacoby (The Hanyak)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e4277e87a789d687",
-          "division_ranking": "11"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Muhammad Said",
@@ -218,7 +218,7 @@
         "fighter2": {
           "name": "Navajo Stirling",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
-          "division_ranking": "12"
+          "division_ranking": "15"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -446,7 +446,7 @@
         "fighter1": {
           "name": "Amanda Lemos",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
-          "division_ranking": "7"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Alexia Thainara (Burguesinha)",
