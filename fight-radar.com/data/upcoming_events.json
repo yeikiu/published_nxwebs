@@ -1,195 +1,4 @@
 {
-  "25-07-2026": {
-    "date": "25-07-2026",
-    "name": "UFC Fight Night: Ankalaev vs. Guskov",
-    "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Magomed Ankalaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d802174b0c0c1f4e",
-          "division_ranking": "1"
-        },
-        "fighter2": {
-          "name": "Bogdan Guskov (Hitman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "9"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Steve Erceg (Astroboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Ramazan Temirov (Temurlan)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Islam Dulatov (The Ripper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e803242fb2e41112",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Wellington Turman (The Prodigy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Magomed Zaynukov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/04ff3a711504d6b3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Damian Rzepecki",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99223fbb4a05326b",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rizvan Kuniev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Tyrell Fortune",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc7f4b2d4c2724a2",
-          "division_ranking": "9"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abubakar Vagaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Saygid Izagakhmaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de26d906f2874dd4",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Valter Walker (The Clean Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Thomas Petersen (The Train)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/764d39074a352e33",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dustin Jacoby (The Hanyak)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e4277e87a789d687",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Muhammad Said",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b01a5e0dcd9f231d",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Santiago Ponzinibbio (Argentine Dagger)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6d1bffff14897645",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sam Patterson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ismael Bonfim (Marreta)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eb393afdbe3293d5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Axel Sola",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Magomed Tuchalov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc5a51159ec2fdf2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Brendson Ribeiro (The Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nurullo Aliev (Tajik Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mike Davis (Beast Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fb3e61720be4690c",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cody Gibson (The Renegade)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/700a674c042b7a96",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Abdul Hussein",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e6bc8d1d6c0ad90",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1322,
-    "startTime": "2026-07-25T13:00Z"
-  },
   "01-08-2026": {
     "date": "01-08-2026",
     "name": "UFC Fight Night: Medic vs. Rodriguez",
@@ -323,6 +132,20 @@
       },
       {
         "fighter1": {
+          "name": "Mateusz Rebecki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kyle Prepolec (Killshot)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/873626e5547b5235",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Nina Milosevic",
           "ufcstats_url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
           "division_ranking": ""
@@ -348,20 +171,6 @@
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mateusz Rebecki",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kyle Prepolec (Killshot)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/873626e5547b5235",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1321,
@@ -385,6 +194,20 @@
         },
         "weightClass": "Lightweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Ty Miller (Thriller)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0859524157a19045",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Billy Ray Goff",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fa07345cc9db5cc9",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -430,6 +253,20 @@
       },
       {
         "fighter1": {
+          "name": "Darren Elkins (The Damage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/92a9aa9c93192871",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yadier del Valle (The Cuban Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Steven Asplund (Concrete)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
           "division_ranking": ""
@@ -440,6 +277,20 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Juliana Miller (Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/aa0c573da7119292",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ravena Oliveira (Kenoudy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4948e412fa6ab67d",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
       },
       {

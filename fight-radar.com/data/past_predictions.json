@@ -1,17 +1,270 @@
 {
-  "generatedAt": "2026-07-19T03:26:10.222Z",
+  "generatedAt": "2026-07-25T19:55:50.809Z",
   "globalStats": {
-    "totalFights": 1554,
-    "winnerCorrect": 503,
-    "winnerAttempts": 752,
-    "methodCorrect": 447,
-    "methodAttempts": 729,
-    "durationCorrect": 550,
-    "durationAttempts": 752,
-    "noDataFights": 775,
+    "totalFights": 1551,
+    "winnerCorrect": 498,
+    "winnerAttempts": 746,
+    "methodCorrect": 441,
+    "methodAttempts": 723,
+    "durationCorrect": 544,
+    "durationAttempts": 746,
+    "noDataFights": 778,
     "nonOfficialFights": 27
   },
   "events": [
+    {
+      "dateKey": "25-07-2026",
+      "eventName": "UFC Fight Night: Ankalaev vs. Guskov",
+      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "fights": [
+        {
+          "fighter1": "Magomed Ankalaev",
+          "fighter2": "Bogdan Guskov (Hitman)",
+          "fighter1Image": "img/magomed_ankalaev.png",
+          "fighter2Image": "img/bogdan_guskov.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Magomed Ankalaev",
+            "resultType": "KO",
+            "round": 5,
+            "time": "2:41"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Bogdan Guskov",
+              "confidence": 68,
+              "correct": false
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "confidence": 64.1,
+              "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 2.5 rounds",
+              "confidence": 64.2,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Ramazan Temirov (Temurlan)",
+          "fighter2": "Steve Erceg (Astroboy)",
+          "fighter1Image": "img/ramazan_temirov.png",
+          "fighter2Image": "img/steve_erceg.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Ramazan Temirov",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:21"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Damian Rzepecki (The Butcher)",
+          "fighter2": "Magomed Zaynukov (Wild Chanko)",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Magomed Zaynukov",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Tyrell Fortune",
+          "fighter2": "Rizvan Kuniev",
+          "fighter1Image": "img/tyrell_fortune.png",
+          "fighter2Image": "img/rizvan_kuniev.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Rizvan Kuniev",
+            "resultType": "KO",
+            "round": 3,
+            "time": "1:12"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Saygid Izagakhmaev",
+          "fighter2": "Abubakar Vagaev",
+          "fighter1Image": "img/saygid_izagakhmaev.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Abubakar Vagaev",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Valter Walker (The Clean Monster)",
+          "fighter2": "Thomas Petersen (The Train)",
+          "fighter1Image": "img/valter_walker.png",
+          "fighter2Image": "img/thomas_petersen.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Valter Walker",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:32"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Valter Walker",
+              "confidence": 68,
+              "correct": true
+            },
+            "method": {
+              "pick": "Submission",
+              "confidence": 56.4,
+              "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "confidence": 64.2,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Muhammad Saidov (Kubik)",
+          "fighter2": "Dustin Jacoby (The Hanyak)",
+          "fighter2Image": "img/dustin_jacoby.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Muhammad Saidov",
+            "resultType": "KO",
+            "round": 2,
+            "time": "4:49"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Santiago Ponzinibbio (Argentine Dagger)",
+          "fighter2": "Sam Patterson",
+          "fighter1Image": "img/santiago_ponzinibbio.png",
+          "fighter2Image": "img/sam_patterson.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Sam Patterson",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:06"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Sam Patterson",
+              "confidence": 68,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "confidence": 55,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "confidence": 80.4,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Axel Sola",
+          "fighter2": "Ismael Bonfim (Marreta)",
+          "fighter1Image": "img/axel_sola.png",
+          "fighter2Image": "img/ismael_bonfim.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Axel Sola",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "4:44"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Brendson Ribeiro (The Gorilla)",
+          "fighter2": "Magomed Tuchalov (Tiger)",
+          "fighter1Image": "img/brendson_ribeiro.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Magomed Tuchalov",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Mike Davis (Beast Boy)",
+          "fighter2": "Nurullo Aliev (Tajik Eagle)",
+          "fighter1Image": "img/mike_davis.png",
+          "fighter2Image": "img/nurullo_aliev.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Nurullo Aliev",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Abdul Hussein (King)",
+          "fighter2": "Cody Gibson (The Renegade)",
+          "fighter2Image": "img/cody_gibson.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Abdul Hussein",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "3:07"
+          },
+          "prediction": {},
+          "noData": true,
+          "nonOfficial": false
+        }
+      ]
+    },
     {
       "dateKey": "18-07-2026",
       "eventName": "UFC Fight Night: Du Plessis vs. Usman",
@@ -171,6 +424,7 @@
         {
           "fighter1": "Levi Rodrigues Jr. (Baby Monster)",
           "fighter2": "Felipe Franco",
+          "fighter1Image": "img/levi_rodrigues_jr_baby_monster.png",
           "fighter2Image": "img/felipe_franco.png",
           "weightClass": "Light_Heavyweight",
           "scheduledRounds": 3,
@@ -187,6 +441,8 @@
         {
           "fighter1": "Damien Anderson (Demon Hands)",
           "fighter2": "Ezra Elliott",
+          "fighter1Image": "img/damien_anderson_demon_hands.png",
+          "fighter2Image": "img/ezra_elliott.png",
           "weightClass": "Featherweight",
           "scheduledRounds": 3,
           "actual": {
@@ -219,6 +475,7 @@
         {
           "fighter1": "RJ Harris (The Hammer)",
           "fighter2": "Alvin Hines (Goozie)",
+          "fighter1Image": "img/rj_harris_the_hammer.png",
           "fighter2Image": "img/alvin_hines_goozie.jpg",
           "weightClass": "Heavyweight",
           "scheduledRounds": 3,
@@ -236,6 +493,7 @@
           "fighter1": "Dione Barbosa (The Witch)",
           "fighter2": "Anna Melisano (Bandana)",
           "fighter1Image": "img/dione_barbosa.png",
+          "fighter2Image": "img/anna_melisano_bandana.png",
           "weightClass": "W_Flyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -10065,9 +10323,9 @@
           },
           "prediction": {
             "moneyline": {
-              "pick": "Clayton Carpenter",
+              "pick": "Jafel Filho",
               "confidence": 68,
-              "correct": false
+              "correct": true
             },
             "method": {
               "pick": "Submission",
@@ -15029,13 +15287,13 @@
               "correct": false
             },
             "method": {
-              "pick": "Decision",
+              "pick": "KO/TKO",
               "confidence": 64.1,
-              "correct": true
+              "correct": false
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "confidence": 80.4,
+              "confidence": 64.2,
               "correct": true
             }
           },
@@ -32247,9 +32505,9 @@
           },
           "prediction": {
             "moneyline": {
-              "pick": "Dan Ige",
+              "pick": "Andre Fili",
               "confidence": 68,
-              "correct": true
+              "correct": false
             },
             "method": {
               "pick": "Decision",
@@ -35142,9 +35400,9 @@
           },
           "prediction": {
             "moneyline": {
-              "pick": "Rodrigo Nascimento",
+              "pick": "Don'Tale Mayes",
               "confidence": 68,
-              "correct": true
+              "correct": false
             },
             "method": {
               "pick": "Decision",
@@ -36623,7 +36881,7 @@
           "prediction": {
             "moneyline": {
               "pick": "Roman Kopylov",
-              "confidence": 68.9,
+              "confidence": 68,
               "correct": true
             },
             "method": {
@@ -38800,412 +39058,6 @@
             }
           },
           "noData": false,
-          "nonOfficial": false
-        }
-      ]
-    },
-    {
-      "dateKey": "22-07-2023",
-      "eventName": "UFC Fight Night: Aspinall vs. Tybura",
-      "location": "London, England, United Kingdom",
-      "fights": [
-        {
-          "fighter1": "Marcin Tybura (Tybur)",
-          "fighter2": "Tom Aspinall",
-          "fighter1Image": "img/marcin_tybura.png",
-          "fighter2Image": "img/tom_aspinall.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 5,
-          "actual": {
-            "winner": "Tom Aspinall",
-            "resultType": "KO",
-            "round": 1,
-            "time": "1:13"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Tom Aspinall",
-              "confidence": 68,
-              "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Julija Stoliarenko",
-          "fighter2": "Molly McCann (Meatball)",
-          "fighter1Image": "img/julija_stoliarenko.png",
-          "fighter2Image": "img/molly_mccann.png",
-          "weightClass": "W_Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Julija Stoliarenko",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "1:55"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Molly McCann",
-              "confidence": 68,
-              "correct": false
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Nathaniel Wood (The Prospect)",
-          "fighter2": "Andre Fili (Touchy)",
-          "fighter1Image": "img/nathaniel_wood.png",
-          "fighter2Image": "img/andre_fili.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Nathaniel Wood",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Nathaniel Wood",
-              "confidence": 73.1,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Paul Craig (Bearjew)",
-          "fighter2": "Andre Muniz (Sergipano)",
-          "fighter1Image": "img/paul_craig.png",
-          "fighter2Image": "img/andre_muniz.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Paul Craig",
-            "resultType": "KO",
-            "round": 2,
-            "time": "4:40"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Andre Muniz",
-              "confidence": 68,
-              "correct": false
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 55,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 64.2,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Fares Ziam (The Smile Killer)",
-          "fighter2": "Jai Herbert (Black Country Banger)",
-          "fighter1Image": "img/fares_ziam.png",
-          "fighter2Image": "img/jai_herbert.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Fares Ziam",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Fares Ziam",
-              "confidence": 68,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Lerone Murphy (The Miracle)",
-          "fighter2": "Josh Culibao (Kuya)",
-          "fighter1Image": "img/lerone_murphy.png",
-          "fighter2Image": "img/josh_culibao.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Lerone Murphy",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Lerone Murphy",
-              "confidence": 68,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Daniel Marcos (Soncora)",
-          "fighter2": "Davey Grant (Dangerous)",
-          "fighter1Image": "img/daniel_marcos.png",
-          "fighter2Image": "img/davey_grant.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Daniel Marcos",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Danny Roberts (Hot Chocolate)",
-          "fighter2": "Jonny Parsons (The Sluggernaut)",
-          "fighter1Image": "img/danny_roberts.png",
-          "fighter2Image": "img/jonny_parsons.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Jonny Parsons",
-            "resultType": "KO",
-            "round": 2,
-            "time": "4:57"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Joel Alvarez (El Fenomeno)",
-          "fighter2": "Marc Diakiese (Bonecrusher)",
-          "fighter1Image": "img/joel_alvarez.png",
-          "fighter2Image": "img/marc_diakiese.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Joel Alvarez",
-            "resultType": "Submission",
-            "round": 2,
-            "time": "4:26"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Joel Alvarez",
-              "confidence": 68,
-              "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "confidence": 64.1,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 64.2,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Jamal Pogues",
-          "fighter2": "Mick Parkin",
-          "fighter1Image": "img/jamal_pogues.png",
-          "fighter2Image": "img/mick_parkin.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Mick Parkin",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Bryan Barberena (Bam Bam)",
-          "fighter2": "Makhmud Muradov",
-          "fighter1Image": "img/bryan_barberena.png",
-          "fighter2Image": "img/makhmud_muradov.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Makhmud Muradov",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Makhmud Muradov",
-              "confidence": 68,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Pannie Kianzad (Banzai)",
-          "fighter2": "Ketlen Vieira (Fenomeno)",
-          "fighter1Image": "img/pannie_kianzad.png",
-          "fighter2Image": "img/ketlen_vieira.png",
-          "weightClass": "W_Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Ketlen Vieira",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Pannie Kianzad",
-              "confidence": 68,
-              "correct": false
-            },
-            "method": {
-              "pick": "Decision",
-              "confidence": 64.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "confidence": 80.4,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Yanal Ashmouz (Red Fox)",
-          "fighter2": "Chris Duncan (The Problem)",
-          "fighter1Image": "img/yanal_ashmouz.png",
-          "fighter2Image": "img/chris_duncan.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Chris Duncan",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Bruna Brasil",
-          "fighter2": "Shauna Bannon (Mama B)",
-          "fighter1Image": "img/bruna_brasil.png",
-          "fighter2Image": "img/shauna_bannon.png",
-          "weightClass": "W_Strawweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Bruna Brasil",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Jafel Filho (Pastor)",
-          "fighter2": "Daniel Barez",
-          "fighter1Image": "img/jafel_filho.png",
-          "fighter2Image": "img/daniel_barez.png",
-          "weightClass": "Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Jafel Filho",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "3:26"
-          },
-          "prediction": {},
-          "noData": true,
           "nonOfficial": false
         }
       ]
