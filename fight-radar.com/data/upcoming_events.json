@@ -1,209 +1,4 @@
 {
-  "01-08-2026": {
-    "date": "01-08-2026",
-    "name": "UFC Fight Night: Medic vs. Rodriguez",
-    "location": "Belgrade, Vojvodina, Serbia",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Uros Medic (The Doctor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Daniel Rodriguez (D-Rod)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6",
-          "division_ranking": "15"
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Jan Blachowicz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": "4"
-        },
-        "fighter2": {
-          "name": "Navajo Stirling",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
-          "division_ranking": "15"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Aleksandar Rakic (Rocket)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/333b9e5c723ac873",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marcin Tybura (Tybur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
-          "division_ranking": "13"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dusko Todorovic (Thunder)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/866fd7b1a6c90e7f",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Robert Valentin (Robzilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0cd0456d6029cec2",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Vlasto Cepo",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/025c1ee70b2cedf4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Gilbert Urbina (The RGV Bad Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b12fb759e02378de",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Milos Janicic",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/dfcadfcbd3a3f097",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Noah Gugnon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ludovit Klein (Mr. Highlight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b86d491d63890c5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tofiq Musayev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ae81a3ac7b260411",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Oban Elliott (The Welsh Gangster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michael Oliveira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/037cfd34a27d59e9",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Borislav Nikolic",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5f926979c980b87e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mark Vologdin",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e6b611451a9a7d8",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Dennis Buzukja (The Great)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c4d039123e62f6a9",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Bogdan Grad (The Unleashed)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fb37795db81f93f3",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mateusz Rebecki",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Kyle Prepolec (Killshot)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/873626e5547b5235",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nina Milosevic",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Hailey Cowan (All Hail)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3c26c420584d912d",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jovan Leka",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/182a73d5b4e57871",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alexander Poppeck",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/56bf3ed155bd0fcd",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marina Spasic",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5847c1a960bb23af",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Stephanie Luciano (Rondinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1b35af4d1529adf6",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1321,
-    "startTime": "2026-08-01T14:00Z"
-  },
   "08-08-2026": {
     "date": "08-08-2026",
     "name": "UFC Fight Night: Gamrot vs. Salkilld",
@@ -603,9 +398,7 @@
         "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
-    ],
-    "ufcEventId": 1323,
-    "startTime": "2026-08-22T20:00Z"
+    ]
   },
   "29-08-2026": {
     "date": "29-08-2026",
@@ -883,5 +676,28 @@
         "scheduledRounds": 3
       }
     ]
+  },
+  "17-10-2026": {
+    "date": "17-10-2026",
+    "name": "UFC Fight Night: Buckley vs. Malott",
+    "location": "Edmonton, Alberta, Canada",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Joaquin Buckley (New Mansa)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9437600497350f3",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Mike Malott (Proper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/dd6103dd7127db1d",
+          "division_ranking": "12"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
+      }
+    ],
+    "ufcEventId": 1332,
+    "startTime": "2026-10-17T20:00Z"
   }
 }
