@@ -20,6 +20,48 @@
       },
       {
         "fighter1": {
+          "name": "Diego Ferreira",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f53d4f21d1b5f2dc",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Billy Quarantillo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/aa171d55d4b5208f",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Darren Elkins (The Damage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/92a9aa9c93192871",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Yadier del Valle (The Cuban Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Amanda Lemos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Alexia Thainara (Burguesinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/545092d13c67aa49",
+          "division_ranking": "12"
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Ty Miller (Thriller)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/0859524157a19045",
           "division_ranking": ""
@@ -48,20 +90,6 @@
       },
       {
         "fighter1": {
-          "name": "Diego Ferreira",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f53d4f21d1b5f2dc",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Billy Quarantillo",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/aa171d55d4b5208f",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Louie Sutherland (Vanilla Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
           "division_ranking": ""
@@ -72,20 +100,6 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Darren Elkins (The Damage)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/92a9aa9c93192871",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Yadier del Valle (The Cuban Problem)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -118,16 +132,30 @@
       },
       {
         "fighter1": {
-          "name": "Amanda Lemos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
-          "division_ranking": "8"
+          "name": "Manoel Sousa (Manumito)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5870c541798124ae",
+          "division_ranking": ""
         },
         "fighter2": {
-          "name": "Alexia Thainara (Burguesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/545092d13c67aa49",
-          "division_ranking": "12"
+          "name": "Richie Miranda",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/abde3388a589103c",
+          "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Miles Johns (Chapo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/46e0d677f91bacc0",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jessie Rosas",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1026588fa65693f",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
