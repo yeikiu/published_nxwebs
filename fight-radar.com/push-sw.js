@@ -3,7 +3,7 @@
  * `workbox.importScripts` (the PWA uses generateSW, so this file is the only
  * hand-written SW code).
  *
- * Payload contract (sent by __DATA_MAINTENANCE__/send_push.ts):
+ * Payload contract (built by __DATA_MAINTENANCE__/helpers/push_delivery.ts):
  *   { title: string, body: string, url: string }  — url is a hash route
  *   RELATIVE TO THE APP ROOT, e.g. "#/es/my-picks?recap=27-06-2026".
  *
@@ -78,10 +78,8 @@ self.addEventListener("notificationclick", (event) => {
         try {
           // navigate() rejects for clients this SW doesn't control; fall through
           // to openWindow rather than focusing a tab still on the old route.
-          const navigated = "navigate" in win ? await win.navigate(url) : win;
-          const target = navigated || win;
-          if ("focus" in target) return await target.focus();
-          return undefined;
+          await win.navigate(url);
+          return await win.focus();
         } catch {
           break;
         }
