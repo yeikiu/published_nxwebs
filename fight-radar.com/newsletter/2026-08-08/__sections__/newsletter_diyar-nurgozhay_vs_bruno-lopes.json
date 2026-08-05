@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Gamrot vs. Salkilld",
+  "event_date": "8 de agosto de 2026",
+  "event_date_iso": "2026-08-08",
+  "fight": {
+    "fighter_a": "Diyar Nurgozhay",
+    "fighter_b": "Bruno Lopes",
+    "prediction": "Diyar Nurgozhay",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "",
+    "method_prob": 0,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 64,
+    "raw_fighter_a": "Diyar Nurgozhay",
+    "raw_fighter_b": "Bruno Lopes",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diyar+Nurgozhay\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diyar Nurgozhay</a></strong> llega a este duelo divisional de peso semipesado con un récord total de carrera de 11-2-0, aunque su tramo de los últimos 36 meses, 1-2-0 en 3 peleas, incluye dos derrotas que matizan el momento actual. Ninguno de los dos figura en el ranking oficial de la división, por lo que el enfrentamiento se plantea como una oportunidad para escalar en la clasificación. En el plano estadístico, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diyar+Nurgozhay\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diyar Nurgozhay</a> destaca con un derribo ofensivo de 75 y un derribo defensivo de 78, cifras que sugieren solidez tanto para llevar la pelea al suelo como para evitar ser derribado.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Lopes+%28Brunao%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Lopes</a></strong>, con un récord total de carrera de 14-3-0 y también un tramo reciente de 1-2-0 en 3 peleas con dos derrotas, se apoya en un control de 82 y un derribo defensivo de 100, valores que reflejan una capacidad notable para neutralizar el juego de suelo del rival y sostener posiciones dominantes una vez trabada la pelea. Sin embargo, su derribo ofensivo de apenas 23 contrasta fuertemente con el de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diyar+Nurgozhay\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diyar Nurgozhay</a>, lo que podría dejarlo a merced de la iniciativa de su rival en las transiciones. El golpeo de ambos es moderado, sin ventajas decisivas en el intercambio de pie, así que el desenlace de este combate a <strong>3 rondas</strong> podría depender en gran medida de quién imponga el terreno donde se desarrolla la acción."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diyar+Nurgozhay\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diyar Nurgozhay</a></strong> llega como favorito claro pese a un tramo reciente irregular.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Lopes+%28Brunao%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Lopes</a></strong> impone volumen de control pero con déficit en el derribo ofensivo.\nLa ausencia de amenaza de finalización en ambos apunta a una <strong>decisión</strong>."
+    ],
+    "fight_conclusions": [
+      "Ninguno de los dos peleadores muestra una amenaza de finalización marcada, lo que refuerza la idea de un combate que podría extenderse hasta el límite del reloj. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diyar+Nurgozhay\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diyar Nurgozhay</a> con un 68% de probabilidad. Por separado, el método más probable de finalización es la decisión de los jueces, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Gamrot vs. Salkilld",
+  "event_date": "8 de agosto de 2026",
+  "event_date_iso": "2026-08-08",
+  "fight": {
+    "fighter_a": "Diego Ferreira",
+    "fighter_b": "Billy Quarantillo",
+    "prediction": "Diego Ferreira",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 64,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Diego Ferreira",
+    "raw_fighter_b": "Billy Quarantillo",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diego+Ferreira\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diego Ferreira</a></strong>, sin ranking oficial en top 15, acumula un récord total de carrera de <strong>19-7-0</strong>, aunque su forma reciente preocupa: en los últimos 36 meses suma <strong>1-2-0</strong> en 3 peleas, con <strong>2 derrotas</strong> en ese tramo. Su radar refleja un perfil de riesgo alto: derribo ofensivo de <strong>100</strong> y una amenaza de finalización también de <strong>100</strong>, lo que sugiere que su vía de éxito pasa por imponer presión y buscar el sometimiento antes que por un intercambio prolongado, donde su derribo defensivo de apenas <strong>38</strong> puede exponerlo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Billy+Quarantillo\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Billy Quarantillo</a></strong>, también sin ranking oficial en top 15, presenta un récord total de carrera de <strong>18-7-0</strong>, con un tramo reciente igual de irregular: <strong>1-2-0</strong> en 3 peleas de los últimos 36 meses, incluyendo <strong>2 derrotas</strong>. Su fortaleza está en la contención: derribo defensivo de <strong>67</strong> y control de <strong>32</strong>, cifras que le permiten neutralizar intentos de derribo y alargar el intercambio. Su golpeo ofensivo de <strong>44</strong> y defensivo de <strong>49</strong> lo mantienen competitivo en el plano de pie, aunque su amenaza de finalización de <strong>0</strong> limita sus opciones de cerrar la pelea de forma anticipada.\nEl contraste de estilos —presión y búsqueda de sometimiento por un lado, contención y volumen por otro— apunta a un enfrentamiento parejo en el que la iniciativa de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diego+Ferreira\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diego Ferreira</a> podría inclinar la balanza en las 3 rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diego+Ferreira\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diego Ferreira</a></strong> llega como favorito claro en este duelo de <strong>peso ligero</strong>.\nSu amenaza de finalización de <strong>100</strong> frente al control de <strong>32</strong> que exhibe <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Billy+Quarantillo\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Billy Quarantillo</a> marca la diferencia estilística.\nEl desenlace más probable apunta a una <strong>decisión</strong> tras completarse las 3 rondas."
+    ],
+    "fight_conclusions": [
+      "Ambos peleadores llegan con formas recientes similares, lo que añade incertidumbre al resultado final. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Diego+Ferreira\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Diego Ferreira</a> con un 68% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Gamrot vs. Salkilld",
+  "event_date": "8 de agosto de 2026",
+  "event_date_iso": "2026-08-08",
+  "fight": {
+    "fighter_a": "Amanda Lemos",
+    "fighter_b": "Alexia Thainara",
+    "prediction": "Alexia Thainara",
+    "confidence": 73,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 64,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Amanda Lemos",
+    "raw_fighter_b": "Alexia Thainara",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Amanda+Lemos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Amanda Lemos</a></strong>, <strong>#8 del ranking peso paja femenino</strong>, con un récord total de carrera de 15-6-1, atraviesa un tramo reciente complicado: 2-4-0 en sus últimas 6 peleas, incluyendo cuatro derrotas que pesan en la lectura de su momento actual. Su última salida, en marzo de 2026, terminó en derrota, y el patrón de los últimos años muestra más caídas que victorias. Aun así, sus números en el terreno del derribo son notables: un derribo ofensivo de 75 sobre 100 sugiere que puede imponer su plan de pelea si logra llevar el enfrentamiento al suelo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexia+Thainara+%28Burguesinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexia Thainara</a></strong>, <strong>#12 del ranking peso paja femenino</strong>, presenta un cuadro completamente distinto: 14-1-0 de récord total y un impecable 3-0-0 en los últimos 36 meses, sin una sola derrota en ese tramo. Su fortaleza radica en el control, donde marca un dominante 99 sobre 100, respaldado por un derribo defensivo perfecto de 100. Esa capacidad de neutralizar el juego de suelo rival choca directamente con la principal amenaza de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Amanda+Lemos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Amanda Lemos</a>, y podría ser la clave que incline la balanza en este enfrentamiento de ranking."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexia+Thainara+%28Burguesinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexia Thainara</a></strong> llega como favorita clara tras una racha perfecta en los últimos 36 meses.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Amanda+Lemos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Amanda Lemos</a></strong> arrastra un tramo reciente negativo que complica su camino en este duelo divisional.\nEl desenlace más probable apunta a <strong>decisión</strong>, sin importar quién se lleve la mano en alto."
+    ],
+    "fight_conclusions": [
+      "La diferencia en forma reciente y en las métricas de control resulta determinante para esta lectura. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Alexia+Thainara+%28Burguesinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexia Thainara</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

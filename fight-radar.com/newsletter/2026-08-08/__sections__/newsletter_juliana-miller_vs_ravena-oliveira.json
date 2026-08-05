@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Gamrot vs. Salkilld",
+  "event_date": "8 de agosto de 2026",
+  "event_date_iso": "2026-08-08",
+  "fight": {
+    "fighter_a": "Juliana Miller",
+    "fighter_b": "Ravena Oliveira",
+    "prediction": "Juliana Miller",
+    "confidence": 68,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 64,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Juliana Miller",
+    "raw_fighter_b": "Ravena Oliveira",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE): <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Juliana+Miller+%28Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Juliana Miller</a></strong> llega a este duelo con un récord total de carrera de 5-4-0, aunque su tramo reciente pinta un panorama más ajustado: 1-2-0 en sus últimas 3 peleas, incluyendo 2 derrotas que no pueden pasarse por alto. Aun así, el radar le otorga una ventaja clara gracias a su solidez defensiva en el suelo (80 en derribo defensivo) y un control que se dispara a 74, cifras que sugieren capacidad para neutralizar el juego de piso rival y dictar el ritmo desde la posición dominante.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ravena+Oliveira+%28Kenoudy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ravena Oliveira</a></strong>, por su parte, acumula un récord total de 7-4-1, pero atraviesa un momento complicado con 0-3-0 en los últimos 36 meses, sumando 3 derrotas consecutivas en ese tramo. Su perfil ofensivo en el derribo (50) contrasta con un control notablemente más bajo (35) y una defensa de derribo de apenas 46, un déficit que <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Juliana+Miller+%28Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Juliana Miller</a> podría explotar si logra imponer su juego de control durante las 3 rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Juliana+Miller+%28Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Juliana Miller</a></strong> llega como favorita clara en este cruce de peso mosca femenino.\nSu dominio en el suelo, con un derribo defensivo de 80, marca la diferencia frente al derribo ofensivo de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ravena+Oliveira+%28Kenoudy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ravena Oliveira</a>.\nEl desenlace más probable apunta a <strong>decisión</strong>, sin importar quién se lleve la mano en alto."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Juliana+Miller+%28Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Juliana Miller</a> con un 68% de probabilidad. La combinación de su solidez en el control y la floja racha reciente de su rival respalda esa lectura. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

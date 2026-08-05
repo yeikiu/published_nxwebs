@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Gamrot vs. Salkilld",
+  "event_date": "8 de agosto de 2026",
+  "event_date_iso": "2026-08-08",
+  "fight": {
+    "fighter_a": "Mateusz Gamrot",
+    "fighter_b": "Quillan Salkilld",
+    "prediction": "Quillan Salkilld",
+    "confidence": 73,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 56,
+    "duration": "UNDER 2.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Mateusz Gamrot",
+    "raw_fighter_b": "Quillan Salkilld",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Gamrot+%28Gamer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Gamrot</a></strong>, <strong>#8 del ranking peso ligero</strong>, presenta un récord total de carrera de 26-4-0 (más 1 no contest), una trayectoria extensa que respalda su nivel divisional. Sin embargo, en los últimos 36 meses su forma ha sido irregular: 4-2-0 en 6 peleas, con dos derrotas incluidas en ese tramo. Su fortaleza más evidente está en el control, donde el radar le otorga un dato de 84/100, muy por encima del resto de sus métricas, mientras que su derribo defensivo aparece en 0, un punto que podría explotarse si el enfrentamiento se traslada al suelo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Quillan+Salkilld\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Quillan Salkilld</a></strong>, <strong>#12 del ranking peso ligero</strong>, exhibe un récord total de carrera de 12-1-0 y una racha reciente perfecta: 5-0-0 en sus últimos 5 combates. Esa regularidad reciente contrasta con la variabilidad de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Gamrot+%28Gamer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Gamrot</a> y es uno de los factores que más pesa en el radar. En las métricas, <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Quillan+Salkilld\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Quillan Salkilld</a> destaca con una amenaza de finalización de 80/100 y un derribo defensivo de 75/100, cifras que sugieren solidez tanto para buscar el final anticipado como para resistir el juego de posición de su rival. Su golpeo ofensivo de 60/100 también supera al de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Gamrot+%28Gamer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Gamrot</a>, aunque este último mantiene ligera ventaja en golpeo defensivo (59 frente a 48).\nEl contraste entre el control dominante de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Gamrot+%28Gamer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Gamrot</a> y la amenaza de finalización de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Quillan+Salkilld\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Quillan Salkilld</a> define el eje táctico de este duelo divisional a 5 rondas: todo apunta a que la pelea se resuelve en el terreno donde ambos priorizan imponer su juego."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Quillan+Salkilld\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Quillan Salkilld</a></strong> llega invicto en sus últimos 5 combates y es favorito claro para el radar.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Gamrot+%28Gamer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Gamrot</a></strong> aporta más experiencia en carrera, pero arrastra altibajos recientes.\nEl desenlace más probable llega por <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Quillan+Salkilld\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Quillan Salkilld</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es sumisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
