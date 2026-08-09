@@ -34,6 +34,20 @@
       },
       {
         "fighter1": {
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Ochoa (Kalzifer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/88be62d6c1e6dadb",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Mansur Abdul-Malik",
           "ufcstats_url": "http://ufcstats.com/fighter-details/841695e02c99a521",
           "division_ranking": ""
