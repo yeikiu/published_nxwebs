@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-09T23:00:46.163Z",
+  "generatedAt": "2026-08-10T21:58:01.830Z",
   "provenance": {
     "fightersCsvSha256": "fb1626b129fc778d74f18e8160cad8b95299c1041cdb04fb60d660f5edece29d",
-    "upcomingEventsSha256": "da5615949f8ae63b713927e22c0c8558df6795ec2f001e701443c38b0256d0f2",
-    "appVersion": "1.1.29"
+    "upcomingEventsSha256": "143bb89f47ebcf8288d2d282fbac52fe1a7452430945daa76a4b9df545450e62",
+    "appVersion": "1.1.30"
   },
   "summary": {
     "totalEvents": 7,
-    "totalFights": 60,
+    "totalFights": 61,
     "predictedFights": 39,
-    "noDataFights": 21
+    "noDataFights": 22
   },
   "events": [
     {
@@ -32,13 +32,12 @@
             "moneyline": {
               "pick": "Islam Makhachev",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 77,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 406.64,
-                "adjustedScore2": 118.74,
-                "rawProbability": 77
+                "adjustedScore2": 118.74
               }
             },
             "methods": [
@@ -46,14 +45,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 82,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 75,
-                  "finishRate2": 0,
-                  "rawProbability": 82
+                  "finishRate2": 0
                 }
               }
             ],
@@ -62,13 +60,12 @@
                 "pick": "OVER 2.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 69,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
                 "metadata": {
-                  "avgTime": 16.02,
-                  "rawProbability": 69
+                  "avgTime": 16.02
                 }
               }
             ],
@@ -77,8 +74,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -127,13 +124,12 @@
             "moneyline": {
               "pick": "Gillian Robertson",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 81,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 379.09,
-                "adjustedScore2": 87.41,
-                "rawProbability": 81
+                "adjustedScore2": 87.41
               }
             },
             "methods": [
@@ -141,14 +137,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 20,
-                  "finishRate2": 40,
-                  "rawProbability": 77
+                  "finishRate2": 40
                 }
               }
             ],
@@ -157,13 +152,12 @@
                 "pick": "OVER 3.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 90,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
                 "metadata": {
-                  "avgTime": 13.84,
-                  "rawProbability": 90
+                  "avgTime": 13.84
                 }
               }
             ],
@@ -172,8 +166,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -222,13 +216,12 @@
             "moneyline": {
               "pick": "Charles Johnson",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 71,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 208.97,
-                "adjustedScore2": 87.15,
-                "rawProbability": 71
+                "adjustedScore2": 87.15
               }
             },
             "methods": [
@@ -236,14 +229,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 20,
-                  "finishRate2": 25,
-                  "rawProbability": 77
+                  "finishRate2": 25
                 }
               }
             ],
@@ -252,13 +244,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 12.6,
-                  "rawProbability": 93
+                  "avgTime": 12.6
                 }
               }
             ],
@@ -267,8 +258,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -317,13 +308,12 @@
             "moneyline": {
               "pick": "Mansur Abdul-Malik",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 67,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 164.11,
-                "adjustedScore2": 79.79,
-                "rawProbability": 67
+                "adjustedScore2": 79.79
               }
             },
             "methods": [
@@ -331,14 +321,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 79,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 60,
-                  "finishRate2": 40,
-                  "rawProbability": 79
+                  "finishRate2": 40
                 }
               }
             ],
@@ -347,13 +336,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.49,
-                  "rawProbability": 78
+                  "avgTime": 8.49
                 }
               }
             ],
@@ -362,8 +350,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -412,13 +400,12 @@
             "moneyline": {
               "pick": "Esteban Ribovics",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 73,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 144.83,
-                "adjustedScore2": 54.63,
-                "rawProbability": 73
+                "adjustedScore2": 54.63
               }
             },
             "methods": [
@@ -426,14 +413,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 20,
-                  "rawProbability": 77
+                  "finishRate2": 20
                 }
               }
             ],
@@ -442,13 +428,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 13.92,
-                  "rawProbability": 93
+                  "avgTime": 13.92
                 }
               }
             ],
@@ -457,8 +442,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -507,13 +492,12 @@
             "moneyline": {
               "pick": "Joel Alvarez",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 78,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 231.77,
-                "adjustedScore2": 64.28,
-                "rawProbability": 78
+                "adjustedScore2": 64.28
               }
             },
             "methods": [
@@ -521,14 +505,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 16.67,
-                  "finishRate2": 50,
-                  "rawProbability": 87
+                  "finishRate2": 50
                 }
               }
             ],
@@ -537,13 +520,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 9.51,
-                  "rawProbability": 78
+                  "avgTime": 9.51
                 }
               }
             ],
@@ -552,8 +534,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -602,13 +584,12 @@
             "moneyline": {
               "pick": "Kaue Fernandes",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 52,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.better_recent_record",
               "metadata": {
                 "adjustedScore1": 100.6,
-                "adjustedScore2": 93.54,
-                "rawProbability": 52
+                "adjustedScore2": 93.54
               }
             },
             "methods": [
@@ -616,14 +597,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 50,
-                  "finishRate2": 50,
-                  "rawProbability": 87
+                  "finishRate2": 50
                 }
               }
             ],
@@ -632,13 +612,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 6.87,
-                  "rawProbability": 78
+                  "avgTime": 6.87
                 }
               }
             ],
@@ -647,8 +626,8 @@
                 "pick": "Double knockdown",
                 "predictionKey": "combat_analysis.special_bets.double_knockdown",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_knockdown_history",
                 "explanationKey": "combat_analysis.bet_explanations.double_knockdown",
                 "metadata": {
@@ -721,13 +700,12 @@
             "moneyline": {
               "pick": "Tresean Gore",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 50,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 92.27,
-                "adjustedScore2": 91.67,
-                "rawProbability": 50
+                "adjustedScore2": 91.67
               }
             },
             "methods": [
@@ -735,14 +713,13 @@
                 "pick": "Submission",
                 "predictionKey": "combat_analysis.finish_methods.submission",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 56.4,
-                "confidenceLevel": "low",
+                "rawConfidence": 59,
+                "calibratedConfidence": 56.4,
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
                   "finishRate1": 33.33,
-                  "finishRate2": 50,
-                  "rawProbability": 59
+                  "finishRate2": 50
                 }
               }
             ],
@@ -751,13 +728,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 9.7,
-                  "rawProbability": 78
+                  "avgTime": 9.7
                 }
               }
             ],
@@ -766,8 +742,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -839,13 +815,12 @@
             "moneyline": {
               "pick": "Ramiz Brahimaj",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 74,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 168.94,
-                "adjustedScore2": 60.25,
-                "rawProbability": 74
+                "adjustedScore2": 60.25
               }
             },
             "methods": [],
@@ -854,13 +829,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.72,
-                  "rawProbability": 80
+                  "avgTime": 8.72
                 }
               }
             ],
@@ -869,8 +843,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -951,13 +925,12 @@
             "moneyline": {
               "pick": "Gregory Rodrigues",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 50,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 120.44,
-                "adjustedScore2": 120.88,
-                "rawProbability": 50
+                "adjustedScore2": 120.88
               }
             },
             "methods": [
@@ -965,14 +938,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 70,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 60,
-                  "finishRate2": 57.14,
-                  "rawProbability": 70
+                  "finishRate2": 57.14
                 }
               }
             ],
@@ -981,13 +953,12 @@
                 "pick": "OVER 3.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 85,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
                 "metadata": {
-                  "avgTime": 12.16,
-                  "rawProbability": 85
+                  "avgTime": 12.16
                 }
               }
             ],
@@ -996,8 +967,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -1046,13 +1017,12 @@
             "moneyline": {
               "pick": "Vitor Petrino",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68.9,
-              "confidenceLevel": "medium",
+              "rawConfidence": 79,
+              "calibratedConfidence": 68.9,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 279.47,
-                "adjustedScore2": 73.34,
-                "rawProbability": 79
+                "adjustedScore2": 73.34
               }
             },
             "methods": [
@@ -1060,14 +1030,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 20,
-                  "finishRate2": 42.86,
-                  "rawProbability": 87
+                  "finishRate2": 42.86
                 }
               }
             ],
@@ -1076,13 +1045,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 9.48,
-                  "rawProbability": 80
+                  "avgTime": 9.48
                 }
               }
             ],
@@ -1091,8 +1059,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1141,13 +1109,12 @@
             "moneyline": {
               "pick": "Reinier de Ridder",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 78,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 208.41,
-                "adjustedScore2": 57.7,
-                "rawProbability": 78
+                "adjustedScore2": 57.7
               }
             },
             "methods": [
@@ -1155,14 +1122,13 @@
                 "pick": "Submission",
                 "predictionKey": "combat_analysis.finish_methods.submission",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 56.4,
-                "confidenceLevel": "low",
+                "rawConfidence": 59,
+                "calibratedConfidence": 56.4,
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
                   "finishRate1": 16.67,
-                  "finishRate2": 50,
-                  "rawProbability": 59
+                  "finishRate2": 50
                 }
               }
             ],
@@ -1171,13 +1137,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 15.4,
-                  "rawProbability": 78
+                  "avgTime": 15.4
                 }
               }
             ],
@@ -1186,8 +1151,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -1260,13 +1225,12 @@
             "moneyline": {
               "pick": "Kennedy Nzechukwu",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 51,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 80.52,
-                "adjustedScore2": 77.42,
-                "rawProbability": 51
+                "adjustedScore2": 77.42
               }
             },
             "methods": [
@@ -1274,14 +1238,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 40,
-                  "finishRate2": 33.33,
-                  "rawProbability": 87
+                  "finishRate2": 33.33
                 }
               }
             ],
@@ -1290,13 +1253,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.03,
-                  "rawProbability": 80
+                  "avgTime": 8.03
                 }
               }
             ],
@@ -1305,8 +1267,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1435,13 +1397,12 @@
             "moneyline": {
               "pick": "Umar Nurmagomedov",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 73,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 253.58,
-                "adjustedScore2": 94.69,
-                "rawProbability": 73
+                "adjustedScore2": 94.69
               }
             },
             "methods": [
@@ -1449,14 +1410,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 20,
-                  "rawProbability": 77
+                  "finishRate2": 20
                 }
               }
             ],
@@ -1465,13 +1425,12 @@
                 "pick": "OVER 2.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
                 "metadata": {
-                  "avgTime": 17.47,
-                  "rawProbability": 93
+                  "avgTime": 17.47
                 }
               }
             ],
@@ -1480,8 +1439,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1530,13 +1489,12 @@
             "moneyline": {
               "pick": "Denise Gomes",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68.9,
-              "confidenceLevel": "medium",
+              "rawConfidence": 79,
+              "calibratedConfidence": 68.9,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 256.72,
-                "adjustedScore2": 69,
-                "rawProbability": 79
+                "adjustedScore2": 69
               }
             },
             "methods": [
@@ -1544,14 +1502,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 20,
-                  "rawProbability": 77
+                  "finishRate2": 20
                 }
               }
             ],
@@ -1560,13 +1517,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 15.72,
-                  "rawProbability": 93
+                  "avgTime": 15.72
                 }
               }
             ],
@@ -1575,8 +1531,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1625,13 +1581,12 @@
             "moneyline": {
               "pick": "Kai Asakura",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 65,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 126.44,
-                "adjustedScore2": 68.58,
-                "rawProbability": 65
+                "adjustedScore2": 68.58
               }
             },
             "methods": [
@@ -1639,14 +1594,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 20,
-                  "finishRate2": 33.33,
-                  "rawProbability": 77
+                  "finishRate2": 33.33
                 }
               }
             ],
@@ -1655,13 +1609,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 89,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 7.69,
-                  "rawProbability": 89
+                  "avgTime": 7.69
                 }
               }
             ],
@@ -1670,8 +1623,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1720,13 +1673,12 @@
             "moneyline": {
               "pick": "Sumudaerji",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 51,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 84.53,
-                "adjustedScore2": 82.25,
-                "rawProbability": 51
+                "adjustedScore2": 82.25
               }
             },
             "methods": [
@@ -1734,14 +1686,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 33.33,
-                  "finishRate2": 0,
-                  "rawProbability": 77
+                  "finishRate2": 0
                 }
               }
             ],
@@ -1750,13 +1701,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 10.11,
-                  "rawProbability": 92
+                  "avgTime": 10.11
                 }
               }
             ],
@@ -1765,8 +1715,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1861,13 +1811,12 @@
             "moneyline": {
               "pick": "Sean Woodson",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 56,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.better_recent_record",
               "metadata": {
                 "adjustedScore1": 108.52,
-                "adjustedScore2": 86.04,
-                "rawProbability": 56
+                "adjustedScore2": 86.04
               }
             },
             "methods": [
@@ -1875,14 +1824,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 75,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 25,
-                  "finishRate2": 25,
-                  "rawProbability": 75
+                  "finishRate2": 25
                 }
               }
             ],
@@ -1891,13 +1839,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 11.54,
-                  "rawProbability": 93
+                  "avgTime": 11.54
                 }
               }
             ],
@@ -1906,8 +1853,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -1956,13 +1903,12 @@
             "moneyline": {
               "pick": "Rei Tsuruya",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 64,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 125.64,
-                "adjustedScore2": 71.77,
-                "rawProbability": 64
+                "adjustedScore2": 71.77
               }
             },
             "methods": [
@@ -1970,14 +1916,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 73,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 33.33,
-                  "finishRate2": 0,
-                  "rawProbability": 73
+                  "finishRate2": 0
                 }
               }
             ],
@@ -1986,13 +1931,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 11.88,
-                  "rawProbability": 92
+                  "avgTime": 11.88
                 }
               }
             ],
@@ -2001,8 +1945,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -2106,13 +2050,12 @@
             "moneyline": {
               "pick": "Nursulton Ruziboev",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 77,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 293.67,
-                "adjustedScore2": 88.92,
-                "rawProbability": 77
+                "adjustedScore2": 88.92
               }
             },
             "methods": [
@@ -2120,14 +2063,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 70,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 60,
-                  "rawProbability": 70
+                  "finishRate2": 60
                 }
               }
             ],
@@ -2136,13 +2078,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 91,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 11.78,
-                  "rawProbability": 91
+                  "avgTime": 11.78
                 }
               }
             ],
@@ -2151,8 +2092,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2201,13 +2142,12 @@
             "moneyline": {
               "pick": "Morgan Charriere",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 52,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 88.4,
-                "adjustedScore2": 82.28,
-                "rawProbability": 52
+                "adjustedScore2": 82.28
               }
             },
             "methods": [
@@ -2215,14 +2155,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 76,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 50,
-                  "finishRate2": 33.33,
-                  "rawProbability": 76
+                  "finishRate2": 33.33
                 }
               }
             ],
@@ -2231,13 +2170,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 11.12,
-                  "rawProbability": 93
+                  "avgTime": 11.12
                 }
               }
             ],
@@ -2246,8 +2184,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2296,13 +2234,12 @@
             "moneyline": {
               "pick": "Mario Pinto",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 82,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.better_recent_record",
               "metadata": {
                 "adjustedScore1": 411.57,
-                "adjustedScore2": 92.31,
-                "rawProbability": 82
+                "adjustedScore2": 92.31
               }
             },
             "methods": [],
@@ -2311,13 +2248,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 9.93,
-                  "rawProbability": 80
+                  "avgTime": 9.93
                 }
               }
             ],
@@ -2326,8 +2262,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -2400,13 +2336,12 @@
             "moneyline": {
               "pick": "Mairon Santos",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 78,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 367.58,
-                "adjustedScore2": 105.52,
-                "rawProbability": 78
+                "adjustedScore2": 105.52
               }
             },
             "methods": [
@@ -2414,14 +2349,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 50,
-                  "rawProbability": 77
+                  "finishRate2": 50
                 }
               }
             ],
@@ -2430,13 +2364,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 13.35,
-                  "rawProbability": 93
+                  "avgTime": 13.35
                 }
               }
             ],
@@ -2445,8 +2378,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2573,13 +2506,12 @@
             "moneyline": {
               "pick": "Manon Fiorot",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 74,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 229.17,
-                "adjustedScore2": 79.18,
-                "rawProbability": 74
+                "adjustedScore2": 79.18
               }
             },
             "methods": [
@@ -2587,14 +2519,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 25,
-                  "finishRate2": 25,
-                  "rawProbability": 77
+                  "finishRate2": 25
                 }
               }
             ],
@@ -2603,13 +2534,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 16.73,
-                  "rawProbability": 93
+                  "avgTime": 16.73
                 }
               }
             ],
@@ -2618,8 +2548,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2668,13 +2598,12 @@
             "moneyline": {
               "pick": "Waldo Cortes Acosta",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 84,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 436.3,
-                "adjustedScore2": 77.76,
-                "rawProbability": 84
+                "adjustedScore2": 77.76
               }
             },
             "methods": [
@@ -2682,14 +2611,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 50,
-                  "finishRate2": 25,
-                  "rawProbability": 87
+                  "finishRate2": 25
                 }
               }
             ],
@@ -2698,13 +2626,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 10.13,
-                  "rawProbability": 80
+                  "avgTime": 10.13
                 }
               }
             ],
@@ -2713,8 +2640,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2763,13 +2690,12 @@
             "moneyline": {
               "pick": "David Martinez",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 78,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 218.26,
-                "adjustedScore2": 62.96,
-                "rawProbability": 78
+                "adjustedScore2": 62.96
               }
             },
             "methods": [
@@ -2777,14 +2703,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 33.33,
-                  "finishRate2": 28.57,
-                  "rawProbability": 77
+                  "finishRate2": 28.57
                 }
               }
             ],
@@ -2793,13 +2718,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 11.39,
-                  "rawProbability": 93
+                  "avgTime": 11.39
                 }
               }
             ],
@@ -2808,8 +2732,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -2858,13 +2782,12 @@
             "moneyline": {
               "pick": "Edgar Chairez",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68.9,
-              "confidenceLevel": "medium",
+              "rawConfidence": 80,
+              "calibratedConfidence": 68.9,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 251.64,
-                "adjustedScore2": 62.21,
-                "rawProbability": 80
+                "adjustedScore2": 62.21
               }
             },
             "methods": [
@@ -2872,14 +2795,13 @@
                 "pick": "Submission",
                 "predictionKey": "combat_analysis.finish_methods.submission",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 56.4,
-                "confidenceLevel": "low",
+                "rawConfidence": 59,
+                "calibratedConfidence": 56.4,
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
                   "finishRate1": 50,
-                  "finishRate2": 50,
-                  "rawProbability": 59
+                  "finishRate2": 50
                 }
               }
             ],
@@ -2888,13 +2810,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.78,
-                  "rawProbability": 78
+                  "avgTime": 8.78
                 }
               }
             ],
@@ -2903,8 +2824,8 @@
                 "pick": "OVER 1.5 submission attempts",
                 "predictionKey": "combat_analysis.special_bets.over_1_5_submissions",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_seek_submissions",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_submissions",
                 "metadata": {
@@ -2953,13 +2874,12 @@
             "moneyline": {
               "pick": "Ignacio Bahamondes",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 75,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 178.66,
-                "adjustedScore2": 58.36,
-                "rawProbability": 75
+                "adjustedScore2": 58.36
               }
             },
             "methods": [
@@ -2967,14 +2887,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 60,
-                  "finishRate2": 40,
-                  "rawProbability": 87
+                  "finishRate2": 40
                 }
               }
             ],
@@ -2983,13 +2902,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.02,
-                  "rawProbability": 80
+                  "avgTime": 8.02
                 }
               }
             ],
@@ -2998,8 +2916,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3081,6 +2999,30 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "e95ccfd5c37aaf87",
+          "fighter1": "Tommy McMillen (Gun)",
+          "fighter2": "Marwan Rahiki (Freaky)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "fighter1Image": "img/tommy_mcmillen_gun.png",
+          "fighter2Image": "img/marwan_rahiki_freaky.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         }
       ]
     },
@@ -3103,13 +3045,12 @@
             "moneyline": {
               "pick": "Joshua Van",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 84.6,
-              "confidenceLevel": "high",
+              "rawConfidence": 89,
+              "calibratedConfidence": 84.6,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 640.79,
-                "adjustedScore2": 87.22,
-                "rawProbability": 89
+                "adjustedScore2": 87.22
               }
             },
             "methods": [
@@ -3117,14 +3058,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 76,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 40,
-                  "finishRate2": 40,
-                  "rawProbability": 76
+                  "finishRate2": 40
                 }
               }
             ],
@@ -3133,13 +3073,12 @@
                 "pick": "OVER 3.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 89,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
                 "metadata": {
-                  "avgTime": 13.48,
-                  "rawProbability": 89
+                  "avgTime": 13.48
                 }
               }
             ],
@@ -3148,8 +3087,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3198,13 +3137,12 @@
             "moneyline": {
               "pick": "Arman Tsarukyan",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 76,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 370.62,
-                "adjustedScore2": 119.04,
-                "rawProbability": 76
+                "adjustedScore2": 119.04
               }
             },
             "methods": [
@@ -3212,14 +3150,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 66.67,
-                  "finishRate2": 66.67,
-                  "rawProbability": 77
+                  "finishRate2": 66.67
                 }
               }
             ],
@@ -3228,13 +3165,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 7.74,
-                  "rawProbability": 74
+                  "avgTime": 7.74
                 }
               }
             ],
@@ -3243,8 +3179,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3293,13 +3229,12 @@
             "moneyline": {
               "pick": "Dooho Choi",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 86,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 393.7,
-                "adjustedScore2": 53.31,
-                "rawProbability": 86
+                "adjustedScore2": 53.31
               }
             },
             "methods": [
@@ -3307,14 +3242,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 0,
-                  "finishRate2": 100,
-                  "rawProbability": 87
+                  "finishRate2": 100
                 }
               }
             ],
@@ -3323,13 +3257,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 12.74,
-                  "rawProbability": 78
+                  "avgTime": 12.74
                 }
               }
             ],
@@ -3338,8 +3271,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3388,13 +3321,12 @@
             "moneyline": {
               "pick": "Renato Moicano",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 64,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 133.52,
-                "adjustedScore2": 76.14,
-                "rawProbability": 64
+                "adjustedScore2": 76.14
               }
             },
             "methods": [
@@ -3402,14 +3334,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 41.7,
-                "confidenceLevel": "low",
+                "rawConfidence": 45,
+                "calibratedConfidence": 41.7,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 50,
-                  "finishRate2": 33.33,
-                  "rawProbability": 45
+                  "finishRate2": 33.33
                 }
               }
             ],
@@ -3418,13 +3349,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 13.62,
-                  "rawProbability": 78
+                  "avgTime": 13.62
                 }
               }
             ],
@@ -3433,8 +3363,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3483,13 +3413,12 @@
             "moneyline": {
               "pick": "Iwo Baraniewski",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 84,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 391.25,
-                "adjustedScore2": 66.58,
-                "rawProbability": 84
+                "adjustedScore2": 66.58
               }
             },
             "methods": [
@@ -3497,14 +3426,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 14.29,
-                  "finishRate2": 100,
-                  "rawProbability": 87
+                  "finishRate2": 100
                 }
               }
             ],
@@ -3513,13 +3441,12 @@
                 "pick": "UNDER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 80,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.extreme_early_finish",
                 "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
-                  "avgTime": 1.12,
-                  "rawProbability": 80
+                  "avgTime": 1.12
                 }
               }
             ],
@@ -3528,8 +3455,8 @@
                 "pick": "First round finish",
                 "predictionKey": "combat_analysis.special_bets.first_round_finish",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.at_least_one_finishes_fast",
                 "explanationKey": "combat_analysis.bet_explanations.first_round_finish",
                 "metadata": {
@@ -3602,13 +3529,12 @@
             "moneyline": {
               "pick": "Charles Jourdain",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 82,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 231.07,
-                "adjustedScore2": 51.56,
-                "rawProbability": 82
+                "adjustedScore2": 51.56
               }
             },
             "methods": [
@@ -3616,14 +3542,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 50,
-                  "rawProbability": 77
+                  "finishRate2": 50
                 }
               }
             ],
@@ -3632,13 +3557,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 12.78,
-                  "rawProbability": 93
+                  "avgTime": 12.78
                 }
               }
             ],
@@ -3647,8 +3571,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3697,13 +3621,12 @@
             "moneyline": {
               "pick": "Robelis Despaigne",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 82,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 176.06,
-                "adjustedScore2": 39.78,
-                "rawProbability": 82
+                "adjustedScore2": 39.78
               }
             },
             "methods": [
@@ -3711,14 +3634,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 0,
-                  "finishRate2": 33.33,
-                  "rawProbability": 74
+                  "finishRate2": 33.33
                 }
               }
             ],
@@ -3727,13 +3649,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 10.93,
-                  "rawProbability": 92
+                  "avgTime": 10.93
                 }
               }
             ],
@@ -3742,8 +3663,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3792,13 +3713,12 @@
             "moneyline": {
               "pick": "Edmen Shahbazyan",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 75,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.superior_tactical_iq",
               "metadata": {
                 "adjustedScore1": 212.45,
-                "adjustedScore2": 71.13,
-                "rawProbability": 75
+                "adjustedScore2": 71.13
               }
             },
             "methods": [
@@ -3806,14 +3726,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 68,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
                   "method": "KO/TKO",
                   "finishRate1": 50,
-                  "finishRate2": 50,
-                  "rawProbability": 68
+                  "finishRate2": 50
                 }
               }
             ],
@@ -3822,13 +3741,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 8.43,
-                  "rawProbability": 78
+                  "avgTime": 8.43
                 }
               }
             ],
@@ -3837,8 +3755,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {
@@ -3887,13 +3805,12 @@
             "moneyline": {
               "pick": "Joanderson Brito",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 73.1,
-              "confidenceLevel": "medium",
+              "rawConfidence": 84,
+              "calibratedConfidence": 73.1,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
                 "adjustedScore1": 255.56,
-                "adjustedScore2": 48.03,
-                "rawProbability": 84
+                "adjustedScore2": 48.03
               }
             },
             "methods": [
@@ -3901,14 +3818,13 @@
                 "pick": "Submission",
                 "predictionKey": "combat_analysis.finish_methods.submission",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 56.4,
-                "confidenceLevel": "low",
+                "rawConfidence": 59,
+                "calibratedConfidence": 56.4,
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
                   "finishRate1": 0,
-                  "finishRate2": 50,
-                  "rawProbability": 59
+                  "finishRate2": 50
                 }
               }
             ],
@@ -3917,13 +3833,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 64.2,
-                "confidenceLevel": "medium",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 12,
-                  "rawProbability": 78
+                  "avgTime": 12
                 }
               }
             ],
@@ -3932,8 +3847,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -3982,13 +3897,12 @@
             "moneyline": {
               "pick": "Casey O'Neill",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 61,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 121.76,
-                "adjustedScore2": 79.23,
-                "rawProbability": 61
+                "adjustedScore2": 79.23
               }
             },
             "methods": [
@@ -3996,14 +3910,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 33.33,
-                  "finishRate2": 20,
-                  "rawProbability": 77
+                  "finishRate2": 20
                 }
               }
             ],
@@ -4012,13 +3925,12 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 93,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
-                  "avgTime": 10.79,
-                  "rawProbability": 93
+                  "avgTime": 10.79
                 }
               }
             ],
@@ -4027,8 +3939,8 @@
                 "pick": "Ground control +2 minutes",
                 "predictionKey": "combat_analysis.special_bets.ground_control_2min",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
                 "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
                 "metadata": {
@@ -4133,13 +4045,12 @@
             "moneyline": {
               "pick": "Mike Malott",
               "titleKey": "betting_markets.fight_winner",
-              "confidence": 68,
-              "confidenceLevel": "medium",
+              "rawConfidence": 76,
+              "calibratedConfidence": 68,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 298.38,
-                "adjustedScore2": 93.79,
-                "rawProbability": 76
+                "adjustedScore2": 93.79
               }
             },
             "methods": [
@@ -4147,14 +4058,13 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "confidence": 64.1,
-                "confidenceLevel": "medium",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
                   "method": "Decision",
                   "finishRate1": 42.86,
-                  "finishRate2": 40,
-                  "rawProbability": 77
+                  "finishRate2": 40
                 }
               }
             ],
@@ -4163,13 +4073,12 @@
                 "pick": "OVER 3.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "confidence": 80.4,
-                "confidenceLevel": "high",
+                "rawConfidence": 90,
+                "calibratedConfidence": 80.4,
                 "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
                 "metadata": {
-                  "avgTime": 13.74,
-                  "rawProbability": 90
+                  "avgTime": 13.74
                 }
               }
             ],
@@ -4178,8 +4087,8 @@
                 "pick": "OVER 100 strikes per fighter",
                 "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
                 "titleKey": "betting_markets.fight_props",
-                "confidence": 60,
-                "confidenceLevel": "medium",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "combat_analysis.reasoning.both_high_volume",
                 "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
                 "metadata": {

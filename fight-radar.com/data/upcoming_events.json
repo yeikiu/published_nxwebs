@@ -669,6 +669,20 @@
         },
         "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tommy McMillen (Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Marwan Rahiki (Freaky)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
       }
     ]
   },
