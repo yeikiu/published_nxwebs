@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-10T21:58:01.830Z",
+  "generatedAt": "2026-08-11T14:54:27.871Z",
   "provenance": {
     "fightersCsvSha256": "fb1626b129fc778d74f18e8160cad8b95299c1041cdb04fb60d660f5edece29d",
     "upcomingEventsSha256": "143bb89f47ebcf8288d2d282fbac52fe1a7452430945daa76a4b9df545450e62",
-    "appVersion": "1.1.30"
+    "appVersion": "1.1.31"
   },
   "summary": {
     "totalEvents": 7,
     "totalFights": 61,
-    "predictedFights": 39,
-    "noDataFights": 22
+    "predictedFights": 38,
+    "noDataFights": 23
   },
   "events": [
     {
@@ -697,86 +697,18 @@
           "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "prediction": {
-            "moneyline": {
-              "pick": "Tresean Gore",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 50,
-              "calibratedConfidence": 68,
-              "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
-              "metadata": {
-                "adjustedScore1": 92.27,
-                "adjustedScore2": 91.67
-              }
-            },
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 59,
-                "calibratedConfidence": 56.4,
-                "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
-                "metadata": {
-                  "method": "Submission",
-                  "finishRate1": 33.33,
-                  "finishRate2": 50
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 78,
-                "calibratedConfidence": 64.2,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 9.7
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 4.44,
-                    "f2TakedownRate": 1.38,
-                    "f1KnockdownRate": 0.17,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 383,
-                    "f2StrikeVolume": 290,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 0.5,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 50,
-                    "avgFightTime": 9.7,
-                    "weightedFinishRate": 33.33,
-                    "weightedAvgFightTime": 9.7
-                  }
-                }
-              }
-            ]
+            "methods": [],
+            "durations": [],
+            "props": []
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
-            "method": "submission",
-            "duration": {
-              "side": "over"
-            }
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
           },
           "contradictions": [],
-          "noData": false
+          "noData": true,
+          "noDataReason": "even_matchup"
         },
         {
           "fightId": "297e214e6600fbf1",
@@ -922,23 +854,12 @@
           "weightClass": "Middleweight",
           "scheduledRounds": 5,
           "prediction": {
-            "moneyline": {
-              "pick": "Gregory Rodrigues",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 50,
-              "calibratedConfidence": 68,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 120.44,
-                "adjustedScore2": 120.88
-              }
-            },
             "methods": [
               {
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 70,
+                "rawConfidence": 69,
                 "calibratedConfidence": 64.1,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
@@ -948,20 +869,7 @@
                 }
               }
             ],
-            "durations": [
-              {
-                "pick": "OVER 3.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 85,
-                "calibratedConfidence": 80.4,
-                "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
-                "metadata": {
-                  "avgTime": 12.16
-                }
-              }
-            ],
+            "durations": [],
             "props": [
               {
                 "pick": "Ground control +2 minutes",
@@ -985,20 +893,16 @@
                     "f2SubRate": 0.14,
                     "f1FinishRate": 60,
                     "f2FinishRate": 57.14,
-                    "avgFightTime": 12.16,
-                    "weightedFinishRate": 43.57,
-                    "weightedAvgFightTime": 12.16
+                    "avgFightTime": 12.16
                   }
                 }
               }
             ]
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
+            "winnerUrl": null,
             "method": "decision",
-            "duration": {
-              "side": "over"
-            }
+            "duration": null
           },
           "contradictions": [],
           "noData": false
