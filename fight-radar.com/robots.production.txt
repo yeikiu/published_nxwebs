@@ -1,10 +1,9 @@
 User-agent: *
 Allow: /
 
-# Main pages
-Allow: /data-center
-Allow: /news
-Allow: /calendar
+# No path-shaped rules for /data-center, /news or /calendar: the app is
+# hash-routed, so those live behind '#' (/#/es/news) and never exist as paths —
+# GitHub Pages answers them with the 404.html SPA fallback, HTTP 404 included.
 
 # Disallow admin pages from indexing
 Disallow: /admin
