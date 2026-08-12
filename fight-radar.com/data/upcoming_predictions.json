@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-12T14:25:54.387Z",
+  "generatedAt": "2026-08-12T17:12:51.971Z",
   "provenance": {
-    "fightersCsvSha256": "2609d034e0a51700c32a1d27baddc2d9dac406b56b5f4069f3deded30a764e39",
-    "upcomingEventsSha256": "0e55603cbfba5eaa5aeeb607f9b727a456b8b270978dfd4e7023e3959eb02231",
-    "appVersion": "1.1.34"
+    "fightersCsvSha256": "c7f5aee9d7145800ec3d3013d381f953af73348662fb5d03afb97c9dbb80e48b",
+    "upcomingEventsSha256": "d842d0b102d5e85fb5993a72fef378a68155adeb0d3bf72c17722af406566584",
+    "appVersion": "1.1.35"
   },
   "summary": {
     "totalEvents": 7,
     "totalFights": 67,
-    "predictedFights": 41,
-    "noDataFights": 26
+    "predictedFights": 40,
+    "noDataFights": 27
   },
   "events": [
     {
@@ -203,96 +203,27 @@
           "noData": false
         },
         {
-          "fightId": "3c25ef720b04b9fe",
+          "fightId": "3eae2186e8b34e2c",
           "fighter1": "Charles Johnson (InnerG)",
-          "fighter2": "Jose Ochoa (Kalzifer)",
+          "fighter2": "Eduardo Chapolin",
           "fighter1Url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "fighter2Url": "http://ufcstats.com/fighter-details/88be62d6c1e6dadb",
+          "fighter2Url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
           "fighter1Image": "img/charles_johnson.png",
-          "fighter2Image": "img/jose_ochoa.png",
-          "weightClass": "Flyweight",
+          "weightClass": "Catch Weight",
           "scheduledRounds": 3,
           "prediction": {
-            "moneyline": {
-              "pick": "Charles Johnson",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 71,
-              "calibratedConfidence": 68,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 208.97,
-                "adjustedScore2": 87.15
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 77,
-                "calibratedConfidence": 64.1,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 20,
-                  "finishRate2": 25
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 93,
-                "calibratedConfidence": 80.4,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 12.6
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.36,
-                    "f2TakedownRate": 0.73,
-                    "f1KnockdownRate": 0.4,
-                    "f2KnockdownRate": 0.5,
-                    "f1StrikeVolume": 1227,
-                    "f2StrikeVolume": 551,
-                    "f1SubRate": 0.4,
-                    "f2SubRate": 0.75,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 25,
-                    "avgFightTime": 12.6,
-                    "weightedFinishRate": 17.83,
-                    "weightedAvgFightTime": 12.63
-                  }
-                }
-              }
-            ]
+            "methods": [],
+            "durations": [],
+            "props": []
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
           },
           "contradictions": [],
-          "noData": false
+          "noData": true,
+          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "e19f213c73e28289",
