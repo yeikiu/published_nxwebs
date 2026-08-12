@@ -325,7 +325,7 @@
         "fighter2": {
           "name": "Denise Gomes (Dee)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cffb87059e645bd1",
-          "division_ranking": "13"
+          "division_ranking": "14"
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
@@ -441,7 +441,7 @@
         "fighter1": {
           "name": "Dan Hooker (The Hangman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
-          "division_ranking": "9"
+          "division_ranking": "10"
         },
         "fighter2": {
           "name": "Salahdine Parnasse",
@@ -460,7 +460,7 @@
         "fighter2": {
           "name": "Nursulton Ruziboev (Black)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
-          "division_ranking": "14"
+          "division_ranking": "15"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
@@ -511,7 +511,7 @@
         "fighter1": {
           "name": "Nathaniel Wood (The Prospect)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/329e403448756217",
-          "division_ranking": "9"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Mairon Santos (The Legend)",
@@ -737,12 +737,12 @@
         "fighter1": {
           "name": "Renato Moicano",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "10"
+          "division_ranking": "11"
         },
         "fighter2": {
           "name": "Brian Ortega (T-City)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
-          "division_ranking": "11"
+          "division_ranking": ""
         },
         "weightClass": "Lightweight",
         "scheduledRounds": 3
@@ -906,6 +906,90 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Erin Blanchfield (Cold Blooded)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/669970f7feba8ecd",
+          "division_ranking": "4"
+        },
+        "fighter2": {
+          "name": "Jasmine Jasudavicius",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a9e260472d321361",
+          "division_ranking": "7"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marc-Andre Barriault (Powerbar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e9eb3fc86db0f7d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Kyle Daukaus",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jamey-Lyn Horth",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Katlyn Cerminara (Blonde Fighter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e872e9a9a902c045",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tanner Boser (The Bulldozer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/04c8b08b16a5b99e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jhonata Diniz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/25f9a5f3e8a52618",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Croden (Scare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Chelsea Chandler",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Louis Jourdain",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/91cd52cb92dfdd52",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Timmy Cuamba (Twilight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ],

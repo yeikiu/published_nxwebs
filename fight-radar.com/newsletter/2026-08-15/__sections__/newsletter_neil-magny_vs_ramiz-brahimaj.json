@@ -1,0 +1,52 @@
+{
+  "event": "UFC 330: Makhachev vs. Machado Garry",
+  "event_date": "15 de agosto de 2026",
+  "event_date_iso": "2026-08-15",
+  "fight": {
+    "fighter_a": "Neil Magny",
+    "fighter_b": "Ramiz Brahimaj",
+    "prediction": "Ramiz Brahimaj",
+    "confidence": 74,
+    "band": "",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "",
+    "method_prob": 0,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Neil Magny",
+    "raw_fighter_b": "Ramiz Brahimaj",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Neil+Magny+%28The+Haitian+Sensation%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Neil Magny</a></strong>, sin ranking oficial en top 15 dentro de peso wélter, presenta un récord total de carrera de 31-15-0. Sin embargo, la fotografía reciente es más dura: en los últimos 36 meses acumula 3-4-0 en 7 peleas, con cuatro derrotas que pesan en la lectura de forma. Su perfil estadístico muestra un golpeo ofensivo de 53, un golpeo defensivo de 40, un derribo defensivo de 47 y un control de 32, el de un peleador que sostiene la distancia pero no siempre impone ritmo.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ramiz+Brahimaj\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ramiz Brahimaj</a></strong>, también sin ranking oficial en top 15, llega con un récord total de carrera de 13-6-0 y una forma reciente de 3-2-0 en 5 peleas en los últimos 36 meses, incluyendo dos derrotas en ese tramo. Su golpeo ofensivo de 57 y golpeo defensivo de 43 lo colocan ligeramente por encima de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Neil+Magny+%28The+Haitian+Sensation%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Neil Magny</a> en el intercambio, y su control de 34 sugiere una capacidad algo mayor para dictar los términos del enfrentamiento. Con ambos mostrando una amenaza de finalización de 100, este duelo de tres rondas tiene margen para resolverse por cualquier vía antes de llegar a las tarjetas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ramiz+Brahimaj\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ramiz Brahimaj</a></strong> llega como favorito claro en este duelo de peso wélter.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Neil+Magny+%28The+Haitian+Sensation%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Neil Magny</a></strong> carga un tramo reciente de 3-4-0 en sus últimas siete presentaciones, con cuatro derrotas en el período.\nAmbos peleadores comparten una <strong>amenaza de finalización de 100</strong>, así que el desenlace sigue abierto en cualquier vía."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ramiz+Brahimaj\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ramiz Brahimaj</a> con un 74% de probabilidad. Por separado, el método más probable de finalización no queda definido con claridad en los datos, dado que ambos peleadores comparten una amenaza de finalización de 100, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

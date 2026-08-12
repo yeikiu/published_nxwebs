@@ -1,0 +1,52 @@
+{
+  "event": "UFC 330: Makhachev vs. Machado Garry",
+  "event_date": "15 de agosto de 2026",
+  "event_date_iso": "2026-08-15",
+  "fight": {
+    "fighter_a": "Edson Barboza",
+    "fighter_b": "Esteban Ribovics",
+    "prediction": "Esteban Ribovics",
+    "confidence": 73,
+    "band": "",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 77,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "Edson Barboza",
+    "raw_fighter_b": "Esteban Ribovics",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edson+Barboza+%28Junior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edson Barboza</a></strong> llega a este combate con un récord total de carrera de 24-14-0, una trayectoria extensa que contrasta con un presente irregular: en los últimos 36 meses su balance cae a 1-3-0 en 4 peleas, con derrotas en 06-12-2025, 16-08-2025 y 18-05-2024. Su única referencia positiva reciente data de 14-10-2023. Sin ranking oficial en el top 15, el radar sí le reconoce un derribo ofensivo de 75, su métrica más sólida, aunque su amenaza de finalización se sitúa en 0, un dato que pesa a la hora de proyectar cómo puede resolver la pelea por la vía rápida.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Esteban+Ribovics+%28El+Gringo%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Esteban Ribovics</a></strong>, también sin ranking oficial en el top 15, presenta un récord total de carrera de 15-3-0. En los últimos 36 meses su forma es más sostenida —3-2-0 en 5 peleas—, aunque no exenta de altibajos: perdió el 11-04-2026 y el 01-03-2025, pero se impuso el 02-08-2025, el 14-09-2024 y el 11-05-2024. El radar destaca su derribo defensivo de 76 y una amenaza de finalización de 33, cifras que sugieren mayor capacidad de sostener el ritmo y neutralizar el juego de suelo de su rival frente al golpeo defensivo de 45 y el control de apenas 37 que exhibe <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edson+Barboza+%28Junior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edson Barboza</a>."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Esteban+Ribovics+%28El+Gringo%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Esteban Ribovics</a></strong> llega como favorito claro sobre <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edson+Barboza+%28Junior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edson Barboza</a> en este duelo de peso ligero.\nLa forma reciente pesa: <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edson+Barboza+%28Junior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edson Barboza</a> acumula <strong>tres derrotas en sus últimas cuatro peleas</strong>.\nEl método más probable de finalización es la <strong>decisión</strong>, a completarse en las 3 rondas pactadas."
+    ],
+    "fight_conclusions": [
+      "Con <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Esteban+Ribovics+%28El+Gringo%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Esteban Ribovics</a> mostrando más solidez en el tramo reciente y ventajas claras en defensa de derribo, el radar inclina la balanza de su lado. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Esteban+Ribovics+%28El+Gringo%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Esteban Ribovics</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

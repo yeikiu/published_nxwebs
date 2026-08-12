@@ -1,0 +1,52 @@
+{
+  "event": "UFC 330: Makhachev vs. Machado Garry",
+  "event_date": "15 de agosto de 2026",
+  "event_date_iso": "2026-08-15",
+  "fight": {
+    "fighter_a": "Islam Makhachev",
+    "fighter_b": "Ian Machado Garry",
+    "prediction": "Islam Makhachev",
+    "confidence": 77,
+    "band": "",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 82,
+    "duration": "OVER 2.5 rounds",
+    "duration_prob": 69,
+    "raw_fighter_a": "Islam Makhachev",
+    "raw_fighter_b": "Ian Machado Garry",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Islam+Makhachev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Islam Makhachev</a></strong> llega a esta defensa con un récord total de carrera de <strong>28-1-0</strong> y una forma reciente intachable: <strong>4-0-0</strong> en los últimos 36 meses, sin una sola derrota en ese tramo. Su control, con una puntuación de <strong>96/100</strong> en el radar, y una defensa de derribo prácticamente perfecta (<strong>100/100</strong>), configuran un estilo que históricamente ha resultado asfixiante para sus rivales. La amenaza de finalización de <strong>75/100</strong> confirma que no se trata solo de un peleador posicional, sino de alguien capaz de cerrar la pelea de forma definitiva.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ian+Machado+Garry+%28The+Future%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ian Machado Garry</a></strong>, <strong>#1 del ranking peso wélter</strong>, acumula un récord total de <strong>17-1-0</strong> y una forma de <strong>5-1-0</strong> en 36 meses, con una derrota en ese tramo que no debe pasarse por alto. Su golpeo ofensivo (<strong>53/100</strong>) y defensivo (<strong>53/100</strong>) son competitivos, pero su control (<strong>41/100</strong>) y, sobre todo, una amenaza de finalización de <strong>0/100</strong> dibujan a un contendiente que depende del volumen y la distancia más que de la búsqueda directa del cierre. La disparidad en control y derribo defensivo (<strong>89/100</strong> frente al <strong>96/100</strong> y <strong>100/100</strong> de su rival) marca la línea divisoria más clara del combate, que se disputará a lo largo de <strong>5 asaltos</strong>."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Islam+Makhachev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Islam Makhachev</a></strong> llega como <strong>favorito claro</strong> para retener su posición en la división.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Ian+Machado+Garry+%28The+Future%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ian Machado Garry</a></strong>, <strong>#1 del ranking peso wélter</strong>, representa el desafío más serio a su reinado.\nEl <strong>KO/TKO</strong> aparece como la vía de finalización más probable en este cruce."
+    ],
+    "fight_conclusions": [
+      "Este cruce por el título en el peso wélter promete definirse en el terreno donde <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Islam+Makhachev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Islam Makhachev</a></strong> ha sido dominante durante años. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Islam+Makhachev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Islam Makhachev</a> con un 77% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

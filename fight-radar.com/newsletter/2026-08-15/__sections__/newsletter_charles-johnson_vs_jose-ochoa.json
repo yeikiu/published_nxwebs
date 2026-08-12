@@ -1,0 +1,52 @@
+{
+  "event": "UFC 330: Makhachev vs. Machado Garry",
+  "event_date": "15 de agosto de 2026",
+  "event_date_iso": "2026-08-15",
+  "fight": {
+    "fighter_a": "Charles Johnson",
+    "fighter_b": "Jose Ochoa",
+    "prediction": "Charles Johnson",
+    "confidence": 71,
+    "band": "",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 77,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "Charles Johnson",
+    "raw_fighter_b": "Jose Ochoa",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE): <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a></strong>, sin ranking oficial en el top 15 de peso mosca, acumula un récord total de carrera de 19-9-0, aunque su tramo más reciente ha sido irregular: 6-4-0 en las últimas 10 peleas de los últimos 36 meses, con altibajos marcados por victorias y derrotas alternadas. Su fortaleza estadística es clara en el terreno defensivo — un <strong>derribo defensivo de 78/100</strong> y un golpeo defensivo de 56/100 — que contrasta con un derribo ofensivo modesto de apenas 17/100.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jose+Ochoa+%28Kalzifer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jose Ochoa</a></strong>, también fuera del top 15, presenta un récord total de carrera de 9-2-0 (1 NC) y un tramo de 2-2-0 en sus últimas 4 peleas de los últimos 36 meses. <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jose+Ochoa+%28Kalzifer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jose Ochoa</a> compensa con una <strong>amenaza de finalización de 50/100</strong>, la más alta entre ambos, y un derribo ofensivo de 25/100 que podría poner a prueba la defensa de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a>. Sin embargo, su golpeo ofensivo (47/100) queda prácticamente igualado con el de su rival, y el control apenas lo diferencia (19 frente a 20). El choque estilístico apunta a una pelea disputada, donde la solidez defensiva de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a> podría pesar más que la capacidad de finalización de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jose+Ochoa+%28Kalzifer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jose Ochoa</a> a lo largo de las 3 rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a></strong> llega como favorito claro sobre <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jose+Ochoa+%28Kalzifer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jose Ochoa</a> en este duelo de peso mosca.\n<a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a> domina en el <strong>derribo defensivo (78/100)</strong>, un colchón importante ante la variedad de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Jose+Ochoa+%28Kalzifer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jose Ochoa</a>.\nEl desenlace más probable es por <strong>decisión</strong>, sin importar quién se lleve la mano en alto."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Charles+Johnson+%28InnerG%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Charles Johnson</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

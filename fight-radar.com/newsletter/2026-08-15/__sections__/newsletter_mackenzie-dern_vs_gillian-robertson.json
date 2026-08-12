@@ -1,0 +1,52 @@
+{
+  "event": "UFC 330: Makhachev vs. Machado Garry",
+  "event_date": "15 de agosto de 2026",
+  "event_date_iso": "2026-08-15",
+  "fight": {
+    "fighter_a": "Mackenzie Dern",
+    "fighter_b": "Gillian Robertson",
+    "prediction": "Gillian Robertson",
+    "confidence": 81,
+    "band": "",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 77,
+    "duration": "OVER 3.5 rounds",
+    "duration_prob": 90,
+    "raw_fighter_a": "Mackenzie Dern",
+    "raw_fighter_b": "Gillian Robertson",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mackenzie+Dern\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mackenzie Dern</a></strong>, campeona de la división y con un récord total de carrera de 16-5-0, llega a este combate arrastrando un tramo reciente irregular: 3-2-0 en sus últimas 5 peleas, con 2 derrotas incluidas en ese ciclo. Su golpeo defensivo (53/100) y el control (45/100) siguen siendo herramientas competitivas, pero la amenaza de finalización (33/100) queda por debajo de la de su rival en este análisis.\nEnfrente está <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gillian+Robertson+%28The+Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gillian Robertson</a></strong>, <strong>#5 del ranking peso paja femenino</strong>, que exhibe un total de carrera de 17-8-0 y llega en una racha perfecta de 5-0-0 en sus últimos 36 meses, sin una sola derrota en ese tramo. Su lectura estadística es contundente: control de 93/100, golpeo ofensivo de 56 y golpeo defensivo de 58, cifras que superan a las de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mackenzie+Dern\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mackenzie Dern</a> en casi todos los frentes salvo el derribo defensivo, donde <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gillian+Robertson+%28The+Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gillian Robertson</a> marca 0/100 frente al 38/100 de la campeona — un dato que abre una vía de contragolpe si <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mackenzie+Dern\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mackenzie Dern</a> logra imponer su propio derribo ofensivo (26/100). Aun así, la tendencia reciente y el dominio en el control posicional inclinan claramente el pronóstico del radar."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gillian+Robertson+%28The+Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gillian Robertson</a></strong> llega como favorita clara sobre la división.\nSu dominio en el <strong>control</strong> (93/100) marca la diferencia frente al terreno de pie.\nLa vía más probable de cierre es la <strong>decisión</strong> en los marcadores."
+    ],
+    "fight_conclusions": [
+      "Con <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gillian+Robertson+%28The+Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gillian Robertson</a> sosteniendo una racha invicta de 5-0-0 en los últimos 36 meses frente al tramo más discreto de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Mackenzie+Dern\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mackenzie Dern</a>, el radar traduce esa diferencia en una probabilidad marcada. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Gillian+Robertson+%28The+Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gillian Robertson</a> con un 81% de probabilidad. Por separado, el método más probable de finalización es Decision, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
