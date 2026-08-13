@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T17:12:51.971Z",
+  "generatedAt": "2026-08-13T08:01:31.782Z",
   "provenance": {
-    "fightersCsvSha256": "c7f5aee9d7145800ec3d3013d381f953af73348662fb5d03afb97c9dbb80e48b",
-    "upcomingEventsSha256": "d842d0b102d5e85fb5993a72fef378a68155adeb0d3bf72c17722af406566584",
-    "appVersion": "1.1.35"
+    "fightersCsvSha256": "f1ce61e300aaaf301f1d93c2c1ea229aab278d38de7d63228c9bfce76207b3a7",
+    "upcomingEventsSha256": "06fa0a3855406dca533310935f4834bcb1bb10d0e2276a95595211cd44a366af",
+    "appVersion": "1.1.36"
   },
   "summary": {
     "totalEvents": 7,
@@ -203,27 +203,96 @@
           "noData": false
         },
         {
-          "fightId": "3eae2186e8b34e2c",
-          "fighter1": "Charles Johnson (InnerG)",
-          "fighter2": "Eduardo Chapolin",
-          "fighter1Url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "fighter2Url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
-          "fighter1Image": "img/charles_johnson.png",
-          "weightClass": "Catch Weight",
+          "fightId": "7b51aa9d6b25ff06",
+          "fighter1": "Jalin Turner (The Tarantula)",
+          "fighter2": "Kaue Fernandes",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+          "fighter1Image": "img/jalin_turner.png",
+          "fighter2Image": "img/kaue_fernandes.png",
+          "weightClass": "Lightweight",
           "scheduledRounds": 3,
           "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
+            "moneyline": {
+              "pick": "Kaue Fernandes",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 52,
+              "calibratedConfidence": 68,
+              "reasoningKey": "combat_analysis.reasoning.better_recent_record",
+              "metadata": {
+                "adjustedScore1": 100.6,
+                "adjustedScore2": 93.54
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64.1,
+                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "finishRate1": 50,
+                  "finishRate2": 50
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 78,
+                "calibratedConfidence": 64.2,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 6.87
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "Double knockdown",
+                "predictionKey": "combat_analysis.special_bets.double_knockdown",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.both_knockdown_history",
+                "explanationKey": "combat_analysis.bet_explanations.double_knockdown",
+                "metadata": {
+                  "value": "MEDIUM",
+                  "valueKey": "combat_analysis.bet_values.medium",
+                  "metrics": {
+                    "f1TakedownRate": 0,
+                    "f2TakedownRate": 1.02,
+                    "f1KnockdownRate": 1,
+                    "f2KnockdownRate": 1,
+                    "f1StrikeVolume": 186,
+                    "f2StrikeVolume": 294,
+                    "f1SubRate": 0,
+                    "f2SubRate": 0,
+                    "f1FinishRate": 50,
+                    "f2FinishRate": 50,
+                    "avgFightTime": 6.87,
+                    "weightedFinishRate": 38,
+                    "weightedAvgFightTime": 6.97
+                  }
+                }
+              }
+            ]
           },
           "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
+            "winnerUrl": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
           },
           "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
+          "noData": false
         },
         {
           "fightId": "e19f213c73e28289",
@@ -502,96 +571,27 @@
           "noData": false
         },
         {
-          "fightId": "7b51aa9d6b25ff06",
-          "fighter1": "Jalin Turner (The Tarantula)",
-          "fighter2": "Kaue Fernandes",
-          "fighter1Url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
-          "fighter1Image": "img/jalin_turner.png",
-          "fighter2Image": "img/kaue_fernandes.png",
-          "weightClass": "Lightweight",
+          "fightId": "3eae2186e8b34e2c",
+          "fighter1": "Charles Johnson (InnerG)",
+          "fighter2": "Eduardo Chapolin",
+          "fighter1Url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "fighter2Url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
+          "fighter1Image": "img/charles_johnson.png",
+          "weightClass": "Catch Weight",
           "scheduledRounds": 3,
           "prediction": {
-            "moneyline": {
-              "pick": "Kaue Fernandes",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 52,
-              "calibratedConfidence": 68,
-              "reasoningKey": "combat_analysis.reasoning.better_recent_record",
-              "metadata": {
-                "adjustedScore1": 100.6,
-                "adjustedScore2": 93.54
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 87,
-                "calibratedConfidence": 64.1,
-                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "finishRate1": 50,
-                  "finishRate2": 50
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 78,
-                "calibratedConfidence": 64.2,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 6.87
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Double knockdown",
-                "predictionKey": "combat_analysis.special_bets.double_knockdown",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_knockdown_history",
-                "explanationKey": "combat_analysis.bet_explanations.double_knockdown",
-                "metadata": {
-                  "value": "MEDIUM",
-                  "valueKey": "combat_analysis.bet_values.medium",
-                  "metrics": {
-                    "f1TakedownRate": 0,
-                    "f2TakedownRate": 1.02,
-                    "f1KnockdownRate": 1,
-                    "f2KnockdownRate": 1,
-                    "f1StrikeVolume": 186,
-                    "f2StrikeVolume": 294,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 50,
-                    "f2FinishRate": 50,
-                    "avgFightTime": 6.87,
-                    "weightedFinishRate": 38,
-                    "weightedAvgFightTime": 6.97
-                  }
-                }
-              }
-            ]
+            "methods": [],
+            "durations": [],
+            "props": []
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/ec13c393d029297d",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
           },
           "contradictions": [],
-          "noData": false
+          "noData": true,
+          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "d1ccba0f234d4a95",

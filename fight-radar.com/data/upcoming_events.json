@@ -34,16 +34,16 @@
       },
       {
         "fighter1": {
-          "name": "Charles Johnson (InnerG)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "name": "Jalin Turner (The Tarantula)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Eduardo Chapolin",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
+          "name": "Kaue Fernandes",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
           "division_ranking": ""
         },
-        "weightClass": "Catch Weight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -90,16 +90,16 @@
       },
       {
         "fighter1": {
-          "name": "Jalin Turner (The Tarantula)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
+          "name": "Charles Johnson (InnerG)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Kaue Fernandes",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+          "name": "Eduardo Chapolin",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
           "division_ranking": ""
         },
-        "weightClass": "Lightweight",
+        "weightClass": "Catch Weight",
         "scheduledRounds": 3
       },
       {
