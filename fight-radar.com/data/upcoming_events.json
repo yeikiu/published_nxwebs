@@ -453,6 +453,20 @@
       },
       {
         "fighter1": {
+          "name": "Fares Ziam (The Smile Killer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Axel Sola",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Michael Page (Venom)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
           "division_ranking": ""
@@ -474,6 +488,20 @@
         "fighter2": {
           "name": "Felipe Lima (Jungle Boy)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Losene Keita (Black Panther)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Muhammad Naimov (Hillman)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -509,6 +537,20 @@
       },
       {
         "fighter1": {
+          "name": "Oumar Sy",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/46e2011d92463b7e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Modestas Bukauskas (The Baltic Gladiator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Nathaniel Wood (The Prospect)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/329e403448756217",
           "division_ranking": "8"
@@ -519,6 +561,20 @@
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nora Cornolle",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
+          "division_ranking": "13"
+        },
+        "fighter2": {
+          "name": "Klaudia Sygula",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
+          "division_ranking": "15"
+        },
+        "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
       },
       {
