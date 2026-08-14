@@ -211,13 +211,13 @@
       },
       {
         "fighter1": {
-          "name": "Roman Dolidze",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/327d5f279895110d",
+          "name": "Reinier de Ridder (RdR)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Reinier de Ridder (RdR)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
+          "name": "Roman Dolidze",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/327d5f279895110d",
           "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",

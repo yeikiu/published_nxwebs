@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T13:42:03.248Z",
+  "generatedAt": "2026-08-14T23:20:20.184Z",
   "provenance": {
     "fightersCsvSha256": "9282ca1e1412144d29ed98d3ccb6bc2f1b76eebeff98d8ed76c953bcf4a96d4a",
-    "upcomingEventsSha256": "8c2d25bdc57149b2f6b1ff5fea8186b7407ea1f0f260e41526d0dc000b664b16",
-    "appVersion": "1.1.37"
+    "upcomingEventsSha256": "6677ab82ed81800c10c25d03fe77fbf27122c7a28f6d9c7546fcf3579069d0a0",
+    "appVersion": "1.1.38"
   },
   "summary": {
     "totalEvents": 7,
@@ -932,12 +932,12 @@
         },
         {
           "fightId": "875f834a33ad6f0c",
-          "fighter1": "Roman Dolidze",
-          "fighter2": "Reinier de Ridder (RdR)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/327d5f279895110d",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
-          "fighter1Image": "img/roman_dolidze.png",
-          "fighter2Image": "img/reinier_de_ridder.png",
+          "fighter1": "Reinier de Ridder (RdR)",
+          "fighter2": "Roman Dolidze",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
+          "fighter2Url": "http://ufcstats.com/fighter-details/327d5f279895110d",
+          "fighter1Image": "img/reinier_de_ridder.png",
+          "fighter2Image": "img/roman_dolidze.png",
           "weightClass": "Light Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
@@ -962,8 +962,8 @@
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
-                  "finishRate1": 16.67,
-                  "finishRate2": 50
+                  "finishRate1": 50,
+                  "finishRate2": 16.67
                 }
               }
             ],
@@ -994,16 +994,16 @@
                   "value": "HIGH",
                   "valueKey": "combat_analysis.bet_values.high",
                   "metrics": {
-                    "f1TakedownRate": 1.65,
-                    "f2TakedownRate": 11.48,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 849,
-                    "f2StrikeVolume": 418,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.5,
-                    "f1FinishRate": 16.67,
-                    "f2FinishRate": 50,
+                    "f1TakedownRate": 11.48,
+                    "f2TakedownRate": 1.65,
+                    "f1KnockdownRate": 0.33,
+                    "f2KnockdownRate": 0,
+                    "f1StrikeVolume": 418,
+                    "f2StrikeVolume": 849,
+                    "f1SubRate": 0.5,
+                    "f2SubRate": 0,
+                    "f1FinishRate": 50,
+                    "f2FinishRate": 16.67,
                     "avgFightTime": 15.4,
                     "weightedFinishRate": 40.83,
                     "weightedAvgFightTime": 14.44
