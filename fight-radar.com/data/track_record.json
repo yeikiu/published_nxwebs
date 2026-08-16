@@ -1,22 +1,414 @@
 {
-  "generatedAt": "2026-08-15T00:16:22.619Z",
+  "generatedAt": "2026-08-16T04:41:11.179Z",
   "provenance": {
-    "appVersion": "1.1.40",
+    "appVersion": "1.1.41",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 6,
-    "totalFights": 77,
-    "abstentions": 46,
-    "winnerCorrect": 21,
-    "winnerAttempts": 31,
-    "methodCorrect": 15,
-    "methodAttempts": 29,
-    "durationCorrect": 18,
-    "durationAttempts": 31,
-    "dimensionsWithConfidence": 91
+    "totalEvents": 7,
+    "totalFights": 89,
+    "abstentions": 51,
+    "winnerCorrect": 23,
+    "winnerAttempts": 38,
+    "methodCorrect": 17,
+    "methodAttempts": 35,
+    "durationCorrect": 22,
+    "durationAttempts": 38,
+    "dimensionsWithConfidence": 111
   },
   "events": [
+    {
+      "dateKey": "15-08-2026",
+      "eventName": "UFC 330: Makhachev vs. Machado Garry",
+      "location": "Philadelphia, Pennsylvania, USA",
+      "fights": [
+        {
+          "fightId": "828134cfde6ca1b9",
+          "fightOrder": 1,
+          "fighter1": "Islam Makhachev",
+          "fighter2": "Ian Machado Garry",
+          "fighter1Url": "http://ufcstats.com/fighter-details/275aca31f61ba28c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/442c9011034ae1fd",
+          "fighter1Image": "img/islam_makhachev.png",
+          "fighter2Image": "img/ian_machado_garry.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/275aca31f61ba28c",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/275aca31f61ba28c",
+              "label": "Islam Makhachev",
+              "correct": true,
+              "rawConfidence": 77,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 82,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 69,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-07-15T17:53:56.6237+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "d5fcc9e5032d8fc6",
+          "fightOrder": 2,
+          "fighter1": "Mackenzie Dern",
+          "fighter2": "Gillian Robertson",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7447e9f28508106a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
+          "fighter1Image": "img/mackenzie_dern.png",
+          "fighter2Image": "img/gillian_robertson.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/7447e9f28508106a",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/38c7f72747f4f712",
+              "label": "Gillian Robertson",
+              "correct": false,
+              "rawConfidence": 81,
+              "calibratedConfidence": 73.1
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 90,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "7b51aa9d6b25ff06",
+          "fightOrder": 3,
+          "fighter1": "Jalin Turner",
+          "fighter2": "Kaue Fernandes",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+          "fighter1Image": "img/jalin_turner.png",
+          "fighter2Image": "img/kaue_fernandes.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
+            "resultType": "KO",
+            "round": 1,
+            "time": "0:39"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+              "label": "Kaue Fernandes",
+              "correct": false,
+              "rawConfidence": 52,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 87,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 78,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "e19f213c73e28289",
+          "fightOrder": 4,
+          "fighter1": "Dustin Stoltzfus",
+          "fighter2": "Mansur Abdul-Malik",
+          "fighter1Url": "http://ufcstats.com/fighter-details/71505842fb6455c3",
+          "fighter2Url": "http://ufcstats.com/fighter-details/841695e02c99a521",
+          "fighter1Image": "img/dustin_stoltzfus.png",
+          "fighter2Image": "img/mansur_abdul-malik.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/71505842fb6455c3",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "4:25"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/841695e02c99a521",
+              "label": "Mansur Abdul-Malik",
+              "correct": false,
+              "rawConfidence": 67,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 79,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 78,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "a355b74b554392e3",
+          "fightOrder": 5,
+          "fighter1": "Esteban Ribovics",
+          "fighter2": "Edson Barboza",
+          "fighter1Url": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+          "fighter2Url": "http://ufcstats.com/fighter-details/64a50dad704d1d49",
+          "fighter1Image": "img/esteban_ribovics.png",
+          "fighter2Image": "img/edson_barboza.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+            "resultType": "KO",
+            "round": 2,
+            "time": "1:32"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+              "label": "Esteban Ribovics",
+              "correct": true,
+              "rawConfidence": 73,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 93,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "2006f7c938d2c5a2",
+          "fightOrder": 6,
+          "fighter1": "Chidi Njokuani",
+          "fighter2": "Joel Alvarez",
+          "fighter1Url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
+          "fighter2Url": "http://ufcstats.com/fighter-details/58bbef3770bb2dfc",
+          "fighter1Image": "img/chidi_njokuani.png",
+          "fighter2Image": "img/joel_alvarez.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/58bbef3770bb2dfc",
+              "label": "Joel Alvarez",
+              "correct": false,
+              "rawConfidence": 78,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 87,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 78,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-08-06T09:26:21.908177+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "3eae2186e8b34e2c",
+          "fightOrder": 7,
+          "fighter1": "Charles Johnson",
+          "fighter2": "Eduardo Chapolin",
+          "fighter1Url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+          "fighter2Url": "http://ufcstats.com/fighter-details/62f3039da2f92a8c",
+          "fighter1Image": "img/charles_johnson.png",
+          "fighter2Image": "img/eduardo_chapolin.png",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "1:36"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "d1ccba0f234d4a95",
+          "fightOrder": 8,
+          "fighter1": "Donte Johnson",
+          "fighter2": "Eric McConico",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9508cc6184cb2450",
+          "fighter1Image": "img/donte_johnson.png",
+          "fighter2Image": "img/eric_mcconico.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:38"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "1a0fb9314db0165c",
+          "fightOrder": 9,
+          "fighter1": "Tresean Gore",
+          "fighter2": "Vicente Luque",
+          "fighter1Url": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
+          "fighter1Image": "img/tresean_gore.png",
+          "fighter2Image": "img/vicente_luque.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "297e214e6600fbf1",
+          "fightOrder": 10,
+          "fighter1": "Lucas Fernando",
+          "fighter2": "Rafael Tobias",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3df223aeaacecf3f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d6a8edb7410223a0",
+          "fighter1Image": "img/lucas_fernando_1.png",
+          "fighter2Image": "img/rafael_tobias_bipolar_1.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/3df223aeaacecf3f",
+            "resultType": "KO",
+            "round": 3,
+            "time": "1:10"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "76185b379fc01574",
+          "fightOrder": 11,
+          "fighter1": "Neil Magny",
+          "fighter2": "Ramiz Brahimaj",
+          "fighter1Url": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
+          "fighter2Url": "http://ufcstats.com/fighter-details/3d074044a33825e7",
+          "fighter1Image": "img/neil_magny.png",
+          "fighter2Image": "img/ramiz_brahimaj.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:20"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/3d074044a33825e7",
+              "label": "Ramiz Brahimaj",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 68
+            },
+            "duration": {
+              "value": "under",
+              "correct": false,
+              "rawConfidence": 80,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "90e91f6a9aa749bb",
+          "fightOrder": 12,
+          "fighter1": "Jeremiah Wells",
+          "fighter2": "Myktybek Orolbai",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d66a46de8d705353",
+          "fighter2Url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1",
+          "fighter1Image": "img/jeremiah_wells.png",
+          "fighter2Image": "img/myktybek_orolbai.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/d66a46de8d705353",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "1:24"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "08-08-2026",
       "eventName": "UFC Fight Night: Gamrot vs. Salkilld",
