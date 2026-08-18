@@ -71,63 +71,21 @@
           "ufcstats_url": "http://ufcstats.com/fighter-details/8061a3136026a673",
           "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
       },
       {
         "fighter1": {
-          "name": "Kennedy Nzechukwu (Chosen)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
+          "name": "Terrance Chatman",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23a81656507b56a3",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Shamil Gaziev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+          "name": "Anthony Wint",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b34976c022b24568",
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Wes Schultz (Party Time)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jackson McVey (The Moose)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chris Padilla (Taco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/06626b6287e1ae1e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nasrat Haqparast",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b7b84ccd221be298",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Gauge Young (Gee Money)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b2a78df161bd67f9",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Stan Dorsainvil",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5be51426ff3c1929",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -146,16 +104,30 @@
       },
       {
         "fighter1": {
-          "name": "Shanelle Dyer (The Nightmare)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cfbb3edab781dfd2",
+          "name": "Kennedy Nzechukwu (Chosen)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Elise Reed",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ac7c765882f2c68c",
+          "name": "Shamil Gaziev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
           "division_ranking": ""
         },
-        "weightClass": "Women's Strawweight",
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Chris Padilla (Taco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/06626b6287e1ae1e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nasrat Haqparast",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b7b84ccd221be298",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -174,16 +146,44 @@
       },
       {
         "fighter1": {
-          "name": "Terrance Chatman",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/23a81656507b56a3",
+          "name": "Gauge Young (Gee Money)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b2a78df161bd67f9",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Anthony Wint",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b34976c022b24568",
+          "name": "Stan Dorsainvil",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5be51426ff3c1929",
           "division_ranking": ""
         },
-        "weightClass": "Heavyweight",
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Wes Schultz (Party Time)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jackson McVey (The Moose)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Shanelle Dyer (The Nightmare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cfbb3edab781dfd2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Elise Reed",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ac7c765882f2c68c",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       }
     ],
@@ -944,5 +944,82 @@
     ],
     "ufcEventId": 1332,
     "startTime": "2026-10-17T20:00Z"
+  },
+  "24-10-2026": {
+    "date": "24-10-2026",
+    "name": "UFC 333: Volkanovski vs. Evloev",
+    "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Alexander Volkanovski (The Great)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e1248941344b3288",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Movsar Evloev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/76e2870ffafbe38f",
+          "division_ranking": "1"
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Petr Yan (No Mercy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d661ce4da776fc20",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Merab Dvalishvili (The Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c03520b5c88ed6b4",
+          "division_ranking": "1"
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Lone'er Kavanagh",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Ramazan Temirov (Temurlan)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
+          "division_ranking": "10"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Dominick Reyes (The Devastator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+          "division_ranking": "10"
+        },
+        "fighter2": {
+          "name": "Azamat Murzakanov (The Professional)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
+          "division_ranking": "8"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Grant Dawson (KGD)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Nurullo Aliev (Tajik Eagle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      }
+    ]
   }
 }
