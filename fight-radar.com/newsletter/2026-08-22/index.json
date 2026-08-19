@@ -1,0 +1,74 @@
+{
+  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
+  "event_date": "22 de agosto de 2026",
+  "event_date_iso": "2026-08-22",
+  "generated_at": "2026-08-19T08:03:09Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Serghei Spivac",
+      "fighter_b": "Vitor Petrino",
+      "slug_a": "serghei-spivac",
+      "slug_b": "vitor-petrino",
+      "files": {
+        "es": "newsletter/2026-08-22/es/newsletter_serghei-spivac_vs_vitor-petrino.html",
+        "en": "newsletter/2026-08-22/en/newsletter_serghei-spivac_vs_vitor-petrino.html",
+        "pt": "newsletter/2026-08-22/pt/newsletter_serghei-spivac_vs_vitor-petrino.html",
+        "fr": "newsletter/2026-08-22/fr/newsletter_serghei-spivac_vs_vitor-petrino.html"
+      }
+    },
+    {
+      "fighter_a": "Reinier de Ridder",
+      "fighter_b": "Roman Dolidze",
+      "slug_a": "reinier-de-ridder",
+      "slug_b": "roman-dolidze",
+      "files": {
+        "es": "newsletter/2026-08-22/es/newsletter_reinier-de-ridder_vs_roman-dolidze.html",
+        "en": "newsletter/2026-08-22/en/newsletter_reinier-de-ridder_vs_roman-dolidze.html",
+        "pt": "newsletter/2026-08-22/pt/newsletter_reinier-de-ridder_vs_roman-dolidze.html",
+        "fr": "newsletter/2026-08-22/fr/newsletter_reinier-de-ridder_vs_roman-dolidze.html"
+      }
+    },
+    {
+      "fighter_a": "MarQuel Mederos",
+      "fighter_b": "Mason Jones",
+      "slug_a": "marquel-mederos",
+      "slug_b": "mason-jones",
+      "files": {
+        "es": "newsletter/2026-08-22/es/newsletter_marquel-mederos_vs_mason-jones.html",
+        "en": "newsletter/2026-08-22/en/newsletter_marquel-mederos_vs_mason-jones.html",
+        "pt": "newsletter/2026-08-22/pt/newsletter_marquel-mederos_vs_mason-jones.html",
+        "fr": "newsletter/2026-08-22/fr/newsletter_marquel-mederos_vs_mason-jones.html"
+      }
+    },
+    {
+      "fighter_a": "Kennedy Nzechukwu",
+      "fighter_b": "Shamil Gaziev",
+      "slug_a": "kennedy-nzechukwu",
+      "slug_b": "shamil-gaziev",
+      "files": {
+        "es": "newsletter/2026-08-22/es/newsletter_kennedy-nzechukwu_vs_shamil-gaziev.html",
+        "en": "newsletter/2026-08-22/en/newsletter_kennedy-nzechukwu_vs_shamil-gaziev.html",
+        "pt": "newsletter/2026-08-22/pt/newsletter_kennedy-nzechukwu_vs_shamil-gaziev.html",
+        "fr": "newsletter/2026-08-22/fr/newsletter_kennedy-nzechukwu_vs_shamil-gaziev.html"
+      }
+    },
+    {
+      "fighter_a": "Chris Padilla",
+      "fighter_b": "Nasrat Haqparast",
+      "slug_a": "chris-padilla",
+      "slug_b": "nasrat-haqparast",
+      "files": {
+        "es": "newsletter/2026-08-22/es/newsletter_chris-padilla_vs_nasrat-haqparast.html",
+        "en": "newsletter/2026-08-22/en/newsletter_chris-padilla_vs_nasrat-haqparast.html",
+        "pt": "newsletter/2026-08-22/pt/newsletter_chris-padilla_vs_nasrat-haqparast.html",
+        "fr": "newsletter/2026-08-22/fr/newsletter_chris-padilla_vs_nasrat-haqparast.html"
+      }
+    }
+  ]
+}

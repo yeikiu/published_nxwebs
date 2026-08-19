@@ -76,13 +76,13 @@
       },
       {
         "fighter1": {
-          "name": "Terrance Chatman",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/23a81656507b56a3",
+          "name": "Anthony Wint",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b34976c022b24568",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Anthony Wint",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b34976c022b24568",
+          "name": "Terrance Chatman",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23a81656507b56a3",
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
@@ -281,20 +281,6 @@
       },
       {
         "fighter1": {
-          "name": "Jack Jenkins (Phar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a9da3158dd2c2b5a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sean Woodson (The Sniper)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Rei Tsuruya",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
           "division_ranking": ""
@@ -309,6 +295,20 @@
       },
       {
         "fighter1": {
+          "name": "Jack Jenkins (Phar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a9da3158dd2c2b5a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sean Woodson (The Sniper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Xiong Jingnan (The Panda)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2cdb479a0ef0ee1d",
           "division_ranking": ""
@@ -319,6 +319,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bilal Hasan",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nilson Rojas",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bf60dd3256801649",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       }
     ],
@@ -824,6 +838,132 @@
       }
     ]
   },
+  "26-09-2026": {
+    "date": "26-09-2026",
+    "name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Raul Rosas Jr. (El Nino Problema)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Raoni Barcelos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
+          "division_ranking": "13"
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 5
+      }
+    ]
+  },
+  "03-10-2026": {
+    "date": "03-10-2026",
+    "name": "UFC 332",
+    "location": "Salt Lake City, Utah, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Deiveson Figueiredo (Deus da Guerra)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/aa72b0f831d0bfe5",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Payton Talbott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e743a33d56bdaa4",
+          "division_ranking": "11"
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Johnny Walker",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mick Parkin",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
+          "division_ranking": "14"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ateba Gautier (The Storm)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2f815ed5f8278ba6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Roman Kopylov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Imanol Rodriguez (Himan)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6e8349a0a0476d60",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alden Coria (Cobra)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Damian Pinas (The Baba Yaga)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andrey Pulyaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/22e07d3da1aa3475",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Court McGee (The Crusher)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/523fa774700d7d3f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Eric Nolan (Nightime)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      }
+    ]
+  },
   "17-10-2026": {
     "date": "17-10-2026",
     "name": "UFC Fight Night: Buckley vs. Malott",
@@ -1020,6 +1160,8 @@
         "weightClass": "Lightweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1336,
+    "startTime": "2026-10-24T14:00Z"
   }
 }

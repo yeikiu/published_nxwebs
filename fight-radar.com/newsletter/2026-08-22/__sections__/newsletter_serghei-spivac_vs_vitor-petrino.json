@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
+  "event_date": "22 de agosto de 2026",
+  "event_date_iso": "2026-08-22",
+  "fight": {
+    "fighter_a": "Serghei Spivac",
+    "fighter_b": "Vitor Petrino",
+    "prediction": "Vitor Petrino",
+    "confidence": 79,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 87,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 80,
+    "raw_fighter_a": "Serghei Spivac",
+    "raw_fighter_b": "Vitor Petrino",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Serghei+Spivac+%28Polar+Bear%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Serghei Spivac</a></strong>, <strong>#6 del ranking peso pesado</strong>, llega a este duelo divisional con un récord total de carrera de 18-6-0, pero su tramo reciente preocupa: 2-3-0 en sus últimas 5 peleas, con tres derrotas incluidas en ese lapso. Su fortaleza sigue siendo el control (74/100), un área donde puede incomodar a cualquier rival, aunque su derribo defensivo marca 0/100, una cifra que expone una vulnerabilidad real si el enfrentamiento se traslada al suelo en su contra.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Vitor+Petrino\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vitor Petrino</a></strong>, <strong>#11 del ranking peso pesado</strong>, presenta un cuadro más sólido: 14-2-0 en su récord total de carrera y una forma reciente de 5-2-0 en 7 peleas, con dos derrotas en ese tramo pero una racha positiva en sus últimos tres enfrentamientos. Sus números en el radar respaldan la ventaja: golpeo defensivo de 55, derribo defensivo de 100 y control de 85, un conjunto que sugiere capacidad tanto para sostener el ritmo como para neutralizar el juego de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Serghei+Spivac+%28Polar+Bear%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Serghei Spivac</a> en el suelo."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Vitor+Petrino\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vitor Petrino</a></strong> llega como favorito claro con mejor forma reciente en peso pesado.\nLa clave está en el control: <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Vitor+Petrino\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vitor Petrino</a> domina ese renglón con 85/100.\nSe espera un desenlace por <strong>KO/TKO</strong>, sin importar quién lo ejecute."
+    ],
+    "fight_conclusions": [
+      "Con el impulso reciente y las métricas de control a su favor, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Vitor+Petrino\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vitor Petrino</a> se perfila como el nombre con más papeletas para imponer el ritmo del enfrentamiento. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Vitor+Petrino\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Vitor Petrino</a> con un 79% de probabilidad. Por separado, el método más probable de finalización es <strong>KO/TKO</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
+  "event_date": "22 de agosto de 2026",
+  "event_date_iso": "2026-08-22",
+  "fight": {
+    "fighter_a": "MarQuel Mederos",
+    "fighter_b": "Mason Jones",
+    "prediction": "Mason Jones",
+    "confidence": 80,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 77,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "MarQuel Mederos",
+    "raw_fighter_b": "Mason Jones",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=MarQuel+Mederos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">MarQuel Mederos</a></strong> llega a este combate sin ranking oficial en el top 15, con un récord total de carrera de 11-1-1 y una racha reciente sólida: 3-0-1 en sus últimas 4 peleas de los últimos 36 meses, tramo en el que destaca un empate que conviene no pasar por alto. Su fortaleza más clara está en el derribo defensivo, con un 78 en el radar, complementado por un golpeo ofensivo de 58 y un golpeo defensivo de 52. Sin embargo, su producción ofensiva en el suelo es prácticamente nula (derribo ofensivo de apenas 8) y su amenaza de finalización marca 0, lo que sugiere que buscará imponer condiciones más en el terreno del boxeo que en la lucha.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mason+Jones+%28The+Dragon%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mason Jones</a></strong>, también sin ranking oficial en el top 15, exhibe un récord total de carrera de 18-2-0 (1 NC) y una forma reciente perfecta: 3-0-0 en sus últimas 3 peleas dentro de los últimos 36 meses. El radar lo pinta como un peleador integral: control de 78, derribo ofensivo de 71 y derribo defensivo de 63, cifras que superan con claridad a las de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=MarQuel+Mederos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">MarQuel Mederos</a> en el apartado de lucha. Su amenaza de finalización de 33 también le da un recurso adicional que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=MarQuel+Mederos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">MarQuel Mederos</a> no posee. Si logra imponer su juego de control, la pelea podría inclinarse marcadamente a su favor."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mason+Jones+%28The+Dragon%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mason Jones</a></strong> llega como <strong>favorito claro</strong>, apoyado en un impecable 3-0-0 reciente.\nLa ventaja decisiva está en el suelo: <strong>derribo ofensivo de 71</strong> y <strong>control de 78</strong> frente a las cifras mucho más bajas de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=MarQuel+Mederos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">MarQuel Mederos</a>.\nEl <strong>método más probable de finalización es decisión</strong>, con la pelea limitada a 3 asaltos."
+    ],
+    "fight_conclusions": [
+      "Este duelo entre dos peleadores fuera del top 15 promete un contraste estilístico claro entre el boxeo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=MarQuel+Mederos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">MarQuel Mederos</a> y el control de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mason+Jones+%28The+Dragon%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mason Jones</a>. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mason+Jones+%28The+Dragon%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mason Jones</a> con un 80% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
