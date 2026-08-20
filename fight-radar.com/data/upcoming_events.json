@@ -497,6 +497,20 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Delphine Benouaich",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3138df4d117ebc12",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sofia Montenegro",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8b1b051038354655",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1327,
@@ -642,6 +656,20 @@
         "fighter2": {
           "name": "Marwan Rahiki (Freaky)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ramiro Jimenez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1c02b964466c10e4",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Rodrigo Vera (El Gato Loco)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2b266e623e20737a",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -1080,6 +1108,20 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Julien Leblanc",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Gilbert Urbina (The RGV Bad Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b12fb759e02378de",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1332,
@@ -1134,6 +1176,20 @@
       },
       {
         "fighter1": {
+          "name": "Arnold Allen (Almighty)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/040a74bb0a465c54",
+          "division_ranking": "7"
+        },
+        "fighter2": {
+          "name": "Aaron Pico",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+          "division_ranking": "12"
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Dominick Reyes (The Devastator)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
           "division_ranking": "10"
@@ -1142,6 +1198,34 @@
           "name": "Azamat Murzakanov (The Professional)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
           "division_ranking": "8"
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abus Magomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Cam Rowston",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nikita Krylov (The Miner)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Abdul Rakhman Yakhyaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+          "division_ranking": ""
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
