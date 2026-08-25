@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T09:31:05.283Z",
+  "generatedAt": "2026-08-25T23:02:01.938Z",
   "provenance": {
-    "fightersCsvSha256": "a1715d982fb54d30cde6baecbe801b860f7b41b7f88f1b74c5f1f9f2f54ed361",
-    "upcomingEventsSha256": "9f3a8df79afd021e689daac0e902b15fdf8eed9ef504a96014bacb63de06dd11",
-    "appVersion": "1.1.46"
+    "fightersCsvSha256": "813a87057f31f5450deec26665e2fa23dd9847610c88f27152587a7e1bd3dff9",
+    "upcomingEventsSha256": "15cc9ca82fa84e826282e81219a766396735d7947e30ca3d6a658b9a6aedca24",
+    "appVersion": "1.1.48"
   },
   "summary": {
-    "totalEvents": 8,
-    "totalFights": 75,
+    "totalEvents": 9,
+    "totalFights": 78,
     "predictedFights": 45,
-    "noDataFights": 30
+    "noDataFights": 33
   },
   "events": [
     {
@@ -387,12 +387,12 @@
           "noData": false
         },
         {
-          "fightId": "7ace11e87c0eddb7",
+          "fightId": "08d02cc9a22e3446",
           "fighter1": "Liu Ce",
-          "fighter2": "Junior Tafa (The Juggernaut)",
+          "fighter2": "Levi Rodrigues Jr. (Baby Monster)",
           "fighter1Url": "http://ufcstats.com/fighter-details/a9936818d709e2d7",
-          "fighter2Url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
-          "fighter2Image": "img/junior_tafa.png",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9ac4e43ed56429ed",
+          "fighter2Image": "img/levi_rodrigues_jr_baby_monster.png",
           "weightClass": "Light Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
@@ -711,7 +711,7 @@
         {
           "fightId": "715d3cce0ce4146c",
           "fighter1": "Ding Meng",
-          "fighter2": "Cameron Nelson",
+          "fighter2": "Cam Nelson",
           "fighter1Url": "http://ufcstats.com/fighter-details/e0664abaa023fd6f",
           "fighter2Url": "http://ufcstats.com/fighter-details/34d4cae19105eb68",
           "fighter1Image": "img/ding_meng.png",
@@ -1470,6 +1470,28 @@
           "fighter1Url": "http://ufcstats.com/fighter-details/3138df4d117ebc12",
           "fighter2Url": "http://ufcstats.com/fighter-details/8b1b051038354655",
           "weightClass": "Women's Strawweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "e423581b7d530f26",
+          "fighter1": "Michael Aljarouj",
+          "fighter2": "Fabia Sintes",
+          "fighter1Url": "http://ufcstats.com/fighter-details/22e3458965d5d08a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9911989cf48b195d",
+          "weightClass": "Flyweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -4212,6 +4234,30 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "8fd861a00ccdfb84",
+          "fighter1": "Chad Anheliger (The Monster)",
+          "fighter2": "Steven Koslow (Obi Won Shinobi The Pillow)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
+          "fighter2Url": "http://ufcstats.com/fighter-details/84512339473dd300",
+          "fighter1Image": "img/chad_anheliger.png",
+          "fighter2Image": "img/steven_koslow_obi_won_shinobi_the_pillow.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         }
       ]
     },
@@ -4874,6 +4920,36 @@
           },
           "contradictions": [],
           "noData": false
+        }
+      ]
+    },
+    {
+      "dateKey": "31-10-2026",
+      "eventName": "UFC Fight Night",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fightId": "f7c1cf9c3c1b36ee",
+          "fighter1": "Nick Klein (Blue Collar)",
+          "fighter2": "Joe Kropschot",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
+          "fighter1Image": "img/nick_klein.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     }
