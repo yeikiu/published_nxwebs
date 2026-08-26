@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-25T23:02:01.938Z",
+  "generatedAt": "2026-08-26T13:06:34.375Z",
   "provenance": {
-    "fightersCsvSha256": "813a87057f31f5450deec26665e2fa23dd9847610c88f27152587a7e1bd3dff9",
-    "upcomingEventsSha256": "15cc9ca82fa84e826282e81219a766396735d7947e30ca3d6a658b9a6aedca24",
+    "fightersCsvSha256": "7d43d6c95e28e542ef4da732378d48a679ab80f714bd10243a7b9c02b611e933",
+    "upcomingEventsSha256": "7fc82e9aea53683d2055abba24e1c375538413947aac091df90f520da763c9dc",
     "appVersion": "1.1.48"
   },
   "summary": {
-    "totalEvents": 9,
-    "totalFights": 78,
-    "predictedFights": 45,
+    "totalEvents": 10,
+    "totalFights": 79,
+    "predictedFights": 46,
     "noDataFights": 33
   },
   "events": [
@@ -2047,30 +2047,6 @@
           "noData": false
         },
         {
-          "fightId": "f03db07f84634d2b",
-          "fighter1": "Kelvin Gastelum",
-          "fighter2": "Yousri Belgaroui",
-          "fighter1Url": "http://ufcstats.com/fighter-details/8c0580d4fff106c1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
-          "fighter1Image": "img/kelvin_gastelum.png",
-          "fighter2Image": "img/yousri_belgaroui.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
           "fightId": "e24d29dd07e41fca",
           "fighter1": "Ramiro Jimenez",
           "fighter2": "Rodrigo Vera (El Gato Loco)",
@@ -2208,6 +2184,30 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "9f12d1b78da5a428",
+          "fighter1": "Yousri Belgaroui",
+          "fighter2": "Djorden Santos (Shakur)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+          "fighter2Url": "http://ufcstats.com/fighter-details/312f7d7b2b2f7de4",
+          "fighter1Image": "img/yousri_belgaroui.png",
+          "fighter2Image": "img/djorden_santos.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         }
       ]
     },
@@ -4950,6 +4950,105 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "missing_fighter"
+        }
+      ]
+    },
+    {
+      "dateKey": "07-11-2026",
+      "eventName": "UFC Fight Night: Bonfim vs. Brady",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fightId": "1496ad0f649dea71",
+          "fighter1": "Gabriel Bonfim (Marretinha)",
+          "fighter2": "Sean Brady",
+          "fighter1Url": "http://ufcstats.com/fighter-details/01641ba5df0c69b0",
+          "fighter2Url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
+          "fighter1Image": "img/gabriel_bonfim.png",
+          "fighter2Image": "img/sean_brady.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "moneyline": {
+              "pick": "Sean Brady",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 51,
+              "calibratedConfidence": 68,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 126.63,
+                "adjustedScore2": 119.72
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 77,
+                "calibratedConfidence": 64.1,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 33.33,
+                  "finishRate2": 40
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 3.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 90,
+                "calibratedConfidence": 80.4,
+                "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
+                "metadata": {
+                  "avgTime": 13.93
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "OVER 100 strikes per fighter",
+                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
+                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 3.32,
+                    "f2TakedownRate": 7.46,
+                    "f1KnockdownRate": 0.17,
+                    "f2KnockdownRate": 0,
+                    "f1StrikeVolume": 784,
+                    "f2StrikeVolume": 536,
+                    "f1SubRate": 0.5,
+                    "f2SubRate": 0.8,
+                    "f1FinishRate": 33.33,
+                    "f2FinishRate": 40,
+                    "avgFightTime": 13.93,
+                    "weightedFinishRate": 28.57,
+                    "weightedAvgFightTime": 13.94
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
         }
       ]
     }

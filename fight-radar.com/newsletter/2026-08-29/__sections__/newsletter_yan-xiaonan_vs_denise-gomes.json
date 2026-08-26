@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Nurmagomedov vs. Song",
+  "event_date": "29 de agosto de 2026",
+  "event_date_iso": "2026-08-29",
+  "fight": {
+    "fighter_a": "Yan Xiaonan",
+    "fighter_b": "Denise Gomes",
+    "prediction": "Denise Gomes",
+    "confidence": 79,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 77,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 93,
+    "raw_fighter_a": "Yan Xiaonan",
+    "raw_fighter_b": "Denise Gomes",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yan+Xiaonan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yan Xiaonan</a></strong>, <strong>#4 del ranking peso paja femenino</strong>, acumula un récord total de carrera de 19-5-0 (1 NC), una trayectoria extensa que la mantiene entre las contendientes de referencia de la división. Sin embargo, su forma reciente preocupa: en los últimos 36 meses su registro es de 1-2-0 en 3 peleas, con derrotas el 12-04-2025 y el 13-04-2024, y una única victoria el 23-11-2024. Es una racha que contrasta con el peso histórico de su carrera.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a></strong>, <strong>#14 del ranking peso paja femenino</strong>, presenta un récord total de 12-3-0 y, sobre todo, una racha mucho más sólida en el mismo periodo: 4-1-0 en 5 peleas en los últimos 36 meses, con victorias el 08-11-2025, el 17-05-2025, el 09-11-2024 y el 08-06-2024, y solo una derrota el 04-11-2023. Estadísticamente, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a> domina el apartado de control con 52 frente al 11 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yan+Xiaonan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yan Xiaonan</a>, y también supera en amenaza de finalización (25 contra 0). <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yan+Xiaonan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yan Xiaonan</a>, por su parte, conserva una ventaja marcada en el derribo ofensivo (100 frente a 35), pero la defensa de derribo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a> (71) y su golpeo defensivo (49) sugieren que puede neutralizar ese recurso y sostener el ritmo durante las tres rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a></strong> llega como favorita clara del radar con un <strong>79%</strong> de probabilidad de imponerse en este combate.\nEl derribo ofensivo de <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yan+Xiaonan\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yan Xiaonan</a></strong> (100) se topa con una defensa de derribo que en <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a> marca 71, uno de los puntos clave del duelo.\nEl desenlace más probable apunta a que la pelea llegue a las tarjetas, con la <strong>decisión</strong> como método dominante, sin importar quién gane."
+    ],
+    "fight_conclusions": [
+      "La combinación de forma reciente, control y resistencia defensiva inclina claramente el análisis. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Denise+Gomes+%28Dee%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Denise Gomes</a> con un 79% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

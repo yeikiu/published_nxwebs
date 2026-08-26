@@ -1,0 +1,86 @@
+{
+  "event": "UFC Fight Night: Nurmagomedov vs. Song",
+  "event_date": "29 de agosto de 2026",
+  "event_date_iso": "2026-08-29",
+  "generated_at": "2026-08-26T13:08:55Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Umar Nurmagomedov",
+      "fighter_b": "Song Yadong",
+      "slug_a": "umar-nurmagomedov",
+      "slug_b": "song-yadong",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_umar-nurmagomedov_vs_song-yadong.html",
+        "en": "newsletter/2026-08-29/en/newsletter_umar-nurmagomedov_vs_song-yadong.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_umar-nurmagomedov_vs_song-yadong.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_umar-nurmagomedov_vs_song-yadong.html"
+      }
+    },
+    {
+      "fighter_a": "Yan Xiaonan",
+      "fighter_b": "Denise Gomes",
+      "slug_a": "yan-xiaonan",
+      "slug_b": "denise-gomes",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_yan-xiaonan_vs_denise-gomes.html",
+        "en": "newsletter/2026-08-29/en/newsletter_yan-xiaonan_vs_denise-gomes.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_yan-xiaonan_vs_denise-gomes.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_yan-xiaonan_vs_denise-gomes.html"
+      }
+    },
+    {
+      "fighter_a": "Aoriqileng",
+      "fighter_b": "Kai Asakura",
+      "slug_a": "aoriqileng",
+      "slug_b": "kai-asakura",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_aoriqileng_vs_kai-asakura.html",
+        "en": "newsletter/2026-08-29/en/newsletter_aoriqileng_vs_kai-asakura.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_aoriqileng_vs_kai-asakura.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_aoriqileng_vs_kai-asakura.html"
+      }
+    },
+    {
+      "fighter_a": "Alex Perez",
+      "fighter_b": "Sumudaerji",
+      "slug_a": "alex-perez",
+      "slug_b": "sumudaerji",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_alex-perez_vs_sumudaerji.html",
+        "en": "newsletter/2026-08-29/en/newsletter_alex-perez_vs_sumudaerji.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_alex-perez_vs_sumudaerji.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_alex-perez_vs_sumudaerji.html"
+      }
+    },
+    {
+      "fighter_a": "Rei Tsuruya",
+      "fighter_b": "Kevin Borjas",
+      "slug_a": "rei-tsuruya",
+      "slug_b": "kevin-borjas",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_rei-tsuruya_vs_kevin-borjas.html",
+        "en": "newsletter/2026-08-29/en/newsletter_rei-tsuruya_vs_kevin-borjas.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_rei-tsuruya_vs_kevin-borjas.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_rei-tsuruya_vs_kevin-borjas.html"
+      }
+    },
+    {
+      "fighter_a": "Jack Jenkins",
+      "fighter_b": "Sean Woodson",
+      "slug_a": "jack-jenkins",
+      "slug_b": "sean-woodson",
+      "files": {
+        "es": "newsletter/2026-08-29/es/newsletter_jack-jenkins_vs_sean-woodson.html",
+        "en": "newsletter/2026-08-29/en/newsletter_jack-jenkins_vs_sean-woodson.html",
+        "pt": "newsletter/2026-08-29/pt/newsletter_jack-jenkins_vs_sean-woodson.html",
+        "fr": "newsletter/2026-08-29/fr/newsletter_jack-jenkins_vs_sean-woodson.html"
+      }
+    }
+  ]
+}
