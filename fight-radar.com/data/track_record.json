@@ -1,22 +1,422 @@
 {
-  "generatedAt": "2026-08-26T14:57:04.037Z",
+  "generatedAt": "2026-08-29T16:38:47.332Z",
   "provenance": {
-    "appVersion": "1.1.49",
+    "appVersion": "1.1.50",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 8,
-    "totalFights": 102,
-    "abstentions": 58,
-    "winnerCorrect": 26,
-    "winnerAttempts": 43,
-    "methodCorrect": 19,
-    "methodAttempts": 41,
-    "durationCorrect": 24,
-    "durationAttempts": 43,
-    "dimensionsWithConfidence": 127
+    "totalEvents": 9,
+    "totalFights": 115,
+    "abstentions": 65,
+    "winnerCorrect": 31,
+    "winnerAttempts": 49,
+    "methodCorrect": 21,
+    "methodAttempts": 47,
+    "durationCorrect": 26,
+    "durationAttempts": 49,
+    "dimensionsWithConfidence": 145
   },
   "events": [
+    {
+      "dateKey": "29-08-2026",
+      "eventName": "UFC Fight Night: Nurmagomedov vs. Song",
+      "location": "Shanghai, China",
+      "fights": [
+        {
+          "fightId": "fdf5e907273eeb6f",
+          "fightOrder": 1,
+          "fighter1": "Song Yadong",
+          "fighter2": "Umar Nurmagomedov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/efb96bf3e9ada36f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
+          "fighter1Image": "img/song_yadong.png",
+          "fighter2Image": "img/umar_nurmagomedov.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/efb96bf3e9ada36f",
+            "resultType": "KO",
+            "round": 2,
+            "time": "1:48"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
+              "label": "Umar Nurmagomedov",
+              "correct": false,
+              "rawConfidence": 73,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 93,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "92034c98f8854fd8",
+          "fightOrder": 2,
+          "fighter1": "Denise Gomes",
+          "fighter2": "Yan Xiaonan",
+          "fighter1Url": "http://ufcstats.com/fighter-details/cffb87059e645bd1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c41d426cc7326d1b",
+          "fighter1Image": "img/denise_gomes.png",
+          "fighter2Image": "img/yan_xiaonan.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/cffb87059e645bd1",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:49"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/cffb87059e645bd1",
+              "label": "Denise Gomes",
+              "correct": true,
+              "rawConfidence": 79,
+              "calibratedConfidence": 68.9
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 93,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "2fa7517f292c6dd1",
+          "fightOrder": 3,
+          "fighter1": "Kai Asakura",
+          "fighter2": "Aoriqileng",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d33da8a3d82bdb62",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7d420039bbfe7c1a",
+          "fighter1Image": "img/kai_asakura.png",
+          "fighter2Image": "img/aoriqileng.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/d33da8a3d82bdb62",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:34"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/d33da8a3d82bdb62",
+              "label": "Kai Asakura",
+              "correct": true,
+              "rawConfidence": 65,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 89,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T17:53:56.6237+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bc5651bdfc9b7d85",
+          "fightOrder": 4,
+          "fighter1": "Sumudaerji",
+          "fighter2": "Alex Perez",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+          "fighter1Image": "img/sumudaerji.png",
+          "fighter2Image": "img/alex_perez.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+              "label": "Sumudaerji",
+              "correct": true,
+              "rawConfidence": 51,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 77,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "08d02cc9a22e3446",
+          "fightOrder": 5,
+          "fighter1": "Liu Ce",
+          "fighter2": "Levi Rodrigues Jr.",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a9936818d709e2d7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9ac4e43ed56429ed",
+          "fighter1Image": "img/liu_ce_the_oriental_dragon.png",
+          "fighter2Image": "img/levi_rodrigues_jr_baby_monster.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/a9936818d709e2d7",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:26"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "3df6d3fd6c9c9694",
+          "fightOrder": 6,
+          "fighter1": "Bilal Hasan",
+          "fighter2": "Nilson Rojas",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+          "fighter2Url": "http://ufcstats.com/fighter-details/bf60dd3256801649",
+          "fighter1Image": "img/bilal_hasan_the_indoninja.png",
+          "fighter2Image": "img/nilson_rojas_el_rayo.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+            "resultType": "KO",
+            "round": 2,
+            "time": "2:28"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "cee082d78a77f135",
+          "fightOrder": 7,
+          "fighter1": "Andre Lima",
+          "fighter2": "Namsrai Batbayar",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e1f8beeb6d2d871a",
+          "fighter1Image": "img/andre_lima.png",
+          "fighter2Image": "img/namsrai_batbayar_steppe_warrior_1.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "3:03"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "1b55edcf2fe8cf4d",
+          "fightOrder": 8,
+          "fighter1": "Rei Tsuruya",
+          "fighter2": "Kevin Borjas",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
+          "fighter2Url": "http://ufcstats.com/fighter-details/34b96d52db1d26e6",
+          "fighter1Image": "img/rei_tsuruya.png",
+          "fighter2Image": "img/kevin_borjas.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "4:14"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
+              "label": "Rei Tsuruya",
+              "correct": true,
+              "rawConfidence": 64,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 73,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-07-15T13:27:06.2348+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "d8499bf46eadf653",
+          "fightOrder": 9,
+          "fighter1": "Sean Woodson",
+          "fighter2": "Jack Jenkins",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a9da3158dd2c2b5a",
+          "fighter1Image": "img/sean_woodson.png",
+          "fighter2Image": "img/jack_jenkins.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
+              "label": "Sean Woodson",
+              "correct": true,
+              "rawConfidence": 56,
+              "calibratedConfidence": 68
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 75,
+              "calibratedConfidence": 64.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 93,
+              "calibratedConfidence": 80.4
+            }
+          },
+          "pickedAt": "2026-08-04T14:00:04.224943+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "420de1ed0be8a997",
+          "fightOrder": 10,
+          "fighter1": "Francesco Nuzzi",
+          "fighter2": "Xiao Long",
+          "fighter1Url": "http://ufcstats.com/fighter-details/874cfc98877daecd",
+          "fighter2Url": "http://ufcstats.com/fighter-details/86bace9e4ad85542",
+          "fighter1Image": "img/francesco_nuzzi_berserker.png",
+          "fighter2Image": "img/xiao_long.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/874cfc98877daecd",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "fc433c7b5360765d",
+          "fightOrder": 11,
+          "fighter1": "Hector Santiago",
+          "fighter2": "Lawrence Lui",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8e4902b4a8045070",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a1ad35b98a9136e5",
+          "fighter1Image": "img/hector_santiago.png",
+          "fighter2Image": "img/lawrence_lui_lok_yin.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/8e4902b4a8045070",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:53"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "66d8bed46a383800",
+          "fightOrder": 12,
+          "fighter1": "Julia Polastri",
+          "fighter2": "Xiong Jingnan",
+          "fighter1Url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2cdb479a0ef0ee1d",
+          "fighter1Image": "img/julia_polastri.png",
+          "fighter2Image": "img/xiong_jingnan_the_panda.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:06"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "715d3cce0ce4146c",
+          "fightOrder": 13,
+          "fighter1": "Cam Nelson",
+          "fighter2": "Ding Meng",
+          "fighter1Url": "http://ufcstats.com/fighter-details/34d4cae19105eb68",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e0664abaa023fd6f",
+          "fighter1Image": "img/cam_nelson.png",
+          "fighter2Image": "img/ding_meng.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/34d4cae19105eb68",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "22-08-2026",
       "eventName": "UFC Fight Night: Hernandez vs. Rodrigues",
@@ -170,7 +570,7 @@
               "calibratedConfidence": 80.4
             }
           },
-          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
+          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
           "abstained": false
         },
         {
@@ -315,7 +715,7 @@
               "calibratedConfidence": 64.2
             }
           },
-          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
+          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
           "abstained": false
         },
         {
