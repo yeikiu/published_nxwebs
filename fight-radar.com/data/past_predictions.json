@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T16:36:43.783Z",
+  "generatedAt": "2026-08-30T08:01:20.169Z",
   "globalStats": {
     "totalFights": 1554,
-    "winnerCorrect": 480,
-    "winnerAttempts": 711,
+    "winnerCorrect": 481,
+    "winnerAttempts": 712,
     "methodCorrect": 422,
-    "methodAttempts": 704,
+    "methodAttempts": 705,
     "durationCorrect": 531,
     "durationAttempts": 737,
     "noHistoryFights": 785,
-    "evenMatchupFights": 31,
+    "evenMatchupFights": 30,
     "nonOfficialFights": 27
   },
   "events": [
@@ -163,6 +163,7 @@
         {
           "fighter1": "Liu Ce (The Oriental Dragon)",
           "fighter2": "Levi Rodrigues Jr. (Baby Monster)",
+          "fighter1Image": "img/liu_ce_the_oriental_dragon.png",
           "fighter2Image": "img/levi_rodrigues_jr_baby_monster.png",
           "weightClass": "Light_Heavyweight",
           "scheduledRounds": 3,
@@ -180,6 +181,8 @@
         {
           "fighter1": "Bilal Hasan (The IndoNinja)",
           "fighter2": "Nilson Rojas (El Rayo)",
+          "fighter1Image": "img/bilal_hasan_the_indoninja.png",
+          "fighter2Image": "img/nilson_rojas_el_rayo.png",
           "weightClass": "Flyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -196,6 +199,7 @@
         {
           "fighter1": "Namsrai Batbayar (Steppe Warrior)",
           "fighter2": "Andre Lima (Mascote)",
+          "fighter1Image": "img/namsrai_batbayar_steppe_warrior_1.png",
           "fighter2Image": "img/andre_lima.png",
           "weightClass": "Flyweight",
           "scheduledRounds": 3,
@@ -288,6 +292,7 @@
           "fighter1": "Xiao Long",
           "fighter2": "Francesco Nuzzi (Berserker)",
           "fighter1Image": "img/xiao_long.png",
+          "fighter2Image": "img/francesco_nuzzi_berserker.png",
           "weightClass": "Bantamweight",
           "scheduledRounds": 3,
           "actual": {
@@ -305,6 +310,7 @@
           "fighter1": "Lawrence Lui (Lok Yin)",
           "fighter2": "Hector Santiago",
           "fighter1Image": "img/lawrence_lui_lok_yin.png",
+          "fighter2Image": "img/hector_santiago.png",
           "weightClass": "Bantamweight",
           "scheduledRounds": 3,
           "actual": {
@@ -340,6 +346,7 @@
           "fighter1": "Ding Meng",
           "fighter2": "Cam Nelson",
           "fighter1Image": "img/ding_meng.png",
+          "fighter2Image": "img/cam_nelson.png",
           "weightClass": "Welterweight",
           "scheduledRounds": 3,
           "actual": {
@@ -4763,7 +4770,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 73,
+              "rawConfidence": 72,
               "correct": true
             },
             "duration": {
@@ -9337,7 +9344,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 65,
+              "rawConfidence": 64,
               "correct": false
             },
             "duration": {
@@ -11298,7 +11305,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 76,
+              "rawConfidence": 77,
               "correct": true
             },
             "duration": {
@@ -11519,7 +11526,7 @@
             "duration": {
               "pick": "OVER 1.5 rounds",
               "calibratedConfidence": 80.4,
-              "rawConfidence": 82,
+              "rawConfidence": 83,
               "correct": true
             }
           },
@@ -19092,13 +19099,13 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 64,
+              "rawConfidence": 63,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
               "calibratedConfidence": 80.4,
-              "rawConfidence": 85,
+              "rawConfidence": 84,
               "correct": true
             }
           },
@@ -33032,7 +33039,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 74,
+              "rawConfidence": 75,
               "correct": true
             },
             "duration": {
@@ -34809,7 +34816,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
+              "rawConfidence": 79,
               "correct": true
             },
             "duration": {
@@ -38023,15 +38030,27 @@
             "time": "3:12"
           },
           "prediction": {
+            "moneyline": {
+              "pick": "Gillian Robertson",
+              "calibratedConfidence": 68,
+              "rawConfidence": 51,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64.1,
+              "rawConfidence": 71,
+              "correct": false
+            },
             "duration": {
               "pick": "OVER 1.5 rounds",
               "calibratedConfidence": 80.4,
-              "rawConfidence": 83,
+              "rawConfidence": 88,
               "correct": true
             }
           },
           "noData": false,
-          "evenMatchup": true,
+          "evenMatchup": false,
           "nonOfficial": false
         },
         {
@@ -38168,7 +38187,7 @@
             "moneyline": {
               "pick": "Jim Miller",
               "calibratedConfidence": 68,
-              "rawConfidence": 58,
+              "rawConfidence": 51,
               "correct": true
             },
             "method": {
@@ -40346,7 +40365,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64.1,
-              "rawConfidence": 76,
+              "rawConfidence": 77,
               "correct": true
             },
             "duration": {
@@ -42263,13 +42282,13 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 41.7,
-              "rawConfidence": 44,
+              "rawConfidence": 43,
               "correct": false
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
               "calibratedConfidence": 64.2,
-              "rawConfidence": 70,
+              "rawConfidence": 69,
               "correct": false
             }
           },
