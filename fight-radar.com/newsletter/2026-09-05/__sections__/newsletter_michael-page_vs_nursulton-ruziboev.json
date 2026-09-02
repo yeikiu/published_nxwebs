@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "5 de septiembre de 2026",
+  "event_date_iso": "2026-09-05",
+  "fight": {
+    "fighter_a": "Michael Page",
+    "fighter_b": "Nursulton Ruziboev",
+    "prediction": "Nursulton Ruziboev",
+    "confidence": 77,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 71,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Michael Page",
+    "raw_fighter_b": "Nursulton Ruziboev",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate cruza a <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Michael+Page+%28Venom%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michael Page</a></strong>, sin ranking oficial en el top 15 de peso medio pero con un récord total de carrera de 25-3-0, frente a <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a></strong>, <strong>#15 del ranking peso medio</strong>, dueño de un 37-9-2 (2 NC) en su trayectoria completa. En forma reciente ambos llegan parejos: <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Michael+Page+%28Venom%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michael Page</a> marca 4-1-0 en sus últimas cinco salidas (con esa derrota de junio de 2024 que no se puede ignorar), y <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> exhibe el mismo 4-1-0 en cinco peleas dentro de los últimos 36 meses.\nDonde el análisis se inclina es en el terreno de agarre. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Michael+Page+%28Venom%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michael Page</a> domina el golpeo ofensivo (56) y sobre todo el defensivo (62), además de un derribo defensivo sólido de 68, pero su control apenas llega a 16 y no muestra amenaza de finalización. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a>, en cambio, presenta un derribo ofensivo de 75, un control de 40 y una amenaza de finalización de 75, un combo que puede inclinar la balanza si logra llevar la pelea al suelo. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> con un 77%, apoyado en esa capacidad de imponer ritmo y posición."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a></strong> llega como el <strong>favorito claro</strong> del radar.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Michael+Page+%28Venom%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Michael Page</a></strong> carga con un golpeo defensivo elite de 62, pero el terreno de agarre pesa más.\nEl desenlace más probable apunta a <strong>decisión</strong>, más allá de quién gane."
+    ],
+    "fight_conclusions": [
+      "Con las tres rondas pactadas como límite, el factor grappling puede ser decisivo si <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> impone su ritmo temprano. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nursulton+Ruziboev+%28Black%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nursulton Ruziboev</a> con un 77% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "5 de septiembre de 2026",
+  "event_date_iso": "2026-09-05",
+  "fight": {
+    "fighter_a": "Nora Cornolle",
+    "fighter_b": "Klaudia Sygula",
+    "prediction": "Klaudia Sygula",
+    "confidence": 54,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Nora Cornolle",
+    "raw_fighter_b": "Klaudia Sygula",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nora+Cornolle\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nora Cornolle</a></strong>, <strong>#13 del ranking peso gallo femenino</strong>, llega con un récord total de carrera de 9-4-0, aunque su tramo reciente pinta un panorama más parejo: 3-3-0 en sus últimas 6 peleas, con derrotas el 21-02-2026, el 02-08-2025 y el 28-09-2024. Su golpeo ofensivo de 55 y una amenaza de finalización de 67 la convierten en una presencia peligrosa mientras la pelea siga de pie, y su derribo defensivo de 48 le da margen para frenar intentos de control.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Klaudia+Sygula\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Klaudia Sygula</a></strong>, <strong>#15 del ranking peso gallo femenino</strong>, acumula un récord total de carrera de 8-2-0, y en los últimos 36 meses muestra 2-1-0 en 3 peleas, con una derrota el 09-11-2024 pero victorias el 07-02-2026 y el 21-06-2025. Su fortaleza pasa por el control (41 frente al 19 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nora+Cornolle\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nora Cornolle</a>), lo que sugiere que buscará imponer ritmo y posición antes que buscar una finalización, ya que su amenaza de finalización se sitúa en 0. La diferencia en golpeo ofensivo es mínima (48 frente a 55), por lo que el intercambio de pie podría ser parejo."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Klaudia+Sygula\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Klaudia Sygula</a></strong> llega como ligera favorita en este duelo divisional.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nora+Cornolle\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nora Cornolle</a></strong> responde con mayor amenaza de finalización (67 frente a 0).\nEl camino más probable hacia el desenlace es la <strong>decisión</strong>, a lo largo de las 3 rondas."
+    ],
+    "fight_conclusions": [
+      "Este enfrentamiento de ranking se perfila cerrado en las estadísticas, con <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Klaudia+Sygula\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Klaudia Sygula</a> apoyándose en el control y <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nora+Cornolle\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nora Cornolle</a> en su capacidad de finalización. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Klaudia+Sygula\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Klaudia Sygula</a> con un 54% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-01T19:13:05.594Z",
+  "generatedAt": "2026-09-02T08:01:45.784Z",
   "provenance": {
-    "fightersCsvSha256": "25c557386e3111f3a8aadbf5a281264d744a0851f0db3ea67ed3583be367c86c",
-    "upcomingEventsSha256": "df57e89fb8705af0c6abd0a874a6da949a8a1ee9e4d763e46a7926fa374510a6",
-    "appVersion": "1.1.57"
+    "fightersCsvSha256": "dc7fc691103cd54e9c68725d22644e8f95462e90cc97920b6542bffc3309e08d",
+    "upcomingEventsSha256": "115d68b69f32107ea83a621eb0cf759520190f15625d792ac3ccccff7b771eab",
+    "appVersion": "1.1.58"
   },
   "summary": {
-    "totalEvents": 9,
-    "totalFights": 77,
-    "predictedFights": 45,
-    "noDataFights": 32
+    "totalEvents": 10,
+    "totalFights": 79,
+    "predictedFights": 46,
+    "noDataFights": 33
   },
   "events": [
     {
@@ -318,6 +318,54 @@
           "noData": false
         },
         {
+          "fightId": "2039cecad5d18c58",
+          "fighter1": "Kurtis Campbell (The Pink Panther)",
+          "fighter2": "Trevor Peek",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
+          "fighter1Image": "img/kurtis_campbell_the_pink_panther.png",
+          "fighter2Image": "img/trevor_peek.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "6bf8dd64c5c5bd25",
+          "fighter1": "Losene Keita (Black Panther)",
+          "fighter2": "Muhammad Naimov (Hillman)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
+          "fighter1Image": "img/losene_keita.png",
+          "fighter2Image": "img/muhammad_naimov.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
           "fightId": "567738303f03b5eb",
           "fighter1": "Morgan Charriere (The Last Pirate)",
           "fighter2": "Felipe Lima (Jungle Boy)",
@@ -410,30 +458,6 @@
           "noData": false
         },
         {
-          "fightId": "6bf8dd64c5c5bd25",
-          "fighter1": "Losene Keita (Black Panther)",
-          "fighter2": "Muhammad Naimov (Hillman)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
-          "fighter2Url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
-          "fighter1Image": "img/losene_keita.png",
-          "fighter2Image": "img/muhammad_naimov.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
           "fightId": "ff096f49f7342a1d",
           "fighter1": "Mario Pinto",
           "fighter2": "Ryan Spann (Superman)",
@@ -495,30 +519,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "2039cecad5d18c58",
-          "fighter1": "Kurtis Campbell (The Pink Panther)",
-          "fighter2": "Trevor Peek",
-          "fighter1Url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
-          "fighter2Url": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
-          "fighter1Image": "img/kurtis_campbell_the_pink_panther.png",
-          "fighter2Image": "img/trevor_peek.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
         },
         {
           "fightId": "bdb19b38436bb157",
@@ -3427,6 +3427,106 @@
       ]
     },
     {
+      "dateKey": "10-10-2026",
+      "eventName": "UFC Fight Night: Allen vs. Duncan",
+      "location": "Las Vegas, Nevada, USA",
+      "startTime": "2026-10-10T21:00Z",
+      "fights": [
+        {
+          "fightId": "2444ac66f0f2f556",
+          "fighter1": "Brendan Allen (All In)",
+          "fighter2": "Christian Leroy Duncan (CLD)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2f181c0467965b98",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
+          "fighter1Image": "img/brendan_allen.png",
+          "fighter2Image": "img/christian_leroy_duncan.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "moneyline": {
+              "pick": "Christian Leroy Duncan",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 77,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 355.62,
+                "adjustedScore2": 106.37
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 28.57,
+                  "finishRate2": 50
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 3.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 88,
+                "calibratedConfidence": 79,
+                "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
+                "metadata": {
+                  "avgTime": 13.79
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "OVER 100 strikes per fighter",
+                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
+                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 4.39,
+                    "f2TakedownRate": 1.78,
+                    "f1KnockdownRate": 0,
+                    "f2KnockdownRate": 0.38,
+                    "f1StrikeVolume": 798,
+                    "f2StrikeVolume": 673,
+                    "f1SubRate": 0.57,
+                    "f2SubRate": 0,
+                    "f1FinishRate": 28.57,
+                    "f2FinishRate": 50,
+                    "avgFightTime": 13.79,
+                    "weightedFinishRate": 41.79,
+                    "weightedAvgFightTime": 12.32
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        }
+      ]
+    },
+    {
       "dateKey": "17-10-2026",
       "eventName": "UFC Fight Night: Buckley vs. Malott",
       "location": "Edmonton, Alberta, Canada",
@@ -4297,12 +4397,12 @@
             "moneyline": {
               "pick": "Cam Rowston",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 77,
+              "rawConfidence": 79,
               "calibratedConfidence": 69.3,
               "reasoningKey": "combat_analysis.reasoning.better_recent_record",
               "metadata": {
-                "adjustedScore1": 361.6,
-                "adjustedScore2": 105.89
+                "adjustedScore1": 379.79,
+                "adjustedScore2": 100.59
               }
             },
             "methods": [
@@ -4345,8 +4445,8 @@
                     "f1FinishRate": 33.33,
                     "f2FinishRate": 66.67,
                     "avgFightTime": 10.17,
-                    "weightedFinishRate": 55.17,
-                    "weightedAvgFightTime": 9.5
+                    "weightedFinishRate": 56.17,
+                    "weightedAvgFightTime": 9.45
                   }
                 }
               }
@@ -4520,6 +4620,7 @@
       "dateKey": "31-10-2026",
       "eventName": "UFC Fight Night",
       "location": "Las Vegas, Nevada, USA",
+      "startTime": "2026-10-31T21:00Z",
       "fights": [
         {
           "fightId": "f7c1cf9c3c1b36ee",
@@ -4530,6 +4631,29 @@
           "fighter1Image": "img/nick_klein.png",
           "weightClass": "Middleweight",
           "scheduledRounds": 5,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "22cabb6347780088",
+          "fighter1": "Lucia Szabova",
+          "fighter2": "Tainara Lisboa (Thai Panther)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
+          "fighter2Image": "img/tainara_lisboa.png",
+          "weightClass": "Women's Flyweight",
+          "scheduledRounds": 3,
           "prediction": {
             "methods": [],
             "durations": [],

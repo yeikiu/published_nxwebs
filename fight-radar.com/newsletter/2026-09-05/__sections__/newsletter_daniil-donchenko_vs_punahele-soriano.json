@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "5 de septiembre de 2026",
+  "event_date_iso": "2026-09-05",
+  "fight": {
+    "fighter_a": "Daniil Donchenko",
+    "fighter_b": "Punahele Soriano",
+    "prediction": "Punahele Soriano",
+    "confidence": 66,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Daniil Donchenko",
+    "raw_fighter_b": "Punahele Soriano",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Daniil+Donchenko\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Daniil Donchenko</a></strong> llega a este duelo sin ranking oficial en el top 15, con un récord total de carrera de 15-2-0 y un tramo reciente perfecto: 3-0-0 en sus últimas tres presentaciones. Su perfil está construido sobre la solidez defensiva: 70 en golpeo defensivo y 75 en derribo defensivo, cifras que hablan de un peleador difícil de finalizar y complicado de llevar al suelo en contra de su voluntad.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Punahele+Soriano+%28Puna%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Punahele Soriano</a></strong>, también sin ranking oficial en el top 15, presenta un récord total de 13-4-0, con un tramo de 36 meses de 4-1-0 en cinco peleas — incluida una derrota el 02-12-2023 que no se puede pasar por alto. Aun así, el radar lo ve como la pieza dominante del enfrentamiento gracias a un control de 79, el valor más alto entre ambos peleadores, apoyado en un derribo ofensivo de 57 frente al 33 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Daniil+Donchenko\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Daniil Donchenko</a>. Esa diferencia en la capacidad de imponer ritmo y posición podría ser el factor decisivo en un combate a 3 rondas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Punahele+Soriano+%28Puna%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Punahele Soriano</a></strong> llega como favorito claro pese a una derrota reciente en el tramo.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Daniil+Donchenko\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Daniil Donchenko</a></strong> llega invicto en sus últimas tres presentaciones, pero eso no basta contra el control divisional de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Punahele+Soriano+%28Puna%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Punahele Soriano</a>.\nLa vía más probable de cierre es la <strong>decisión</strong>."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Punahele+Soriano+%28Puna%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Punahele Soriano</a> con un 66% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

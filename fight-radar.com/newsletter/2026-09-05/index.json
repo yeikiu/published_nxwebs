@@ -1,0 +1,98 @@
+{
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "5 de septiembre de 2026",
+  "event_date_iso": "2026-09-05",
+  "generated_at": "2026-09-02T08:03:24Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Fares Ziam",
+      "fighter_b": "Axel Sola",
+      "slug_a": "fares-ziam",
+      "slug_b": "axel-sola",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_fares-ziam_vs_axel-sola.html",
+        "en": "newsletter/2026-09-05/en/newsletter_fares-ziam_vs_axel-sola.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_fares-ziam_vs_axel-sola.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_fares-ziam_vs_axel-sola.html"
+      }
+    },
+    {
+      "fighter_a": "Michael Page",
+      "fighter_b": "Nursulton Ruziboev",
+      "slug_a": "michael-page",
+      "slug_b": "nursulton-ruziboev",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_michael-page_vs_nursulton-ruziboev.html",
+        "en": "newsletter/2026-09-05/en/newsletter_michael-page_vs_nursulton-ruziboev.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_michael-page_vs_nursulton-ruziboev.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_michael-page_vs_nursulton-ruziboev.html"
+      }
+    },
+    {
+      "fighter_a": "Daniil Donchenko",
+      "fighter_b": "Punahele Soriano",
+      "slug_a": "daniil-donchenko",
+      "slug_b": "punahele-soriano",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_daniil-donchenko_vs_punahele-soriano.html",
+        "en": "newsletter/2026-09-05/en/newsletter_daniil-donchenko_vs_punahele-soriano.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_daniil-donchenko_vs_punahele-soriano.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_daniil-donchenko_vs_punahele-soriano.html"
+      }
+    },
+    {
+      "fighter_a": "Morgan Charriere",
+      "fighter_b": "Felipe Lima",
+      "slug_a": "morgan-charriere",
+      "slug_b": "felipe-lima",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_morgan-charriere_vs_felipe-lima.html",
+        "en": "newsletter/2026-09-05/en/newsletter_morgan-charriere_vs_felipe-lima.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_morgan-charriere_vs_felipe-lima.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_morgan-charriere_vs_felipe-lima.html"
+      }
+    },
+    {
+      "fighter_a": "Mario Pinto",
+      "fighter_b": "Ryan Spann",
+      "slug_a": "mario-pinto",
+      "slug_b": "ryan-spann",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_mario-pinto_vs_ryan-spann.html",
+        "en": "newsletter/2026-09-05/en/newsletter_mario-pinto_vs_ryan-spann.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_mario-pinto_vs_ryan-spann.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_mario-pinto_vs_ryan-spann.html"
+      }
+    },
+    {
+      "fighter_a": "Oumar Sy",
+      "fighter_b": "Modestas Bukauskas",
+      "slug_a": "oumar-sy",
+      "slug_b": "modestas-bukauskas",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_oumar-sy_vs_modestas-bukauskas.html",
+        "en": "newsletter/2026-09-05/en/newsletter_oumar-sy_vs_modestas-bukauskas.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_oumar-sy_vs_modestas-bukauskas.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_oumar-sy_vs_modestas-bukauskas.html"
+      }
+    },
+    {
+      "fighter_a": "Nora Cornolle",
+      "fighter_b": "Klaudia Sygula",
+      "slug_a": "nora-cornolle",
+      "slug_b": "klaudia-sygula",
+      "files": {
+        "es": "newsletter/2026-09-05/es/newsletter_nora-cornolle_vs_klaudia-sygula.html",
+        "en": "newsletter/2026-09-05/en/newsletter_nora-cornolle_vs_klaudia-sygula.html",
+        "pt": "newsletter/2026-09-05/pt/newsletter_nora-cornolle_vs_klaudia-sygula.html",
+        "fr": "newsletter/2026-09-05/fr/newsletter_nora-cornolle_vs_klaudia-sygula.html"
+      }
+    }
+  ]
+}

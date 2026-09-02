@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "5 de septiembre de 2026",
+  "event_date_iso": "2026-09-05",
+  "fight": {
+    "fighter_a": "Mario Pinto",
+    "fighter_b": "Ryan Spann",
+    "prediction": "Mario Pinto",
+    "confidence": 80,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "",
+    "method_prob": 0,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Mario Pinto",
+    "raw_fighter_b": "Ryan Spann",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a></strong>, <strong>#12 del ranking</strong> peso pesado, llega a este combate con un récord total de carrera de 12-0-0 y una racha reciente perfecta de 3-0-0 en sus últimos tres años de actividad. Su perfil estadístico impresiona por el equilibrio: golpeo ofensivo de 67, golpeo defensivo de 58 y, sobre todo, un control de 93 y un derribo defensivo de 100 que sugieren que será extremadamente difícil llevarlo al suelo o dominarlo una vez comience el intercambio.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ryan+Spann+%28Superman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ryan Spann</a></strong>, <strong>#15 del ranking</strong> peso pesado, acumula un récord total de carrera de 24-11-0, con un tramo reciente de 3-2-0 en cinco peleas durante los últimos 36 meses, incluyendo dos derrotas que no pueden pasarse por alto. Aun así, su amenaza de finalización de 100 lo convierte en un peligro constante en cualquier momento del combate, respaldado por un derribo defensivo de 89 que le permite mantenerse en pie ante intentos de derribo. La diferencia en golpeo ofensivo (37 frente a 67) y en control (78 frente a 93) inclina el panorama estadístico hacia <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a>, aunque la capacidad de finalización de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ryan+Spann+%28Superman%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ryan Spann</a> obliga a no descartarlo en ningún momento de las tres rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a> llega invicto y como favorito claro (80%)</strong>\nSu control absoluto (93) y derribo defensivo perfecto (100) marcan la diferencia\nSin método de finalización definido, la decisión de rondas asoma como escenario probable"
+    ],
+    "fight_conclusions": [
+      "Este enfrentamiento de ranking peso pesado promete tensión hasta el final. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a> con un 80% de probabilidad. Por separado, el método más probable de finalización es no definido, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
