@@ -1,18 +1,385 @@
 {
-  "generatedAt": "2026-08-31T06:53:51.478Z",
+  "generatedAt": "2026-09-05T22:21:29.718Z",
   "globalStats": {
-    "totalFights": 1554,
-    "winnerCorrect": 483,
-    "winnerAttempts": 714,
-    "methodCorrect": 426,
-    "methodAttempts": 709,
-    "durationCorrect": 532,
-    "durationAttempts": 737,
-    "noHistoryFights": 785,
-    "evenMatchupFights": 28,
+    "totalFights": 1557,
+    "winnerCorrect": 484,
+    "winnerAttempts": 717,
+    "methodCorrect": 425,
+    "methodAttempts": 710,
+    "durationCorrect": 346,
+    "durationAttempts": 442,
+    "noHistoryFights": 784,
+    "evenMatchupFights": 29,
     "nonOfficialFights": 27
   },
   "events": [
+    {
+      "dateKey": "05-09-2026",
+      "eventName": "UFC Fight Night: Hooker vs. Parnasse",
+      "location": "Paris, Ile-de-France, France",
+      "fights": [
+        {
+          "fighter1": "Salahdine Parnasse (Lion of Atlas)",
+          "fighter2": "Dan Hooker (The Hangman)",
+          "fighter2Image": "img/dan_hooker.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Salahdine Parnasse",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:35"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Fares Ziam (The Smile Killer)",
+          "fighter2": "Axel Sola",
+          "fighter1Image": "img/fares_ziam.png",
+          "fighter2Image": "img/axel_sola.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Axel Sola",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:40"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Fares Ziam",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 63,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 72,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 80.3,
+              "rawConfidence": 92,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Michael Page (Venom)",
+          "fighter2": "Nursulton Ruziboev (Black)",
+          "fighter1Image": "img/michael_page.png",
+          "fighter2Image": "img/nursulton_ruziboev.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Michael Page",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Nursulton Ruziboev",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 77,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 71,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 80.3,
+              "rawConfidence": 91,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Punahele Soriano (Puna)",
+          "fighter2": "Daniil Donchenko",
+          "fighter1Image": "img/punahele_soriano.png",
+          "fighter2Image": "img/daniil_donchenko.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Daniil Donchenko",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Daniil Donchenko",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 76,
+              "correct": true
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 64,
+              "rawConfidence": 87,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Kurtis Campbell (The Pink Panther)",
+          "fighter2": "Trevor Peek",
+          "fighter1Image": "img/kurtis_campbell_the_pink_panther.png",
+          "fighter2Image": "img/trevor_peek.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Kurtis Campbell",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "3:07"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Muhammad Naimov (Hillman)",
+          "fighter2": "Losene Keita (Black Panther)",
+          "fighter1Image": "img/muhammad_naimov.png",
+          "fighter2Image": "img/losene_keita.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Losene Keita",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:54"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Felipe Lima (Jungle Boy)",
+          "fighter2": "Morgan Charriere (The Last Pirate)",
+          "fighter1Image": "img/felipe_lima.png",
+          "fighter2Image": "img/morgan_charriere.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Felipe Lima",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Morgan Charriere",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 51,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 74,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 80.3,
+              "rawConfidence": 92,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Mario Pinto",
+          "fighter2": "Ryan Spann (Superman)",
+          "fighter1Image": "img/mario_pinto.png",
+          "fighter2Image": "img/ryan_spann.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Mario Pinto",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:55"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Mario Pinto",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 80,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Oumar Sy",
+          "fighter2": "Modestas Bukauskas (The Baltic Gladiator)",
+          "fighter1Image": "img/oumar_sy.png",
+          "fighter2Image": "img/modestas_bukauskas.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Modestas Bukauskas",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:57"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Modestas Bukauskas",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 72,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 70,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 79,
+              "rawConfidence": 89,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nathaniel Wood (The Prospect)",
+          "fighter2": "Pavel Andrusca",
+          "fighter1Image": "img/nathaniel_wood.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Pavel Andrusca",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Michael Aljarouj (The Soldier)",
+          "fighter2": "Fabia Sintes (El Potro Menorquin)",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Fabia Sintes",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Klaudia Sygula",
+          "fighter2": "Nora Cornolle",
+          "fighter1Image": "img/klaudia_sygula.png",
+          "fighter2Image": "img/nora_cornolle.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Nora Cornolle",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Klaudia Sygula",
+              "calibratedConfidence": 69.3,
+              "rawConfidence": 56,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 74,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 80.3,
+              "rawConfidence": 92,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Luis Felipe Dias",
+          "fighter2": "Matthieu Duclos",
+          "fighter1Image": "img/luis_felipe_dias.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Matthieu Duclos",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:35"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Sofia Montenegro (La Bruja)",
+          "fighter2": "Delphine Benouaich",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Delphine Benouaich",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "4:22"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        }
+      ]
+    },
     {
       "dateKey": "29-08-2026",
       "eventName": "UFC Fight Night: Nurmagomedov vs. Song",
@@ -417,12 +784,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -453,12 +814,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -582,12 +937,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -619,12 +968,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -735,12 +1078,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 79,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": true
             }
           },
           "noData": false,
@@ -809,12 +1146,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -846,12 +1177,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 74,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -920,12 +1245,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -992,12 +1311,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -1040,12 +1353,6 @@
               "pick": "Ramiz Brahimaj",
               "calibratedConfidence": 69.3,
               "rawConfidence": 74,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": false
             }
           },
@@ -1158,12 +1465,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -1263,11 +1564,11 @@
               "rawConfidence": 52,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 61,
+              "correct": false
             }
           },
           "noData": false,
@@ -1415,12 +1716,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 69,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": false
             }
           },
           "noData": false,
@@ -1470,12 +1765,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -1505,14 +1794,8 @@
             "method": {
               "pick": "Submission",
               "calibratedConfidence": 54.8,
-              "rawConfidence": 51,
+              "rawConfidence": 50,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -1629,10 +1912,10 @@
               "rawConfidence": 78,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 58,
               "correct": false
             }
           },
@@ -1744,12 +2027,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -1853,12 +2130,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -1906,13 +2177,13 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 54.8,
-              "rawConfidence": 54,
+              "rawConfidence": 55,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
               "calibratedConfidence": 79,
-              "rawConfidence": 82,
+              "rawConfidence": 83,
               "correct": true
             }
           },
@@ -2088,8 +2359,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Fatima Kline",
-              "calibratedConfidence": 70.7,
-              "rawConfidence": 82,
+              "calibratedConfidence": 70,
+              "rawConfidence": 81,
               "correct": true
             },
             "method": {
@@ -2303,12 +2574,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -2413,12 +2678,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 86,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -2819,12 +3078,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -3284,12 +3537,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 65,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -3339,12 +3586,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 50,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -3401,12 +3642,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": true
             }
           },
           "noData": false,
@@ -3437,12 +3672,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 73,
               "correct": true
             }
           },
@@ -3512,12 +3741,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -3584,12 +3807,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -3703,12 +3920,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 85,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -3811,12 +4022,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -3996,12 +4201,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -4032,12 +4231,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -4088,12 +4281,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -4251,12 +4438,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -4532,12 +4713,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -4568,12 +4743,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -4779,12 +4948,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -4907,12 +5070,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -4944,12 +5101,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -5080,12 +5231,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 83,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -5116,12 +5261,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -5154,12 +5293,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -5281,12 +5414,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 72,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -5397,12 +5524,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -5471,12 +5592,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 72,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -5581,12 +5696,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 82,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -6142,12 +6251,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -6444,12 +6547,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 53,
-              "correct": false
             }
           },
           "noData": false,
@@ -6473,7 +6570,7 @@
             "moneyline": {
               "pick": "Tabatha Ricci",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 59,
+              "rawConfidence": 61,
               "correct": false
             },
             "method": {
@@ -6662,12 +6759,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -6742,12 +6833,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 85,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": false
             }
           },
           "noData": false,
@@ -6816,12 +6901,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -6889,12 +6968,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 77,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -7108,12 +7181,6 @@
               "calibratedConfidence": 71.1,
               "rawConfidence": 84,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -7154,8 +7221,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Christian Leroy Duncan",
-              "calibratedConfidence": 71.1,
-              "rawConfidence": 84,
+              "calibratedConfidence": 70.7,
+              "rawConfidence": 83,
               "correct": true
             },
             "method": {
@@ -7388,12 +7455,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 60,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -7425,12 +7486,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -7513,16 +7568,10 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 64,
-              "rawConfidence": 87,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 60,
+              "correct": true
             }
           },
           "noData": false,
@@ -7554,12 +7603,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -7762,12 +7805,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 75,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 51,
-              "correct": true
             }
           },
           "noData": false,
@@ -7867,12 +7904,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 82,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -7904,12 +7935,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 75,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -8024,7 +8049,7 @@
             "moneyline": {
               "pick": "Jesus Aguilar",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 75,
+              "rawConfidence": 74,
               "correct": false
             },
             "method": {
@@ -8196,7 +8221,7 @@
             "moneyline": {
               "pick": "Edgar Chairez",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 63,
+              "rawConfidence": 59,
               "correct": true
             },
             "method": {
@@ -8204,12 +8229,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 50,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -8428,12 +8447,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": false
             }
           },
           "noData": false,
@@ -8465,12 +8478,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": false
             }
           },
           "noData": false,
@@ -8567,7 +8574,7 @@
             "moneyline": {
               "pick": "Zach Reese",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 69,
+              "rawConfidence": 68,
               "correct": false
             },
             "method": {
@@ -8678,18 +8685,6 @@
               "pick": "Joselyne Edwards",
               "calibratedConfidence": 69.3,
               "rawConfidence": 79,
-              "correct": true
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 48,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -9230,12 +9225,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 80,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -9266,12 +9255,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -9322,12 +9305,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -9450,12 +9427,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -9548,12 +9519,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 56,
-              "correct": true
             }
           },
           "noData": false,
@@ -9621,12 +9586,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 65,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -9696,12 +9655,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -9788,12 +9741,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -9897,7 +9844,7 @@
             "moneyline": {
               "pick": "Manel Kape",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 78,
+              "rawConfidence": 77,
               "correct": true
             },
             "method": {
@@ -10227,12 +10174,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -10318,12 +10259,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 75,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -10664,12 +10599,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -10963,12 +10892,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 56,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -11037,12 +10960,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -11074,12 +10991,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -11111,12 +11022,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -11136,15 +11041,8 @@
             "round": 3,
             "time": "2:24"
           },
-          "prediction": {
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
-            }
-          },
-          "noData": false,
+          "prediction": {},
+          "noData": true,
           "evenMatchup": true,
           "nonOfficial": false
         },
@@ -11455,12 +11353,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -12126,18 +12018,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 73,
               "correct": false
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 49,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -12205,12 +12085,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -12374,13 +12248,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 64,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
+              "rawConfidence": 65,
               "correct": true
             }
           },
@@ -12561,12 +12429,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 80,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -12653,12 +12515,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -12769,12 +12625,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 58,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": false
             }
           },
           "noData": false,
@@ -12806,12 +12656,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -12843,12 +12687,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -12928,12 +12766,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 58,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -12965,12 +12797,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -13174,12 +13000,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -13211,12 +13031,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -13240,7 +13054,7 @@
             "moneyline": {
               "pick": "Joe Pyfer",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 58,
+              "rawConfidence": 62,
               "correct": true
             },
             "method": {
@@ -13338,12 +13152,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -13406,18 +13214,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 71,
               "correct": false
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 47,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -13529,12 +13325,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -13602,12 +13392,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -14029,12 +13813,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -14200,12 +13978,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -14236,12 +14008,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 75,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -14323,11 +14089,11 @@
               "rawConfidence": 80,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 53,
+              "correct": false
             }
           },
           "noData": false,
@@ -14492,12 +14258,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -14870,12 +14630,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -14899,7 +14653,7 @@
             "moneyline": {
               "pick": "Jared Cannonier",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 64,
+              "rawConfidence": 61,
               "correct": false
             },
             "method": {
@@ -14974,18 +14728,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 75,
               "correct": true
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 41,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -15054,12 +14796,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 58,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -15189,12 +14925,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
               "correct": true
             }
           },
@@ -15448,12 +15178,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 70,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -15565,12 +15289,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -15595,18 +15313,6 @@
               "pick": "Chris Duncan",
               "calibratedConfidence": 69.3,
               "rawConfidence": 51,
-              "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 40,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -15664,18 +15370,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 70,
               "correct": false
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 49,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -15774,12 +15468,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 52,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -15903,18 +15591,6 @@
               "calibratedConfidence": 70.7,
               "rawConfidence": 83,
               "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 40,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -16037,12 +15713,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -16265,12 +15935,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 57,
-              "correct": false
             }
           },
           "noData": false,
@@ -16339,12 +16003,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 57,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -16588,19 +16246,13 @@
             "moneyline": {
               "pick": "Ryan Spann",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 80,
+              "rawConfidence": 79,
               "correct": true
             },
             "method": {
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -16731,12 +16383,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -16768,12 +16414,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 75,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -16800,11 +16440,11 @@
               "rawConfidence": 74,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 52,
+              "correct": false
             }
           },
           "noData": false,
@@ -16946,12 +16586,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -17131,12 +16765,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 77,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -17186,12 +16814,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -17259,12 +16881,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 58,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -17376,12 +16992,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -17447,12 +17057,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
               "correct": true
             }
           },
@@ -17692,12 +17296,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -17814,12 +17412,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 73,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -18041,12 +17633,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -18096,12 +17682,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 76,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -18133,12 +17713,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -18170,12 +17744,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -18205,13 +17773,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 79,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
+              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -18427,18 +17989,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 76,
               "correct": false
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 47,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -18458,15 +18008,8 @@
             "round": 3,
             "time": "5:00"
           },
-          "prediction": {
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
-            }
-          },
-          "noData": false,
+          "prediction": {},
+          "noData": true,
           "evenMatchup": true,
           "nonOfficial": false
         },
@@ -18666,12 +18209,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 69,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -18721,12 +18258,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 70,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -18794,12 +18325,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 55,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -19040,12 +18565,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -19168,12 +18687,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 75,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -19444,18 +18957,6 @@
               "calibratedConfidence": 70.7,
               "rawConfidence": 83,
               "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 48,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -19497,7 +18998,7 @@
             "moneyline": {
               "pick": "Thomas Petersen",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 71,
+              "rawConfidence": 70,
               "correct": true
             },
             "method": {
@@ -19586,12 +19087,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -19727,12 +19222,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 73,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": true
             }
           },
           "noData": false,
@@ -19764,12 +19253,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -19911,12 +19394,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -20047,12 +19524,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -20102,12 +19573,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -20138,12 +19603,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -20250,12 +19709,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 69,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -20320,15 +19773,15 @@
               "correct": true
             },
             "method": {
-              "pick": "KO/TKO",
+              "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 63,
-              "correct": true
+              "rawConfidence": 67,
+              "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
+              "calibratedConfidence": 79,
+              "rawConfidence": 85,
               "correct": false
             }
           },
@@ -20458,12 +19911,6 @@
               "pick": "Decision",
               "calibratedConfidence": 54.8,
               "rawConfidence": 50,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 70,
               "correct": true
             }
           },
@@ -20758,12 +20205,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": true
             }
           },
           "noData": false,
@@ -20793,13 +20234,7 @@
             "method": {
               "pick": "Submission",
               "calibratedConfidence": 54.8,
-              "rawConfidence": 53,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
+              "rawConfidence": 52,
               "correct": true
             }
           },
@@ -20996,12 +20431,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -21095,12 +20524,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -21654,19 +21077,13 @@
             "moneyline": {
               "pick": "Priscila Cachoeira",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 53,
+              "rawConfidence": 80,
               "correct": true
             },
             "method": {
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 53,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -21798,12 +21215,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -21908,12 +21319,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -22042,12 +21447,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -22306,12 +21705,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 74,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -22409,11 +21802,11 @@
               "rawConfidence": 69,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 66,
+              "correct": false
             }
           },
           "noData": false,
@@ -22558,7 +21951,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 71,
+              "rawConfidence": 70,
               "correct": false
             },
             "duration": {
@@ -22597,12 +21990,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -22651,12 +22038,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
               "correct": false
             }
           },
@@ -22793,12 +22174,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 57,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -22889,7 +22264,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 69,
+              "rawConfidence": 68,
               "correct": true
             },
             "duration": {
@@ -23245,12 +22620,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -23452,12 +22821,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 72,
-              "correct": true
             }
           },
           "noData": false,
@@ -23526,12 +22889,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -23562,12 +22919,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
               "correct": true
             }
           },
@@ -23618,12 +22969,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -23863,12 +23208,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 72,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -23992,12 +23331,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -24054,27 +23387,15 @@
             "time": "5:00"
           },
           "prediction": {
-            "moneyline": {
-              "pick": "Trey Ogden",
-              "calibratedConfidence": 69.3,
-              "rawConfidence": 51,
-              "correct": false
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 64,
-              "rawConfidence": 74,
-              "correct": true
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 80.3,
-              "rawConfidence": 92,
+              "calibratedConfidence": 79,
+              "rawConfidence": 85,
               "correct": true
             }
           },
           "noData": false,
-          "evenMatchup": false,
+          "evenMatchup": true,
           "nonOfficial": false
         },
         {
@@ -24272,12 +23593,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 68,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -24308,12 +23623,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": false
             }
           },
@@ -24382,12 +23691,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -24774,12 +24077,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 65,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -24823,11 +24120,11 @@
               "rawConfidence": 76,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 65,
+              "correct": true
             }
           },
           "noData": false,
@@ -24877,12 +24174,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -24913,12 +24204,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -25087,12 +24372,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -25250,12 +24529,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 80,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -25324,12 +24597,6 @@
               "calibratedConfidence": 71.4,
               "rawConfidence": 86,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -25415,12 +24682,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 79,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -25452,12 +24713,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": false
             }
           },
           "noData": false,
@@ -25524,12 +24779,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 55,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -26034,12 +25283,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -26064,18 +25307,6 @@
               "pick": "Mike Malott",
               "calibratedConfidence": 70,
               "rawConfidence": 81,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 45,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -26176,12 +25407,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -26205,7 +25430,7 @@
             "moneyline": {
               "pick": "Rodrigo Nascimento",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 63,
+              "rawConfidence": 59,
               "correct": false
             },
             "method": {
@@ -26330,12 +25555,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 83,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": false
             }
           },
           "noData": false,
@@ -26367,12 +25586,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -26568,12 +25781,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 60,
-              "correct": true
             }
           },
           "noData": false,
@@ -26703,12 +25910,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 68,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 72,
-              "correct": false
             }
           },
           "noData": false,
@@ -26848,7 +26049,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 68,
+              "rawConfidence": 69,
               "correct": true
             },
             "duration": {
@@ -26893,15 +26094,8 @@
             "round": 3,
             "time": "4:33"
           },
-          "prediction": {
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
-            }
-          },
-          "noData": false,
+          "prediction": {},
+          "noData": true,
           "evenMatchup": true,
           "nonOfficial": false
         },
@@ -26991,12 +26185,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 52,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 70,
-              "correct": true
             }
           },
           "noData": false,
@@ -27028,12 +26216,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -27120,12 +26302,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -27210,7 +26386,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 65,
+              "rawConfidence": 66,
               "correct": true
             },
             "duration": {
@@ -27328,12 +26504,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 74,
-              "correct": false
             }
           },
           "noData": false,
@@ -27420,12 +26590,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -27474,12 +26638,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -27580,11 +26738,11 @@
               "rawConfidence": 58,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 54,
+              "correct": false
             }
           },
           "noData": false,
@@ -27678,12 +26836,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 85,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -27715,12 +26867,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -27825,12 +26971,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -27908,7 +27048,7 @@
             "moneyline": {
               "pick": "Taylor Lapilus",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 52,
+              "rawConfidence": 53,
               "correct": true
             },
             "method": {
@@ -28106,12 +27246,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -28235,12 +27369,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": true
             }
           },
           "noData": false,
@@ -28327,12 +27455,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 62,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -28445,12 +27567,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -28482,12 +27598,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -28609,12 +27719,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 53,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -28796,15 +27900,9 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 64,
-              "rawConfidence": 62,
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 61,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -28835,12 +27933,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -28980,8 +28072,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Dricus Du Plessis",
-              "calibratedConfidence": 71.1,
-              "rawConfidence": 85,
+              "calibratedConfidence": 71.4,
+              "rawConfidence": 86,
               "correct": true
             },
             "method": {
@@ -29098,7 +28190,7 @@
             "method": {
               "pick": "Decision",
               "calibratedConfidence": 64,
-              "rawConfidence": 73,
+              "rawConfidence": 74,
               "correct": true
             },
             "duration": {
@@ -29278,11 +28370,11 @@
               "rawConfidence": 79,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 61,
+              "correct": true
             }
           },
           "noData": false,
@@ -29339,12 +28431,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -29749,12 +28835,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 67,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -29785,12 +28865,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -30031,12 +29105,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 79,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -30068,12 +29136,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 73,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -30160,12 +29222,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 69,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -30215,12 +29271,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -30320,11 +29370,11 @@
               "rawConfidence": 86,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 74,
+              "correct": false
             }
           },
           "noData": false,
@@ -30417,12 +29467,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -30723,12 +29767,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 61,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -30755,11 +29793,11 @@
               "rawConfidence": 78,
               "correct": false
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 68,
+              "correct": false
             }
           },
           "noData": false,
@@ -30919,12 +29957,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -30980,12 +30012,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
               "correct": true
             }
           },
@@ -31066,18 +30092,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 63,
               "correct": true
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 22,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -31159,11 +30173,11 @@
               "rawConfidence": 64,
               "correct": false
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 61,
+              "correct": true
             }
           },
           "noData": false,
@@ -31231,12 +30245,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -31366,12 +30374,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -31453,11 +30455,11 @@
               "rawConfidence": 52,
               "correct": true
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 62,
+              "correct": false
             }
           },
           "noData": false,
@@ -31820,12 +30822,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 54,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -31892,12 +30888,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -32010,12 +31000,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 50,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -32046,12 +31030,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
               "correct": true
             }
           },
@@ -32120,12 +31098,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 55,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -32396,12 +31368,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 55,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -32525,12 +31491,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -32555,18 +31515,6 @@
               "pick": "Grant Dawson",
               "calibratedConfidence": 69.3,
               "rawConfidence": 70,
-              "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 42,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -32599,12 +31547,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 76,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -33072,12 +32014,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 75,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 72,
-              "correct": true
             }
           },
           "noData": false,
@@ -33127,12 +32063,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -33230,18 +32160,6 @@
               "pick": "Chase Hooper",
               "calibratedConfidence": 69.3,
               "rawConfidence": 74,
-              "correct": true
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 45,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -33458,12 +32376,6 @@
               "calibratedConfidence": 80,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -33493,12 +32405,6 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 78,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
               "rawConfidence": 78,
               "correct": false
             }
@@ -33568,12 +32474,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 71,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -33661,12 +32561,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -33813,12 +32707,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -33905,12 +32793,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 72,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -34094,12 +32976,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 73,
-              "correct": true
             }
           },
           "noData": false,
@@ -34204,12 +33080,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": false
             }
           },
@@ -34327,18 +33197,6 @@
               "calibratedConfidence": 69.3,
               "rawConfidence": 58,
               "correct": true
-            },
-            "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 43,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -34370,12 +33228,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 62,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -34399,7 +33251,7 @@
             "moneyline": {
               "pick": "Jessica Andrade",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 57,
+              "rawConfidence": 55,
               "correct": true
             },
             "method": {
@@ -34525,12 +33377,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 63,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": true
             }
           },
           "noData": false,
@@ -34617,12 +33463,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 70,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -34847,13 +33687,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 74,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
+              "rawConfidence": 73,
               "correct": true
             }
           },
@@ -34976,12 +33810,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -35326,11 +34154,11 @@
               "rawConfidence": 66,
               "correct": false
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 54.8,
+              "rawConfidence": 61,
+              "correct": false
             }
           },
           "noData": false,
@@ -35451,7 +34279,7 @@
             "moneyline": {
               "pick": "Tai Tuivasa",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 74,
+              "rawConfidence": 75,
               "correct": false
             },
             "method": {
@@ -35459,12 +34287,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -35513,12 +34335,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": false
             }
           },
@@ -35605,12 +34421,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -35813,12 +34623,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -35867,12 +34671,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 54.8,
               "rawConfidence": 57,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -35942,12 +34740,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -36016,12 +34808,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 72,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -36353,12 +35139,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 85,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
             }
           },
           "noData": false,
@@ -36419,12 +35199,6 @@
               "pick": "Christian Leroy Duncan",
               "calibratedConfidence": 69.3,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": true
             }
           },
@@ -36780,12 +35554,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 80,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 53,
-              "correct": true
             }
           },
           "noData": false,
@@ -36835,12 +35603,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 82,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -36888,14 +35650,8 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 83,
+              "rawConfidence": 82,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -37098,12 +35854,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
-              "correct": false
             }
           },
           "noData": false,
@@ -37183,12 +35933,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -37367,12 +36111,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 61,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -37502,12 +36240,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -37882,18 +36614,6 @@
               "calibratedConfidence": 71.1,
               "rawConfidence": 85,
               "correct": false
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 47,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": true
             }
           },
           "noData": false,
@@ -38226,12 +36946,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -38544,12 +37258,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -38581,12 +37289,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -38795,7 +37497,7 @@
             "moneyline": {
               "pick": "Cody Durden",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 63,
+              "rawConfidence": 66,
               "correct": false
             },
             "method": {
@@ -38914,12 +37616,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -39006,12 +37702,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -39115,12 +37805,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -39214,12 +37898,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -39361,12 +38039,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -39570,12 +38242,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 58,
-              "correct": true
             }
           },
           "noData": false,
@@ -39606,12 +38272,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 74,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": false
             }
           },
@@ -39716,12 +38376,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -39905,12 +38559,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -39978,12 +38626,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 77,
               "correct": true
             }
           },
@@ -40478,12 +39120,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 67,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 69,
-              "correct": false
             }
           },
           "noData": false,
@@ -40515,12 +39151,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 87,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -40605,12 +39235,6 @@
               "pick": "Submission",
               "calibratedConfidence": 54.8,
               "rawConfidence": 59,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -40887,12 +39511,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 51,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -41127,12 +39745,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 78,
               "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 70,
-              "correct": true
             }
           },
           "noData": false,
@@ -41182,12 +39794,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 84,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -41219,12 +39825,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 54,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": false
             }
           },
           "noData": false,
@@ -41361,11 +39961,11 @@
               "rawConfidence": 52,
               "correct": false
             },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
-              "correct": false
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 64,
+              "rawConfidence": 71,
+              "correct": true
             }
           },
           "noData": false,
@@ -41440,12 +40040,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 74,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 3.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 52,
               "correct": true
             }
           },
@@ -41552,12 +40146,6 @@
               "calibratedConfidence": 54.8,
               "rawConfidence": 51,
               "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -41643,12 +40231,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 54.8,
               "rawConfidence": 60,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
               "correct": true
             }
           },
@@ -41778,12 +40360,6 @@
               "calibratedConfidence": 64,
               "rawConfidence": 86,
               "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
             }
           },
           "noData": false,
@@ -41904,13 +40480,7 @@
             "method": {
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
-              "rawConfidence": 83,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
+              "rawConfidence": 82,
               "correct": true
             }
           },
@@ -42077,12 +40647,6 @@
               "pick": "KO/TKO",
               "calibratedConfidence": 64,
               "rawConfidence": 87,
-              "correct": false
-            },
-            "duration": {
-              "pick": "UNDER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 80,
               "correct": false
             }
           },
@@ -42283,267 +40847,6 @@
             "resultType": "Submission",
             "round": 1,
             "time": "4:49"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        }
-      ]
-    },
-    {
-      "dateKey": "02-09-2023",
-      "eventName": "UFC Fight Night: Gane vs. Spivac",
-      "location": "Paris, Ile-de-France, France",
-      "fights": [
-        {
-          "fighter1": "Serghei Spivac (Polar Bear)",
-          "fighter2": "Ciryl Gane (Bon Gamin)",
-          "fighter1Image": "img/serghei_spivac.png",
-          "fighter2Image": "img/ciryl_gane.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 5,
-          "actual": {
-            "winner": "Ciryl Gane",
-            "resultType": "KO",
-            "round": 2,
-            "time": "3:44"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Serghei Spivac",
-              "calibratedConfidence": 69.3,
-              "rawConfidence": 78,
-              "correct": false
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 26.7,
-              "rawConfidence": 45,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 70,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Manon Fiorot (The Beast)",
-          "fighter2": "Rose Namajunas (Thug)",
-          "fighter1Image": "img/manon_fiorot.png",
-          "fighter2Image": "img/rose_namajunas.png",
-          "weightClass": "W_Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Manon Fiorot",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Manon Fiorot",
-              "calibratedConfidence": 70,
-              "rawConfidence": 81,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 64,
-              "rawConfidence": 74,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 80.3,
-              "rawConfidence": 92,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Thiago Moises",
-          "fighter2": "Benoit Saint Denis (God of War)",
-          "fighter1Image": "img/thiago_moises.png",
-          "fighter2Image": "img/benoit_saint_denis.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Benoit Saint Denis",
-            "resultType": "KO",
-            "round": 2,
-            "time": "4:44"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Benoit Saint Denis",
-              "calibratedConfidence": 69.3,
-              "rawConfidence": 74,
-              "correct": true
-            },
-            "method": {
-              "pick": "KO/TKO",
-              "calibratedConfidence": 64,
-              "rawConfidence": 62,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 78,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Volkan Oezdemir (No Time)",
-          "fighter2": "Bogdan Guskov (Hitman)",
-          "fighter1Image": "img/volkan_oezdemir.png",
-          "fighter2Image": "img/bogdan_guskov.png",
-          "weightClass": "Light_Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Volkan Oezdemir",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "3:46"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Yanis Ghemmouri (The Desert Warrior)",
-          "fighter2": "William Gomis (Jaguar)",
-          "fighter1Image": "img/yanis_ghemmouri.png",
-          "fighter2Image": "img/william_gomis.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "William Gomis",
-            "resultType": "KO",
-            "round": 3,
-            "time": "2:20"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Manolo Zecchini (Angelo Veneziano)",
-          "fighter2": "Morgan Charriere (The Last Pirate)",
-          "fighter1Image": "img/manolo_zecchini.png",
-          "fighter2Image": "img/morgan_charriere.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Morgan Charriere",
-            "resultType": "KO",
-            "round": 1,
-            "time": "3:51"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Caolan Loughran (The Don)",
-          "fighter2": "Taylor Lapilus (Double Impact)",
-          "fighter1Image": "img/caolan_loughran.png",
-          "fighter2Image": "img/taylor_lapilus.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Taylor Lapilus",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Rhys McKee (Skeletor)",
-          "fighter2": "Ange Loosa (The Last Ninja)",
-          "fighter1Image": "img/rhys_mckee.png",
-          "fighter2Image": "img/ange_loosa.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Ange Loosa",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Joselyne Edwards (La Pantera)",
-          "fighter2": "Nora Cornolle",
-          "fighter1Image": "img/joselyne_edwards.png",
-          "fighter2Image": "img/nora_cornolle.png",
-          "weightClass": "W_Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Nora Cornolle",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Farid Basharat (Ferocious)",
-          "fighter2": "Kleydson Rodrigues (KR)",
-          "fighter1Image": "img/farid_basharat.png",
-          "fighter2Image": "img/kleydson_rodrigues.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Farid Basharat",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "4:15"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Zarah Fairn (Infinite)",
-          "fighter2": "Jacqueline Cavalcanti",
-          "fighter1Image": "img/zarah_fairn.png",
-          "fighter2Image": "img/jacqueline_cavalcanti.png",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Jacqueline Cavalcanti",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
           },
           "prediction": {},
           "noData": true,

@@ -1,22 +1,451 @@
 {
-  "generatedAt": "2026-09-02T08:12:47.333Z",
+  "generatedAt": "2026-09-05T22:23:11.675Z",
   "provenance": {
-    "appVersion": "1.1.58",
+    "appVersion": "1.1.60",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 9,
-    "totalFights": 115,
-    "abstentions": 65,
-    "winnerCorrect": 31,
-    "winnerAttempts": 49,
-    "methodCorrect": 21,
-    "methodAttempts": 47,
-    "durationCorrect": 26,
-    "durationAttempts": 49,
-    "dimensionsWithConfidence": 145
+    "totalEvents": 10,
+    "totalFights": 129,
+    "abstentions": 72,
+    "winnerCorrect": 33,
+    "winnerAttempts": 56,
+    "methodCorrect": 25,
+    "methodAttempts": 53,
+    "durationCorrect": 31,
+    "durationAttempts": 55,
+    "dimensionsWithConfidence": 164
   },
   "events": [
+    {
+      "dateKey": "05-09-2026",
+      "eventName": "UFC Fight Night: Hooker vs. Parnasse",
+      "location": "Paris, Ile-de-France, France",
+      "fights": [
+        {
+          "fightId": "5849763c94a16a97",
+          "fightOrder": 1,
+          "fighter1": "Salahdine Parnasse",
+          "fighter2": "Dan Hooker",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b3cb9dfccff3be76",
+          "fighter2Url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
+          "fighter1Image": "img/salahdine_parnasse_lion_of_atlas.png",
+          "fighter2Image": "img/dan_hooker.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b3cb9dfccff3be76",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:35"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "cbab5685ccbe9219",
+          "fightOrder": 2,
+          "fighter1": "Axel Sola",
+          "fighter2": "Fares Ziam",
+          "fighter1Url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
+          "fighter2Url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
+          "fighter1Image": "img/axel_sola.png",
+          "fighter2Image": "img/fares_ziam.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:40"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
+              "label": "Fares Ziam",
+              "correct": false,
+              "rawConfidence": 60,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 72,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-14T13:26:39.434561+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "97dd06aa407c5cf7",
+          "fightOrder": 3,
+          "fighter1": "Michael Page",
+          "fighter2": "Nursulton Ruziboev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a67d071163962af8",
+          "fighter2Url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
+          "fighter1Image": "img/michael_page.png",
+          "fighter2Image": "img/nursulton_ruziboev.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/a67d071163962af8",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
+              "label": "Nursulton Ruziboev",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 71,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 91,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-07-16T12:55:59.05325+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "8f09de4e9a329e16",
+          "fightOrder": 4,
+          "fighter1": "Daniil Donchenko",
+          "fighter2": "Punahele Soriano",
+          "fighter1Url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/64facb6cc564262d",
+          "fighter1Image": "img/daniil_donchenko.png",
+          "fighter2Image": "img/punahele_soriano.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/64facb6cc564262d",
+              "label": "Punahele Soriano",
+              "correct": false,
+              "rawConfidence": 66,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 91,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "2039cecad5d18c58",
+          "fightOrder": 5,
+          "fighter1": "Kurtis Campbell",
+          "fighter2": "Trevor Peek",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
+          "fighter1Image": "img/kurtis_campbell_the_pink_panther.png",
+          "fighter2Image": "img/trevor_peek.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "3:07"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "6bf8dd64c5c5bd25",
+          "fightOrder": 6,
+          "fighter1": "Losene Keita",
+          "fighter2": "Muhammad Naimov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
+          "fighter1Image": "img/losene_keita.png",
+          "fighter2Image": "img/muhammad_naimov.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:54"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "567738303f03b5eb",
+          "fightOrder": 7,
+          "fighter1": "Felipe Lima",
+          "fighter2": "Morgan Charriere",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9256f591b30c073e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5b03b61f9d90125e",
+          "fighter1Image": "img/felipe_lima.png",
+          "fighter2Image": "img/morgan_charriere.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/9256f591b30c073e",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/5b03b61f9d90125e",
+              "label": "Morgan Charriere",
+              "correct": false,
+              "rawConfidence": 52,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-05T08:03:05.687577+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "ff096f49f7342a1d",
+          "fightOrder": 8,
+          "fighter1": "Mario Pinto",
+          "fighter2": "Ryan Spann",
+          "fighter1Url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
+          "fighter1Image": "img/mario_pinto.png",
+          "fighter2Image": "img/ryan_spann.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/39d309957c5c210d",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:55"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/39d309957c5c210d",
+              "label": "Mario Pinto",
+              "correct": true,
+              "rawConfidence": 80,
+              "calibratedConfidence": 69.3
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bdb19b38436bb157",
+          "fightOrder": 9,
+          "fighter1": "Modestas Bukauskas",
+          "fighter2": "Oumar Sy",
+          "fighter1Url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/46e2011d92463b7e",
+          "fighter1Image": "img/modestas_bukauskas.png",
+          "fighter2Image": "img/oumar_sy.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:57"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/476fe566d2df676e",
+              "label": "Modestas Bukauskas",
+              "correct": true,
+              "rawConfidence": 72,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 70,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 89,
+              "calibratedConfidence": 79
+            }
+          },
+          "pickedAt": "2026-08-14T13:26:39.434561+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "6a8ed545b3ff7cb1",
+          "fightOrder": 10,
+          "fighter1": "Pavel Andrusca",
+          "fighter2": "Nathaniel Wood",
+          "fighter1Url": "http://ufcstats.com/fighter-details/93f9c19ae41d2a97",
+          "fighter2Url": "http://ufcstats.com/fighter-details/329e403448756217",
+          "fighter1Image": "img/pavel_andrusca.png",
+          "fighter2Image": "img/nathaniel_wood.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/93f9c19ae41d2a97",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "e423581b7d530f26",
+          "fightOrder": 11,
+          "fighter1": "Fabia Sintes",
+          "fighter2": "Michael Aljarouj",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9911989cf48b195d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/22e3458965d5d08a",
+          "fighter1Image": "img/fabia_sintes_el_potro_menorquin.png",
+          "fighter2Image": "img/michael_aljarouj_the_soldier.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/9911989cf48b195d",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "a8e28d94457e01c4",
+          "fightOrder": 12,
+          "fighter1": "Nora Cornolle",
+          "fighter2": "Klaudia Sygula",
+          "fighter1Url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
+          "fighter1Image": "img/nora_cornolle.png",
+          "fighter2Image": "img/klaudia_sygula.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
+              "label": "Klaudia Sygula",
+              "correct": false,
+              "rawConfidence": 54,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-14T13:26:39.434561+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "747e9bab7e1ecbae",
+          "fightOrder": 13,
+          "fighter1": "Matthieu Duclos",
+          "fighter2": "Luis Felipe Dias",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ec322adbabbfa6e7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/33a86e839ad202d8",
+          "fighter1Image": "img/matthieu_duclos.png",
+          "fighter2Image": "img/luis_felipe_dias.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/ec322adbabbfa6e7",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:35"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "22bdd3ec06bed78e",
+          "fightOrder": 14,
+          "fighter1": "Delphine Benouaich",
+          "fighter2": "Sofia Montenegro",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3138df4d117ebc12",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8b1b051038354655",
+          "fighter1Image": "img/delphine_benouaich.png",
+          "fighter2Image": "img/sofia_montenegro_la_bruja_1.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/3138df4d117ebc12",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "4:22"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "29-08-2026",
       "eventName": "UFC Fight Night: Nurmagomedov vs. Song",
@@ -570,7 +999,7 @@
               "calibratedConfidence": 80.4
             }
           },
-          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
+          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
           "abstained": false
         },
         {
@@ -715,7 +1144,7 @@
               "calibratedConfidence": 64.2
             }
           },
-          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
+          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
           "abstained": false
         },
         {

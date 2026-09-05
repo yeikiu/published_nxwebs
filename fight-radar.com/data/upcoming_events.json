@@ -1,209 +1,4 @@
 {
-  "05-09-2026": {
-    "date": "05-09-2026",
-    "name": "UFC Fight Night: Hooker vs. Parnasse",
-    "location": "Paris, Ile-de-France, France",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Dan Hooker (The Hangman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Salahdine Parnasse",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b3cb9dfccff3be76",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Fares Ziam (The Smile Killer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e4f273069fb9e85",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Axel Sola",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Michael Page (Venom)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a67d071163962af8",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nursulton Ruziboev (Black)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
-          "division_ranking": "15"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Daniil Donchenko",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Punahele Soriano (Puna)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64facb6cc564262d",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kurtis Campbell (The Pink Panther)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Trevor Peek",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Losene Keita (Black Panther)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Muhammad Naimov (Hillman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Morgan Charriere (The Last Pirate)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b03b61f9d90125e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Felipe Lima (Jungle Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9256f591b30c073e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mario Pinto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Ryan Spann (Superman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
-          "division_ranking": "15"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Oumar Sy",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/46e2011d92463b7e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Modestas Bukauskas (The Baltic Gladiator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/476fe566d2df676e",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nathaniel Wood (The Prospect)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/329e403448756217",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Pavel Andrusca",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/93f9c19ae41d2a97",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Michael Aljarouj",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/22e3458965d5d08a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Fabia Sintes",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9911989cf48b195d",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nora Cornolle",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
-          "division_ranking": "13"
-        },
-        "fighter2": {
-          "name": "Klaudia Sygula",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
-          "division_ranking": "15"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Matthieu Duclos",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ec322adbabbfa6e7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Felipe Dias",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/33a86e839ad202d8",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Delphine Benouaich",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3138df4d117ebc12",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sofia Montenegro",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8b1b051038354655",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1327,
-    "startTime": "2026-09-05T16:00Z"
-  },
   "12-09-2026": {
     "date": "12-09-2026",
     "name": "Noche UFC: Silva vs. Delgado",
@@ -337,16 +132,16 @@
       },
       {
         "fighter1": {
-          "name": "Ramiro Jimenez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1c02b964466c10e4",
+          "name": "Drakkar Klose",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7cbf7c78d3b34218",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Rodrigo Vera (El Gato Loco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2b266e623e20737a",
+          "name": "Tommy Gantt",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de83f920fd302871",
           "division_ranking": ""
         },
-        "weightClass": "Featherweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -361,6 +156,20 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Sean King III",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/41523699f37d400c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jessie Rosas",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1026588fa65693f",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -498,44 +307,16 @@
       },
       {
         "fighter1": {
-          "name": "Edmen Shahbazyan (The Golden Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+          "name": "Michael Aswell Jr. (The Texas Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Giga Chikadze (Ninja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Joanderson Brito (Tubarao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "name": "JooSang Yoo (Zombie Jr.)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Casey O'Neill (King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Eduarda Moura (Ronda)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a",
-          "division_ranking": "13"
-        },
-        "weightClass": "Women's Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -554,13 +335,41 @@
       },
       {
         "fighter1": {
-          "name": "Michael Aswell Jr. (The Texas Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
+          "name": "Edmen Shahbazyan (The Golden Boy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "JooSang Yoo (Zombie Jr.)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
+          "name": "Brunno Ferreira (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Casey O'Neill (King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Eduarda Moura (Ronda)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a",
+          "division_ranking": "13"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Giga Chikadze (Ninja)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Joanderson Brito (Tubarao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -733,9 +542,23 @@
   },
   "03-10-2026": {
     "date": "03-10-2026",
-    "name": "UFC 332",
+    "name": "UFC 332: Silva vs. Wang",
     "location": "Salt Lake City, Utah, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Natalia Silva",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/262d32ebda89efc4",
+          "division_ranking": "1"
+        },
+        "fighter2": {
+          "name": "Wang Cong (The Joker)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2997e7fe3c9d3d4a",
+          "division_ranking": "8"
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Deiveson Figueiredo (Deus da Guerra)",
@@ -748,7 +571,7 @@
           "division_ranking": "11"
         },
         "weightClass": "Bantamweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
@@ -834,7 +657,9 @@
         "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1338,
+    "startTime": "2026-10-03T21:00Z"
   },
   "10-10-2026": {
     "date": "10-10-2026",
