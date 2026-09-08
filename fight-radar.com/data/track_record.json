@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:23:11.675Z",
+  "generatedAt": "2026-09-05T22:25:52.919Z",
   "provenance": {
     "appVersion": "1.1.60",
     "radarCompetitorId": "fight-radar"
@@ -163,7 +163,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "pickedAt": "2026-08-27T08:04:32.805393+00:00",
           "abstained": false
         },
         {
@@ -275,7 +275,7 @@
               "calibratedConfidence": 69.3
             }
           },
-          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "pickedAt": "2026-09-01T08:06:35.371838+00:00",
           "abstained": false
         },
         {
@@ -999,7 +999,7 @@
               "calibratedConfidence": 80.4
             }
           },
-          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
+          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
           "abstained": false
         },
         {
@@ -1144,7 +1144,7 @@
               "calibratedConfidence": 64.2
             }
           },
-          "pickedAt": "2026-08-16T04:40:51.408709+00:00",
+          "pickedAt": "2026-08-16T04:44:23.496342+00:00",
           "abstained": false
         },
         {

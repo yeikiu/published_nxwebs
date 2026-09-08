@@ -575,30 +575,30 @@
       },
       {
         "fighter1": {
-          "name": "Johnny Walker",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "name": "King Green",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Mick Parkin",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
-          "division_ranking": "14"
+          "name": "Esteban Ribovics (El Gringo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/323d4ca260dfa0ba",
+          "division_ranking": ""
         },
-        "weightClass": "Heavyweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
         "fighter1": {
-          "name": "Marvin Vettori (The Italian Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "name": "Khaos Williams (The OxFighter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2558ae2e5671e318",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Ismail Naurdiev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "name": "Roberto Soldic",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5a229cbd9cdd28ca",
           "division_ranking": ""
         },
-        "weightClass": "Middleweight",
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -645,6 +645,62 @@
       },
       {
         "fighter1": {
+          "name": "Marcus McGhee (The Maniac)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c0ac37a4a1133da9",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Benardo Sopaj (Lion King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b6c37948cb226e8c",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Johnny Walker",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mick Parkin",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
+          "division_ranking": "14"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Rafael Dos Anjos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a2f7c151031653d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alexander Hernandez (El Gran Chango)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/262a7d06203657e6",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marvin Vettori (The Italian Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ismail Naurdiev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6a96ad1bc34fb113",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Court McGee (The Crusher)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/523fa774700d7d3f",
           "division_ranking": ""
@@ -659,7 +715,7 @@
       }
     ],
     "ufcEventId": 1338,
-    "startTime": "2026-10-03T21:00Z"
+    "startTime": "2026-10-03T20:00Z"
   },
   "10-10-2026": {
     "date": "10-10-2026",
@@ -948,6 +1004,20 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alexander Volkov (Drago)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/279566840aa55bf2",
+          "division_ranking": "2"
+        },
+        "fighter2": {
+          "name": "Rizvan Kuniev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
+          "division_ranking": "7"
+        },
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ],
