@@ -1,0 +1,98 @@
+{
+  "event": "Noche UFC: Silva vs. Delgado",
+  "event_date": "12 de septiembre de 2026",
+  "event_date_iso": "2026-09-12",
+  "generated_at": "2026-09-09T08:06:04Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Jean Silva",
+      "fighter_b": "Jose Delgado",
+      "slug_a": "jean-silva",
+      "slug_b": "jose-delgado",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_jean-silva_vs_jose-delgado.html",
+        "en": "newsletter/2026-09-12/en/newsletter_jean-silva_vs_jose-delgado.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_jean-silva_vs_jose-delgado.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_jean-silva_vs_jose-delgado.html"
+      }
+    },
+    {
+      "fighter_a": "Manon Fiorot",
+      "fighter_b": "Alexa Grasso",
+      "slug_a": "manon-fiorot",
+      "slug_b": "alexa-grasso",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_manon-fiorot_vs_alexa-grasso.html",
+        "en": "newsletter/2026-09-12/en/newsletter_manon-fiorot_vs_alexa-grasso.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_manon-fiorot_vs_alexa-grasso.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_manon-fiorot_vs_alexa-grasso.html"
+      }
+    },
+    {
+      "fighter_a": "Waldo Cortes Acosta",
+      "fighter_b": "Curtis Blaydes",
+      "slug_a": "waldo-cortes-acosta",
+      "slug_b": "curtis-blaydes",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_waldo-cortes-acosta_vs_curtis-blaydes.html",
+        "en": "newsletter/2026-09-12/en/newsletter_waldo-cortes-acosta_vs_curtis-blaydes.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_waldo-cortes-acosta_vs_curtis-blaydes.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_waldo-cortes-acosta_vs_curtis-blaydes.html"
+      }
+    },
+    {
+      "fighter_a": "David Martinez",
+      "fighter_b": "Dan Ige",
+      "slug_a": "david-martinez",
+      "slug_b": "dan-ige",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_david-martinez_vs_dan-ige.html",
+        "en": "newsletter/2026-09-12/en/newsletter_david-martinez_vs_dan-ige.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_david-martinez_vs_dan-ige.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_david-martinez_vs_dan-ige.html"
+      }
+    },
+    {
+      "fighter_a": "Tim Elliott",
+      "fighter_b": "Edgar Chairez",
+      "slug_a": "tim-elliott",
+      "slug_b": "edgar-chairez",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_tim-elliott_vs_edgar-chairez.html",
+        "en": "newsletter/2026-09-12/en/newsletter_tim-elliott_vs_edgar-chairez.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_tim-elliott_vs_edgar-chairez.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_tim-elliott_vs_edgar-chairez.html"
+      }
+    },
+    {
+      "fighter_a": "Ignacio Bahamondes",
+      "fighter_b": "Muslim Salikhov",
+      "slug_a": "ignacio-bahamondes",
+      "slug_b": "muslim-salikhov",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_ignacio-bahamondes_vs_muslim-salikhov.html",
+        "en": "newsletter/2026-09-12/en/newsletter_ignacio-bahamondes_vs_muslim-salikhov.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_ignacio-bahamondes_vs_muslim-salikhov.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_ignacio-bahamondes_vs_muslim-salikhov.html"
+      }
+    },
+    {
+      "fighter_a": "Rafa Garcia",
+      "fighter_b": "Rongzhu",
+      "slug_a": "rafa-garcia",
+      "slug_b": "rongzhu",
+      "files": {
+        "es": "newsletter/2026-09-12/es/newsletter_rafa-garcia_vs_rongzhu.html",
+        "en": "newsletter/2026-09-12/en/newsletter_rafa-garcia_vs_rongzhu.html",
+        "pt": "newsletter/2026-09-12/pt/newsletter_rafa-garcia_vs_rongzhu.html",
+        "fr": "newsletter/2026-09-12/fr/newsletter_rafa-garcia_vs_rongzhu.html"
+      }
+    }
+  ]
+}

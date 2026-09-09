@@ -148,7 +148,7 @@
         "fighter1": {
           "name": "Rafa Garcia (Gifted)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "fighter2": {
           "name": "Rongzhu",
@@ -398,62 +398,6 @@
       },
       {
         "fighter1": {
-          "name": "Melissa Amaya",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Valesca Machado",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Mehemmedeli Osmanli",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ilimbek Akylbek Uulu",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Montel Jackson (Quik)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Ricky Simon",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rodolfo Bellato (Trator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Christian Edwards (Pain)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Rodolfo Vieira",
           "ufcstats_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
           "division_ranking": ""
@@ -482,16 +426,30 @@
       },
       {
         "fighter1": {
-          "name": "John Castaneda (Sexi Mexi)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+          "name": "Mehemmedeli Osmanli",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Alatengheili (The Mongolian Knight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+          "name": "Ilimbek Akylbek Uulu",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Amaya",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Valesca Machado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
       },
       {
@@ -506,6 +464,48 @@
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Rodolfo Bellato (Trator)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Christian Edwards (Pain)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Montel Jackson (Quik)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Ricky Simon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "John Castaneda (Sexi Mexi)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alatengheili (The Mongolian Knight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -968,7 +968,7 @@
         "fighter1": {
           "name": "Abus Magomedov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
-          "division_ranking": "14"
+          "division_ranking": "12"
         },
         "fighter2": {
           "name": "Cam Rowston",
@@ -996,7 +996,7 @@
         "fighter1": {
           "name": "Grant Dawson (KGD)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Nurullo Aliev (Tajik Eagle)",

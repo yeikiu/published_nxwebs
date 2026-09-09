@@ -1,0 +1,52 @@
+{
+  "event": "Noche UFC: Silva vs. Delgado",
+  "event_date": "12 de septiembre de 2026",
+  "event_date_iso": "2026-09-12",
+  "fight": {
+    "fighter_a": "Manon Fiorot",
+    "fighter_b": "Alexa Grasso",
+    "prediction": "Manon Fiorot",
+    "confidence": 71,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Manon Fiorot",
+    "raw_fighter_b": "Alexa Grasso",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a></strong>, <strong>#2 del ranking peso mosca femenino</strong>, llega a este enfrentamiento con un récord total de carrera de 13-2-0, aunque en los últimos 36 meses su forma es más ajustada: 2-1-0 en 3 peleas, incluida una derrota reciente el 10-05-2025. Su radar muestra una identidad clara: golpeo defensivo de 63, derribo defensivo de 83 y, sobre todo, un control de 75 que sugiere capacidad para imponer ritmo y posición durante los tres asaltos.\nDel otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Alexa+Grasso\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexa Grasso</a></strong>, <strong>#3 del ranking peso mosca femenino</strong>, acumula un récord total de 17-5-1, pero su tramo reciente ha sido irregular: 1-2-1 en 4 peleas en los últimos 36 meses, con dos derrotas y un empate en ese periodo. Donde <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Alexa+Grasso\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexa Grasso</a> destaca es en la amenaza de finalización, con un valor de 100 que contrasta con su control de apenas 14, un indicador de que su vía de éxito pasa por momentos puntuales más que por dominio sostenido. El derribo ofensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Alexa+Grasso\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexa Grasso</a> (25) frente al derribo defensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a> (83) marca una de las brechas más claras del cruce."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a></strong> llega como favorita clara ante <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Alexa+Grasso\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Alexa Grasso</a></strong> en este duelo divisional.\nLa ventaja decisiva está en el <strong>control (75/100)</strong> y el derribo defensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a>.\nEl desenlace más probable apunta a que la pelea llegue a la <strong>tarjeta de los jueces</strong>."
+    ],
+    "fight_conclusions": [
+      "Con <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a> apoyada en un control y una defensa de derribo muy superiores, el radar inclina la balanza de forma notable. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Manon+Fiorot+%28The+Beast%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Manon Fiorot</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

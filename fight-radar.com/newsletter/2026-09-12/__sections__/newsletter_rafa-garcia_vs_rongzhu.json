@@ -1,0 +1,52 @@
+{
+  "event": "Noche UFC: Silva vs. Delgado",
+  "event_date": "12 de septiembre de 2026",
+  "event_date_iso": "2026-09-12",
+  "fight": {
+    "fighter_a": "Rafa Garcia",
+    "fighter_b": "Rongzhu",
+    "prediction": "Rafa Garcia",
+    "confidence": 64,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Rafa Garcia",
+    "raw_fighter_b": "Rongzhu",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a></strong>, <strong>#15 del ranking peso ligero</strong>, llega a este combate con un récord total de carrera de 19-4-0 y una forma reciente de 3-1-0 en sus últimas 4 peleas, incluyendo una derrota el 12-10-2024. Desde entonces ha encadenado tres victorias consecutivas, la más reciente el 25-04-2026, lo que sugiere una trayectoria ascendente de cara a este enfrentamiento de ranking. Su fortaleza más clara está en el derribo defensivo (73/100), respaldada por un golpeo defensivo sólido de 61/100.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rongzhu\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rongzhu</a></strong>, sin ranking oficial en el top 15, presenta un récord total de carrera de 27-6-0 y una forma reciente de 2-1-0 en 3 peleas, con una derrota el 07-09-2024 seguida de dos victorias, la última el 23-08-2025. En el plano estadístico destaca por un golpeo ofensivo ligeramente superior (52/100) y un derribo defensivo notable de 82/100, aunque su amenaza de finalización es prácticamente nula (0/100), lo que contrasta con el 33/100 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a>. Este dato estadístico decisivo sugiere que, si la pelea llega a los golpes limpios, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a> tiene más recursos para buscar un desenlace anticipado, aunque el control de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a> (53/100) frente al de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rongzhu\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rongzhu</a> (31/100) también podría inclinar el ritmo del combate a su favor durante las 3 rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a></strong> llega como favorito con un 64% de probabilidad según el radar.\nAmbos peleadores acumulan una derrota reciente en los últimos 36 meses, factor que iguala el terreno.\nEl método más probable de finalización apunta a la <strong>decisión</strong>, en un combate que puede irse a los jueces."
+    ],
+    "fight_conclusions": [
+      "Ambos peleadores llegan con méritos recientes que hacen de este un enfrentamiento parejo sobre el papel. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Rafa+Garcia+%28Gifted%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Rafa Garcia</a> con un 64% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
