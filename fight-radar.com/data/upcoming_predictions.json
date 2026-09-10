@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-09T08:04:18.779Z",
+  "generatedAt": "2026-09-10T08:02:14.887Z",
   "provenance": {
-    "fightersCsvSha256": "739716ed6f47898ae7ed7009cde6c2327a7cca7e74c179c67042764b50db62fb",
-    "upcomingEventsSha256": "85227ac6c3f3506dce371592248db033519b20460d462a0f2b153292b02913ae",
-    "appVersion": "1.1.62"
+    "fightersCsvSha256": "b3c778c2ca2f26a6162816f091f2502f6a9690726605ff70047a5ee62c24825d",
+    "upcomingEventsSha256": "7e6a5877212310e2a5ac5deab3bb1e10ef5259157c5d5120651fe3f51ced2792",
+    "appVersion": "1.1.63"
   },
   "summary": {
     "totalEvents": 9,
-    "totalFights": 72,
+    "totalFights": 73,
     "predictedFights": 43,
-    "noDataFights": 29
+    "noDataFights": 30
   },
   "events": [
     {
@@ -411,7 +411,7 @@
           "fighter2Url": "http://ufcstats.com/fighter-details/5ef94841c4bc3f86",
           "fighter1Image": "img/tim_elliott.png",
           "fighter2Image": "img/edgar_chairez.png",
-          "weightClass": "Flyweight",
+          "weightClass": "Catch Weight",
           "scheduledRounds": 3,
           "prediction": {
             "moneyline": {
@@ -421,8 +421,8 @@
               "calibratedConfidence": 69.3,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
-                "adjustedScore1": 246.27,
-                "adjustedScore2": 60.84
+                "adjustedScore1": 246.24,
+                "adjustedScore2": 61.5
               }
             },
             "methods": [
@@ -3560,6 +3560,29 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "1de8377c6267009d",
+          "fighter1": "Javad Mahjoub",
+          "fighter2": "Louie Sutherland (Vanilla Gorilla)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e9f9add1481fc11c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
+          "fighter2Image": "img/louie_sutherland_vanilla_gorilla.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     },
