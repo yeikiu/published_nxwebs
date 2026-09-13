@@ -1,193 +1,4 @@
 {
-  "12-09-2026": {
-    "date": "12-09-2026",
-    "name": "Noche UFC: Silva vs. Delgado",
-    "location": "Glendale, Arizona, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Jean Silva (Lord)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/52ef95b5860fb28c",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Jose Delgado",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Brandon Moreno (The Assassin Baby)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Joseph Morales (Bopo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2fe9032955c2e013",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tommy McMillen (Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marwan Rahiki (Freaky)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Manon Fiorot (The Beast)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/34ff304266360297",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Alexa Grasso",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
-          "division_ranking": "3"
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Waldo Cortes Acosta (Salsa Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Curtis Blaydes (Razor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
-          "division_ranking": "6"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "David Martinez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa",
-          "division_ranking": "8"
-        },
-        "fighter2": {
-          "name": "Dan Ige (100K)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/82a5152216251682",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tim Elliott",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Edgar Chairez (Puro Chicali)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5ef94841c4bc3f86",
-          "division_ranking": ""
-        },
-        "weightClass": "Catch Weight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ignacio Bahamondes (La Jaula)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Muslim Salikhov (King of Kung Fu)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/447f9858ae78f921",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Yousri Belgaroui",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Djorden Santos (Shakur)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/312f7d7b2b2f7de4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Drakkar Klose",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7cbf7c78d3b34218",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tommy Gantt",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de83f920fd302871",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Rafa Garcia (Gifted)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Rongzhu",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a13d755965a4ec9f",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Sean King III",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/41523699f37d400c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jessie Rosas",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1026588fa65693f",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "JJ Aldrich",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6fd953151d981979",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Regina Tarin (Kill Bill)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9f5609dba6584ab2",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      }
-    ]
-  },
   "19-09-2026": {
     "date": "19-09-2026",
     "name": "UFC 331: Van vs. Pantoja 2",
@@ -897,6 +708,20 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cody Chovancek",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3c4320a1b6106611",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "SuYoung You (Yoo-Jitsu)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ],
