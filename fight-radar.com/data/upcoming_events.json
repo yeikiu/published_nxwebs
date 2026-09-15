@@ -48,20 +48,6 @@
       },
       {
         "fighter1": {
-          "name": "Renato Moicano",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Brian Ortega (T-City)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Alonzo Menifield (Atomic)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f",
           "division_ranking": "14"
@@ -186,7 +172,9 @@
         "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
-    ]
+    ],
+    "ufcEventId": 1335,
+    "startTime": "2026-09-19T21:00Z"
   },
   "26-09-2026": {
     "date": "26-09-2026",
@@ -865,9 +853,23 @@
   },
   "31-10-2026": {
     "date": "31-10-2026",
-    "name": "UFC Fight Night",
+    "name": "UFC Fight Night: Moicano vs. Nolan",
     "location": "Las Vegas, Nevada, USA",
     "fights": [
+      {
+        "fighter1": {
+          "name": "Renato Moicano",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Tom Nolan (Big Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+          "division_ranking": "14"
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 5
+      },
       {
         "fighter1": {
           "name": "Nick Klein (Blue Collar)",
@@ -880,7 +882,7 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 5
+        "scheduledRounds": 3
       },
       {
         "fighter1": {
