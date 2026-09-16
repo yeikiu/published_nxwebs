@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-15T02:19:31.352Z",
+  "generatedAt": "2026-09-16T02:49:20.369Z",
   "provenance": {
-    "fightersCsvSha256": "1b7e64a824716b2fa08f74830f95726ef21696d9ffdcfb72b0dc6e750ddcb676",
-    "upcomingEventsSha256": "7cedd5672baad962216f4823eaf5c9d03371422c7c25797c31b7c9640db496d5",
-    "appVersion": "1.1.70"
+    "fightersCsvSha256": "8d25d94e792dbb0d17cd81dbbe15028c4f358691dd85c724a4bf2213447925be",
+    "upcomingEventsSha256": "163eea39f1971efa37a6b5963ba71365d1ae518766358a8c97cb2d4e04066f89",
+    "appVersion": "1.1.71"
   },
   "summary": {
     "totalEvents": 8,
-    "totalFights": 61,
+    "totalFights": 62,
     "predictedFights": 36,
-    "noDataFights": 25
+    "noDataFights": 26
   },
   "events": [
     {
       "dateKey": "19-09-2026",
       "eventName": "UFC 331: Van vs. Pantoja 2",
       "location": "Los Angeles, California, USA",
-      "startTime": "2026-09-19T21:00Z",
+      "startTime": "2026-09-19T21:30Z",
       "fights": [
         {
           "fightId": "796736692d527102",
@@ -265,6 +265,30 @@
           "noData": false
         },
         {
+          "fightId": "03f5809dccdd9e92",
+          "fighter1": "Gable Steveson",
+          "fighter2": "Sean Sharaf (The Smoke)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+          "fighter1Image": "img/gable_steveson.png",
+          "fighter2Image": "img/sean_sharaf.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
           "fightId": "6987c6dc7f06164f",
           "fighter1": "Alonzo Menifield (Atomic)",
           "fighter2": "Iwo Baraniewski (Rudy)",
@@ -340,30 +364,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "03f5809dccdd9e92",
-          "fighter1": "Gable Steveson",
-          "fighter2": "Sean Sharaf (The Smoke)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
-          "fighter2Url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
-          "fighter1Image": "img/gable_steveson.png",
-          "fighter2Image": "img/sean_sharaf.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
         },
         {
           "fightId": "38769f5ef6c78cfe",
@@ -2176,6 +2176,29 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "66a150d5babbe9a2",
+          "fighter1": "Anthony Wint (Bow Down)",
+          "fighter2": "Lucas Armand",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b34976c022b24568",
+          "fighter2Url": "http://ufcstats.com/fighter-details/20e04625a5395a06",
+          "fighter1Image": "img/anthony_wint_bow_down.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     },

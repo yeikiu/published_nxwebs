@@ -48,20 +48,6 @@
       },
       {
         "fighter1": {
-          "name": "Alonzo Menifield (Atomic)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Iwo Baraniewski (Rudy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Gable Steveson",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
           "division_ranking": ""
@@ -72,6 +58,20 @@
           "division_ranking": ""
         },
         "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alonzo Menifield (Atomic)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Iwo Baraniewski (Rudy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -167,14 +167,14 @@
         "fighter2": {
           "name": "Joanderson Brito (Tubarao)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1335,
-    "startTime": "2026-09-19T21:00Z"
+    "startTime": "2026-09-19T21:30Z"
   },
   "26-09-2026": {
     "date": "26-09-2026",
@@ -510,6 +510,20 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Anthony Wint (Bow Down)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b34976c022b24568",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Lucas Armand",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20e04625a5395a06",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ],
