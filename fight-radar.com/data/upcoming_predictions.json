@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T02:49:20.369Z",
+  "generatedAt": "2026-09-17T08:04:49.666Z",
   "provenance": {
-    "fightersCsvSha256": "8d25d94e792dbb0d17cd81dbbe15028c4f358691dd85c724a4bf2213447925be",
-    "upcomingEventsSha256": "163eea39f1971efa37a6b5963ba71365d1ae518766358a8c97cb2d4e04066f89",
-    "appVersion": "1.1.71"
+    "fightersCsvSha256": "42470e928290a1846116156dc2f90683963db8844c5d7e6b215d3994dd998965",
+    "upcomingEventsSha256": "2d0a456b7a1a8054a562f8a6cbf87fff63e392ed3c3edafa553c94df9d1fb8d7",
+    "appVersion": "1.1.72"
   },
   "summary": {
     "totalEvents": 8,
@@ -1062,7 +1062,7 @@
         {
           "fightId": "d565aac82b8c59f8",
           "fighter1": "Mehemmedeli Osmanli",
-          "fighter2": "Ilimbek Akylbek Uulu",
+          "fighter2": "Ilimbek Akylbek",
           "fighter1Url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
           "fighter2Url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
           "weightClass": "Bantamweight",
