@@ -1,22 +1,431 @@
 {
-  "generatedAt": "2026-09-16T03:28:45.822Z",
+  "generatedAt": "2026-09-20T04:48:00.608Z",
   "provenance": {
-    "appVersion": "1.1.71",
+    "appVersion": "1.1.72",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 11,
-    "totalFights": 142,
-    "abstentions": 78,
-    "winnerCorrect": 36,
-    "winnerAttempts": 63,
-    "methodCorrect": 28,
-    "methodAttempts": 60,
-    "durationCorrect": 34,
-    "durationAttempts": 58,
-    "dimensionsWithConfidence": 181
+    "totalEvents": 12,
+    "totalFights": 154,
+    "abstentions": 81,
+    "winnerCorrect": 42,
+    "winnerAttempts": 72,
+    "methodCorrect": 32,
+    "methodAttempts": 69,
+    "durationCorrect": 37,
+    "durationAttempts": 62,
+    "dimensionsWithConfidence": 203
   },
   "events": [
+    {
+      "dateKey": "19-09-2026",
+      "eventName": "UFC 331: Van vs. Pantoja 2",
+      "location": "Los Angeles, California, USA",
+      "fights": [
+        {
+          "fightId": "796736692d527102",
+          "fightOrder": 1,
+          "fighter1": "Joshua Van",
+          "fighter2": "Alexandre Pantoja",
+          "fighter1Url": "http://ufcstats.com/fighter-details/17e97649403ba428",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a0f0004aadf10b71",
+          "fighter1Image": "img/joshua_van.png",
+          "fighter2Image": "img/alexandre_pantoja.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/17e97649403ba428",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/17e97649403ba428",
+              "label": "Joshua Van",
+              "correct": true,
+              "rawConfidence": 89,
+              "calibratedConfidence": 80
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 72,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 87,
+              "calibratedConfidence": 79
+            }
+          },
+          "pickedAt": "2026-09-13T01:07:10.284415+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "4dcd30ca11238214",
+          "fightOrder": 2,
+          "fighter1": "Arman Tsarukyan",
+          "fighter2": "Mauricio Ruffy",
+          "fighter1Url": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
+          "fighter1Image": "img/arman_tsarukyan.png",
+          "fighter2Image": "img/mauricio_ruffy.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:56"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
+              "label": "Arman Tsarukyan",
+              "correct": true,
+              "rawConfidence": 76,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 76,
+              "calibratedConfidence": 64
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "ff2f80757d46275a",
+          "fightOrder": 3,
+          "fighter1": "Patricio Pitbull",
+          "fighter2": "Dooho Choi",
+          "fighter1Url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e93b04e308913c2e",
+          "fighter1Image": "img/patricio_freire.png",
+          "fighter2Image": "img/dooho_choi.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:28"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/e93b04e308913c2e",
+              "label": "Dooho Choi",
+              "correct": false,
+              "rawConfidence": 86,
+              "calibratedConfidence": 71.4
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 87,
+              "calibratedConfidence": 64
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "03f5809dccdd9e92",
+          "fightOrder": 4,
+          "fighter1": "Sean Sharaf",
+          "fighter2": "Gable Steveson",
+          "fighter1Url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+          "fighter2Url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
+          "fighter1Image": "img/sean_sharaf.png",
+          "fighter2Image": "img/gable_steveson.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+            "resultType": "KO",
+            "round": 1,
+            "time": "0:12"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "6987c6dc7f06164f",
+          "fightOrder": 5,
+          "fighter1": "Alonzo Menifield",
+          "fighter2": "Iwo Baraniewski",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a495f599e787614f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
+          "fighter1Image": "img/alonzo_menifield.png",
+          "fighter2Image": "img/iwo_baraniewski_rudy.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/a495f599e787614f",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
+              "label": "Iwo Baraniewski",
+              "correct": false,
+              "rawConfidence": 85,
+              "calibratedConfidence": 71.1
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 87,
+              "calibratedConfidence": 64
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "38769f5ef6c78cfe",
+          "fightOrder": 6,
+          "fighter1": "Marlon Vera",
+          "fighter2": "Charles Jourdain",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7c7332319c14094c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/f1d64ae34e088832",
+          "fighter1Image": "img/marlon_vera.png",
+          "fighter2Image": "img/charles_jourdain.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/7c7332319c14094c",
+            "resultType": "KO",
+            "round": 3,
+            "time": "2:02"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/f1d64ae34e088832",
+              "label": "Charles Jourdain",
+              "correct": false,
+              "rawConfidence": 84,
+              "calibratedConfidence": 71.1
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-06T09:26:21.908177+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "0e1717f1bc481b62",
+          "fightOrder": 7,
+          "fighter1": "Robelis Despaigne",
+          "fighter2": "Tai Tuivasa",
+          "fighter1Url": "http://ufcstats.com/fighter-details/140567899d98978a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
+          "fighter1Image": "img/robelis_despaigne.png",
+          "fighter2Image": "img/tai_tuivasa.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/140567899d98978a",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/140567899d98978a",
+              "label": "Robelis Despaigne",
+              "correct": true,
+              "rawConfidence": 80,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-06T09:26:21.908177+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "fcaebcfefbae27f6",
+          "fightOrder": 8,
+          "fighter1": "Michael Aswell Jr.",
+          "fighter2": "JooSang Yoo",
+          "fighter1Url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
+          "fighter1Image": "img/michael_aswell.png",
+          "fighter2Image": "img/joo_sang_yoo.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/01c9e4013afce141",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "98bbc7c1e6eb2e6f",
+          "fightOrder": 9,
+          "fighter1": "Ryan Gandra",
+          "fighter2": "Ozzy Diaz",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e463ce0a2ca474f4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6967153c7edb4d87",
+          "fighter1Image": "img/ryan_gandra.png",
+          "fighter2Image": "img/ozzy_diaz.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/e463ce0a2ca474f4",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:04"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "78af7cb01ae2c4cc",
+          "fightOrder": 10,
+          "fighter1": "Edmen Shahbazyan",
+          "fighter2": "Brunno Ferreira",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+          "fighter2Url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
+          "fighter1Image": "img/edmen_shahbazyan.png",
+          "fighter2Image": "img/brunno_ferreira.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+              "label": "Edmen Shahbazyan",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 67,
+              "calibratedConfidence": 64
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "b6fbfee26dac312e",
+          "fightOrder": 11,
+          "fighter1": "Casey O'Neill",
+          "fighter2": "Eduarda Moura",
+          "fighter1Url": "http://ufcstats.com/fighter-details/04835018f90b118c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a",
+          "fighter1Image": "img/casey_oneill.png",
+          "fighter2Image": "img/eduarda_moura.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/04835018f90b118c",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "3:22"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/04835018f90b118c",
+              "label": "Casey O'Neill",
+              "correct": true,
+              "rawConfidence": 58,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-06T09:26:21.908177+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "29ce022e64384672",
+          "fightOrder": 12,
+          "fighter1": "Joanderson Brito",
+          "fighter2": "Giga Chikadze",
+          "fighter1Url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
+          "fighter1Image": "img/joanderson_brito.png",
+          "fighter2Image": "img/giga_chikadze.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:57"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+              "label": "Joanderson Brito",
+              "correct": true,
+              "rawConfidence": 87,
+              "calibratedConfidence": 80
+            },
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 59,
+              "calibratedConfidence": 54.8
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        }
+      ]
+    },
     {
       "dateKey": "12-09-2026",
       "eventName": "Noche UFC: Silva vs. Delgado",

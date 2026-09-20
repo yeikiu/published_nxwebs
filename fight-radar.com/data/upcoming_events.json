@@ -1,181 +1,4 @@
 {
-  "19-09-2026": {
-    "date": "19-09-2026",
-    "name": "UFC 331: Van vs. Pantoja 2",
-    "location": "Los Angeles, California, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Joshua Van (The Fearless)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17e97649403ba428",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Alexandre Pantoja (The Cannibal)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a0f0004aadf10b71",
-          "division_ranking": "1"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Arman Tsarukyan (Ahalkalakets)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Mauricio Ruffy",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
-          "division_ranking": "7"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Patricio Freire (Pitbull)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Dooho Choi (The Korean Superboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e93b04e308913c2e",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Gable Steveson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Sean Sharaf (The Smoke)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alonzo Menifield (Atomic)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Iwo Baraniewski (Rudy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1c23ec2f1b71be40",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Marlon Vera (Chito)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7c7332319c14094c",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Charles Jourdain (Air)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f1d64ae34e088832",
-          "division_ranking": "12"
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tai Tuivasa (Bam Bam)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Robelis Despaigne (The Big Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/140567899d98978a",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Michael Aswell Jr. (The Texas Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/01c9e4013afce141",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "JooSang Yoo (Zombie Jr.)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ryan Gandra (Problema)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e463ce0a2ca474f4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Ozzy Diaz",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6967153c7edb4d87",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Edmen Shahbazyan (The Golden Boy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Casey O'Neill (King)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/04835018f90b118c",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Eduarda Moura (Ronda)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a",
-          "division_ranking": "13"
-        },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Giga Chikadze (Ninja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Joanderson Brito (Tubarao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
-          "division_ranking": "15"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1335,
-    "startTime": "2026-09-19T21:30Z"
-  },
   "26-09-2026": {
     "date": "26-09-2026",
     "name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
@@ -211,20 +34,6 @@
       },
       {
         "fighter1": {
-          "name": "Brady Hiestand (Bam Bam)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Rinya Nakamura (Hybred)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Mehemmedeli Osmanli",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
           "division_ranking": ""
@@ -253,16 +62,16 @@
       },
       {
         "fighter1": {
-          "name": "Josiah Harrell (The Muscle Hamster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
+          "name": "Brady Hiestand (Bam Bam)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Elves Brener",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+          "name": "Rinya Nakamura (Hybred)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
           "division_ranking": ""
         },
-        "weightClass": "Lightweight",
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -281,6 +90,20 @@
       },
       {
         "fighter1": {
+          "name": "Elves Brener",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Josiah Harrell (The Muscle Hamster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Montel Jackson (Quik)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
           "division_ranking": "15"
@@ -288,20 +111,6 @@
         "fighter2": {
           "name": "Ricky Simon",
           "ufcstats_url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "John Castaneda (Sexi Mexi)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alatengheili (The Mongolian Knight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
@@ -319,6 +128,20 @@
           "division_ranking": "5"
         },
         "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "John Castaneda (Sexi Mexi)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alatengheili (The Mongolian Knight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -574,20 +397,6 @@
       },
       {
         "fighter1": {
-          "name": "Mandel Nallo (Mango)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8f4528c10bd34fab",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nate Landwehr (The Train)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Erin Blanchfield (Cold Blooded)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/669970f7feba8ecd",
           "division_ranking": "4"
@@ -616,16 +425,30 @@
       },
       {
         "fighter1": {
-          "name": "Jamey-Lyn Horth",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
+          "name": "Louis Jourdain",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/91cd52cb92dfdd52",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Katlyn Cerminara (Blonde Fighter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e872e9a9a902c045",
+          "name": "Timmy Cuamba (Twilight)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
           "division_ranking": ""
         },
-        "weightClass": "Women's Flyweight",
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mandel Nallo (Mango)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8f4528c10bd34fab",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nate Landwehr (The Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -644,34 +467,6 @@
       },
       {
         "fighter1": {
-          "name": "Melissa Croden (Scare)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Chelsea Chandler",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Louis Jourdain",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/91cd52cb92dfdd52",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Timmy Cuamba (Twilight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Julien Leblanc",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
           "division_ranking": ""
@@ -682,20 +477,6 @@
           "division_ranking": ""
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chad Anheliger (The Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Steven Koslow (Obi Won Shinobi The Pillow)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/84512339473dd300",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       },
       {
@@ -714,6 +495,48 @@
       },
       {
         "fighter1": {
+          "name": "Jamey-Lyn Horth",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Katlyn Cerminara (Blonde Fighter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e872e9a9a902c045",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Chad Anheliger (The Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Steven Koslow (Obi Won Shinobi The Pillow)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/84512339473dd300",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Croden (Scare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
+          "division_ranking": "15"
+        },
+        "fighter2": {
+          "name": "Chelsea Chandler",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Cody Chovancek",
           "ufcstats_url": "http://ufcstats.com/fighter-details/3c4320a1b6106611",
           "division_ranking": ""
@@ -728,7 +551,7 @@
       }
     ],
     "ufcEventId": 1332,
-    "startTime": "2026-10-17T20:00Z"
+    "startTime": "2026-10-17T21:00Z"
   },
   "24-10-2026": {
     "date": "24-10-2026",
@@ -934,6 +757,181 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      }
+    ]
+  },
+  "14-11-2026": {
+    "date": "14-11-2026",
+    "name": "UFC 334: Gane vs. Hokit",
+    "location": "New York City, New York, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Ciryl Gane (Bon Gamin)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+          "division_ranking": "1"
+        },
+        "fighter2": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": "4"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Kayla Harrison",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1af1170ed937cba7",
+          "division_ranking": "0"
+        },
+        "fighter2": {
+          "name": "Amanda Nunes (The Lioness)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/80fa8218c99f9c58",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Caio Borralho (The Natural)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Yousri Belgaroui",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Uros Medic (The Doctor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
+          "division_ranking": "12"
+        },
+        "fighter2": {
+          "name": "Kevin Holland (Trailblazer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3a46b268013afede",
+          "division_ranking": "14"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bilal Hasan (The IndoNinja)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Luis Gurule (Grim)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Stephen Thompson (Wonderboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4a28cb716c19157a",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Charles Radtke (Chuck Buffalo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Drew Dober",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Chris Duncan (The Problem)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jim Miller (A-10)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Terrance McKinney (T. Wrecks)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Donte Johnson (Lock Jaw)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Baisangur Susurkaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bia Mesquita (The Lady GOAT)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+          "division_ranking": "11"
+        },
+        "fighter2": {
+          "name": "Macy Chiasson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
+          "division_ranking": "8"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Adrian Yanez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Juan Diaz (Pegajoso)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nazim Sadykhov (Black Wolf)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jefferson Nascimento (Toddynho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ]
   }
