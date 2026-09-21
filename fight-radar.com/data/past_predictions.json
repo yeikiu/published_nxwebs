@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T04:47:25.624Z",
+  "generatedAt": "2026-09-21T04:00:29.648Z",
   "globalStats": {
     "totalFights": 1559,
-    "winnerCorrect": 486,
-    "winnerAttempts": 728,
-    "methodCorrect": 429,
-    "methodAttempts": 717,
+    "winnerCorrect": 485,
+    "winnerAttempts": 727,
+    "methodCorrect": 428,
+    "methodAttempts": 716,
     "durationCorrect": 348,
     "durationAttempts": 445,
     "noHistoryFights": 780,
-    "evenMatchupFights": 26,
+    "evenMatchupFights": 27,
     "nonOfficialFights": 25
   },
   "events": [
@@ -655,7 +655,7 @@
             "moneyline": {
               "pick": "Rafa Garcia",
               "calibratedConfidence": 69.3,
-              "rawConfidence": 69,
+              "rawConfidence": 67,
               "correct": false
             },
             "method": {
@@ -36159,27 +36159,15 @@
             "time": "5:00"
           },
           "prediction": {
-            "moneyline": {
-              "pick": "Fares Ziam",
-              "calibratedConfidence": 69.3,
-              "rawConfidence": 51,
-              "correct": true
-            },
-            "method": {
-              "pick": "Decision",
-              "calibratedConfidence": 64,
-              "rawConfidence": 74,
-              "correct": true
-            },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 80.3,
-              "rawConfidence": 92,
+              "calibratedConfidence": 79,
+              "rawConfidence": 85,
               "correct": true
             }
           },
           "noData": false,
-          "evenMatchup": false,
+          "evenMatchup": true,
           "nonOfficial": false
         },
         {

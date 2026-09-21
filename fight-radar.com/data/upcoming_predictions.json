@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T04:47:58.286Z",
+  "generatedAt": "2026-09-21T04:02:28.717Z",
   "provenance": {
     "fightersCsvSha256": "701835509a4894029feff5bc2cdc79cf9a55a3db9e282c1bc2a833ddf479307b",
-    "upcomingEventsSha256": "7374167ff8ccfb43814ca5a76fb577f3785f2ecf3de35b49b413aa1265420b79",
-    "appVersion": "1.1.72"
+    "upcomingEventsSha256": "68e1c734e1d05ba20f55bf5b74a47bd11a7c44031460c6d97721b9e515f3cdce",
+    "appVersion": "1.1.74"
   },
   "summary": {
     "totalEvents": 8,
@@ -227,7 +227,7 @@
         {
           "fightId": "6fecb44f98b3bd05",
           "fighter1": "Melissa Amaya",
-          "fighter2": "Valesca Machado",
+          "fighter2": "Tina Black",
           "fighter1Url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
           "fighter2Url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
           "weightClass": "Women's Strawweight",
