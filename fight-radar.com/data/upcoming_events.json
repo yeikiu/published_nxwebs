@@ -146,6 +146,20 @@
       },
       {
         "fighter1": {
+          "name": "Mickey Gall",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9e50097a89442158",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sedriques Dumas (The Reaper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Vanessa Demopoulos (Lil Monster)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/2c483cf443f38ece",
           "division_ranking": ""

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T04:02:28.717Z",
+  "generatedAt": "2026-09-21T21:46:55.391Z",
   "provenance": {
-    "fightersCsvSha256": "701835509a4894029feff5bc2cdc79cf9a55a3db9e282c1bc2a833ddf479307b",
-    "upcomingEventsSha256": "68e1c734e1d05ba20f55bf5b74a47bd11a7c44031460c6d97721b9e515f3cdce",
-    "appVersion": "1.1.74"
+    "fightersCsvSha256": "8e75aa6481f8c14a9ff5094f1e137305c9e97f9be38c03eabd0387308cc41a7a",
+    "upcomingEventsSha256": "fbe6fbff3286dc1eb19be9609f07de14550864edce66b2303eb5f1cbb3fd0bd5",
+    "appVersion": "1.1.75"
   },
   "summary": {
     "totalEvents": 8,
-    "totalFights": 62,
+    "totalFights": 63,
     "predictedFights": 35,
-    "noDataFights": 27
+    "noDataFights": 28
   },
   "events": [
     {
@@ -593,6 +593,30 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "7be0d202f40b55f4",
+          "fighter1": "Mickey Gall",
+          "fighter2": "Sedriques Dumas (The Reaper)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9e50097a89442158",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "fighter1Image": "img/mickey_gall.png",
+          "fighter2Image": "img/sedriques_dumas.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         },
         {
           "fightId": "4434729656fad9a6",
