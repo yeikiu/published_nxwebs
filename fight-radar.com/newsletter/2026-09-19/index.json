@@ -1,0 +1,122 @@
+{
+  "event": "UFC 331: Van vs. Pantoja 2",
+  "event_date": "19 de septiembre de 2026",
+  "event_date_iso": "2026-09-19",
+  "generated_at": "2026-09-16T02:51:36Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Joshua Van",
+      "fighter_b": "Alexandre Pantoja",
+      "slug_a": "joshua-van",
+      "slug_b": "alexandre-pantoja",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_joshua-van_vs_alexandre-pantoja.html",
+        "en": "newsletter/2026-09-19/en/newsletter_joshua-van_vs_alexandre-pantoja.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_joshua-van_vs_alexandre-pantoja.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_joshua-van_vs_alexandre-pantoja.html"
+      }
+    },
+    {
+      "fighter_a": "Arman Tsarukyan",
+      "fighter_b": "Mauricio Ruffy",
+      "slug_a": "arman-tsarukyan",
+      "slug_b": "mauricio-ruffy",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_arman-tsarukyan_vs_mauricio-ruffy.html",
+        "en": "newsletter/2026-09-19/en/newsletter_arman-tsarukyan_vs_mauricio-ruffy.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_arman-tsarukyan_vs_mauricio-ruffy.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_arman-tsarukyan_vs_mauricio-ruffy.html"
+      }
+    },
+    {
+      "fighter_a": "Patricio Freire",
+      "fighter_b": "Dooho Choi",
+      "slug_a": "patricio-freire",
+      "slug_b": "dooho-choi",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_patricio-freire_vs_dooho-choi.html",
+        "en": "newsletter/2026-09-19/en/newsletter_patricio-freire_vs_dooho-choi.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_patricio-freire_vs_dooho-choi.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_patricio-freire_vs_dooho-choi.html"
+      }
+    },
+    {
+      "fighter_a": "Alonzo Menifield",
+      "fighter_b": "Iwo Baraniewski",
+      "slug_a": "alonzo-menifield",
+      "slug_b": "iwo-baraniewski",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_alonzo-menifield_vs_iwo-baraniewski.html",
+        "en": "newsletter/2026-09-19/en/newsletter_alonzo-menifield_vs_iwo-baraniewski.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_alonzo-menifield_vs_iwo-baraniewski.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_alonzo-menifield_vs_iwo-baraniewski.html"
+      }
+    },
+    {
+      "fighter_a": "Marlon Vera",
+      "fighter_b": "Charles Jourdain",
+      "slug_a": "marlon-vera",
+      "slug_b": "charles-jourdain",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_marlon-vera_vs_charles-jourdain.html",
+        "en": "newsletter/2026-09-19/en/newsletter_marlon-vera_vs_charles-jourdain.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_marlon-vera_vs_charles-jourdain.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_marlon-vera_vs_charles-jourdain.html"
+      }
+    },
+    {
+      "fighter_a": "Tai Tuivasa",
+      "fighter_b": "Robelis Despaigne",
+      "slug_a": "tai-tuivasa",
+      "slug_b": "robelis-despaigne",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_tai-tuivasa_vs_robelis-despaigne.html",
+        "en": "newsletter/2026-09-19/en/newsletter_tai-tuivasa_vs_robelis-despaigne.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_tai-tuivasa_vs_robelis-despaigne.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_tai-tuivasa_vs_robelis-despaigne.html"
+      }
+    },
+    {
+      "fighter_a": "Edmen Shahbazyan",
+      "fighter_b": "Brunno Ferreira",
+      "slug_a": "edmen-shahbazyan",
+      "slug_b": "brunno-ferreira",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_edmen-shahbazyan_vs_brunno-ferreira.html",
+        "en": "newsletter/2026-09-19/en/newsletter_edmen-shahbazyan_vs_brunno-ferreira.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_edmen-shahbazyan_vs_brunno-ferreira.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_edmen-shahbazyan_vs_brunno-ferreira.html"
+      }
+    },
+    {
+      "fighter_a": "Casey O'Neill",
+      "fighter_b": "Eduarda Moura",
+      "slug_a": "casey-oneill",
+      "slug_b": "eduarda-moura",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_casey-oneill_vs_eduarda-moura.html",
+        "en": "newsletter/2026-09-19/en/newsletter_casey-oneill_vs_eduarda-moura.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_casey-oneill_vs_eduarda-moura.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_casey-oneill_vs_eduarda-moura.html"
+      }
+    },
+    {
+      "fighter_a": "Giga Chikadze",
+      "fighter_b": "Joanderson Brito",
+      "slug_a": "giga-chikadze",
+      "slug_b": "joanderson-brito",
+      "files": {
+        "es": "newsletter/2026-09-19/es/newsletter_giga-chikadze_vs_joanderson-brito.html",
+        "en": "newsletter/2026-09-19/en/newsletter_giga-chikadze_vs_joanderson-brito.html",
+        "pt": "newsletter/2026-09-19/pt/newsletter_giga-chikadze_vs_joanderson-brito.html",
+        "fr": "newsletter/2026-09-19/fr/newsletter_giga-chikadze_vs_joanderson-brito.html"
+      }
+    }
+  ]
+}
