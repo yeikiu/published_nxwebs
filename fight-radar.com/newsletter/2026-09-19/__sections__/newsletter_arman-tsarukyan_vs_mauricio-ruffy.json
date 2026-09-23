@@ -1,0 +1,52 @@
+{
+  "event": "UFC 331: Van vs. Pantoja 2",
+  "event_date": "19 de septiembre de 2026",
+  "event_date_iso": "2026-09-19",
+  "fight": {
+    "fighter_a": "Arman Tsarukyan",
+    "fighter_b": "Mauricio Ruffy",
+    "prediction": "Arman Tsarukyan",
+    "confidence": 76,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 76,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Arman Tsarukyan",
+    "raw_fighter_b": "Mauricio Ruffy",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Arman+Tsarukyan+%28Ahalkalakets%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Arman Tsarukyan</a></strong>, <strong>#2 del ranking</strong> peso ligero, llega a este combate con un récord total de carrera de 23-3-0 y una racha reciente intachable: 3-0-0 en los últimos 36 meses. Su perfil estadístico es el de un peleador completo, con un derribo defensivo de 85/100 y un control de 85/100 que le permiten dictar el ritmo desde cualquier posición, además de una amenaza de finalización de 67/100 que respalda su capacidad de cerrar peleas.\nFrente a él, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mauricio+Ruffy\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mauricio Ruffy</a></strong>, <strong>#7 del ranking</strong>, presenta un récord total de carrera de 14-2-0, con un tramo de 5-1-0 en los últimos 36 meses (ese registro incluye una derrota reciente). <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mauricio+Ruffy\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mauricio Ruffy</a> destaca por una amenaza de finalización elevada (80/100) y un golpeo ofensivo sólido de 57/100, pero su derribo ofensivo en 0/100 y un control de apenas 24/100 sugieren dificultades para sostener el ritmo si el combate se traslada al suelo, terreno donde <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Arman+Tsarukyan+%28Ahalkalakets%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Arman Tsarukyan</a> suele imponer condiciones."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Arman+Tsarukyan+%28Ahalkalakets%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Arman Tsarukyan</a></strong> llega como favorito claro sobre <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mauricio+Ruffy\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mauricio Ruffy</a> en este duelo de peso ligero.\nEl control (<strong>85/100</strong>) y el derribo defensivo del <strong>#2 del ranking</strong> marcan la diferencia técnica.\nEl <strong>KO/TKO</strong> aparece como la vía más probable de finalización, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Arman+Tsarukyan+%28Ahalkalakets%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Arman Tsarukyan</a> con un 76% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane. Con la pelea pactada a 3 rondas, la ventana para que cualquiera de los dos capitalice su poder de finalización será limitada."
+    ],
+    "conclusion": ""
+  }
+}
