@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+  "event_date": "26 de septiembre de 2026",
+  "event_date_iso": "2026-09-26",
+  "fight": {
+    "fighter_a": "Raul Rosas Jr.",
+    "fighter_b": "Raoni Barcelos",
+    "prediction": "Raul Rosas Jr.",
+    "confidence": 72,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 3.5 rounds",
+    "duration_prob": 88,
+    "raw_fighter_a": "Raul Rosas Jr.",
+    "raw_fighter_b": "Raoni Barcelos",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong>Raul Rosas Jr.</strong>, <strong>#12 del ranking peso gallo</strong>, llega a este duelo divisional con un récord total de carrera de 12-1-0 y una racha intachable en los últimos 36 meses: 4-0-0 en cuatro peleas. Su arma principal es el control, donde el radar le otorga un dominante 91/100, respaldado por un derribo ofensivo de 68/100 que sugiere capacidad real para imponer el ritmo desde la posición dominante.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Raoni+Barcelos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Raoni Barcelos</a></strong>, <strong>#13 del ranking peso gallo</strong>, no se queda atrás en forma reciente: acumula un 5-0-0 en los últimos 36 meses sobre un récord total de carrera de 22-5-0, la muestra más amplia entre los dos. Su fortaleza está en el golpeo, con un 52/100 ofensivo y 59/100 defensivo, además de un derribo defensivo notable de 86/100 que podría complicarle la tarea de grappling a Rosas Jr. Sin embargo, la amenaza de finalización de ambos es baja (25 y 20 respectivamente), lo que apunta a un enfrentamiento largo y técnico donde el control posicional puede inclinar la balanza en las tarjetas."
+    ],
+    "quick_reads": [
+      "<strong>Raul Rosas Jr.</strong> llega con racha perfecta reciente y el <strong>72%</strong> de probabilidad a su favor.\nEl control en el suelo es la gran ventaja de Rosas Jr., con un dominio de <strong>91/100</strong> frente al 75 de su rival.\nLa vía más probable de finalización es la <strong>decisión</strong>, sin importar quién gane."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan sin derrotas en su tramo reciente, lo que promete un enfrentamiento de alto nivel dentro de la clasificación. El radar favorece a Raul Rosas Jr. con un 72% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

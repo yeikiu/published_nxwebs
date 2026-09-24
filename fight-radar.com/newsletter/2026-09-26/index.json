@@ -1,0 +1,74 @@
+{
+  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+  "event_date": "26 de septiembre de 2026",
+  "event_date_iso": "2026-09-26",
+  "generated_at": "2026-09-23T08:06:14Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Raul Rosas Jr.",
+      "fighter_b": "Raoni Barcelos",
+      "slug_a": "raul-rosas-jr",
+      "slug_b": "raoni-barcelos",
+      "files": {
+        "es": "newsletter/2026-09-26/es/newsletter_raul-rosas-jr_vs_raoni-barcelos.html",
+        "en": "newsletter/2026-09-26/en/newsletter_raul-rosas-jr_vs_raoni-barcelos.html",
+        "pt": "newsletter/2026-09-26/pt/newsletter_raul-rosas-jr_vs_raoni-barcelos.html",
+        "fr": "newsletter/2026-09-26/fr/newsletter_raul-rosas-jr_vs_raoni-barcelos.html"
+      }
+    },
+    {
+      "fighter_a": "Rodolfo Vieira",
+      "fighter_b": "Robert Bryczek",
+      "slug_a": "rodolfo-vieira",
+      "slug_b": "robert-bryczek",
+      "files": {
+        "es": "newsletter/2026-09-26/es/newsletter_rodolfo-vieira_vs_robert-bryczek.html",
+        "en": "newsletter/2026-09-26/en/newsletter_rodolfo-vieira_vs_robert-bryczek.html",
+        "pt": "newsletter/2026-09-26/pt/newsletter_rodolfo-vieira_vs_robert-bryczek.html",
+        "fr": "newsletter/2026-09-26/fr/newsletter_rodolfo-vieira_vs_robert-bryczek.html"
+      }
+    },
+    {
+      "fighter_a": "Montel Jackson",
+      "fighter_b": "Ricky Simon",
+      "slug_a": "montel-jackson",
+      "slug_b": "ricky-simon",
+      "files": {
+        "es": "newsletter/2026-09-26/es/newsletter_montel-jackson_vs_ricky-simon.html",
+        "en": "newsletter/2026-09-26/en/newsletter_montel-jackson_vs_ricky-simon.html",
+        "pt": "newsletter/2026-09-26/pt/newsletter_montel-jackson_vs_ricky-simon.html",
+        "fr": "newsletter/2026-09-26/fr/newsletter_montel-jackson_vs_ricky-simon.html"
+      }
+    },
+    {
+      "fighter_a": "Norma Dumont",
+      "fighter_b": "Ailin Perez",
+      "slug_a": "norma-dumont",
+      "slug_b": "ailin-perez",
+      "files": {
+        "es": "newsletter/2026-09-26/es/newsletter_norma-dumont_vs_ailin-perez.html",
+        "en": "newsletter/2026-09-26/en/newsletter_norma-dumont_vs_ailin-perez.html",
+        "pt": "newsletter/2026-09-26/pt/newsletter_norma-dumont_vs_ailin-perez.html",
+        "fr": "newsletter/2026-09-26/fr/newsletter_norma-dumont_vs_ailin-perez.html"
+      }
+    },
+    {
+      "fighter_a": "John Castaneda",
+      "fighter_b": "Alatengheili",
+      "slug_a": "john-castaneda",
+      "slug_b": "alatengheili",
+      "files": {
+        "es": "newsletter/2026-09-26/es/newsletter_john-castaneda_vs_alatengheili.html",
+        "en": "newsletter/2026-09-26/en/newsletter_john-castaneda_vs_alatengheili.html",
+        "pt": "newsletter/2026-09-26/pt/newsletter_john-castaneda_vs_alatengheili.html",
+        "fr": "newsletter/2026-09-26/fr/newsletter_john-castaneda_vs_alatengheili.html"
+      }
+    }
+  ]
+}

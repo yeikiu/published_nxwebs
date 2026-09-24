@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+  "event_date": "26 de septiembre de 2026",
+  "event_date_iso": "2026-09-26",
+  "fight": {
+    "fighter_a": "Montel Jackson",
+    "fighter_b": "Ricky Simon",
+    "prediction": "Ricky Simon",
+    "confidence": 63,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Montel Jackson",
+    "raw_fighter_b": "Ricky Simon",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Montel+Jackson+%28Quik%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Montel Jackson</a></strong>, <strong>#15 del ranking peso gallo</strong>, defiende su posición dentro del top 15 con un récord total de carrera de 15-4-0, aunque su forma reciente preocupa: en los últimos 36 meses acumula 2-2-0, con derrotas en sus dos presentaciones más recientes (25-04-2026 y 11-10-2025). Su golpeo ofensivo (48) y su derribo defensivo (63) le dan herramientas para sostener el ritmo, pero su control (20) queda muy por debajo del de su rival.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ricky+Simon\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ricky Simon</a></strong>, sin ranking oficial en el top 15, presenta un récord total de carrera de 22-7-1, y en los últimos 36 meses suma 2-3-1 en seis peleas, con tres derrotas y un empate en ese tramo — una racha lejos de ser dominante. Sin embargo, su fortaleza está en el suelo: un derribo defensivo de 83 y un control de 96 sugieren que puede imponer el ritmo y neutralizar el volumen de golpeo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Montel+Jackson+%28Quik%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Montel Jackson</a> a lo largo de las tres rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ricky+Simon\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ricky Simon</a></strong> llega como favorito con un <strong>63%</strong> de probabilidad, pese a no figurar en el top 15.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Montel+Jackson+%28Quik%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Montel Jackson</a></strong>, <strong>#15 del ranking peso gallo</strong>, arrastra una racha irregular de <strong>2-2-0</strong> en sus últimos 36 meses.\nEl método más probable es la <strong>decisión</strong>, con <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ricky+Simon\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ricky Simon</a> apoyado en un control que roza el <strong>96/100</strong>."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan con rachas recientes cuestionables, lo que abre la puerta a una pelea reñida y táctica. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ricky+Simon\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ricky Simon</a> con un 63% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
