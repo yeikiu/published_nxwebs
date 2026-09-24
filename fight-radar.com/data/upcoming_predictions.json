@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T08:01:38.651Z",
+  "generatedAt": "2026-09-24T21:40:20.995Z",
   "provenance": {
-    "fightersCsvSha256": "063334969315b6de396902b7baf026b64240a17d00664b7cccb8dbcad95b634c",
-    "upcomingEventsSha256": "2aa9bda75129da65497d62c456cff1a662ff1df45cd90df6b873b905b038680a",
-    "appVersion": "1.1.80"
+    "fightersCsvSha256": "fa40d4f89ee41ea45fe01e5769a35af5f7f1ee53cb8209facc43bf7baffb8e54",
+    "upcomingEventsSha256": "4d2e946aca623e647dc44ecb75c3f599b89eb67880e77523252e62a20afe8d48",
+    "appVersion": "1.1.81"
   },
   "summary": {
     "totalEvents": 8,
@@ -111,6 +111,189 @@
           "noData": false
         },
         {
+          "fightId": "f44d11fe1afcbf12",
+          "fighter1": "Norma Dumont (The Immortal)",
+          "fighter2": "Ailin Perez (Fiona)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
+          "fighter2Url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
+          "fighter1Image": "img/norma_dumont.png",
+          "fighter2Image": "img/ailin_perez.png",
+          "weightClass": "Women's Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Ailin Perez",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 81,
+              "calibratedConfidence": 70,
+              "reasoningKey": "combat_analysis.reasoning.better_recent_record",
+              "metadata": {
+                "adjustedScore1": 379.01,
+                "adjustedScore2": 86.29
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 0,
+                  "finishRate2": 20
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.3,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 13.88
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "Ground control +2 minutes",
+                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
+                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 2.6,
+                    "f2TakedownRate": 12.93,
+                    "f1KnockdownRate": 0,
+                    "f2KnockdownRate": 0.2,
+                    "f1StrikeVolume": 539,
+                    "f2StrikeVolume": 317,
+                    "f1SubRate": 0,
+                    "f2SubRate": 0.2,
+                    "f1FinishRate": 0,
+                    "f2FinishRate": 20,
+                    "avgFightTime": 13.88,
+                    "weightedFinishRate": 16.2,
+                    "weightedAvgFightTime": 13.19
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "036a7bb1f888075d",
+          "fighter1": "Luis Hernandez",
+          "fighter2": "Sedriques Dumas (The Reaper)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5dad1e8a516e6477",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "fighter2Image": "img/sedriques_dumas.png",
+          "weightClass": "Light Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "d565aac82b8c59f8",
+          "fighter1": "Mahammadali Osmanli",
+          "fighter2": "Ilimbek Akylbek",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
+          "fighter2Url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "6fecb44f98b3bd05",
+          "fighter1": "Melissa Amaya",
+          "fighter2": "Tina Black",
+          "fighter1Url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
+          "weightClass": "Women's Strawweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "58926245197db71a",
+          "fighter1": "Brady Hiestand (Bam Bam)",
+          "fighter2": "Rinya Nakamura (Hybred)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
+          "fighter1Image": "img/brady_hiestand.png",
+          "fighter2Image": "img/rinya_nakamura.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
           "fightId": "f7e5a3d90aed3ed2",
           "fighter1": "Rodolfo Vieira",
           "fighter2": "Robert Bryczek",
@@ -201,74 +384,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "d565aac82b8c59f8",
-          "fighter1": "Mahammadali Osmanli",
-          "fighter2": "Ilimbek Akylbek",
-          "fighter1Url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
-          "fighter2Url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "6fecb44f98b3bd05",
-          "fighter1": "Melissa Amaya",
-          "fighter2": "Tina Black",
-          "fighter1Url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
-          "weightClass": "Women's Strawweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "58926245197db71a",
-          "fighter1": "Brady Hiestand (Bam Bam)",
-          "fighter2": "Rinya Nakamura (Hybred)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
-          "fighter1Image": "img/brady_hiestand.png",
-          "fighter2Image": "img/rinya_nakamura.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
         },
         {
           "fightId": "d2520ba632234057",
@@ -411,98 +526,6 @@
           "noData": false
         },
         {
-          "fightId": "f44d11fe1afcbf12",
-          "fighter1": "Norma Dumont (The Immortal)",
-          "fighter2": "Ailin Perez (Fiona)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
-          "fighter2Url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-          "fighter1Image": "img/norma_dumont.png",
-          "fighter2Image": "img/ailin_perez.png",
-          "weightClass": "Women's Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Ailin Perez",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 81,
-              "calibratedConfidence": 70,
-              "reasoningKey": "combat_analysis.reasoning.better_recent_record",
-              "metadata": {
-                "adjustedScore1": 379.01,
-                "adjustedScore2": 86.29
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 0,
-                  "finishRate2": 20
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 13.88
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.6,
-                    "f2TakedownRate": 12.93,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.2,
-                    "f1StrikeVolume": 539,
-                    "f2StrikeVolume": 317,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.2,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 20,
-                    "avgFightTime": 13.88,
-                    "weightedFinishRate": 16.2,
-                    "weightedAvgFightTime": 13.19
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
           "fightId": "1a1cd729a38cf781",
           "fighter1": "John Castaneda (Sexi Mexi)",
           "fighter2": "Alatengheili (The Mongolian Knight)",
@@ -593,30 +616,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "7be0d202f40b55f4",
-          "fighter1": "Mickey Gall",
-          "fighter2": "Sedriques Dumas (The Reaper)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/9e50097a89442158",
-          "fighter2Url": "http://ufcstats.com/fighter-details/4e6738062d469256",
-          "fighter1Image": "img/mickey_gall.png",
-          "fighter2Image": "img/sedriques_dumas.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
         },
         {
           "fightId": "4434729656fad9a6",
@@ -1188,11 +1187,11 @@
             "moneyline": {
               "pick": "Mick Parkin",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 75,
+              "rawConfidence": 74,
               "calibratedConfidence": 69.3,
               "reasoningKey": "combat_analysis.reasoning.significant_rating_advantage",
               "metadata": {
-                "adjustedScore1": 187.63,
+                "adjustedScore1": 174.88,
                 "adjustedScore2": 61.94
               }
             },
@@ -1236,8 +1235,8 @@
                     "f1FinishRate": 20,
                     "f2FinishRate": 25,
                     "avgFightTime": 9.64,
-                    "weightedFinishRate": 21.25,
-                    "weightedAvgFightTime": 10.86
+                    "weightedFinishRate": 21.1,
+                    "weightedAvgFightTime": 10.81
                   }
                 }
               }
@@ -3163,8 +3162,8 @@
               "calibratedConfidence": 69.3,
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
-                "adjustedScore1": 352.05,
-                "adjustedScore2": 103.77
+                "adjustedScore1": 352.08,
+                "adjustedScore2": 102.85
               }
             },
             "methods": [
