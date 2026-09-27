@@ -1,22 +1,381 @@
 {
-  "generatedAt": "2026-09-24T08:07:46.251Z",
+  "generatedAt": "2026-09-27T08:03:44.377Z",
   "provenance": {
-    "appVersion": "1.1.80",
+    "appVersion": "1.1.83",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 12,
-    "totalFights": 154,
-    "abstentions": 81,
-    "winnerCorrect": 42,
-    "winnerAttempts": 72,
-    "methodCorrect": 32,
-    "methodAttempts": 69,
-    "durationCorrect": 37,
-    "durationAttempts": 62,
-    "dimensionsWithConfidence": 203
+    "totalEvents": 13,
+    "totalFights": 166,
+    "abstentions": 88,
+    "winnerCorrect": 44,
+    "winnerAttempts": 77,
+    "methodCorrect": 35,
+    "methodAttempts": 74,
+    "durationCorrect": 42,
+    "durationAttempts": 67,
+    "dimensionsWithConfidence": 218
   },
   "events": [
+    {
+      "dateKey": "26-09-2026",
+      "eventName": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fightId": "d7c30bde69d5c8af",
+          "fightOrder": 1,
+          "fighter1": "Raul Rosas Jr.",
+          "fighter2": "Raoni Barcelos",
+          "fighter1Url": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
+          "fighter1Image": "img/raul_rosas_jr.png",
+          "fighter2Image": "img/raoni_barcelos.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
+            "resultType": "KO",
+            "round": 5,
+            "time": "1:38"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
+              "label": "Raul Rosas Jr.",
+              "correct": true,
+              "rawConfidence": 72,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 88,
+              "calibratedConfidence": 79
+            }
+          },
+          "pickedAt": "2026-08-19T08:01:44.973256+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "f44d11fe1afcbf12",
+          "fightOrder": 2,
+          "fighter1": "Ailin Perez",
+          "fighter2": "Norma Dumont",
+          "fighter1Url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
+          "fighter1Image": "img/ailin_perez.png",
+          "fighter2Image": "img/norma_dumont.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
+              "label": "Ailin Perez",
+              "correct": true,
+              "rawConfidence": 81,
+              "calibratedConfidence": 70
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "036a7bb1f888075d",
+          "fightOrder": 3,
+          "fighter1": "Luis Hernandez",
+          "fighter2": "Sedriques Dumas",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5dad1e8a516e6477",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+          "fighter1Image": "img/luis_hernandez_the_stache.png",
+          "fighter2Image": "img/sedriques_dumas.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/5dad1e8a516e6477",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "0:57"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "d565aac82b8c59f8",
+          "fightOrder": 4,
+          "fighter1": "Ilimbek Akylbek",
+          "fighter2": "Mahammadali Osmanli",
+          "fighter1Url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
+          "fighter1Image": "img/ilimbek_akylbek.png",
+          "fighter2Image": "img/mahammadali_osmanli_the_ineffable.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
+            "resultType": "DQ",
+            "round": 1,
+            "time": "2:19"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "6fecb44f98b3bd05",
+          "fightOrder": 5,
+          "fighter1": "Tina Black",
+          "fighter2": "Melissa Amaya",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
+          "fighter1Image": "img/tina_black.png",
+          "fighter2Image": "img/melissa_amaya_mamba.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:19"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "58926245197db71a",
+          "fightOrder": 6,
+          "fighter1": "Brady Hiestand",
+          "fighter2": "Rinya Nakamura",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
+          "fighter1Image": "img/brady_hiestand.png",
+          "fighter2Image": "img/rinya_nakamura.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "4:07"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "f7e5a3d90aed3ed2",
+          "fightOrder": 7,
+          "fighter1": "Rodolfo Vieira",
+          "fighter2": "Robert Bryczek",
+          "fighter1Url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
+          "fighter2Url": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
+          "fighter1Image": "img/rodolfo_vieira.png",
+          "fighter2Image": "img/robert_bryczek.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
+              "label": "Robert Bryczek",
+              "correct": false,
+              "rawConfidence": 76,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "d2520ba632234057",
+          "fightOrder": 8,
+          "fighter1": "Christian Edwards",
+          "fighter2": "Rodolfo Bellato",
+          "fighter1Url": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
+          "fighter2Url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+          "fighter1Image": "img/christian_edwards_pain.png",
+          "fighter2Image": "img/rodolfo_bellato.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
+            "resultType": "KO",
+            "round": 3,
+            "time": "1:47"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "c6be039aeffffe93",
+          "fightOrder": 9,
+          "fighter1": "Elves Brener",
+          "fighter2": "Josiah Harrell",
+          "fighter1Url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
+          "fighter1Image": "img/elves_brener.png",
+          "fighter2Image": "img/josiah_harrell_the_muscle_hamster.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:14"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "b1d5d6be47cd2609",
+          "fightOrder": 10,
+          "fighter1": "Montel Jackson",
+          "fighter2": "Ricky Simon",
+          "fighter1Url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
+          "fighter1Image": "img/montel_jackson.png",
+          "fighter2Image": "img/ricky_simon.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
+            "resultType": "KO",
+            "round": 2,
+            "time": "2:39"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
+              "label": "Ricky Simon",
+              "correct": false,
+              "rawConfidence": 63,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "1a1cd729a38cf781",
+          "fightOrder": 11,
+          "fighter1": "Alatengheili",
+          "fighter2": "John Castaneda",
+          "fighter1Url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+          "fighter1Image": "img/alatengheili.png",
+          "fighter2Image": "img/john_castaneda.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
+              "label": "John Castaneda",
+              "correct": false,
+              "rawConfidence": 52,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-08-27T08:01:33.538926+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "4434729656fad9a6",
+          "fightOrder": 12,
+          "fighter1": "Yazmin Jauregui",
+          "fighter2": "Vanessa Demopoulos",
+          "fighter1Url": "http://ufcstats.com/fighter-details/40cb680ae1cd331f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2c483cf443f38ece",
+          "fighter1Image": "img/yazmin_jauregui.png",
+          "fighter2Image": "img/vanessa_demopoulos.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/40cb680ae1cd331f",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:02"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "19-09-2026",
       "eventName": "UFC 331: Van vs. Pantoja 2",

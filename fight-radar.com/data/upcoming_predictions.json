@@ -1,648 +1,17 @@
 {
-  "generatedAt": "2026-09-24T21:40:20.995Z",
+  "generatedAt": "2026-09-27T08:03:41.515Z",
   "provenance": {
-    "fightersCsvSha256": "fa40d4f89ee41ea45fe01e5769a35af5f7f1ee53cb8209facc43bf7baffb8e54",
-    "upcomingEventsSha256": "4d2e946aca623e647dc44ecb75c3f599b89eb67880e77523252e62a20afe8d48",
-    "appVersion": "1.1.81"
+    "fightersCsvSha256": "7a22e144a08b2b838fa89fa867109647760fc31122ab4686cbd42a1114939074",
+    "upcomingEventsSha256": "d1395a63c6b5707d15596af12b263795f473508dfdc48f8df63d75c678610319",
+    "appVersion": "1.1.83"
   },
   "summary": {
-    "totalEvents": 8,
-    "totalFights": 64,
-    "predictedFights": 35,
-    "noDataFights": 29
+    "totalEvents": 7,
+    "totalFights": 57,
+    "predictedFights": 33,
+    "noDataFights": 24
   },
   "events": [
-    {
-      "dateKey": "26-09-2026",
-      "eventName": "UFC Fight Night: Rosas Jr. vs. Barcelos",
-      "location": "Las Vegas, Nevada, USA",
-      "startTime": "2026-09-26T21:00Z",
-      "fights": [
-        {
-          "fightId": "d7c30bde69d5c8af",
-          "fighter1": "Raul Rosas Jr. (El Nino Problema)",
-          "fighter2": "Raoni Barcelos",
-          "fighter1Url": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
-          "fighter1Image": "img/raul_rosas_jr.png",
-          "fighter2Image": "img/raoni_barcelos.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "moneyline": {
-              "pick": "Raul Rosas Jr.",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 72,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 367.6,
-                "adjustedScore2": 141.7
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 25,
-                  "finishRate2": 20
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 3.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_3_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 88,
-                "calibratedConfidence": 79,
-                "reasoningKey": "combat_analysis.reasoning.expected_extended_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_3_5_rounds",
-                "metadata": {
-                  "avgTime": 13.74
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 22.86,
-                    "f2TakedownRate": 13.65,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 175,
-                    "f2StrikeVolume": 469,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 1.2,
-                    "f1FinishRate": 25,
-                    "f2FinishRate": 20,
-                    "avgFightTime": 13.74,
-                    "weightedFinishRate": 20.8,
-                    "weightedAvgFightTime": 13.45
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/fe2babf95de24fb1",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "f44d11fe1afcbf12",
-          "fighter1": "Norma Dumont (The Immortal)",
-          "fighter2": "Ailin Perez (Fiona)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
-          "fighter2Url": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-          "fighter1Image": "img/norma_dumont.png",
-          "fighter2Image": "img/ailin_perez.png",
-          "weightClass": "Women's Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Ailin Perez",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 81,
-              "calibratedConfidence": 70,
-              "reasoningKey": "combat_analysis.reasoning.better_recent_record",
-              "metadata": {
-                "adjustedScore1": 379.01,
-                "adjustedScore2": 86.29
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 0,
-                  "finishRate2": 20
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 13.88
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.6,
-                    "f2TakedownRate": 12.93,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.2,
-                    "f1StrikeVolume": 539,
-                    "f2StrikeVolume": 317,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.2,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 20,
-                    "avgFightTime": 13.88,
-                    "weightedFinishRate": 16.2,
-                    "weightedAvgFightTime": 13.19
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/06e4245d16fc5315",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "036a7bb1f888075d",
-          "fighter1": "Luis Hernandez",
-          "fighter2": "Sedriques Dumas (The Reaper)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/5dad1e8a516e6477",
-          "fighter2Url": "http://ufcstats.com/fighter-details/4e6738062d469256",
-          "fighter2Image": "img/sedriques_dumas.png",
-          "weightClass": "Light Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "d565aac82b8c59f8",
-          "fighter1": "Mahammadali Osmanli",
-          "fighter2": "Ilimbek Akylbek",
-          "fighter1Url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
-          "fighter2Url": "http://ufcstats.com/fighter-details/130b65b53f30f33c",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "6fecb44f98b3bd05",
-          "fighter1": "Melissa Amaya",
-          "fighter2": "Tina Black",
-          "fighter1Url": "http://ufcstats.com/fighter-details/71758ab9f337716c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/a1a91dbf41a029c4",
-          "weightClass": "Women's Strawweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "58926245197db71a",
-          "fighter1": "Brady Hiestand (Bam Bam)",
-          "fighter2": "Rinya Nakamura (Hybred)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d8c811df0386d5e8",
-          "fighter1Image": "img/brady_hiestand.png",
-          "fighter2Image": "img/rinya_nakamura.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "f7e5a3d90aed3ed2",
-          "fighter1": "Rodolfo Vieira",
-          "fighter2": "Robert Bryczek",
-          "fighter1Url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
-          "fighter2Url": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
-          "fighter1Image": "img/rodolfo_vieira.png",
-          "fighter2Image": "img/robert_bryczek.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Robert Bryczek",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 76,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
-              "metadata": {
-                "adjustedScore1": 176.15,
-                "adjustedScore2": 56.98
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 20,
-                  "finishRate2": 33.33
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 13.17
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 12.16,
-                    "f2TakedownRate": 0.32,
-                    "f1KnockdownRate": 0.2,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 403,
-                    "f2StrikeVolume": 308,
-                    "f1SubRate": 0.4,
-                    "f2SubRate": 0.33,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 13.17,
-                    "weightedFinishRate": 27.73,
-                    "weightedAvgFightTime": 13.55
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/f96856f9d69fd7e4",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "d2520ba632234057",
-          "fighter1": "Rodolfo Bellato (Trator)",
-          "fighter2": "Christian Edwards (Pain)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/69898645d600abdb",
-          "fighter2Url": "http://ufcstats.com/fighter-details/f5d82eccdea4e2dd",
-          "fighter1Image": "img/rodolfo_bellato.png",
-          "fighter2Image": "img/christian_edwards_pain.png",
-          "weightClass": "Light Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "c6be039aeffffe93",
-          "fighter1": "Elves Brener",
-          "fighter2": "Josiah Harrell (The Muscle Hamster)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/e5864a42c80294f6",
-          "fighter1Image": "img/elves_brener.png",
-          "fighter2Image": "img/josiah_harrell_the_muscle_hamster.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "b1d5d6be47cd2609",
-          "fighter1": "Montel Jackson (Quik)",
-          "fighter2": "Ricky Simon",
-          "fighter1Url": "http://ufcstats.com/fighter-details/cc1a8b4b38b92c6d",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
-          "fighter1Image": "img/montel_jackson.png",
-          "fighter2Image": "img/ricky_simon.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Ricky Simon",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 63,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
-              "metadata": {
-                "adjustedScore1": 128.12,
-                "adjustedScore2": 75.11
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 25,
-                  "finishRate2": 16.67
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 12.23
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 4.33,
-                    "f2TakedownRate": 7.75,
-                    "f1KnockdownRate": 0.5,
-                    "f2KnockdownRate": 0.17,
-                    "f1StrikeVolume": 208,
-                    "f2StrikeVolume": 619,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 25,
-                    "f2FinishRate": 16.67,
-                    "avgFightTime": 12.23,
-                    "weightedFinishRate": 15.12,
-                    "weightedAvgFightTime": 12.47
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "1a1cd729a38cf781",
-          "fighter1": "John Castaneda (Sexi Mexi)",
-          "fighter2": "Alatengheili (The Mongolian Knight)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
-          "fighter1Image": "img/john_castaneda.png",
-          "fighter2Image": "img/alatengheili.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "John Castaneda",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 52,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 77.46,
-                "adjustedScore2": 71.55
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 0,
-                  "finishRate2": 0
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 15
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.22,
-                    "f2TakedownRate": 2.36,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 632,
-                    "f2StrikeVolume": 382,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 15,
-                    "weightedFinishRate": 0,
-                    "weightedAvgFightTime": 15
-                  }
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/5fa2974cbd18e05c",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "4434729656fad9a6",
-          "fighter1": "Vanessa Demopoulos (Lil Monster)",
-          "fighter2": "Yazmin Jauregui",
-          "fighter1Url": "http://ufcstats.com/fighter-details/2c483cf443f38ece",
-          "fighter2Url": "http://ufcstats.com/fighter-details/40cb680ae1cd331f",
-          "fighter1Image": "img/vanessa_demopoulos.png",
-          "fighter2Image": "img/yazmin_jauregui.png",
-          "weightClass": "Women's Strawweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        }
-      ]
-    },
     {
       "dateKey": "03-10-2026",
       "eventName": "UFC 332: Silva vs. Wang",
@@ -852,7 +221,7 @@
               "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
               "metadata": {
                 "adjustedScore1": 400.09,
-                "adjustedScore2": 91.37
+                "adjustedScore2": 91.9
               }
             },
             "methods": [
@@ -1489,6 +858,315 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "6078c31e66ff92dc",
+          "fighter1": "Matheus Camilo (Jaguar)",
+          "fighter2": "Jai Herbert (Black Country Banger)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4c88a1db5a46c6a4",
+          "fighter1Image": "img/matheus_camilo.png",
+          "fighter2Image": "img/jai_herbert.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Matheus Camilo",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 76,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 227.78,
+                "adjustedScore2": 71.8
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 33.33,
+                  "finishRate2": 33.33
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 91,
+                "calibratedConfidence": 80.3,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 9.54
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "Ground control +2 minutes",
+                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
+                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 10,
+                    "f2TakedownRate": 1.22,
+                    "f1KnockdownRate": 0.33,
+                    "f2KnockdownRate": 1,
+                    "f1StrikeVolume": 130,
+                    "f2StrikeVolume": 328,
+                    "f1SubRate": 0.33,
+                    "f2SubRate": 0,
+                    "f1FinishRate": 33.33,
+                    "f2FinishRate": 33.33,
+                    "avgFightTime": 9.54,
+                    "weightedFinishRate": 29.33,
+                    "weightedAvgFightTime": 8.95
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/72f890c5d421e705",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "439ffbe449b6c9dc",
+          "fighter1": "Loopy Godinez",
+          "fighter2": "Ketlen Souza (Esquentadinha)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+          "fighter1Image": "img/loopy_godinez.png",
+          "fighter2Image": "img/ketlen_souza.png",
+          "weightClass": "Women's Strawweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Ketlen Souza",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 77,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 218.01,
+                "adjustedScore2": 64.01
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 0,
+                  "finishRate2": 33.33
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.3,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 12.25
+                }
+              }
+            ],
+            "props": [
+              {
+                "pick": "OVER 100 strikes per fighter",
+                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
+                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 3.65,
+                    "f2TakedownRate": 3.14,
+                    "f1KnockdownRate": 0,
+                    "f2KnockdownRate": 0.33,
+                    "f1StrikeVolume": 850,
+                    "f2StrikeVolume": 478,
+                    "f1SubRate": 0.17,
+                    "f2SubRate": 0.17,
+                    "f1FinishRate": 0,
+                    "f2FinishRate": 33.33,
+                    "avgFightTime": 12.25,
+                    "weightedFinishRate": 25.67,
+                    "weightedAvgFightTime": 11.45
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "102ea4866774c732",
+          "fighter1": "Andre Fili (Touchy)",
+          "fighter2": "Kai Kamaka (The Fighting Hawaiian)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eee0ef3e2b14816b",
+          "fighter1Image": "img/andre_fili.png",
+          "fighter2Image": "img/kai_kamaka_the_fighting_hawaiian.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "b58939222386e87d",
+          "fighter1": "Julius Walker (Juice Box)",
+          "fighter2": "Gerald Meerschaert (GM3)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
+          "fighter1Image": "img/julius_walker.png",
+          "fighter2Image": "img/gerald_meerschaert.png",
+          "weightClass": "Light Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Julius Walker",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 51,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 73.42,
+                "adjustedScore2": 69.91
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 69,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 0,
+                  "finishRate2": 28.57
+                }
+              }
+            ],
+            "durations": [],
+            "props": [
+              {
+                "pick": "Ground control +2 minutes",
+                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
+                "titleKey": "betting_markets.fight_props",
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
+                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
+                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
+                "metadata": {
+                  "value": "HIGH",
+                  "valueKey": "combat_analysis.bet_values.high",
+                  "metrics": {
+                    "f1TakedownRate": 10.2,
+                    "f2TakedownRate": 9.93,
+                    "f1KnockdownRate": 0.25,
+                    "f2KnockdownRate": 0,
+                    "f1StrikeVolume": 255,
+                    "f2StrikeVolume": 292,
+                    "f1SubRate": 0,
+                    "f2SubRate": 0.86,
+                    "f1FinishRate": 0,
+                    "f2FinishRate": 28.57,
+                    "avgFightTime": 9.18,
+                    "weightedFinishRate": 7,
+                    "weightedAvgFightTime": 9.18
+                  }
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/6add18754930182b",
+            "method": "decision",
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "9cf4ef7897f9062c",
+          "fighter1": "Malcolm Wellmaker (The Machine)",
+          "fighter2": "Otari Tanzilovi",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b9124c308671e303",
+          "fighter1Image": "img/malcolm_wellmaker.png",
+          "fighter2Image": "img/otari_tanzilovi.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         }
       ]
     },
@@ -2167,7 +1845,7 @@
               "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
               "metadata": {
                 "adjustedScore1": 392.67,
-                "adjustedScore2": 96.38
+                "adjustedScore2": 98.08
               }
             },
             "methods": [
@@ -2264,20 +1942,33 @@
             },
             "methods": [
               {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 87,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
+                "rawConfidence": 60,
+                "calibratedConfidence": 54.8,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
-                  "method": "KO/TKO",
+                  "method": "Decision",
                   "finishRate1": 0,
                   "finishRate2": 66.67
                 }
               }
             ],
-            "durations": [],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 88,
+                "calibratedConfidence": 79,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 11.52
+                }
+              }
+            ],
             "props": [
               {
                 "pick": "OVER 100 strikes per fighter",
@@ -2311,8 +2002,10 @@
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
-            "method": "ko",
-            "duration": null
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
           },
           "contradictions": [],
           "noData": false
