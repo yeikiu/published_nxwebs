@@ -146,6 +146,20 @@
       },
       {
         "fighter1": {
+          "name": "Jacobe Smith (Cobe)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Bruce Whitehead",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6c39d016053601ee",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Rafael Dos Anjos",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6a2f7c151031653d",
           "division_ranking": ""

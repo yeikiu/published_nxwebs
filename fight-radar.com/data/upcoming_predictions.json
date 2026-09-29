@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T08:03:41.515Z",
+  "generatedAt": "2026-09-29T08:01:44.362Z",
   "provenance": {
     "fightersCsvSha256": "7a22e144a08b2b838fa89fa867109647760fc31122ab4686cbd42a1114939074",
-    "upcomingEventsSha256": "d1395a63c6b5707d15596af12b263795f473508dfdc48f8df63d75c678610319",
-    "appVersion": "1.1.83"
+    "upcomingEventsSha256": "7dcfd4e43a040b53435786435c7528259f9a8d2a60c90bc4ee9e3d7779d5de45",
+    "appVersion": "1.1.84"
   },
   "summary": {
     "totalEvents": 7,
-    "totalFights": 57,
+    "totalFights": 58,
     "predictedFights": 33,
-    "noDataFights": 24
+    "noDataFights": 25
   },
   "events": [
     {
@@ -618,6 +618,29 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "3abe213178ff7cd7",
+          "fighter1": "Jacobe Smith (Cobe)",
+          "fighter2": "Bruce Whitehead",
+          "fighter1Url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6c39d016053601ee",
+          "fighter1Image": "img/jacobe_smith.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": [],
+            "props": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "8baf212d348a86f1",
