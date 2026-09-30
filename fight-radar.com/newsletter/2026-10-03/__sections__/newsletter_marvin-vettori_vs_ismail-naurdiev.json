@@ -1,0 +1,52 @@
+{
+  "event": "UFC 332: Silva vs. Wang",
+  "event_date": "3 de octubre de 2026",
+  "event_date_iso": "2026-10-03",
+  "fight": {
+    "fighter_a": "Marvin Vettori",
+    "fighter_b": "Ismail Naurdiev",
+    "prediction": "Ismail Naurdiev",
+    "confidence": 82,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Marvin Vettori",
+    "raw_fighter_b": "Ismail Naurdiev",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marvin+Vettori+%28The+Italian+Dream%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marvin Vettori</a></strong> llega a este enfrentamiento con un récord total de carrera de 19-10-1, pero su presente reciente pinta un panorama complicado: en los últimos 36 meses acumula 0-3-0 en tres peleas, sin victorias en ese tramo. Sus métricas de Radar Fight muestran una defensa de derribo sólida (67/100) y una defensa de golpeo decente (54/100), pero su golpeo ofensivo (47/100) y, sobre todo, una amenaza de finalización en cero reflejan a un peleador que hoy depende casi por completo de sobrevivir rondas más que de imponer el ritmo.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismail+Naurdiev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismail Naurdiev</a></strong>, con un récord total de carrera de 25-8-0, aparece en mejor forma dentro del mismo lapso: 2-1-0 en sus últimas tres presentaciones, con una derrota que no debe pasarse por alto. Su perfil estadístico es superior en casi todos los frentes clave frente a su rival: golpeo ofensivo de 53, golpeo defensivo de 61, y una defensa de derribo notable de 82/100. Lo que más pesa a su favor es la amenaza de finalización de 50/100, un contraste marcado frente al cero de su oponente, lo que sugiere que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismail+Naurdiev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismail Naurdiev</a> tiene más recursos para buscar un desenlace anticipado si la oportunidad se presenta, aunque el pronóstico general del radar apunte a que la pelea se decida en las tarjetas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismail+Naurdiev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismail Naurdiev</a></strong> llega como favorito claro del radar en este duelo divisional.\n<a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marvin+Vettori+%28The+Italian+Dream%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marvin Vettori</a> arrastra una racha adversa: <strong>0-3-0</strong> en los últimos 36 meses.\nEl combate apunta a extenderse hasta las tarjetas: <strong>decisión</strong> es la vía más probable de cierre."
+    ],
+    "fight_conclusions": [
+      "Con <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marvin+Vettori+%28The+Italian+Dream%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marvin Vettori</a> luchando por revertir una racha negativa y <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismail+Naurdiev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismail Naurdiev</a> llegando con el impulso más sólido de los dos, el radar inclina claramente la balanza. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismail+Naurdiev\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismail Naurdiev</a> con un 82% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

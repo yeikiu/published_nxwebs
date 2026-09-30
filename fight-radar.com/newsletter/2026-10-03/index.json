@@ -1,0 +1,98 @@
+{
+  "event": "UFC 332: Silva vs. Wang",
+  "event_date": "3 de octubre de 2026",
+  "event_date_iso": "2026-10-03",
+  "generated_at": "2026-09-30T08:04:29Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Natalia Silva",
+      "fighter_b": "Wang Cong",
+      "slug_a": "natalia-silva",
+      "slug_b": "wang-cong",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_natalia-silva_vs_wang-cong.html",
+        "en": "newsletter/2026-10-03/en/newsletter_natalia-silva_vs_wang-cong.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_natalia-silva_vs_wang-cong.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_natalia-silva_vs_wang-cong.html"
+      }
+    },
+    {
+      "fighter_a": "Deiveson Figueiredo",
+      "fighter_b": "Payton Talbott",
+      "slug_a": "deiveson-figueiredo",
+      "slug_b": "payton-talbott",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_deiveson-figueiredo_vs_payton-talbott.html",
+        "en": "newsletter/2026-10-03/en/newsletter_deiveson-figueiredo_vs_payton-talbott.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_deiveson-figueiredo_vs_payton-talbott.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_deiveson-figueiredo_vs_payton-talbott.html"
+      }
+    },
+    {
+      "fighter_a": "King Green",
+      "fighter_b": "Esteban Ribovics",
+      "slug_a": "king-green",
+      "slug_b": "esteban-ribovics",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_king-green_vs_esteban-ribovics.html",
+        "en": "newsletter/2026-10-03/en/newsletter_king-green_vs_esteban-ribovics.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_king-green_vs_esteban-ribovics.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_king-green_vs_esteban-ribovics.html"
+      }
+    },
+    {
+      "fighter_a": "Ateba Gautier",
+      "fighter_b": "Roman Kopylov",
+      "slug_a": "ateba-gautier",
+      "slug_b": "roman-kopylov",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_ateba-gautier_vs_roman-kopylov.html",
+        "en": "newsletter/2026-10-03/en/newsletter_ateba-gautier_vs_roman-kopylov.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_ateba-gautier_vs_roman-kopylov.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_ateba-gautier_vs_roman-kopylov.html"
+      }
+    },
+    {
+      "fighter_a": "Marcus McGhee",
+      "fighter_b": "Benardo Sopaj",
+      "slug_a": "marcus-mcghee",
+      "slug_b": "benardo-sopaj",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_marcus-mcghee_vs_benardo-sopaj.html",
+        "en": "newsletter/2026-10-03/en/newsletter_marcus-mcghee_vs_benardo-sopaj.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_marcus-mcghee_vs_benardo-sopaj.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_marcus-mcghee_vs_benardo-sopaj.html"
+      }
+    },
+    {
+      "fighter_a": "Johnny Walker",
+      "fighter_b": "Mick Parkin",
+      "slug_a": "johnny-walker",
+      "slug_b": "mick-parkin",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_johnny-walker_vs_mick-parkin.html",
+        "en": "newsletter/2026-10-03/en/newsletter_johnny-walker_vs_mick-parkin.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_johnny-walker_vs_mick-parkin.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_johnny-walker_vs_mick-parkin.html"
+      }
+    },
+    {
+      "fighter_a": "Marvin Vettori",
+      "fighter_b": "Ismail Naurdiev",
+      "slug_a": "marvin-vettori",
+      "slug_b": "ismail-naurdiev",
+      "files": {
+        "es": "newsletter/2026-10-03/es/newsletter_marvin-vettori_vs_ismail-naurdiev.html",
+        "en": "newsletter/2026-10-03/en/newsletter_marvin-vettori_vs_ismail-naurdiev.html",
+        "pt": "newsletter/2026-10-03/pt/newsletter_marvin-vettori_vs_ismail-naurdiev.html",
+        "fr": "newsletter/2026-10-03/fr/newsletter_marvin-vettori_vs_ismail-naurdiev.html"
+      }
+    }
+  ]
+}

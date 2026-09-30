@@ -1,0 +1,52 @@
+{
+  "event": "UFC 332: Silva vs. Wang",
+  "event_date": "3 de octubre de 2026",
+  "event_date_iso": "2026-10-03",
+  "fight": {
+    "fighter_a": "Natalia Silva",
+    "fighter_b": "Wang Cong",
+    "prediction": "Natalia Silva",
+    "confidence": 75,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 2.5 rounds",
+    "duration_prob": 88,
+    "raw_fighter_a": "Natalia Silva",
+    "raw_fighter_b": "Wang Cong",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Natalia+Silva\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Natalia Silva</a></strong>, <strong>#1 del ranking peso mosca femenino</strong>, encabeza este duelo divisional con un récord total de carrera de 20-5-1 y una racha reciente intachable: 4-0-0 en sus últimos 4 combates en 36 meses. Su perfil estadístico está construido sobre la contención: un derribo defensivo de 88/100 y un golpeo defensivo de 67 sugieren que será muy difícil de someter o de dañar de forma sostenida, aunque su producción ofensiva (43 en golpeo, apenas 18 en control) indica que su plan pasará más por neutralizar que por dominar de forma aplastante.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a></strong>, situada en el <strong>#8 del ranking</strong>, se presenta con un récord total de 10-1-0 y una forma reciente de 5-1-0 en 6 peleas en el mismo periodo, tramo que incluye una derrota el 23-11-2024. Su Radar Fight es más agresivo: 58 en golpeo ofensivo y 67 en derribo ofensivo, con una amenaza de finalización de 20 que la convierte en la pieza con mayor capacidad de generar un final abrupto. El problema para <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a> es que enfrente tendrá un derribo defensivo de 88, una de las cifras más sólidas de la división, lo que podría neutralizar su principal recurso ofensivo a lo largo de las 5 rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Natalia+Silva\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Natalia Silva</a></strong> llega como favorita clara del duelo estelar de peso mosca femenino.\nSu derribo defensivo de <strong>88/100</strong> contrasta con el ataque de derribo de <strong>67</strong> de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wang+Cong+%28The+Joker%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wang Cong</a>.\nEl desenlace más probable apunta a <strong>decisión</strong>, sin importar quién se lleve la victoria."
+    ],
+    "fight_conclusions": [
+      "El choque entre la solidez defensiva de una y la variedad ofensiva de la otra promete un combate técnico de principio a fin. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Natalia+Silva\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Natalia Silva</a> con un 75% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
