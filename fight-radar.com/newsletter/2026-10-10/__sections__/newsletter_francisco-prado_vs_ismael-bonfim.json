@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Allen vs. Duncan",
+  "event_date": "10 de octubre de 2026",
+  "event_date_iso": "2026-10-10",
+  "fight": {
+    "fighter_a": "Francisco Prado",
+    "fighter_b": "Ismael Bonfim",
+    "prediction": "Ismael Bonfim",
+    "confidence": 71,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Francisco Prado",
+    "raw_fighter_b": "Ismael Bonfim",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste duelo divisional en peso ligero enfrenta a dos peleadores que buscan frenar una mala racha. <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francisco+Prado\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francisco Prado</a></strong>, sin ranking oficial en el top 15, llega con un récord total de carrera de 12-5-0, pero en los últimos 3 años su forma ha sido alarmante: 0-4-0 en sus últimas 4 peleas, con derrotas el 11-04-2026, el 19-07-2025, el 08-02-2025 y el 24-02-2024. Su golpeo defensivo (56/100) y su control (48/100) son sus mejores herramientas, pero su golpeo ofensivo apenas alcanza 42 y su juego de derribo ofensivo se queda en 25, un déficit que complica revertir la tendencia.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismael+Bonfim+%28Marreta%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismael Bonfim</a></strong>, también fuera del top 15, acumula un récord total de 20-7-0, superior en volumen al de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francisco+Prado\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francisco Prado</a>, aunque su tramo reciente tampoco es sólido: 1-3-0 en sus últimas 4 peleas, con una única victoria el 04-05-2024 y derrotas posteriores el 25-07-2026, el 08-11-2025 y el 15-02-2025. En el radar, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismael+Bonfim+%28Marreta%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismael Bonfim</a> destaca con un golpeo ofensivo de 52 y un derribo ofensivo de 38, ambos por encima de los números de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francisco+Prado\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francisco Prado</a>, lo que podría explicar la ligera inclinación del radar hacia su favor pese a su propia racha irregular."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismael+Bonfim+%28Marreta%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismael Bonfim</a></strong> llega como favorito con un <strong>71%</strong> de probabilidad a su favor.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francisco+Prado\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francisco Prado</a></strong> arrastra una racha negativa que pesa en el radar.\nLa vía más probable de cierre es la <strong>decisión</strong>, sin importar quién gane."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan arrastrando dificultades recientes, lo que convierte este cruce en una verdadera moneda al aire estadística. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ismael+Bonfim+%28Marreta%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ismael Bonfim</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane, en un combate pactado a 3 rondas."
+    ],
+    "conclusion": ""
+  }
+}

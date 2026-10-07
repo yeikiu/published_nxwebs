@@ -1,0 +1,74 @@
+{
+  "event": "UFC Fight Night: Allen vs. Duncan",
+  "event_date": "10 de octubre de 2026",
+  "event_date_iso": "2026-10-10",
+  "generated_at": "2026-10-07T15:20:45Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Brendan Allen",
+      "fighter_b": "Christian Leroy Duncan",
+      "slug_a": "brendan-allen",
+      "slug_b": "christian-leroy-duncan",
+      "files": {
+        "es": "newsletter/2026-10-10/es/newsletter_brendan-allen_vs_christian-leroy-duncan.html",
+        "en": "newsletter/2026-10-10/en/newsletter_brendan-allen_vs_christian-leroy-duncan.html",
+        "pt": "newsletter/2026-10-10/pt/newsletter_brendan-allen_vs_christian-leroy-duncan.html",
+        "fr": "newsletter/2026-10-10/fr/newsletter_brendan-allen_vs_christian-leroy-duncan.html"
+      }
+    },
+    {
+      "fighter_a": "Matheus Camilo",
+      "fighter_b": "Jai Herbert",
+      "slug_a": "matheus-camilo",
+      "slug_b": "jai-herbert",
+      "files": {
+        "es": "newsletter/2026-10-10/es/newsletter_matheus-camilo_vs_jai-herbert.html",
+        "en": "newsletter/2026-10-10/en/newsletter_matheus-camilo_vs_jai-herbert.html",
+        "pt": "newsletter/2026-10-10/pt/newsletter_matheus-camilo_vs_jai-herbert.html",
+        "fr": "newsletter/2026-10-10/fr/newsletter_matheus-camilo_vs_jai-herbert.html"
+      }
+    },
+    {
+      "fighter_a": "Loopy Godinez",
+      "fighter_b": "Ketlen Souza",
+      "slug_a": "loopy-godinez",
+      "slug_b": "ketlen-souza",
+      "files": {
+        "es": "newsletter/2026-10-10/es/newsletter_loopy-godinez_vs_ketlen-souza.html",
+        "en": "newsletter/2026-10-10/en/newsletter_loopy-godinez_vs_ketlen-souza.html",
+        "pt": "newsletter/2026-10-10/pt/newsletter_loopy-godinez_vs_ketlen-souza.html",
+        "fr": "newsletter/2026-10-10/fr/newsletter_loopy-godinez_vs_ketlen-souza.html"
+      }
+    },
+    {
+      "fighter_a": "Julius Walker",
+      "fighter_b": "Gerald Meerschaert",
+      "slug_a": "julius-walker",
+      "slug_b": "gerald-meerschaert",
+      "files": {
+        "es": "newsletter/2026-10-10/es/newsletter_julius-walker_vs_gerald-meerschaert.html",
+        "en": "newsletter/2026-10-10/en/newsletter_julius-walker_vs_gerald-meerschaert.html",
+        "pt": "newsletter/2026-10-10/pt/newsletter_julius-walker_vs_gerald-meerschaert.html",
+        "fr": "newsletter/2026-10-10/fr/newsletter_julius-walker_vs_gerald-meerschaert.html"
+      }
+    },
+    {
+      "fighter_a": "Francisco Prado",
+      "fighter_b": "Ismael Bonfim",
+      "slug_a": "francisco-prado",
+      "slug_b": "ismael-bonfim",
+      "files": {
+        "es": "newsletter/2026-10-10/es/newsletter_francisco-prado_vs_ismael-bonfim.html",
+        "en": "newsletter/2026-10-10/en/newsletter_francisco-prado_vs_ismael-bonfim.html",
+        "pt": "newsletter/2026-10-10/pt/newsletter_francisco-prado_vs_ismael-bonfim.html",
+        "fr": "newsletter/2026-10-10/fr/newsletter_francisco-prado_vs_ismael-bonfim.html"
+      }
+    }
+  ]
+}

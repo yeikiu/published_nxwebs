@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-06T08:02:14.130Z",
+  "generatedAt": "2026-10-07T15:18:21.908Z",
   "provenance": {
-    "fightersCsvSha256": "aaa9f4e750306de3c46a99250535f61253875e447690502d3c6de271269b9a79",
-    "upcomingEventsSha256": "2d440aa3bb1f5664bad226b645f29984512238b8ff422f383ec538ffc39f8511",
-    "appVersion": "1.1.89"
+    "fightersCsvSha256": "7c48974256e9244b0af1b39dad510bfe8391b3bad8b489d9e3b002bf58a3b004",
+    "upcomingEventsSha256": "aadc756a602aa24dc5bceb945c6c22e3199619c497f644e1aab6db3f8a25452e",
+    "appVersion": "1.1.90"
   },
   "summary": {
     "totalEvents": 8,
@@ -68,36 +68,6 @@
                   "avgTime": 13.79
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 4.39,
-                    "f2TakedownRate": 1.78,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.38,
-                    "f1StrikeVolume": 798,
-                    "f2StrikeVolume": 673,
-                    "f1SubRate": 0.57,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 28.57,
-                    "f2FinishRate": 50,
-                    "avgFightTime": 13.79,
-                    "weightedFinishRate": 41.79,
-                    "weightedAvgFightTime": 12.32
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -158,36 +128,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 9.54
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 10,
-                    "f2TakedownRate": 1.22,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 1,
-                    "f1StrikeVolume": 130,
-                    "f2StrikeVolume": 328,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 9.54,
-                    "weightedFinishRate": 29.33,
-                    "weightedAvgFightTime": 8.95
-                  }
                 }
               }
             ]
@@ -252,36 +192,6 @@
                   "avgTime": 12.25
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 3.65,
-                    "f2TakedownRate": 3.14,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 850,
-                    "f2StrikeVolume": 478,
-                    "f1SubRate": 0.17,
-                    "f2SubRate": 0.17,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 12.25,
-                    "weightedFinishRate": 25.67,
-                    "weightedAvgFightTime": 11.45
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -306,8 +216,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -330,8 +239,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -379,37 +287,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 10.2,
-                    "f2TakedownRate": 9.93,
-                    "f1KnockdownRate": 0.25,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 255,
-                    "f2StrikeVolume": 292,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.86,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 28.57,
-                    "avgFightTime": 9.18,
-                    "weightedFinishRate": 7,
-                    "weightedAvgFightTime": 9.18
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/6add18754930182b",
@@ -469,36 +347,6 @@
                   "avgTime": 11.78
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.99,
-                    "f2TakedownRate": 2.32,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 535,
-                    "f2StrikeVolume": 345,
-                    "f1SubRate": 0.75,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 11.78,
-                    "weightedFinishRate": 0,
-                    "weightedAvgFightTime": 10.42
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -523,8 +371,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -547,8 +394,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -571,8 +417,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -595,8 +440,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -619,8 +463,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -689,36 +532,6 @@
                   "avgTime": 13.74
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.81,
-                    "f2TakedownRate": 2.32,
-                    "f1KnockdownRate": 0.29,
-                    "f2KnockdownRate": 0.6,
-                    "f1StrikeVolume": 886,
-                    "f2StrikeVolume": 474,
-                    "f1SubRate": 0.14,
-                    "f2SubRate": 0.2,
-                    "f1FinishRate": 42.86,
-                    "f2FinishRate": 40,
-                    "avgFightTime": 13.74,
-                    "weightedFinishRate": 35.54,
-                    "weightedAvgFightTime": 13.07
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -781,36 +594,6 @@
                   "avgTime": 15.36
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 1.5 submission attempts",
-                "predictionKey": "combat_analysis.special_bets.over_1_5_submissions",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_seek_submissions",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_submissions",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.79,
-                    "f2TakedownRate": 5.53,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.14,
-                    "f1StrikeVolume": 783,
-                    "f2StrikeVolume": 506,
-                    "f1SubRate": 0.67,
-                    "f2SubRate": 0.86,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 42.86,
-                    "avgFightTime": 15.36,
-                    "weightedFinishRate": 34.74,
-                    "weightedAvgFightTime": 13.63
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -834,8 +617,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -883,37 +665,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "Fight goes to distance",
-                "predictionKey": "combat_analysis.special_bets.goes_to_distance",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.compatible_styles_technical",
-                "explanationKey": "combat_analysis.bet_explanations.goes_to_distance",
-                "metadata": {
-                  "value": "MEDIUM",
-                  "valueKey": "combat_analysis.bet_values.medium",
-                  "metrics": {
-                    "f1TakedownRate": 1.07,
-                    "f2TakedownRate": 0,
-                    "f1KnockdownRate": 0.17,
-                    "f2KnockdownRate": 0.67,
-                    "f1StrikeVolume": 561,
-                    "f2StrikeVolume": 26,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.33,
-                    "f1FinishRate": 16.67,
-                    "f2FinishRate": 66.67,
-                    "avgFightTime": 5.38,
-                    "weightedFinishRate": 45.67,
-                    "weightedAvgFightTime": 4.44
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
@@ -934,8 +686,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -958,8 +709,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -982,8 +732,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1006,8 +755,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1029,8 +777,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1053,8 +800,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1077,8 +823,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1126,37 +871,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.99,
-                    "f2TakedownRate": 0.66,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 0.25,
-                    "f1StrikeVolume": 402,
-                    "f2StrikeVolume": 302,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 0.25,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 25,
-                    "avgFightTime": 11.94,
-                    "weightedFinishRate": 24.79,
-                    "weightedAvgFightTime": 12.46
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
@@ -1177,8 +892,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -1247,36 +961,6 @@
                   "avgTime": 16.87
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 3.38,
-                    "f2TakedownRate": 9.61,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 532,
-                    "f2StrikeVolume": 333,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 16.87,
-                    "weightedFinishRate": 0,
-                    "weightedAvgFightTime": 17.86
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -1337,36 +1021,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
                 "metadata": {
                   "avgTime": 20.81
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.79,
-                    "f2TakedownRate": 9.87,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 752,
-                    "f2StrikeVolume": 1358,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.67,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 16.67,
-                    "avgFightTime": 20.81,
-                    "weightedFinishRate": 1.33,
-                    "weightedAvgFightTime": 20.26
-                  }
                 }
               }
             ]
@@ -1431,36 +1085,6 @@
                   "avgTime": 11.52
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.02,
-                    "f2TakedownRate": 0.78,
-                    "f1KnockdownRate": 0.2,
-                    "f2KnockdownRate": 1.67,
-                    "f1StrikeVolume": 642,
-                    "f2StrikeVolume": 255,
-                    "f1SubRate": 0.4,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 66.67,
-                    "avgFightTime": 11.52,
-                    "weightedFinishRate": 55.33,
-                    "weightedAvgFightTime": 8.79
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -1523,36 +1147,6 @@
                   "avgTime": 14.37
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.25,
-                    "f2TakedownRate": 0,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 400,
-                    "f2StrikeVolume": 321,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 14.37,
-                    "weightedFinishRate": 8.17,
-                    "weightedAvgFightTime": 14.38
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -1564,30 +1158,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "7ec5bf85a313dac4",
-          "fighter1": "Arnold Allen (Almighty)",
-          "fighter2": "Aaron Pico",
-          "fighter1Url": "http://ufcstats.com/fighter-details/040a74bb0a465c54",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
-          "fighter1Image": "img/arnold_allen.png",
-          "fighter2Image": "img/aaron_pico.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": [],
-            "props": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
         },
         {
           "fightId": "fb984297deb88012",
@@ -1626,37 +1196,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.51,
-                    "f2TakedownRate": 0,
-                    "f1KnockdownRate": 0.75,
-                    "f2KnockdownRate": 0.6,
-                    "f1StrikeVolume": 199,
-                    "f2StrikeVolume": 296,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 75,
-                    "f2FinishRate": 60,
-                    "avgFightTime": 6.64,
-                    "weightedFinishRate": 54.15,
-                    "weightedAvgFightTime": 6.68
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
@@ -1703,37 +1243,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "First round finish",
-                "predictionKey": "combat_analysis.special_bets.first_round_finish",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.at_least_one_finishes_fast",
-                "explanationKey": "combat_analysis.bet_explanations.first_round_finish",
-                "metadata": {
-                  "value": "MEDIUM-HIGH",
-                  "valueKey": "combat_analysis.bet_values.medium_high",
-                  "metrics": {
-                    "f1TakedownRate": 3.42,
-                    "f2TakedownRate": 12.12,
-                    "f1KnockdownRate": 0.25,
-                    "f2KnockdownRate": 0.67,
-                    "f1StrikeVolume": 292,
-                    "f2StrikeVolume": 33,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.67,
-                    "f1FinishRate": 25,
-                    "f2FinishRate": 100,
-                    "avgFightTime": 4.68,
-                    "weightedFinishRate": 86,
-                    "weightedAvgFightTime": 2.3
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
@@ -1780,37 +1290,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 5.22,
-                    "f2TakedownRate": 2.3,
-                    "f1KnockdownRate": 0.17,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 383,
-                    "f2StrikeVolume": 305,
-                    "f1SubRate": 0.5,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 66.67,
-                    "avgFightTime": 10.17,
-                    "weightedFinishRate": 56.17,
-                    "weightedAvgFightTime": 9.45
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
@@ -1857,37 +1337,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 6.07,
-                    "f2TakedownRate": 8.37,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 379,
-                    "f2StrikeVolume": 239,
-                    "f1SubRate": 0.67,
-                    "f2SubRate": 0.67,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 12.03,
-                    "weightedFinishRate": 3.83,
-                    "weightedAvgFightTime": 13.63
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
@@ -1896,6 +1346,29 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "b6eb8f654d33652c",
+          "fighter1": "Aaron Pico",
+          "fighter2": "Losene Keita (Black Panther)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "fighter1Image": "img/aaron_pico.png",
+          "fighter2Image": "img/losene_keita.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
         }
       ]
     },
@@ -1955,36 +1428,6 @@
                   "avgTime": 9.63
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 7.21,
-                    "f2TakedownRate": 2.67,
-                    "f1KnockdownRate": 0.17,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 305,
-                    "f2StrikeVolume": 562,
-                    "f1SubRate": 0.17,
-                    "f2SubRate": 0.83,
-                    "f1FinishRate": 50,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 9.63,
-                    "weightedFinishRate": 31.08,
-                    "weightedAvgFightTime": 9.34
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2008,8 +1451,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2031,8 +1473,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2091,36 +1532,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 9.5
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.52,
-                    "f2TakedownRate": 1.38,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 594,
-                    "f2StrikeVolume": 651,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 25,
-                    "avgFightTime": 9.5,
-                    "weightedFinishRate": 22.08,
-                    "weightedAvgFightTime": 9.27
-                  }
                 }
               }
             ]
@@ -2185,36 +1596,6 @@
                   "avgTime": 13.62
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 0.53,
-                    "f2TakedownRate": 11.2,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 376,
-                    "f2StrikeVolume": 259,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.83,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 13.62,
-                    "weightedFinishRate": 7.83,
-                    "weightedAvgFightTime": 13.7
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2277,36 +1658,6 @@
                   "avgTime": 14.12
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 5.46,
-                    "f2TakedownRate": 5.32,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.25,
-                    "f1StrikeVolume": 678,
-                    "f2StrikeVolume": 526,
-                    "f1SubRate": 0.6,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 14.12,
-                    "weightedFinishRate": 3.1,
-                    "weightedAvgFightTime": 13.81
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2331,8 +1682,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2355,8 +1705,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2404,37 +1753,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 6.06,
-                    "f2TakedownRate": 6.02,
-                    "f1KnockdownRate": 0.75,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 264,
-                    "f2StrikeVolume": 332,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.13,
-                    "f1FinishRate": 50,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 8.46,
-                    "weightedFinishRate": 29,
-                    "weightedAvgFightTime": 8.31
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
@@ -2456,8 +1775,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2518,36 +1836,6 @@
                   "avgTime": 11.6
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 4.36,
-                    "f2TakedownRate": 1.08,
-                    "f1KnockdownRate": 0.25,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 367,
-                    "f2StrikeVolume": 369,
-                    "f1SubRate": 0.25,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 25,
-                    "f2FinishRate": 0,
-                    "avgFightTime": 11.6,
-                    "weightedFinishRate": 20.25,
-                    "weightedAvgFightTime": 11.77
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2606,34 +1894,6 @@
                   "avgTime": 13.93
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 3.32,
-                    "f2TakedownRate": 7.46,
-                    "f1KnockdownRate": 0.17,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 784,
-                    "f2StrikeVolume": 536,
-                    "f1SubRate": 0.5,
-                    "f2SubRate": 0.8,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 40,
-                    "avgFightTime": 13.93
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2685,34 +1945,6 @@
                   "avgTime": 15.88
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 1.5 submission attempts",
-                "predictionKey": "combat_analysis.special_bets.over_1_5_submissions",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_seek_submissions",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_submissions",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 29.7,
-                    "f2TakedownRate": 12.95,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 101,
-                    "f2StrikeVolume": 417,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 2,
-                    "f1FinishRate": 33.33,
-                    "f2FinishRate": 20,
-                    "avgFightTime": 15.88
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2737,8 +1969,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2761,8 +1992,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2785,8 +2015,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2847,36 +2076,6 @@
                   "avgTime": 12.75
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 5.21,
-                    "f2TakedownRate": 2.27,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.25,
-                    "f1StrikeVolume": 365,
-                    "f2StrikeVolume": 440,
-                    "f1SubRate": 1,
-                    "f2SubRate": 0.25,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 25,
-                    "avgFightTime": 12.75,
-                    "weightedFinishRate": 19.25,
-                    "weightedAvgFightTime": 11.54
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -2901,8 +2100,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2925,8 +2123,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2949,8 +2146,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -2973,8 +2169,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3022,37 +2217,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 0.27,
-                    "f2TakedownRate": 2.35,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 753,
-                    "f2StrikeVolume": 170,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.67,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 66.67,
-                    "avgFightTime": 10.21,
-                    "weightedFinishRate": 56,
-                    "weightedAvgFightTime": 8.98
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
@@ -3074,8 +2239,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3097,8 +2261,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3166,8 +2329,7 @@
                   "avgTime": 7.52
                 }
               }
-            ],
-            "props": []
+            ]
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/955da1675ad58a50",
@@ -3191,8 +2353,7 @@
           "scheduledRounds": 5,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3240,37 +2401,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.19,
-                    "f2TakedownRate": 0.27,
-                    "f1KnockdownRate": 0.6,
-                    "f2KnockdownRate": 1,
-                    "f1StrikeVolume": 672,
-                    "f2StrikeVolume": 375,
-                    "f1SubRate": 0.2,
-                    "f2SubRate": 0,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 100,
-                    "avgFightTime": 13.54,
-                    "weightedFinishRate": 79.3,
-                    "weightedAvgFightTime": 11.44
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
@@ -3317,37 +2448,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.03,
-                    "f2TakedownRate": 2.2,
-                    "f1KnockdownRate": 0.71,
-                    "f2KnockdownRate": 0.22,
-                    "f1StrikeVolume": 97,
-                    "f2StrikeVolume": 683,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.56,
-                    "f1FinishRate": 71.43,
-                    "f2FinishRate": 22.22,
-                    "avgFightTime": 6.18,
-                    "weightedFinishRate": 25.33,
-                    "weightedAvgFightTime": 8.31
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/3a46b268013afede",
@@ -3369,8 +2470,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3431,36 +2531,6 @@
                   "avgTime": 9.98
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 0.9,
-                    "f2TakedownRate": 5.88,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 223,
-                    "f2StrikeVolume": 204,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.33,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 50,
-                    "avgFightTime": 9.98,
-                    "weightedFinishRate": 43.5,
-                    "weightedAvgFightTime": 8.18
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -3510,37 +2580,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.45,
-                    "f2TakedownRate": 3.45,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 484,
-                    "f2StrikeVolume": 406,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.5,
-                    "f1FinishRate": 50,
-                    "f2FinishRate": 50,
-                    "avgFightTime": 7.38,
-                    "weightedFinishRate": 38.25,
-                    "weightedAvgFightTime": 7.34
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
@@ -3587,37 +2627,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "First round finish",
-                "predictionKey": "combat_analysis.special_bets.first_round_finish",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.at_least_one_finishes_fast",
-                "explanationKey": "combat_analysis.bet_explanations.first_round_finish",
-                "metadata": {
-                  "value": "MEDIUM-HIGH",
-                  "valueKey": "combat_analysis.bet_values.medium_high",
-                  "metrics": {
-                    "f1TakedownRate": 0.83,
-                    "f2TakedownRate": 0.73,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0.14,
-                    "f1StrikeVolume": 360,
-                    "f2StrikeVolume": 274,
-                    "f1SubRate": 1,
-                    "f2SubRate": 0.43,
-                    "f1FinishRate": 60,
-                    "f2FinishRate": 57.14,
-                    "avgFightTime": 5.79,
-                    "weightedFinishRate": 50.09,
-                    "weightedAvgFightTime": 3.81
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/809bd1a871491508",
@@ -3650,34 +2660,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 9.32
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.94,
-                    "f2TakedownRate": 5.23,
-                    "f1KnockdownRate": 0.33,
-                    "f2KnockdownRate": 0.33,
-                    "f1StrikeVolume": 155,
-                    "f2StrikeVolume": 363,
-                    "f1SubRate": 0.33,
-                    "f2SubRate": 0.67,
-                    "f1FinishRate": 66.67,
-                    "f2FinishRate": 100,
-                    "avgFightTime": 9.32
-                  }
                 }
               }
             ]
@@ -3729,37 +2711,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": [
-              {
-                "pick": "First round finish",
-                "predictionKey": "combat_analysis.special_bets.first_round_finish",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.at_least_one_finishes_fast",
-                "explanationKey": "combat_analysis.bet_explanations.first_round_finish",
-                "metadata": {
-                  "value": "MEDIUM-HIGH",
-                  "valueKey": "combat_analysis.bet_values.medium_high",
-                  "metrics": {
-                    "f1TakedownRate": 4,
-                    "f2TakedownRate": 4.3,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 100,
-                    "f2StrikeVolume": 279,
-                    "f1SubRate": 1,
-                    "f2SubRate": 0.4,
-                    "f1FinishRate": 100,
-                    "f2FinishRate": 40,
-                    "avgFightTime": 7.68,
-                    "weightedFinishRate": 85.6,
-                    "weightedAvgFightTime": 5.45
-                  }
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
@@ -3781,8 +2733,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3805,8 +2756,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -3875,8 +2825,7 @@
                   "avgTime": 10.9
                 }
               }
-            ],
-            "props": []
+            ]
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
@@ -3925,8 +2874,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
@@ -3963,7 +2911,7 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 61,
+                "rawConfidence": 60,
                 "calibratedConfidence": 54.8,
                 "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
                 "metadata": {
@@ -3984,36 +2932,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 12.98
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 0.39,
-                    "f2TakedownRate": 2.26,
-                    "f1KnockdownRate": 0,
-                    "f2KnockdownRate": 0,
-                    "f1StrikeVolume": 254,
-                    "f2StrikeVolume": 442,
-                    "f1SubRate": 1,
-                    "f2SubRate": 0.33,
-                    "f1FinishRate": 0,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 12.98,
-                    "weightedFinishRate": 25.67,
-                    "weightedAvgFightTime": 15.14
-                  }
                 }
               }
             ]
@@ -4078,36 +2996,6 @@
                   "avgTime": 12.58
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 2.85,
-                    "f2TakedownRate": 3.7,
-                    "f1KnockdownRate": 0.4,
-                    "f2KnockdownRate": 0.4,
-                    "f1StrikeVolume": 667,
-                    "f2StrikeVolume": 351,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.2,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 40,
-                    "avgFightTime": 12.58,
-                    "weightedFinishRate": 35.5,
-                    "weightedAvgFightTime": 9.21
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -4157,8 +3045,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
@@ -4180,8 +3067,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -4204,8 +3090,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -4266,36 +3151,6 @@
                   "avgTime": 13.53
                 }
               }
-            ],
-            "props": [
-              {
-                "pick": "Ground control +2 minutes",
-                "predictionKey": "combat_analysis.special_bets.ground_control_2min",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.technical_fighters_takedowns",
-                "explanationKey": "combat_analysis.bet_explanations.ground_control_2min",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 15.84,
-                    "f2TakedownRate": 3.01,
-                    "f1KnockdownRate": 0.14,
-                    "f2KnockdownRate": 0.67,
-                    "f1StrikeVolume": 423,
-                    "f2StrikeVolume": 266,
-                    "f1SubRate": 1.14,
-                    "f2SubRate": 0.33,
-                    "f1FinishRate": 28.57,
-                    "f2FinishRate": 33.33,
-                    "avgFightTime": 13.53,
-                    "weightedFinishRate": 26.43,
-                    "weightedAvgFightTime": 13.66
-                  }
-                }
-              }
             ]
           },
           "radar": {
@@ -4320,8 +3175,7 @@
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": null,
@@ -4367,7 +3221,7 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 82,
+                "rawConfidence": 83,
                 "calibratedConfidence": 64,
                 "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
                 "metadata": {
@@ -4377,8 +3231,7 @@
                 }
               }
             ],
-            "durations": [],
-            "props": []
+            "durations": []
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/f166e93d04a8c274",
@@ -4436,36 +3289,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 9.67
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 1.75,
-                    "f2TakedownRate": 0.18,
-                    "f1KnockdownRate": 0.2,
-                    "f2KnockdownRate": 0.71,
-                    "f1StrikeVolume": 343,
-                    "f2StrikeVolume": 565,
-                    "f1SubRate": 0,
-                    "f2SubRate": 0.14,
-                    "f1FinishRate": 20,
-                    "f2FinishRate": 71.43,
-                    "avgFightTime": 9.67,
-                    "weightedFinishRate": 23.46,
-                    "weightedAvgFightTime": 9.49
-                  }
                 }
               }
             ]
@@ -4528,36 +3351,6 @@
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "avgTime": 10.12
-                }
-              }
-            ],
-            "props": [
-              {
-                "pick": "OVER 100 strikes per fighter",
-                "predictionKey": "combat_analysis.special_bets.over_100_strikes_each",
-                "titleKey": "betting_markets.fight_props",
-                "rawConfidence": 60,
-                "calibratedConfidence": 60,
-                "reasoningKey": "combat_analysis.reasoning.both_high_volume",
-                "explanationKey": "combat_analysis.bet_explanations.over_100_strikes_each",
-                "metadata": {
-                  "value": "HIGH",
-                  "valueKey": "combat_analysis.bet_values.high",
-                  "metrics": {
-                    "f1TakedownRate": 4.65,
-                    "f2TakedownRate": 4.17,
-                    "f1KnockdownRate": 0.67,
-                    "f2KnockdownRate": 0.4,
-                    "f1StrikeVolume": 516,
-                    "f2StrikeVolume": 264,
-                    "f1SubRate": 0.67,
-                    "f2SubRate": 0.6,
-                    "f1FinishRate": 66.67,
-                    "f2FinishRate": 60,
-                    "avgFightTime": 10.12,
-                    "weightedFinishRate": 51.47,
-                    "weightedAvgFightTime": 9.89
-                  }
                 }
               }
             ]

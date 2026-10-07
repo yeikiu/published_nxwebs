@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Allen vs. Duncan",
+  "event_date": "10 de octubre de 2026",
+  "event_date_iso": "2026-10-10",
+  "fight": {
+    "fighter_a": "Matheus Camilo",
+    "fighter_b": "Jai Herbert",
+    "prediction": "Matheus Camilo",
+    "confidence": 76,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Matheus Camilo",
+    "raw_fighter_b": "Jai Herbert",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Matheus+Camilo+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Matheus Camilo</a></strong> llega a este combate sin ranking oficial en el top 15 de peso ligero, con un récord total de carrera de 11-3-0 y una forma reciente de 2-1-0 en sus últimas tres peleas, incluyendo una derrota en mayo de 2025 antes de encadenar dos victorias consecutivas. Del otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jai+Herbert+%28Black+Country+Banger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jai Herbert</a></strong> tampoco figura en el top 15, con un récord total de 14-6-1 y un tramo de 36 meses idéntico en forma: 2-1-0, con un triunfo en abril de 2026 que lo mantiene con impulso de cara a este duelo.\nEl radar se inclina hacia <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Matheus+Camilo+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Matheus Camilo</a> apoyado en una defensa de derribo de 85 frente al 100 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jai+Herbert+%28Black+Country+Banger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jai Herbert</a>, pero sobre todo por una métrica de control de 69 que contrasta fuertemente con el 17 de su rival, lo que sugiere que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Matheus+Camilo+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Matheus Camilo</a> podría imponer ritmo y posición durante buena parte del enfrentamiento. En el apartado de golpeo las cifras están prácticamente igualadas (43 contra 42 en ofensiva, 67 contra 63 en defensiva), por lo que la diferencia decisiva parece residir en quién dicta el terreno de la pelea más que en el intercambio de puños."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Matheus+Camilo+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Matheus Camilo</a></strong> llega como favorito claro en este duelo de peso ligero.\nAmbos cargan una derrota reciente, pero el <strong>control en el suelo</strong> marca la diferencia.\nEl camino más probable hacia el desenlace es la <strong>decisión</strong>."
+    ],
+    "fight_conclusions": [
+      "Ninguno de los dos exhibe una amenaza de finalización superior al otro, ambos comparten el mismo valor en esa métrica, lo que refuerza la idea de un enfrentamiento que podría extenderse en el tiempo. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Matheus+Camilo+%28Jaguar%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Matheus Camilo</a> con un 76% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Allen vs. Duncan",
+  "event_date": "10 de octubre de 2026",
+  "event_date_iso": "2026-10-10",
+  "fight": {
+    "fighter_a": "Julius Walker",
+    "fighter_b": "Gerald Meerschaert",
+    "prediction": "Julius Walker",
+    "confidence": 51,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 68,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Julius Walker",
+    "raw_fighter_b": "Gerald Meerschaert",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Julius+Walker+%28Juice+Box%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Julius Walker</a></strong> llega a este duelo de peso semipesado sin ranking oficial en el top 15, con un récord total de carrera de 7-3-0. Sin embargo, su tramo reciente preocupa: en los últimos 36 meses acumula 1-3-0 en 4 peleas, con tres derrotas que incluyen caídas en sus dos últimas salidas (27-06-2026 y 07-02-2026), interrumpidas únicamente por un triunfo el 09-08-2025. Su fortaleza en el radar está clara: un derribo defensivo de 100/100 y un control de 90, cifras que sugieren que puede neutralizar cualquier intento de llevar la pelea al suelo y dictar el ritmo desde la posición dominante. Su amenaza de finalización, sin embargo, es nula (0/100), lo que indica que su camino al triunfo pasa más por el desgaste posicional que por un golpe definitivo.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a></strong>, tampoco presente en el ranking de la división, carga un récord total de carrera de 37-22-0, reflejo de una trayectoria larga y desgastada. En los últimos 36 meses su forma es aún más irregular: 2-5-0 en 7 peleas, con cinco derrotas, aunque cierra ese tramo con dos victorias consecutivas (24-08-2024 y 16-03-2024) antes de encadenar cinco descensos recientes. En el radar destaca sobre todo por su amenaza de finalización, en el máximo de 100/100, acompañada de un golpeo defensivo de 55 y un control de 66. Es un peleador que, aun en desventaja numérica reciente, conserva la capacidad de cambiar el curso de la pelea en cualquier instante si encuentra el momento justo."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Julius+Walker+%28Juice+Box%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Julius Walker</a></strong> aparece como favorito, con un <strong>51%</strong> de probabilidad a su lado.\nSu control (<strong>90/100</strong>) y un derribo defensivo perfecto (<strong>100/100</strong>) marcan la diferencia frente a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gerald+Meerschaert+%28GM3%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gerald Meerschaert</a>.\nEl camino más probable hacia el desenlace es la <strong>decisión</strong>, sin relación directa con quién gane."
+    ],
+    "fight_conclusions": [
+      "Con un derribo defensivo impecable y un control que le permite imponer su ritmo durante las tres rondas pactadas, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Julius+Walker+%28Juice+Box%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Julius Walker</a> parte con una ligera ventaja estadística sobre un rival que depende más de un destello puntual que de la consistencia. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Julius+Walker+%28Juice+Box%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Julius Walker</a> con un 51% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

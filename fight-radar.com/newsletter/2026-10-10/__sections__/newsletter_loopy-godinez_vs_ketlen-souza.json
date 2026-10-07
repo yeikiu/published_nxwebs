@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Allen vs. Duncan",
+  "event_date": "10 de octubre de 2026",
+  "event_date_iso": "2026-10-10",
+  "fight": {
+    "fighter_a": "Loopy Godinez",
+    "fighter_b": "Ketlen Souza",
+    "prediction": "Ketlen Souza",
+    "confidence": 77,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Loopy Godinez",
+    "raw_fighter_b": "Ketlen Souza",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Loopy+Godinez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Loopy Godinez</a></strong>, <strong>#8 del ranking peso paja femenino</strong>, llega con un récord total de carrera de 14-6-0, pero su tramo reciente pinta un panorama más complicado: 3-3-0 en sus últimas 6 peleas, con derrotas en 3 de sus últimos 6 enfrentamientos, incluyendo la más reciente del 11 de abril de 2026. Su fortaleza sigue siendo la defensa de derribo, con un 71 sobre 100, y un golpeo defensivo solido de 62, aunque su amenaza de finalización se queda en 0, lo que sugiere que necesitará apoyarse en el control y la distancia para sumar rondas.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ketlen+Souza+%28Esquentadinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ketlen Souza</a></strong>, sin ranking oficial en el top 15, acumula un récord total de carrera de 16-6-0 y llega en mejor forma en los últimos 36 meses: 4-2-0 en 6 peleas, con triunfos en sus dos salidas más recientes (06-06-2026 y 07-02-2026). Su golpeo ofensivo de 57 y una amenaza de finalización de 50 la posicionan como la pegadora más completa de este cruce, mientras que su control de 51 le da margen para imponer ritmo si la pelea se traslada al suelo."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ketlen+Souza+%28Esquentadinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ketlen Souza</a></strong> llega como favorita clara ante <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Loopy+Godinez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Loopy Godinez</a></strong>.\nLa clave está en el golpeo ofensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ketlen+Souza+%28Esquentadinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ketlen Souza</a>, superior en los intercambios.\nEl combate apunta a resolverse por <strong>decisión</strong>."
+    ],
+    "fight_conclusions": [
+      "Este enfrentamiento de ranking enfrenta estilos distintos: la solidez defensiva de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Loopy+Godinez\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Loopy Godinez</a> contra el volumen ofensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ketlen+Souza+%28Esquentadinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ketlen Souza</a>. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ketlen+Souza+%28Esquentadinha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ketlen Souza</a> con un 77% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
