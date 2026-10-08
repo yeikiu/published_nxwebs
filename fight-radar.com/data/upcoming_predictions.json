@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T15:18:21.908Z",
+  "generatedAt": "2026-10-08T08:02:07.606Z",
   "provenance": {
     "fightersCsvSha256": "7c48974256e9244b0af1b39dad510bfe8391b3bad8b489d9e3b002bf58a3b004",
-    "upcomingEventsSha256": "aadc756a602aa24dc5bceb945c6c22e3199619c497f644e1aab6db3f8a25452e",
-    "appVersion": "1.1.90"
+    "upcomingEventsSha256": "7af810e4948d0ec9e890d418f7914ceab116905b08a057e63344992c94677582",
+    "appVersion": "1.1.91"
   },
   "summary": {
     "totalEvents": 8,
@@ -744,51 +744,6 @@
           "noDataReason": "no_prediction"
         },
         {
-          "fightId": "fd98d887867227ec",
-          "fighter1": "Julien Leblanc",
-          "fighter2": "Gilbert Urbina (The RGV Bad Boy)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
-          "fighter2Url": "http://ufcstats.com/fighter-details/b12fb759e02378de",
-          "fighter1Image": "img/julien_leblanc.png",
-          "fighter2Image": "img/gilbert_urbina.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "1de8377c6267009d",
-          "fighter1": "Javad Mahjoub",
-          "fighter2": "Louie Sutherland (Vanilla Gorilla)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/e9f9add1481fc11c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
-          "fighter2Image": "img/louie_sutherland_vanilla_gorilla.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
           "fightId": "c0ac99ba986c63d2",
           "fighter1": "Jamey-Lyn Horth",
           "fighter2": "Katlyn Cerminara (Blonde Fighter)",
@@ -889,6 +844,49 @@
           "fighter2Url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
           "fighter2Image": "img/suyoung_you_yoo-jitsu.png",
           "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "3eb47d7c7ee61c37",
+          "fighter1": "Julien Leblanc",
+          "fighter2": "Nick Galanti",
+          "fighter1Url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8988705468d04ef7",
+          "fighter1Image": "img/julien_leblanc.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "3843e464cc867e9e",
+          "fighter1": "Javad Mahjoub",
+          "fighter2": "Joel Faglier",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e9f9add1481fc11c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6188ad39d85a8bf8",
+          "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
