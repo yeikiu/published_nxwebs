@@ -1,22 +1,370 @@
 {
-  "generatedAt": "2026-10-07T15:36:47.182Z",
+  "generatedAt": "2026-10-11T08:03:48.150Z",
   "provenance": {
-    "appVersion": "1.1.90",
+    "appVersion": "1.1.92",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 14,
-    "totalFights": 180,
-    "abstentions": 96,
-    "winnerCorrect": 47,
-    "winnerAttempts": 83,
-    "methodCorrect": 39,
-    "methodAttempts": 80,
-    "durationCorrect": 44,
-    "durationAttempts": 70,
-    "dimensionsWithConfidence": 233
+    "totalEvents": 15,
+    "totalFights": 192,
+    "abstentions": 103,
+    "winnerCorrect": 48,
+    "winnerAttempts": 88,
+    "methodCorrect": 41,
+    "methodAttempts": 85,
+    "durationCorrect": 47,
+    "durationAttempts": 74,
+    "dimensionsWithConfidence": 247
   },
   "events": [
+    {
+      "dateKey": "10-10-2026",
+      "eventName": "UFC Fight Night: Allen vs. Duncan",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fightId": "2444ac66f0f2f556",
+          "fightOrder": 1,
+          "fighter1": "Brendan Allen",
+          "fighter2": "Christian Leroy Duncan",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2f181c0467965b98",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
+          "fighter1Image": "img/brendan_allen.png",
+          "fighter2Image": "img/christian_leroy_duncan.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/2f181c0467965b98",
+            "resultType": "Submission",
+            "round": 5,
+            "time": "2:46"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
+              "label": "Christian Leroy Duncan",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 88,
+              "calibratedConfidence": 79
+            }
+          },
+          "pickedAt": "2026-09-02T08:01:44.167908+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "6078c31e66ff92dc",
+          "fightOrder": 2,
+          "fighter1": "Jai Herbert",
+          "fighter2": "Matheus Camilo",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4c88a1db5a46c6a4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
+          "fighter1Image": "img/jai_herbert.png",
+          "fighter2Image": "img/matheus_camilo.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4c88a1db5a46c6a4",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/72f890c5d421e705",
+              "label": "Matheus Camilo",
+              "correct": false,
+              "rawConfidence": 76,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 91,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "439ffbe449b6c9dc",
+          "fightOrder": 3,
+          "fighter1": "Loopy Godinez",
+          "fighter2": "Ketlen Souza",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+          "fighter1Image": "img/loopy_godinez.png",
+          "fighter2Image": "img/ketlen_souza.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+              "label": "Ketlen Souza",
+              "correct": false,
+              "rawConfidence": 77,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "102ea4866774c732",
+          "fightOrder": 4,
+          "fighter1": "Andre Fili",
+          "fighter2": "Kai Kamaka III",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eee0ef3e2b14816b",
+          "fighter1Image": "img/andre_fili.png",
+          "fighter2Image": "img/kai_kamaka_the_fighting_hawaiian.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:22"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "9cf4ef7897f9062c",
+          "fightOrder": 5,
+          "fighter1": "Otari Tanzilovi",
+          "fighter2": "Malcolm Wellmaker",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b9124c308671e303",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8",
+          "fighter1Image": "img/otari_tanzilovi.png",
+          "fighter2Image": "img/malcolm_wellmaker.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b9124c308671e303",
+            "resultType": "KO",
+            "round": 2,
+            "time": "2:39"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "b58939222386e87d",
+          "fightOrder": 6,
+          "fighter1": "Julius Walker",
+          "fighter2": "Gerald Meerschaert",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6add18754930182b",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
+          "fighter1Image": "img/julius_walker.png",
+          "fighter2Image": "img/gerald_meerschaert.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/6add18754930182b",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:35"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/6add18754930182b",
+              "label": "Julius Walker",
+              "correct": true,
+              "rawConfidence": 51,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 68,
+              "calibratedConfidence": 64
+            }
+          },
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "5284580e1c5d0720",
+          "fightOrder": 7,
+          "fighter1": "Francisco Prado",
+          "fighter2": "Ismael Bonfim",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eb393afdbe3293d5",
+          "fighter1Image": "img/francisco_prado.png",
+          "fighter2Image": "img/ismael_bonfim.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:23"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/eb393afdbe3293d5",
+              "label": "Ismael Bonfim",
+              "correct": false,
+              "rawConfidence": 71,
+              "calibratedConfidence": 69.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 74,
+              "calibratedConfidence": 64
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 92,
+              "calibratedConfidence": 80.3
+            }
+          },
+          "pickedAt": "2026-09-30T08:02:17.641298+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "f290736cd310a337",
+          "fightOrder": 8,
+          "fighter1": "Niko Price",
+          "fighter2": "Leon Shahbazyan",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d8da10db80131bec",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9eed2bcc9e0b92af",
+          "fighter1Image": "img/niko_price.png",
+          "fighter2Image": "img/leon_shahbazyan_sog.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/d8da10db80131bec",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:58"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "eb993f7c7e5e86f9",
+          "fightOrder": 9,
+          "fighter1": "Brendson Ribeiro",
+          "fighter2": "Felipe Franco",
+          "fighter1Url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
+          "fighter1Image": "img/brendson_ribeiro.png",
+          "fighter2Image": "img/felipe_franco.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:49"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "d54b9f20d36b0e98",
+          "fightOrder": 10,
+          "fighter1": "Allen Frye Jr.",
+          "fighter2": "RJ Harris",
+          "fighter1Url": "http://ufcstats.com/fighter-details/73a78713bd899f4c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e03187ec8b5b6abc",
+          "fighter1Image": "img/allen_frye_jr.png",
+          "fighter2Image": "img/rj_harris_the_hammer.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/73a78713bd899f4c",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:59"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "a796e41244d343fe",
+          "fightOrder": 11,
+          "fighter1": "Alice Pereira",
+          "fighter2": "Daria Zhelezniakova",
+          "fighter1Url": "http://ufcstats.com/fighter-details/81d2c551886bd5a1",
+          "fighter2Url": "http://ufcstats.com/fighter-details/07047eb7d17fb0a2",
+          "fighter1Image": "img/alice_pereira_golden_girl.png",
+          "fighter2Image": "img/daria_zhelezniakova.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/81d2c551886bd5a1",
+            "resultType": "KO",
+            "round": 1,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "0478298c733c898a",
+          "fightOrder": 12,
+          "fighter1": "Ernesta Kareckaite",
+          "fighter2": "Melissa Gatto",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e4faa79383c9f214",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a4a80dd7336ffd59",
+          "fighter1Image": "img/ernesta_kareckaite.png",
+          "fighter2Image": "img/melissa_gatto.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": null,
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "03-10-2026",
       "eventName": "UFC 332: Silva vs. Wang",
