@@ -104,48 +104,6 @@
       },
       {
         "fighter1": {
-          "name": "Chad Anheliger (The Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Steven Koslow (Obi Won Shinobi The Pillow)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/84512339473dd300",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Melissa Croden (Scare)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Chelsea Chandler",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Cody Chovancek",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3c4320a1b6106611",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "SuYoung You (Yoo-Jitsu)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Julien Leblanc",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
           "division_ranking": ""
@@ -184,6 +142,48 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Chad Anheliger (The Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Steven Koslow (Obi Won Shinobi The Pillow)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/84512339473dd300",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Melissa Croden (Scare)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/51e2f44a8dbf6984",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Chelsea Chandler",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cody Chovancek",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/3c4320a1b6106611",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "SuYoung You (Yoo-Jitsu)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ],
