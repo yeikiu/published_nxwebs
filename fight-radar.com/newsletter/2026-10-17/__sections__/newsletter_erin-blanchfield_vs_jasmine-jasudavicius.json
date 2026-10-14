@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Buckley vs. Malott",
+  "event_date": "17 de octubre de 2026",
+  "event_date_iso": "2026-10-17",
+  "fight": {
+    "fighter_a": "Erin Blanchfield",
+    "fighter_b": "Jasmine Jasudavicius",
+    "prediction": "Jasmine Jasudavicius",
+    "confidence": 69,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 74,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Erin Blanchfield",
+    "raw_fighter_b": "Jasmine Jasudavicius",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong>, <strong>#4 del ranking peso mosca femenino</strong>, llega a este enfrentamiento con un récord total de carrera de 14-2-0, aunque en los últimos 36 meses su balance es más ajustado: 2-1-0 en 3 peleas, incluyendo una derrota el 30 de marzo de 2024. Su mayor fortaleza está en el terreno defensivo: un <strong>derribo defensivo de 73/100</strong> y, sobre todo, un dominio del <strong>control de 88/100</strong> que la convierte en una peleadora difícil de superar una vez que impone su ritmo.\nDel otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a></strong>, <strong>#7 del ranking peso mosca femenino</strong>, acumula un récord total de 15-4-0 y presenta la racha más sólida de las dos en el tramo reciente: 6-1-0 en sus últimas 7 peleas, con la única derrota llegando el 18 de octubre de 2025. Sus números en el radar también llaman la atención, con un <strong>control de 98/100</strong> y un derribo ofensivo de 57, cifras que sugieren una capacidad notable para imponer su plan de juego durante los tres asaltos. Esa combinación de forma reciente y métricas ofensivas es la que inclina la balanza del radar a su favor en este enfrentamiento de ranking."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a></strong> llega como favorita clara con mejor forma reciente en los últimos 36 meses.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong> apoya su defensa en un <strong>control de 88/100</strong>, su mayor arma en este duelo divisional.\nEl camino más probable hacia el final de este combate pasa por la tarjeta de los jueces."
+    ],
+    "fight_conclusions": [
+      "Ambas peleadoras llegan con argumentos sólidos, pero la tendencia reciente parece pesar más en la lectura final. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a> con un 69% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

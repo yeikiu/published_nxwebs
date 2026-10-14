@@ -1,0 +1,62 @@
+{
+  "event": "UFC Fight Night: Buckley vs. Malott",
+  "event_date": "17 de octubre de 2026",
+  "event_date_iso": "2026-10-17",
+  "generated_at": "2026-10-14T08:05:08Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Joaquin Buckley",
+      "fighter_b": "Mike Malott",
+      "slug_a": "joaquin-buckley",
+      "slug_b": "mike-malott",
+      "files": {
+        "es": "newsletter/2026-10-17/es/newsletter_joaquin-buckley_vs_mike-malott.html",
+        "en": "newsletter/2026-10-17/en/newsletter_joaquin-buckley_vs_mike-malott.html",
+        "pt": "newsletter/2026-10-17/pt/newsletter_joaquin-buckley_vs_mike-malott.html",
+        "fr": "newsletter/2026-10-17/fr/newsletter_joaquin-buckley_vs_mike-malott.html"
+      }
+    },
+    {
+      "fighter_a": "Erin Blanchfield",
+      "fighter_b": "Jasmine Jasudavicius",
+      "slug_a": "erin-blanchfield",
+      "slug_b": "jasmine-jasudavicius",
+      "files": {
+        "es": "newsletter/2026-10-17/es/newsletter_erin-blanchfield_vs_jasmine-jasudavicius.html",
+        "en": "newsletter/2026-10-17/en/newsletter_erin-blanchfield_vs_jasmine-jasudavicius.html",
+        "pt": "newsletter/2026-10-17/pt/newsletter_erin-blanchfield_vs_jasmine-jasudavicius.html",
+        "fr": "newsletter/2026-10-17/fr/newsletter_erin-blanchfield_vs_jasmine-jasudavicius.html"
+      }
+    },
+    {
+      "fighter_a": "Marc-Andre Barriault",
+      "fighter_b": "Kyle Daukaus",
+      "slug_a": "marc-andre-barriault",
+      "slug_b": "kyle-daukaus",
+      "files": {
+        "es": "newsletter/2026-10-17/es/newsletter_marc-andre-barriault_vs_kyle-daukaus.html",
+        "en": "newsletter/2026-10-17/en/newsletter_marc-andre-barriault_vs_kyle-daukaus.html",
+        "pt": "newsletter/2026-10-17/pt/newsletter_marc-andre-barriault_vs_kyle-daukaus.html",
+        "fr": "newsletter/2026-10-17/fr/newsletter_marc-andre-barriault_vs_kyle-daukaus.html"
+      }
+    },
+    {
+      "fighter_a": "Melissa Croden",
+      "fighter_b": "Chelsea Chandler",
+      "slug_a": "melissa-croden",
+      "slug_b": "chelsea-chandler",
+      "files": {
+        "es": "newsletter/2026-10-17/es/newsletter_melissa-croden_vs_chelsea-chandler.html",
+        "en": "newsletter/2026-10-17/en/newsletter_melissa-croden_vs_chelsea-chandler.html",
+        "pt": "newsletter/2026-10-17/pt/newsletter_melissa-croden_vs_chelsea-chandler.html",
+        "fr": "newsletter/2026-10-17/fr/newsletter_melissa-croden_vs_chelsea-chandler.html"
+      }
+    }
+  ]
+}

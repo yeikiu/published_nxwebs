@@ -167,7 +167,7 @@
         "fighter2": {
           "name": "Chelsea Chandler",
           "ufcstats_url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
@@ -409,7 +409,7 @@
         "fighter2": {
           "name": "Piera Rodriguez (La Fiera)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
-          "division_ranking": "8"
+          "division_ranking": "9"
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
