@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-14T08:03:26.321Z",
+  "generatedAt": "2026-10-15T08:01:50.439Z",
   "provenance": {
-    "fightersCsvSha256": "862b579c3dbbf02dfc73ba7cd97e20e4b1a6b7dc1f18a3ed4ca4f4afaa1092ac",
-    "upcomingEventsSha256": "23b543e7cc071f995d42b88de73998dfd587b5d6c23243c0c6d6a45fad3e6c6d",
-    "appVersion": "1.1.94"
+    "fightersCsvSha256": "f1bb57fa1fef77c52ac13c43628fa4d00b26d0a0ef736b7ee7a15ad0c30c899b",
+    "upcomingEventsSha256": "c4e717987c435d5a0834b2e8b37ab95238d6fd4729dba983ef9588616df6b8d3",
+    "appVersion": "1.1.95"
   },
   "summary": {
     "totalEvents": 7,
-    "totalFights": 71,
-    "predictedFights": 40,
-    "noDataFights": 31
+    "totalFights": 75,
+    "predictedFights": 41,
+    "noDataFights": 34
   },
   "events": [
     {
@@ -693,6 +693,29 @@
           "noData": false
         },
         {
+          "fightId": "b6eb8f654d33652c",
+          "fighter1": "Aaron Pico",
+          "fighter2": "Losene Keita (Black Panther)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "fighter1Image": "img/aaron_pico.png",
+          "fighter2Image": "img/losene_keita.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
           "fightId": "fb984297deb88012",
           "fighter1": "Azamat Murzakanov (The Professional)",
           "fighter2": "Dominick Reyes (The Devastator)",
@@ -896,14 +919,36 @@
           "noData": false
         },
         {
-          "fightId": "b6eb8f654d33652c",
-          "fighter1": "Aaron Pico",
-          "fighter2": "Losene Keita (Black Panther)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
-          "fighter1Image": "img/aaron_pico.png",
-          "fighter2Image": "img/losene_keita.png",
-          "weightClass": "Featherweight",
+          "fightId": "08cdfeaaa639e8e0",
+          "fighter1": "Colby Thicknesse (Slickness)",
+          "fighter2": "Asaf Chopurov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a24bc9922ee76e9f",
+          "fighter1Image": "img/colby_thicknesse.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "b49d20f1e122cecf",
+          "fighter1": "Abubakar Vagaev",
+          "fighter2": "Jacob Malkoun (Mamba)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+          "fighter1Image": "img/abubakar_vagaev.png",
+          "fighter2Image": "img/jacob_malkoun.png",
+          "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -987,50 +1032,6 @@
           },
           "contradictions": [],
           "noData": false
-        },
-        {
-          "fightId": "f7c1cf9c3c1b36ee",
-          "fighter1": "Nick Klein (Blue Collar)",
-          "fighter2": "Joe Kropschot",
-          "fighter1Url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
-          "fighter2Url": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
-          "fighter1Image": "img/nick_klein.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "22cabb6347780088",
-          "fighter1": "Lucia Szabova",
-          "fighter2": "Tainara Lisboa (Thai Panther)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
-          "fighter2Url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
-          "fighter2Image": "img/tainara_lisboa.png",
-          "weightClass": "Women's Flyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "d0bf2a5475c3325f",
@@ -1157,91 +1158,6 @@
           "noData": false
         },
         {
-          "fightId": "cead5e2f0a3ec50e",
-          "fighter1": "Talita Alencar (Problem Child)",
-          "fighter2": "Piera Rodriguez (La Fiera)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d35298b6df168456",
-          "fighter2Url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
-          "fighter1Image": "img/talita_alencar.png",
-          "fighter2Image": "img/piera_rodriguez.png",
-          "weightClass": "Women's Strawweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Piera Rodriguez",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 69,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 226.3,
-                "adjustedScore2": 102.67
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 74,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
-                "metadata": {
-                  "method": "Decision",
-                  "finishRate1": 20,
-                  "finishRate2": 0
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 92,
-                "calibratedConfidence": 80.3,
-                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "avgTime": 14.12
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "bdb3e4d2d58d7999",
-          "fighter1": "Rodrigo Sezinando",
-          "fighter2": "Theodor Berggren (Simba)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/c06d6b18862f9a53",
-          "fighter2Url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
-          "fighter1Image": "img/rodrigo_sezinando.png",
-          "fighter2Image": "img/theodor_berggren_simba.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
           "fightId": "7eaae47752393e07",
           "fighter1": "Jean-Paul Lebosnoyani (Mufasa)",
           "fighter2": "Farman Hasanov (The Lion)",
@@ -1263,76 +1179,6 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "c8c10eb0010d5eb4",
-          "fighter1": "Azamat Bekoev (Iron)",
-          "fighter2": "Andre Petroski",
-          "fighter1Url": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
-          "fighter1Image": "img/azamat_bekoev.png",
-          "fighter2Image": "img/andre_petroski.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Azamat Bekoev",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 58,
-              "calibratedConfidence": 69.3,
-              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
-              "metadata": {
-                "adjustedScore1": 100.43,
-                "adjustedScore2": 73.26
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 87,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "finishRate1": 50,
-                  "finishRate2": 0
-                }
-              }
-            ],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
-            "method": "ko",
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "07190c547e9f079a",
-          "fighter1": "Julian Erosa (Juicy J)",
-          "fighter2": "JeongYeong Lee (Korean Tiger)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
-          "fighter1Image": "img/julian_erosa.png",
-          "fighter2Image": "img/jeongyeong_lee.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "even_matchup"
         },
         {
           "fightId": "adba8e3bb4767e12",
@@ -1395,6 +1241,205 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "c8c10eb0010d5eb4",
+          "fighter1": "Azamat Bekoev (Iron)",
+          "fighter2": "Andre Petroski",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
+          "fighter1Image": "img/azamat_bekoev.png",
+          "fighter2Image": "img/andre_petroski.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Azamat Bekoev",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 58,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 100.43,
+                "adjustedScore2": 73.26
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 87,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "finishRate1": 50,
+                  "finishRate2": 0
+                }
+              }
+            ],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
+            "method": "ko",
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "bdb3e4d2d58d7999",
+          "fighter1": "Rodrigo Sezinando",
+          "fighter2": "Theodor Berggren (Simba)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/c06d6b18862f9a53",
+          "fighter2Url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
+          "fighter1Image": "img/rodrigo_sezinando.png",
+          "fighter2Image": "img/theodor_berggren_simba.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "07190c547e9f079a",
+          "fighter1": "Julian Erosa (Juicy J)",
+          "fighter2": "JeongYeong Lee (Korean Tiger)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
+          "fighter1Image": "img/julian_erosa.png",
+          "fighter2Image": "img/jeongyeong_lee.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "even_matchup"
+        },
+        {
+          "fightId": "f7c1cf9c3c1b36ee",
+          "fighter1": "Nick Klein (Blue Collar)",
+          "fighter2": "Joe Kropschot",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
+          "fighter1Image": "img/nick_klein.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "cead5e2f0a3ec50e",
+          "fighter1": "Talita Alencar (Problem Child)",
+          "fighter2": "Piera Rodriguez (La Fiera)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
+          "fighter1Image": "img/talita_alencar.png",
+          "fighter2Image": "img/piera_rodriguez.png",
+          "weightClass": "Women's Strawweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Piera Rodriguez",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 69,
+              "calibratedConfidence": 69.3,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 226.3,
+                "adjustedScore2": 102.67
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 74,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 20,
+                  "finishRate2": 0
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 92,
+                "calibratedConfidence": 80.3,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 14.12
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "22cabb6347780088",
+          "fighter1": "Lucia Szabova",
+          "fighter2": "Tainara Lisboa (Thai Panther)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
+          "fighter2Image": "img/tainara_lisboa.png",
+          "weightClass": "Women's Flyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     },
@@ -1517,14 +1562,61 @@
           "noData": false
         },
         {
-          "fightId": "fbb731a596fc9d1c",
-          "fighter1": "Mantas Kondratavicius",
-          "fighter2": "Wes Schultz (Party Time)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
-          "fighter2Url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
-          "fighter1Image": "img/mantas_kondratavicius.png",
-          "fighter2Image": "img/wes_schultz_party_time.png",
-          "weightClass": "Middleweight",
+          "fightId": "3be1440abdbf40d5",
+          "fighter1": "Davey Grant (Dangerous)",
+          "fighter2": "Elijah Smith (Swift)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
+          "fighter1Image": "img/davey_grant.png",
+          "fighter2Image": "img/elijah_smith.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Elijah Smith",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 84,
+              "calibratedConfidence": 71.1,
+              "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
+              "metadata": {
+                "adjustedScore1": 387.82,
+                "adjustedScore2": 68.28
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 79,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "finishRate1": 0,
+                  "finishRate2": 66.67
+                }
+              }
+            ],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
+            "method": "ko",
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "86cac0cd311298f9",
+          "fighter1": "Seokhyeon Ko (The Korean Tyson)",
+          "fighter2": "Wellington Turman (The Prodigy)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
+          "fighter1Image": "img/seokhyeon_ko.png",
+          "fighter2Image": "img/wellington_turman.png",
+          "weightClass": "Welterweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -1563,14 +1655,14 @@
           "noDataReason": "no_prediction"
         },
         {
-          "fightId": "a6189582f657ecd3",
-          "fighter1": "Austin Bashi",
-          "fighter2": "Lucas Brennan (Skywalker)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
-          "fighter2Url": "http://ufcstats.com/fighter-details/33a8708747b7f943",
-          "fighter1Image": "img/austin_bashi.png",
-          "fighter2Image": "img/lucas_brennan_skywalker.png",
-          "weightClass": "Featherweight",
+          "fightId": "fbb731a596fc9d1c",
+          "fighter1": "Mantas Kondratavicius",
+          "fighter2": "Wes Schultz (Party Time)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b4443fae47e7eb9d",
+          "fighter1Image": "img/mantas_kondratavicius.png",
+          "fighter2Image": "img/wes_schultz_party_time.png",
+          "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -1584,6 +1676,28 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "231c131d8fd8a317",
+          "fighter1": "Gabriel Lorenco",
+          "fighter2": "Alvin Hines (Goozie)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e3fc6c1fab298561",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ab2a4b5e04dc5fe9",
+          "fighter2Image": "img/alvin_hines_goozie.jpg",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "91bcf94090c080dd",
@@ -1648,14 +1762,14 @@
           "noData": false
         },
         {
-          "fightId": "18829b00743c2a81",
-          "fighter1": "Priscila Cachoeira (Zombie Girl)",
-          "fighter2": "Nina Milosevic (Queen Beast)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
-          "fighter2Url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
-          "fighter1Image": "img/priscila_cachoeira.png",
-          "fighter2Image": "img/nina_milosevic_queen_beast.png",
-          "weightClass": "Women's Bantamweight",
+          "fightId": "2989c378c1a13c5f",
+          "fighter1": "Jose Delano",
+          "fighter2": "Murtazali Magomedov (The Highlight)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d7c4956d61ae76a9",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
+          "fighter1Image": "img/jose_delano_1.png",
+          "fighter2Image": "img/murtazali_magomedov_the_highlight_1.png",
+          "weightClass": "Featherweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -1694,14 +1808,37 @@
           "noDataReason": "no_prediction"
         },
         {
-          "fightId": "86cac0cd311298f9",
-          "fighter1": "Seokhyeon Ko (The Korean Tyson)",
-          "fighter2": "Wellington Turman (The Prodigy)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
-          "fighter1Image": "img/seokhyeon_ko.png",
-          "fighter2Image": "img/wellington_turman.png",
-          "weightClass": "Welterweight",
+          "fightId": "a6189582f657ecd3",
+          "fighter1": "Austin Bashi",
+          "fighter2": "Lucas Brennan (Skywalker)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
+          "fighter2Url": "http://ufcstats.com/fighter-details/33a8708747b7f943",
+          "fighter1Image": "img/austin_bashi.png",
+          "fighter2Image": "img/lucas_brennan_skywalker.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "no_prediction"
+        },
+        {
+          "fightId": "18829b00743c2a81",
+          "fighter1": "Priscila Cachoeira (Zombie Girl)",
+          "fighter2": "Nina Milosevic (Queen Beast)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
+          "fighter1Image": "img/priscila_cachoeira.png",
+          "fighter2Image": "img/nina_milosevic_queen_beast.png",
+          "weightClass": "Women's Bantamweight",
           "scheduledRounds": 3,
           "prediction": {
             "methods": [],
@@ -1738,98 +1875,6 @@
           "contradictions": [],
           "noData": true,
           "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "3be1440abdbf40d5",
-          "fighter1": "Davey Grant (Dangerous)",
-          "fighter2": "Elijah Smith (Swift)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
-          "fighter2Url": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
-          "fighter1Image": "img/davey_grant.png",
-          "fighter2Image": "img/elijah_smith.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Elijah Smith",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 84,
-              "calibratedConfidence": 71.1,
-              "reasoningKey": "combat_analysis.reasoning.significant_performance_advantage",
-              "metadata": {
-                "adjustedScore1": 387.82,
-                "adjustedScore2": 68.28
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 79,
-                "calibratedConfidence": 64,
-                "reasoningKey": "combat_analysis.reasoning.both_knockout_history",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "finishRate1": 0,
-                  "finishRate2": 66.67
-                }
-              }
-            ],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
-            "method": "ko",
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "2989c378c1a13c5f",
-          "fighter1": "Jose Delano",
-          "fighter2": "Murtazali Magomedov (The Highlight)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d7c4956d61ae76a9",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d436f5d55156a521",
-          "fighter1Image": "img/jose_delano_1.png",
-          "fighter2Image": "img/murtazali_magomedov_the_highlight_1.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "no_prediction"
-        },
-        {
-          "fightId": "231c131d8fd8a317",
-          "fighter1": "Gabriel Lorenco",
-          "fighter2": "Alvin Hines (Goozie)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/e3fc6c1fab298561",
-          "fighter2Url": "http://ufcstats.com/fighter-details/ab2a4b5e04dc5fe9",
-          "fighter2Image": "img/alvin_hines_goozie.jpg",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
         }
       ]
     },
@@ -2235,12 +2280,12 @@
         },
         {
           "fightId": "9ab4e6706dde2f08",
-          "fighter1": "Bia Mesquita (The Lady GOAT)",
-          "fighter2": "Macy Chiasson",
-          "fighter1Url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
-          "fighter2Url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
-          "fighter1Image": "img/bia_mesquita.png",
-          "fighter2Image": "img/macy_chiasson.png",
+          "fighter1": "Macy Chiasson",
+          "fighter2": "Bia Mesquita (The Lady GOAT)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+          "fighter1Image": "img/macy_chiasson.png",
+          "fighter2Image": "img/bia_mesquita.png",
           "weightClass": "Women's Bantamweight",
           "scheduledRounds": 3,
           "prediction": {
@@ -2265,8 +2310,8 @@
                 "reasoningKey": "combat_analysis.reasoning.high_submission_probability",
                 "metadata": {
                   "method": "Submission",
-                  "finishRate1": 100,
-                  "finishRate2": 40
+                  "finishRate1": 40,
+                  "finishRate2": 100
                 }
               }
             ],
@@ -2985,6 +3030,90 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "f2da1e3550a9b07a",
+          "fighter1": "Maycee Barber (The Future)",
+          "fighter2": "Carli Judice (Crispy)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6a740daf1b279661",
+          "fighter2Url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
+          "fighter1Image": "img/maycee_barber.png",
+          "fighter2Image": "img/carli_judice.png",
+          "weightClass": "Women's Flyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Carli Judice",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 83,
+              "calibratedConfidence": 70.7,
+              "reasoningKey": "combat_analysis.reasoning.slight_combined_advantage",
+              "metadata": {
+                "adjustedScore1": 256.27,
+                "adjustedScore2": 53.08
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 68,
+                "calibratedConfidence": 64,
+                "reasoningKey": "combat_analysis.reasoning.both_tend_long_fights",
+                "metadata": {
+                  "method": "Decision",
+                  "finishRate1": 0,
+                  "finishRate2": 60
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 89,
+                "calibratedConfidence": 79,
+                "reasoningKey": "combat_analysis.reasoning.expected_average_duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "avgTime": 9.93
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "0d342e399f32212f",
+          "fighter1": "Quentin Pasley",
+          "fighter2": "Junior Tafa (The Juggernaut)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/15b1f83a90302adf",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
+          "fighter2Image": "img/junior_tafa.png",
+          "weightClass": "Light Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     }
