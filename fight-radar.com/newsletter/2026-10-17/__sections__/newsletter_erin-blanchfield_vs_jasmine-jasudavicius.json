@@ -5,9 +5,9 @@
   "fight": {
     "fighter_a": "Erin Blanchfield",
     "fighter_b": "Jasmine Jasudavicius",
-    "prediction": "Jasmine Jasudavicius",
-    "confidence": 69,
-    "band": "medium",
+    "prediction": "Erin Blanchfield",
+    "confidence": 71,
+    "band": "high",
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -25,9 +25,9 @@
       "FIN_THREAT": 0
     },
     "method": "DECISIÓN",
-    "method_prob": 74,
+    "method_prob": 53,
     "duration": "OVER 1.5 rounds",
-    "duration_prob": 92,
+    "duration_prob": 84,
     "raw_fighter_a": "Erin Blanchfield",
     "raw_fighter_b": "Jasmine Jasudavicius",
     "rounds": 3,
@@ -39,13 +39,13 @@
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong>, <strong>#4 del ranking peso mosca femenino</strong>, llega a este enfrentamiento con un récord total de carrera de 14-2-0, aunque en los últimos 36 meses su balance es más ajustado: 2-1-0 en 3 peleas, incluyendo una derrota el 30 de marzo de 2024. Su mayor fortaleza está en el terreno defensivo: un <strong>derribo defensivo de 73/100</strong> y, sobre todo, un dominio del <strong>control de 88/100</strong> que la convierte en una peleadora difícil de superar una vez que impone su ritmo.\nDel otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a></strong>, <strong>#7 del ranking peso mosca femenino</strong>, acumula un récord total de 15-4-0 y presenta la racha más sólida de las dos en el tramo reciente: 6-1-0 en sus últimas 7 peleas, con la única derrota llegando el 18 de octubre de 2025. Sus números en el radar también llaman la atención, con un <strong>control de 98/100</strong> y un derribo ofensivo de 57, cifras que sugieren una capacidad notable para imponer su plan de juego durante los tres asaltos. Esa combinación de forma reciente y métricas ofensivas es la que inclina la balanza del radar a su favor en este enfrentamiento de ranking."
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong>, <strong>#4 del ranking peso mosca femenino</strong>, llega con un récord total de carrera de 14-2-0 y una forma reciente de 2-1-0 en sus últimas 3 peleas, tramo que incluye una derrota el 30-03-2024. Su arma más clara es el control (88/100), respaldado por un derribo defensivo de 73, lo que sugiere que puede imponer el ritmo desde el suelo y neutralizar los intentos de la rival.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a></strong>, <strong>#7 del ranking peso mosca femenino</strong>, acumula un récord total de 15-4-0 y llega en una racha notable: 6-1-0 en sus últimas 7 peleas, con una sola derrota el 18-10-2025. Su perfil ofensivo es más variado, con golpeo de 51 y derribo ofensivo de 57, pero su derribo defensivo de apenas 0 es la grieta que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a> podría explotar para dictar dónde se desarrolla el enfrentamiento. La diferencia en control (88 frente a 98 en el caso de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a>, aunque con una base defensiva mucho más débil) apunta a una pelea donde el terreno de combate será decisivo, posiblemente extendiéndose hasta el límite de las 3 rondas programadas."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a></strong> llega como favorita clara con mejor forma reciente en los últimos 36 meses.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong> apoya su defensa en un <strong>control de 88/100</strong>, su mayor arma en este duelo divisional.\nEl camino más probable hacia el final de este combate pasa por la tarjeta de los jueces."
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a></strong> llega como favorita clara ante <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a> en este duelo divisional.\nSu <strong>control</strong> (88/100) marca la diferencia frente al <strong>derribo ofensivo</strong> de 57 que presenta la rival.\nEl camino más probable es la <strong>decisión</strong>, sin importar quién levante la mano al final."
     ],
     "fight_conclusions": [
-      "Ambas peleadoras llegan con argumentos sólidos, pero la tendencia reciente parece pesar más en la lectura final. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jasmine+Jasudavicius\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jasmine Jasudavicius</a> con un 69% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+      "Este enfrentamiento entre contendientes con rachas recientes contrastantes promete una lectura táctica desde el inicio. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Erin+Blanchfield+%28Cold+Blooded%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Erin Blanchfield</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
     ],
     "conclusion": ""
   }

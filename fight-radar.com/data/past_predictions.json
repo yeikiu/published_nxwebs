@@ -1,18 +1,342 @@
 {
-  "generatedAt": "2026-10-15T20:27:55.459Z",
+  "generatedAt": "2026-10-18T08:02:55.675Z",
   "globalStats": {
-    "totalFights": 1565,
-    "winnerCorrect": 636,
-    "winnerAttempts": 926,
-    "methodCorrect": 568,
-    "methodAttempts": 1069,
-    "durationCorrect": 785,
-    "durationAttempts": 1096,
-    "noHistoryFights": 298,
+    "totalFights": 1578,
+    "winnerCorrect": 637,
+    "winnerAttempts": 930,
+    "methodCorrect": 573,
+    "methodAttempts": 1075,
+    "durationCorrect": 787,
+    "durationAttempts": 1100,
+    "noHistoryFights": 305,
     "evenMatchupFights": 0,
     "nonOfficialFights": 25
   },
   "events": [
+    {
+      "dateKey": "17-10-2026",
+      "eventName": "UFC Fight Night: Buckley vs. Malott",
+      "location": "Edmonton, Alberta, Canada",
+      "fights": [
+        {
+          "fighter1": "Joaquin Buckley (New Mansa)",
+          "fighter2": "Mike Malott (Proper)",
+          "fighter1Image": "img/joaquin_buckley.png",
+          "fighter2Image": "img/mike_malott.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Mike Malott",
+            "resultType": "KO",
+            "round": 2,
+            "time": "2:32"
+          },
+          "prediction": {
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 62.2,
+              "rawConfidence": 62.2,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 2.5 rounds",
+              "calibratedConfidence": 64.1,
+              "rawConfidence": 64.1,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Jasmine Jasudavicius",
+          "fighter2": "Erin Blanchfield (Cold Blooded)",
+          "fighter1Image": "img/jasmine_jasudavicius.png",
+          "fighter2Image": "img/erin_blanchfield.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Jasmine Jasudavicius",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Erin Blanchfield",
+              "calibratedConfidence": 70.8,
+              "rawConfidence": 70.8,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 65.8,
+              "rawConfidence": 65.8,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 84.2,
+              "rawConfidence": 84.2,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Kyle Nelson (The Monster)",
+          "fighter2": "Cristian Perez (Puas)",
+          "fighter1Image": "img/kyle_nelson.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Cristian Perez",
+            "resultType": "KO",
+            "round": 1,
+            "time": "0:27"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Marc-Andre Barriault (Powerbar)",
+          "fighter2": "Kyle Daukaus",
+          "fighter1Image": "img/marc-andre_barriault.png",
+          "fighter2Image": "img/kyle_daukaus.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Marc-Andre Barriault",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:28"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Kyle Daukaus",
+              "calibratedConfidence": 70.5,
+              "rawConfidence": 70.5,
+              "correct": false
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 54.7,
+              "rawConfidence": 54.7,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Louis Jourdain (The Mad Prince)",
+          "fighter2": "Timmy Cuamba (Twilight)",
+          "fighter2Image": "img/timmy_cuamba_twilight.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Timmy Cuamba",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "2:48"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nate Landwehr (The Train)",
+          "fighter2": "Mandel Nallo (Mango)",
+          "fighter1Image": "img/nate_landwehr.png",
+          "fighter2Image": "img/mandel_nallo_mango.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Mandel Nallo",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:47"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Mandel Nallo",
+              "calibratedConfidence": 61,
+              "rawConfidence": 61,
+              "correct": true
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 53,
+              "rawConfidence": 53,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Tanner Boser (The Bulldozer)",
+          "fighter2": "Jhonata Diniz",
+          "fighter1Image": "img/tanner_boser.png",
+          "fighter2Image": "img/jhonata_diniz.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Tanner Boser",
+            "resultType": "KO",
+            "round": 3,
+            "time": "4:26"
+          },
+          "prediction": {
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 49.5,
+              "rawConfidence": 49.5,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 66.3,
+              "rawConfidence": 66.3,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Julien Leblanc",
+          "fighter2": "Nick Galanti",
+          "fighter1Image": "img/julien_leblanc.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Nick Galanti",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:26"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Javad Mahjoub",
+          "fighter2": "Joel Faglier (The Sniper)",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Joel Faglier",
+            "resultType": "KO",
+            "round": 2,
+            "time": "2:11"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Katlyn Cerminara (Blonde Fighter)",
+          "fighter2": "Mackenzie Stiller (Mack-Judo)",
+          "fighter1Image": "img/katlyn_cerminara.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Katlyn Cerminara",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:46"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Steven Koslow (Obi Won Shinobi The Pillow)",
+          "fighter2": "Chad Anheliger (The Monster)",
+          "fighter1Image": "img/steven_koslow_obi_won_shinobi_the_pillow.png",
+          "fighter2Image": "img/chad_anheliger.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Steven Koslow",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "4:31"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Melissa Croden (Scare)",
+          "fighter2": "Chelsea Chandler",
+          "fighter1Image": "img/melissa_croden_scare.png",
+          "fighter2Image": "img/chelsea_chandler.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Chelsea Chandler",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "4:52"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Melissa Croden",
+              "calibratedConfidence": 70,
+              "rawConfidence": 70,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 49.4,
+              "rawConfidence": 49.4,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 68.2,
+              "rawConfidence": 68.2,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "SuYoung You (Yoo-Jitsu)",
+          "fighter2": "Cody Chovancek (The Best Fisherman in MMA)",
+          "fighter1Image": "img/suyoung_you_yoo-jitsu.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "SuYoung You",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "4:19"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        }
+      ]
+    },
     {
       "dateKey": "10-10-2026",
       "eventName": "UFC Fight Night: Allen vs. Duncan",
@@ -40,8 +364,8 @@
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 63.4,
-              "rawConfidence": 63.4,
+              "calibratedConfidence": 63.3,
+              "rawConfidence": 63.3,
               "correct": true
             }
           },
@@ -65,20 +389,20 @@
           "prediction": {
             "moneyline": {
               "pick": "Matheus Camilo",
-              "calibratedConfidence": 72.1,
-              "rawConfidence": 72.1,
+              "calibratedConfidence": 72.3,
+              "rawConfidence": 72.3,
               "correct": false
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 51,
-              "rawConfidence": 51,
+              "calibratedConfidence": 51.3,
+              "rawConfidence": 51.3,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 67.4,
-              "rawConfidence": 67.4,
+              "calibratedConfidence": 67.1,
+              "rawConfidence": 67.1,
               "correct": true
             }
           },
@@ -108,8 +432,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 82.8,
-              "rawConfidence": 82.8,
+              "calibratedConfidence": 82.7,
+              "rawConfidence": 82.7,
               "correct": true
             }
           },
@@ -213,8 +537,8 @@
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 54.7,
-              "rawConfidence": 54.7,
+              "calibratedConfidence": 54.6,
+              "rawConfidence": 54.6,
               "correct": false
             }
           },
@@ -238,20 +562,20 @@
           "prediction": {
             "moneyline": {
               "pick": "Francisco Prado",
-              "calibratedConfidence": 63.2,
-              "rawConfidence": 63.2,
+              "calibratedConfidence": 63.5,
+              "rawConfidence": 63.5,
               "correct": true
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 41.5,
-              "rawConfidence": 41.5,
+              "calibratedConfidence": 41.6,
+              "rawConfidence": 41.6,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 61.2,
-              "rawConfidence": 61.2,
+              "calibratedConfidence": 61.1,
+              "rawConfidence": 61.1,
               "correct": false
             }
           },
@@ -430,14 +754,14 @@
           "prediction": {
             "moneyline": {
               "pick": "Natalia Silva",
-              "calibratedConfidence": 55.8,
-              "rawConfidence": 55.8,
+              "calibratedConfidence": 55.7,
+              "rawConfidence": 55.7,
               "correct": true
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 56.6,
-              "rawConfidence": 56.6,
+              "calibratedConfidence": 56.8,
+              "rawConfidence": 56.8,
               "correct": true
             },
             "duration": {
@@ -504,20 +828,20 @@
           "prediction": {
             "moneyline": {
               "pick": "King Green",
-              "calibratedConfidence": 57.8,
-              "rawConfidence": 57.8,
+              "calibratedConfidence": 57.6,
+              "rawConfidence": 57.6,
               "correct": false
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 52.5,
-              "rawConfidence": 52.5,
+              "calibratedConfidence": 52.4,
+              "rawConfidence": 52.4,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 66,
-              "rawConfidence": 66,
+              "calibratedConfidence": 65.9,
+              "rawConfidence": 65.9,
               "correct": false
             }
           },
@@ -780,20 +1104,20 @@
           "prediction": {
             "moneyline": {
               "pick": "Ismail Naurdiev",
-              "calibratedConfidence": 62.5,
-              "rawConfidence": 62.5,
+              "calibratedConfidence": 62,
+              "rawConfidence": 62,
               "correct": true
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 56.8,
-              "rawConfidence": 56.8,
+              "calibratedConfidence": 56.5,
+              "rawConfidence": 56.5,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 76.1,
-              "rawConfidence": 76.1,
+              "calibratedConfidence": 76,
+              "rawConfidence": 76,
               "correct": true
             }
           },

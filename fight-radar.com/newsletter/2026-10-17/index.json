@@ -2,7 +2,7 @@
   "event": "UFC Fight Night: Buckley vs. Malott",
   "event_date": "17 de octubre de 2026",
   "event_date_iso": "2026-10-17",
-  "generated_at": "2026-10-14T08:05:08Z",
+  "generated_at": "2026-10-15T21:37:42Z",
   "locales": [
     "en",
     "es",
@@ -10,18 +10,6 @@
     "pt"
   ],
   "fights": [
-    {
-      "fighter_a": "Joaquin Buckley",
-      "fighter_b": "Mike Malott",
-      "slug_a": "joaquin-buckley",
-      "slug_b": "mike-malott",
-      "files": {
-        "es": "newsletter/2026-10-17/es/newsletter_joaquin-buckley_vs_mike-malott.html",
-        "en": "newsletter/2026-10-17/en/newsletter_joaquin-buckley_vs_mike-malott.html",
-        "pt": "newsletter/2026-10-17/pt/newsletter_joaquin-buckley_vs_mike-malott.html",
-        "fr": "newsletter/2026-10-17/fr/newsletter_joaquin-buckley_vs_mike-malott.html"
-      }
-    },
     {
       "fighter_a": "Erin Blanchfield",
       "fighter_b": "Jasmine Jasudavicius",
@@ -44,6 +32,18 @@
         "en": "newsletter/2026-10-17/en/newsletter_marc-andre-barriault_vs_kyle-daukaus.html",
         "pt": "newsletter/2026-10-17/pt/newsletter_marc-andre-barriault_vs_kyle-daukaus.html",
         "fr": "newsletter/2026-10-17/fr/newsletter_marc-andre-barriault_vs_kyle-daukaus.html"
+      }
+    },
+    {
+      "fighter_a": "Mandel Nallo",
+      "fighter_b": "Nate Landwehr",
+      "slug_a": "mandel-nallo",
+      "slug_b": "nate-landwehr",
+      "files": {
+        "es": "newsletter/2026-10-17/es/newsletter_mandel-nallo_vs_nate-landwehr.html",
+        "en": "newsletter/2026-10-17/en/newsletter_mandel-nallo_vs_nate-landwehr.html",
+        "pt": "newsletter/2026-10-17/pt/newsletter_mandel-nallo_vs_nate-landwehr.html",
+        "fr": "newsletter/2026-10-17/fr/newsletter_mandel-nallo_vs_nate-landwehr.html"
       }
     },
     {

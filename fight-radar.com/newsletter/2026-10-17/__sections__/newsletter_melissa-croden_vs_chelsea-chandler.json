@@ -6,8 +6,8 @@
     "fighter_a": "Melissa Croden",
     "fighter_b": "Chelsea Chandler",
     "prediction": "Melissa Croden",
-    "confidence": 59,
-    "band": "medium",
+    "confidence": 70,
+    "band": "high",
     "stats": {
       "STR_OFF": 50,
       "STR_DEF": 50,
@@ -24,28 +24,28 @@
       "CTRL": 0,
       "FIN_THREAT": 0
     },
-    "method": "KO / TKO",
-    "method_prob": 53,
-    "duration": "",
-    "duration_prob": 0,
+    "method": "DECISIÓN",
+    "method_prob": 49,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 68,
     "raw_fighter_a": "Melissa Croden",
     "raw_fighter_b": "Chelsea Chandler",
     "rounds": 3,
     "has_prediction": true,
-    "card_label": "COMBATE",
+    "card_label": "MAIN EVENT",
     "is_women": false,
     "division": ""
   },
   "sections_es": {
     "intro": "",
     "breakdowns": [
-      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a></strong>, <strong>#14 del ranking peso gallo femenino</strong>, llega con un récord total de carrera de 8-3-0 y una forma reciente sólida en los últimos 3 años (2-1-0 en 3 peleas, con una derrota incluida en ese tramo). Su golpeo defensivo (59) y su derribo defensivo (67) sugieren una base sólida para neutralizar el juego de suelo de su rival, mientras que su amenaza de finalización se sitúa en 50.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chelsea+Chandler\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chelsea Chandler</a></strong>, <strong>#15 del ranking peso gallo femenino</strong>, acumula un récord total de carrera de 6-4-0, con un tramo reciente irregular en los últimos 3 años (2-2-0 en 4 peleas, incluyendo dos derrotas). Su perfil estadístico es llamativo: un derribo ofensivo de 100 y un control de 81 la convierten en una amenaza real si logra llevar la pelea al suelo, aunque su derribo defensivo de 0 expone una vulnerabilidad clara si <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a> decide imponer su propio juego de derribos. El golpeo ofensivo está parejo entre ambas (47 contra 45), lo que apunta a un enfrentamiento donde la capacidad de controlar la distancia y el suelo puede inclinar la balanza."
+      "(MAIN EVENT):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a></strong>, <strong>#14 del ranking peso gallo femenino</strong>, llega a este duelo divisional con un récord total de carrera de 8-3-0, y en los últimos 36 meses exhibe un 2-1-0 en 3 peleas —incluyendo una derrota el 13 de diciembre de 2025, aunque cerró el tramo con una victoria el 18 de abril de 2026. Su perfil estadístico se apoya sobre todo en la defensa de derribo (67/100) y el golpeo defensivo (59/100), dos métricas que sugieren una peleadora capaz de neutralizar presión y mantenerse de pie cuando otras no pueden.\nDel otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chelsea+Chandler\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chelsea Chandler</a></strong>, <strong>#15 del ranking peso gallo femenino</strong>, acumula un récord total de carrera de 6-4-0, con un 2-2-0 en los últimos 36 meses repartido en 4 peleas, incluyendo dos derrotas en ese tramo (26 de abril de 2025 y 10 de agosto de 2024). Lo que más llama la atención de su radar es el contraste extremo entre su derribo ofensivo (100/100) y su derribo defensivo (0/100): es una contendiente que busca imponer el control (81/100) pero que podría quedar expuesta si la pelea se traslada al suelo en su contra. Si <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a> logra sostener su defensa de derribo en los tres asaltos disponibles, tiene con qué cerrar el camino hacia una decisión favorable."
     ],
     "quick_reads": [
-      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a></strong> llega como favorita clara con un <strong>59%</strong> de probabilidad.\nEl control en el suelo de <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chelsea+Chandler\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chelsea Chandler</a></strong> es la gran amenaza de este cruce.\n<strong>KO/TKO</strong> aparece como la vía más probable de cierre."
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a></strong> llega como favorita con <strong>ventaja clara</strong> en el enfrentamiento de ranking.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chelsea+Chandler\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chelsea Chandler</a></strong> destaca por un derribo ofensivo dominante, pero con fallas marcadas en defensa de derribo.\nEl camino más probable hacia el desenlace es la <strong>decisión</strong>, sin importar quién gane."
     ],
     "fight_conclusions": [
-      "Este duelo divisional entre dos peleadoras cercanas en la clasificación promete un choque de estilos definido. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a> con un 59% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+      "Ambas peleadoras llegan con historiales recientes irregulares, lo que añade incertidumbre al enfrentamiento. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Melissa+Croden+%28Scare%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Melissa Croden</a> con un 70% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
     ],
     "conclusion": ""
   }
