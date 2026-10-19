@@ -157,6 +157,48 @@
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bolaji Oki (The Zulu Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Daniel Santos (Willycat)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kody Steele",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Noah Gugnon (Guns)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Iasmin Lucindo",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nicolle Caliari",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1336,

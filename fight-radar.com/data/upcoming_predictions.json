@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T08:05:19.884Z",
+  "generatedAt": "2026-10-19T13:06:52.823Z",
   "provenance": {
-    "fightersCsvSha256": "673e480ba7ca7bdb3e7180a57e4c47d0792aef16ad7636d6cfc43c8fef9fac45",
-    "upcomingEventsSha256": "0bff61e9b17a5bba030d20b68c59926a29f40f55f33e3cb23d246e7f1a29fa99",
-    "appVersion": "1.1.97"
+    "fightersCsvSha256": "c148259b4adf19ff5b4011b5e558da6dad65dd7ec8c7e993e6b221c181ee7d9e",
+    "upcomingEventsSha256": "ea4dc5bb7d2c9f9d11753fd375f2a5c243f32ddb189684d8eb5a1b6276ae249e",
+    "appVersion": "1.1.98"
   },
   "summary": {
     "totalEvents": 6,
-    "totalFights": 62,
-    "predictedFights": 55,
+    "totalFights": 65,
+    "predictedFights": 58,
     "noDataFights": 7
   },
   "events": [
@@ -596,6 +596,192 @@
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "daf472bd54ae29fd",
+          "fighter1": "Bolaji Oki (The Zulu Warrior)",
+          "fighter2": "Daniel Santos (Willycat)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+          "fighter1Image": "img/bolaji_oki.png",
+          "fighter2Image": "img/daniel_santos.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Daniel Santos",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 56.9,
+              "calibratedConfidence": 56.9,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.43
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 44.6,
+                "calibratedConfidence": 44.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.55,
+                  "pKo": 0.67
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 64.6,
+                "calibratedConfidence": 64.6,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.65
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "e24409773286e669",
+          "fighter1": "Kody Steele",
+          "fighter2": "Noah Gugnon (Guns)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
+          "fighter1Image": "img/kody_steele.png",
+          "fighter2Image": "img/noah_gugnon_guns.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Noah Gugnon",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 70,
+              "calibratedConfidence": 70,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.3
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 42,
+                "calibratedConfidence": 42,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.62,
+                  "pKo": 0.68
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 65.3,
+                "calibratedConfidence": 65.3,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.65
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "8bfcc994801f8734",
+          "fighter1": "Iasmin Lucindo",
+          "fighter2": "Nicolle Caliari",
+          "fighter1Url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+          "fighter2Url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
+          "fighter1Image": "img/iasmin_lucindo.png",
+          "fighter2Image": "img/nicolle_caliari.png",
+          "weightClass": "Women's Strawweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Iasmin Lucindo",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 80.1,
+              "calibratedConfidence": 80.1,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.8
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 55.6,
+                "calibratedConfidence": 55.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.44,
+                  "pKo": 0.47
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 81.7,
+                "calibratedConfidence": 81.7,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.82
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
             "method": "decision",
             "duration": {
               "side": "over"
