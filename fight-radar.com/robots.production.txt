@@ -8,6 +8,12 @@ Allow: /
 # Disallow admin pages from indexing
 Disallow: /admin
 
+# Internal model evaluation (hit rate per confidence band on the holdout):
+# reachable by direct URL only, never linked from the web nor shown in it.
+# robots.txt keeps it out of crawls; it is NOT access control — anyone with
+# the URL can still read it (GitHub Pages cannot send X-Robots-Tag).
+Disallow: /data/holdout_confidence_rates.json
+
 # Point to sitemap
 Sitemap: https://fight-radar.com/sitemap.xml
 

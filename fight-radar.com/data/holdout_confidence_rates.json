@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-10-23T14:19:06.610Z",
+  "provenance": {
+    "registryAt": "2026-10-15T19:15:42.892Z"
+  },
+  "bands": {
+    "high": {
+      "min": 70,
+      "max": null
+    },
+    "medium": {
+      "min": 50,
+      "max": 69
+    },
+    "low": {
+      "min": null,
+      "max": 49
+    }
+  },
+  "holdout": {
+    "fraction": 0.2,
+    "events": 26,
+    "firstEvent": "11-04-2026",
+    "lastEvent": "17-10-2026",
+    "fights": 320
+  },
+  "markets": {
+    "winner": {
+      "high": {
+        "n": 55,
+        "correct": 37,
+        "hitRate": 0.6727,
+        "stdError": 0.0633,
+        "ci95": {
+          "low": 0.541,
+          "high": 0.7819
+        }
+      },
+      "medium": {
+        "n": 131,
+        "correct": 79,
+        "hitRate": 0.6031,
+        "stdError": 0.0427,
+        "ci95": {
+          "low": 0.5175,
+          "high": 0.6828
+        }
+      },
+      "low": {
+        "n": 0,
+        "correct": 0,
+        "hitRate": null,
+        "stdError": null,
+        "ci95": null
+      },
+      "all": {
+        "n": 186,
+        "correct": 116,
+        "hitRate": 0.6237,
+        "stdError": 0.0355,
+        "ci95": {
+          "low": 0.5522,
+          "high": 0.6901
+        }
+      }
+    },
+    "method": {
+      "high": {
+        "n": 7,
+        "correct": 6,
+        "hitRate": 0.8571,
+        "stdError": 0.1323,
+        "ci95": {
+          "low": 0.4869,
+          "high": 0.9743
+        }
+      },
+      "medium": {
+        "n": 114,
+        "correct": 62,
+        "hitRate": 0.5439,
+        "stdError": 0.0466,
+        "ci95": {
+          "low": 0.4525,
+          "high": 0.6324
+        }
+      },
+      "low": {
+        "n": 116,
+        "correct": 57,
+        "hitRate": 0.4914,
+        "stdError": 0.0464,
+        "ci95": {
+          "low": 0.4021,
+          "high": 0.5812
+        }
+      },
+      "all": {
+        "n": 237,
+        "correct": 125,
+        "hitRate": 0.5274,
+        "stdError": 0.0324,
+        "ci95": {
+          "low": 0.4639,
+          "high": 0.59
+        }
+      }
+    },
+    "duration": {
+      "high": {
+        "n": 85,
+        "correct": 57,
+        "hitRate": 0.6706,
+        "stdError": 0.051,
+        "ci95": {
+          "low": 0.5652,
+          "high": 0.7612
+        }
+      },
+      "medium": {
+        "n": 121,
+        "correct": 76,
+        "hitRate": 0.6281,
+        "stdError": 0.0439,
+        "ci95": {
+          "low": 0.5393,
+          "high": 0.709
+        }
+      },
+      "low": {
+        "n": 0,
+        "correct": 0,
+        "hitRate": null,
+        "stdError": null,
+        "ci95": null
+      },
+      "all": {
+        "n": 206,
+        "correct": 133,
+        "hitRate": 0.6456,
+        "stdError": 0.0333,
+        "ci95": {
+          "low": 0.5782,
+          "high": 0.7077
+        }
+      }
+    }
+  },
+  "byScope": {
+    "ge3": {
+      "winner": {
+        "high": {
+          "n": 39,
+          "correct": 25,
+          "hitRate": 0.641,
+          "stdError": 0.0768,
+          "ci95": {
+            "low": 0.4842,
+            "high": 0.7726
+          }
+        },
+        "medium": {
+          "n": 84,
+          "correct": 43,
+          "hitRate": 0.5119,
+          "stdError": 0.0545,
+          "ci95": {
+            "low": 0.4069,
+            "high": 0.6159
+          }
+        },
+        "low": {
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
+        },
+        "all": {
+          "n": 123,
+          "correct": 68,
+          "hitRate": 0.5528,
+          "stdError": 0.0448,
+          "ci95": {
+            "low": 0.4647,
+            "high": 0.6378
+          }
+        }
+      },
+      "method": {
+        "high": {
+          "n": 2,
+          "correct": 1,
+          "hitRate": 0.5,
+          "stdError": 0.3536,
+          "ci95": {
+            "low": 0.0945,
+            "high": 0.9055
+          }
+        },
+        "medium": {
+          "n": 68,
+          "correct": 40,
+          "hitRate": 0.5882,
+          "stdError": 0.0597,
+          "ci95": {
+            "low": 0.4696,
+            "high": 0.6974
+          }
+        },
+        "low": {
+          "n": 79,
+          "correct": 41,
+          "hitRate": 0.519,
+          "stdError": 0.0562,
+          "ci95": {
+            "low": 0.4105,
+            "high": 0.6257
+          }
+        },
+        "all": {
+          "n": 149,
+          "correct": 82,
+          "hitRate": 0.5503,
+          "stdError": 0.0408,
+          "ci95": {
+            "low": 0.4702,
+            "high": 0.6279
+          }
+        }
+      },
+      "duration": {
+        "high": {
+          "n": 60,
+          "correct": 44,
+          "hitRate": 0.7333,
+          "stdError": 0.0571,
+          "ci95": {
+            "low": 0.6099,
+            "high": 0.8287
+          }
+        },
+        "medium": {
+          "n": 74,
+          "correct": 48,
+          "hitRate": 0.6486,
+          "stdError": 0.0555,
+          "ci95": {
+            "low": 0.535,
+            "high": 0.7476
+          }
+        },
+        "low": {
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
+        },
+        "all": {
+          "n": 134,
+          "correct": 92,
+          "hitRate": 0.6866,
+          "stdError": 0.0401,
+          "ci95": {
+            "low": 0.6038,
+            "high": 0.759
+          }
+        }
+      }
+    },
+    "lt3": {
+      "winner": {
+        "high": {
+          "n": 16,
+          "correct": 12,
+          "hitRate": 0.75,
+          "stdError": 0.1083,
+          "ci95": {
+            "low": 0.505,
+            "high": 0.8982
+          }
+        },
+        "medium": {
+          "n": 47,
+          "correct": 36,
+          "hitRate": 0.766,
+          "stdError": 0.0618,
+          "ci95": {
+            "low": 0.6278,
+            "high": 0.864
+          }
+        },
+        "low": {
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
+        },
+        "all": {
+          "n": 63,
+          "correct": 48,
+          "hitRate": 0.7619,
+          "stdError": 0.0537,
+          "ci95": {
+            "low": 0.6436,
+            "high": 0.8501
+          }
+        }
+      },
+      "method": {
+        "high": {
+          "n": 5,
+          "correct": 5,
+          "hitRate": 1,
+          "stdError": 0,
+          "ci95": {
+            "low": 0.5655,
+            "high": 1
+          }
+        },
+        "medium": {
+          "n": 46,
+          "correct": 22,
+          "hitRate": 0.4783,
+          "stdError": 0.0737,
+          "ci95": {
+            "low": 0.3412,
+            "high": 0.6186
+          }
+        },
+        "low": {
+          "n": 37,
+          "correct": 16,
+          "hitRate": 0.4324,
+          "stdError": 0.0814,
+          "ci95": {
+            "low": 0.2867,
+            "high": 0.5909
+          }
+        },
+        "all": {
+          "n": 88,
+          "correct": 43,
+          "hitRate": 0.4886,
+          "stdError": 0.0533,
+          "ci95": {
+            "low": 0.3869,
+            "high": 0.5913
+          }
+        }
+      },
+      "duration": {
+        "high": {
+          "n": 25,
+          "correct": 13,
+          "hitRate": 0.52,
+          "stdError": 0.0999,
+          "ci95": {
+            "low": 0.335,
+            "high": 0.6997
+          }
+        },
+        "medium": {
+          "n": 47,
+          "correct": 28,
+          "hitRate": 0.5957,
+          "stdError": 0.0716,
+          "ci95": {
+            "low": 0.4534,
+            "high": 0.7236
+          }
+        },
+        "low": {
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
+        },
+        "all": {
+          "n": 72,
+          "correct": 41,
+          "hitRate": 0.5694,
+          "stdError": 0.0584,
+          "ci95": {
+            "low": 0.4544,
+            "high": 0.6774
+          }
+        }
+      }
+    }
+  }
+}

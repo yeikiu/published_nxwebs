@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-18T08:02:55.675Z",
+  "generatedAt": "2026-10-23T14:19:06.610Z",
   "globalStats": {
-    "totalFights": 1578,
-    "winnerCorrect": 637,
-    "winnerAttempts": 930,
+    "totalFights": 1565,
+    "winnerCorrect": 630,
+    "winnerAttempts": 921,
     "methodCorrect": 573,
     "methodAttempts": 1075,
-    "durationCorrect": 787,
-    "durationAttempts": 1100,
-    "noHistoryFights": 305,
+    "durationCorrect": 781,
+    "durationAttempts": 1092,
+    "noHistoryFights": 303,
     "evenMatchupFights": 0,
-    "nonOfficialFights": 25
+    "nonOfficialFights": 23
   },
   "events": [
     {
@@ -90,6 +90,7 @@
           "fighter1": "Kyle Nelson (The Monster)",
           "fighter2": "Cristian Perez (Puas)",
           "fighter1Image": "img/kyle_nelson.png",
+          "fighter2Image": "img/cristian_perez_puas.png",
           "weightClass": "Lightweight",
           "scheduledRounds": 3,
           "actual": {
@@ -137,6 +138,7 @@
         {
           "fighter1": "Louis Jourdain (The Mad Prince)",
           "fighter2": "Timmy Cuamba (Twilight)",
+          "fighter1Image": "img/louis_jourdain_the_mad_prince.png",
           "fighter2Image": "img/timmy_cuamba_twilight.png",
           "weightClass": "Bantamweight",
           "scheduledRounds": 3,
@@ -217,6 +219,7 @@
           "fighter1": "Julien Leblanc",
           "fighter2": "Nick Galanti",
           "fighter1Image": "img/julien_leblanc.png",
+          "fighter2Image": "img/nick_galanti.png",
           "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "actual": {
@@ -233,6 +236,8 @@
         {
           "fighter1": "Javad Mahjoub",
           "fighter2": "Joel Faglier (The Sniper)",
+          "fighter1Image": "img/javad_mahjoub.png",
+          "fighter2Image": "img/joel_faglier_the_sniper.png",
           "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -250,6 +255,7 @@
           "fighter1": "Katlyn Cerminara (Blonde Fighter)",
           "fighter2": "Mackenzie Stiller (Mack-Judo)",
           "fighter1Image": "img/katlyn_cerminara.png",
+          "fighter2Image": "img/mackenzie_stiller_mack-judo.png",
           "weightClass": "W_Flyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -322,6 +328,7 @@
           "fighter1": "SuYoung You (Yoo-Jitsu)",
           "fighter2": "Cody Chovancek (The Best Fisherman in MMA)",
           "fighter1Image": "img/suyoung_you_yoo-jitsu.png",
+          "fighter2Image": "img/cody_chovancek_the_best_fisherman_in_mma_1.png",
           "weightClass": "Bantamweight",
           "scheduledRounds": 3,
           "actual": {
@@ -48800,358 +48807,6 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Marc Diakiese",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        }
-      ]
-    },
-    {
-      "dateKey": "21-10-2023",
-      "eventName": "UFC 294: Makhachev vs. Volkanovski 2",
-      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-      "fights": [
-        {
-          "fighter1": "Alexander Volkanovski (The Great)",
-          "fighter2": "Islam Makhachev",
-          "fighter1Image": "img/alexander_volkanovski.png",
-          "fighter2Image": "img/islam_makhachev.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 5,
-          "actual": {
-            "winner": "Islam Makhachev",
-            "resultType": "KO",
-            "round": 1,
-            "time": "3:06"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Islam Makhachev",
-              "calibratedConfidence": 56,
-              "rawConfidence": 56,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 67.6,
-              "rawConfidence": 67.6,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Khamzat Chimaev (Borz)",
-          "fighter2": "Kamaru Usman (The Nigerian Nightmare)",
-          "fighter1Image": "img/khamzat_chimaev.png",
-          "fighter2Image": "img/kamaru_usman.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Khamzat Chimaev",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Khamzat Chimaev",
-              "calibratedConfidence": 57.9,
-              "rawConfidence": 57.9,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 60.9,
-              "rawConfidence": 60.9,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Johnny Walker",
-          "fighter2": "Magomed Ankalaev",
-          "fighter1Image": "img/johnny_walker.png",
-          "fighter2Image": "img/magomed_ankalaev.png",
-          "weightClass": "Light_Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "NC",
-            "resultType": "NC",
-            "round": 1,
-            "time": "3:13"
-          },
-          "prediction": {},
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": true
-        },
-        {
-          "fighter1": "Warlley Alves",
-          "fighter2": "Ikram Aliskerov",
-          "fighter1Image": "img/warlley_alves.png",
-          "fighter2Image": "img/ikram_aliskerov.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Ikram Aliskerov",
-            "resultType": "KO",
-            "round": 1,
-            "time": "2:07"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Ikram Aliskerov",
-              "calibratedConfidence": 65.7,
-              "rawConfidence": 65.7,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Muin Gafurov (Tajik)",
-          "fighter2": "Said Nurmagomedov",
-          "fighter1Image": "img/muin_gafurov.png",
-          "fighter2Image": "img/said_nurmagomedov.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Said Nurmagomedov",
-            "resultType": "Submission",
-            "round": 1,
-            "time": "1:13"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Said Nurmagomedov",
-              "calibratedConfidence": 55.6,
-              "rawConfidence": 55.6,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 71.4,
-              "rawConfidence": 71.4,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Muhammad Mokaev (The Punisher)",
-          "fighter2": "Tim Elliott",
-          "fighter1Image": "img/muhammad_mokaev.png",
-          "fighter2Image": "img/tim_elliott.png",
-          "weightClass": "Flyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Muhammad Mokaev",
-            "resultType": "Submission",
-            "round": 3,
-            "time": "3:03"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Muhammad Mokaev",
-              "calibratedConfidence": 78.2,
-              "rawConfidence": 78.2,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 72.7,
-              "rawConfidence": 72.7,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Trevor Peek",
-          "fighter2": "Mohammad Yahya (The UAE Warrior)",
-          "fighter1Image": "img/trevor_peek.png",
-          "fighter2Image": "img/mohammad_yahya.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Trevor Peek",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Javid Basharat (The Snow Leopard)",
-          "fighter2": "Victor Henry (La Mangosta)",
-          "fighter1Image": "img/javid_basharat.png",
-          "fighter2Image": "img/victor_henry.png",
-          "weightClass": "Bantamweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "NC",
-            "resultType": "NC",
-            "round": 2,
-            "time": "0:15"
-          },
-          "prediction": {},
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": true
-        },
-        {
-          "fighter1": "Sedriques Dumas (The Reaper)",
-          "fighter2": "Abu Azaitar (Captain Morocco)",
-          "fighter1Image": "img/sedriques_dumas.png",
-          "fighter2Image": "img/abu_azaitar.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Sedriques Dumas",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Sedriques Dumas",
-              "calibratedConfidence": 68.6,
-              "rawConfidence": 68.6,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.3,
-              "rawConfidence": 64.3,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Mike Breeden (Money)",
-          "fighter2": "Anshul Jubli (King of Lions)",
-          "fighter1Image": "img/mike_breeden.png",
-          "fighter2Image": "img/anshul_jubli.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Mike Breeden",
-            "resultType": "KO",
-            "round": 3,
-            "time": "3:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Anshul Jubli",
-              "calibratedConfidence": 67.7,
-              "rawConfidence": 67.7,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 57.5,
-              "rawConfidence": 57.5,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Muhammad Naimov (Hillman)",
-          "fighter2": "Nathaniel Wood (The Prospect)",
-          "fighter1Image": "img/muhammad_naimov.png",
-          "fighter2Image": "img/nathaniel_wood.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Muhammad Naimov",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Nathaniel Wood",
-              "calibratedConfidence": 59.9,
-              "rawConfidence": 59.9,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 67.1,
-              "rawConfidence": 67.1,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Viktoriia Dudakova",
-          "fighter2": "Jinh Yu Frey",
-          "fighter1Image": "img/viktoriia_dudakova.png",
-          "fighter2Image": "img/jinh_yu_frey.png",
-          "weightClass": "W_Strawweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Viktoriia Dudakova",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Viktoriia Dudakova",
-              "calibratedConfidence": 67.7,
-              "rawConfidence": 67.7,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 73.2,
-              "rawConfidence": 73.2,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Bruno Silva (Blindado)",
-          "fighter2": "Shara Magomedov (Bullet)",
-          "fighter1Image": "img/bruno_silva_blindado.png",
-          "fighter2Image": "img/shara_magomedov.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Shara Magomedov",
             "resultType": "Decision",
             "round": 3,
             "time": "5:00"
