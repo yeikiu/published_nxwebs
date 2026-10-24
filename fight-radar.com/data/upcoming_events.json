@@ -1,209 +1,4 @@
 {
-  "24-10-2026": {
-    "date": "24-10-2026",
-    "name": "UFC 333: Volkanovski vs. Evloev",
-    "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Alexander Volkanovski (The Great)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e1248941344b3288",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Movsar Evloev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/76e2870ffafbe38f",
-          "division_ranking": "1"
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Petr Yan (No Mercy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d661ce4da776fc20",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Merab Dvalishvili (The Machine)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c03520b5c88ed6b4",
-          "division_ranking": "1"
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Lone'er Kavanagh",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Ramazan Temirov (Temurlan)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
-          "division_ranking": "10"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alexander Volkov (Drago)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/279566840aa55bf2",
-          "division_ranking": "2"
-        },
-        "fighter2": {
-          "name": "Rizvan Kuniev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
-          "division_ranking": "7"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Aaron Pico",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Losene Keita (Black Panther)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Azamat Murzakanov (The Professional)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
-          "division_ranking": "7"
-        },
-        "fighter2": {
-          "name": "Dominick Reyes (The Devastator)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
-          "division_ranking": "8"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nikita Krylov (The Miner)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1091d4d957141094",
-          "division_ranking": "15"
-        },
-        "fighter2": {
-          "name": "Abdul Rakhman Yakhyaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
-          "division_ranking": "15"
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abus Magomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
-          "division_ranking": "12"
-        },
-        "fighter2": {
-          "name": "Cam Rowston",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Grant Dawson (KGD)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Nurullo Aliev (Tajik Eagle)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Colby Thicknesse (Slickness)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Asaf Chopurov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a24bc9922ee76e9f",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abubakar Vagaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jacob Malkoun (Mamba)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bolaji Oki (The Zulu Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Daniel Santos (Willycat)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kody Steele",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Noah Gugnon (Guns)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Iasmin Lucindo",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Nicolle Caliari",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Strawweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1336,
-    "startTime": "2026-10-24T14:00Z"
-  },
   "31-10-2026": {
     "date": "31-10-2026",
     "name": "UFC Fight Night: Moicano vs. Nolan",
@@ -230,11 +25,25 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Carlos Leal (The Lion)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/28d421729451c8ca",
+          "name": "Jacobe Smith (Cobe)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Ode Osbourne (The Jamaican Sensation)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Cody Durden (Custom Made)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -272,8 +81,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Gaston Bolanos (The Dreamkiller)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/96924b0019b3aff1",
+          "name": "Dakota Hope (Huracan)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6142edbd477d20c9",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -361,6 +170,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Zach Reese (Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Mickey Gall",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9e50097a89442158",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ],
@@ -958,5 +781,21 @@
     ],
     "ufcEventId": 1349,
     "startTime": "2026-12-12T22:00Z"
+  },
+  "30-01-2027": {
+    "date": "30-01-2027",
+    "name": "UFC 336",
+    "location": "Toronto, Ontario, Canada",
+    "fights": [],
+    "ufcEventId": 1350,
+    "startTime": "2027-01-30T22:00Z"
+  },
+  "06-02-2027": {
+    "date": "06-02-2027",
+    "name": "UFC Fight Night",
+    "location": "Sydney, New South Wales, Australia",
+    "fights": [],
+    "ufcEventId": 1351,
+    "startTime": "2027-02-06T22:00Z"
   }
 }

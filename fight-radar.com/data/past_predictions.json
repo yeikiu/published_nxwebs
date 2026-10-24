@@ -1,18 +1,493 @@
 {
-  "generatedAt": "2026-10-23T14:19:06.610Z",
+  "generatedAt": "2026-10-24T21:47:30.717Z",
   "globalStats": {
-    "totalFights": 1565,
-    "winnerCorrect": 630,
-    "winnerAttempts": 921,
-    "methodCorrect": 573,
-    "methodAttempts": 1075,
-    "durationCorrect": 781,
-    "durationAttempts": 1092,
-    "noHistoryFights": 303,
+    "totalFights": 1579,
+    "winnerCorrect": 635,
+    "winnerAttempts": 930,
+    "methodCorrect": 584,
+    "methodAttempts": 1088,
+    "durationCorrect": 788,
+    "durationAttempts": 1104,
+    "noHistoryFights": 304,
     "evenMatchupFights": 0,
     "nonOfficialFights": 23
   },
   "events": [
+    {
+      "dateKey": "24-10-2026",
+      "eventName": "UFC 333: Volkanovski vs. Evloev",
+      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "fights": [
+        {
+          "fighter1": "Movsar Evloev",
+          "fighter2": "Alexander Volkanovski (The Great)",
+          "fighter1Image": "img/movsar_evloev.png",
+          "fighter2Image": "img/alexander_volkanovski.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Alexander Volkanovski",
+            "resultType": "KO",
+            "round": 2,
+            "time": "4:54"
+          },
+          "prediction": {
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 58.5,
+              "rawConfidence": 58.5,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 2.5 rounds",
+              "calibratedConfidence": 75.8,
+              "rawConfidence": 75.8,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Merab Dvalishvili (The Machine)",
+          "fighter2": "Petr Yan (No Mercy)",
+          "fighter1Image": "img/merab_dvalishvili.png",
+          "fighter2Image": "img/petr_yan.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Petr Yan",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "prediction": {
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 67,
+              "rawConfidence": 67,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 2.5 rounds",
+              "calibratedConfidence": 86,
+              "rawConfidence": 86,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Ramazan Temirov (Temurlan)",
+          "fighter2": "Lone'er Kavanagh",
+          "fighter1Image": "img/ramazan_temirov.png",
+          "fighter2Image": "img/loneer_kavanagh.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Lone'er Kavanagh",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:28"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Ramazan Temirov",
+              "calibratedConfidence": 56.1,
+              "rawConfidence": 56.1,
+              "correct": false
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 49.9,
+              "rawConfidence": 49.9,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 70.1,
+              "rawConfidence": 70.1,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Rizvan Kuniev",
+          "fighter2": "Alexander Volkov (Drago)",
+          "fighter1Image": "img/rizvan_kuniev.png",
+          "fighter2Image": "img/alexander_volkov_drago.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Alexander Volkov",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Alexander Volkov",
+              "calibratedConfidence": 56.3,
+              "rawConfidence": 56.3,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 57.9,
+              "rawConfidence": 57.9,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 68.5,
+              "rawConfidence": 68.5,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Losene Keita (Black Panther)",
+          "fighter2": "Aaron Pico",
+          "fighter1Image": "img/losene_keita.png",
+          "fighter2Image": "img/aaron_pico.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Aaron Pico",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:14"
+          },
+          "prediction": {
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 59.3,
+              "rawConfidence": 59.3,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 56.9,
+              "rawConfidence": 56.9,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Azamat Murzakanov (The Professional)",
+          "fighter2": "Dominick Reyes (The Devastator)",
+          "fighter1Image": "img/azamat_murzakanov.png",
+          "fighter2Image": "img/dominick_reyes.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Dominick Reyes",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:40"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Dominick Reyes",
+              "calibratedConfidence": 56,
+              "rawConfidence": 56,
+              "correct": true
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 75.1,
+              "rawConfidence": 75.1,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nikita Krylov (The Miner)",
+          "fighter2": "Abdul Rakhman Yakhyaev (Hunter)",
+          "fighter1Image": "img/nikita_krylov.png",
+          "fighter2Image": "img/abdul_rakhman_yakhyaev.jpeg",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Abdul Rakhman Yakhyaev",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:38"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Abdul Rakhman Yakhyaev",
+              "calibratedConfidence": 64.5,
+              "rawConfidence": 64.5,
+              "correct": true
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 52.7,
+              "rawConfidence": 52.7,
+              "correct": true
+            },
+            "duration": {
+              "pick": "UNDER 1.5 rounds",
+              "calibratedConfidence": 59.9,
+              "rawConfidence": 59.9,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Abus Magomedov",
+          "fighter2": "Cam Rowston",
+          "fighter1Image": "img/abus_magomedov.png",
+          "fighter2Image": "img/cam_rowston.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Abus Magomedov",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:44"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Cam Rowston",
+              "calibratedConfidence": 58.3,
+              "rawConfidence": 58.3,
+              "correct": false
+            },
+            "method": {
+              "pick": "Submission",
+              "calibratedConfidence": 37.8,
+              "rawConfidence": 37.8,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 58.3,
+              "rawConfidence": 58.3,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nurullo Aliev (Tajik Eagle)",
+          "fighter2": "Grant Dawson (KGD)",
+          "fighter1Image": "img/nurullo_aliev.png",
+          "fighter2Image": "img/grant_dawson.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Grant Dawson",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 46.9,
+              "rawConfidence": 46.9,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 64.2,
+              "rawConfidence": 64.2,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Asaf Chopurov (The Honey Badger)",
+          "fighter2": "Colby Thicknesse (Slickness)",
+          "fighter2Image": "img/colby_thicknesse.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Colby Thicknesse",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Jacob Malkoun (Mamba)",
+          "fighter2": "Abubakar Vagaev",
+          "fighter1Image": "img/jacob_malkoun.png",
+          "fighter2Image": "img/abubakar_vagaev.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Abubakar Vagaev",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Jacob Malkoun",
+              "calibratedConfidence": 66.9,
+              "rawConfidence": 66.9,
+              "correct": false
+            },
+            "method": {
+              "pick": "Submission",
+              "calibratedConfidence": 37.7,
+              "rawConfidence": 37.7,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 72.1,
+              "rawConfidence": 72.1,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Bolaji Oki (The Zulu Warrior)",
+          "fighter2": "Daniel Santos (Willycat)",
+          "fighter1Image": "img/bolaji_oki.png",
+          "fighter2Image": "img/daniel_santos.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Daniel Santos",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Daniel Santos",
+              "calibratedConfidence": 56.9,
+              "rawConfidence": 56.9,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 44.6,
+              "rawConfidence": 44.6,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 64.6,
+              "rawConfidence": 64.6,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Kody Steele",
+          "fighter2": "Noah Gugnon (Guns)",
+          "fighter1Image": "img/kody_steele.png",
+          "fighter2Image": "img/noah_gugnon_guns.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Kody Steele",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:54"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Noah Gugnon",
+              "calibratedConfidence": 70,
+              "rawConfidence": 70,
+              "correct": false
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 42,
+              "rawConfidence": 42,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 65.3,
+              "rawConfidence": 65.3,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nicolle Caliari",
+          "fighter2": "Iasmin Lucindo",
+          "fighter1Image": "img/nicolle_caliari.png",
+          "fighter2Image": "img/iasmin_lucindo.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Iasmin Lucindo",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Iasmin Lucindo",
+              "calibratedConfidence": 80.1,
+              "rawConfidence": 80.1,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 62.5,
+              "rawConfidence": 62.5,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 81.7,
+              "rawConfidence": 81.7,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        }
+      ]
+    },
     {
       "dateKey": "17-10-2026",
       "eventName": "UFC Fight Night: Buckley vs. Malott",

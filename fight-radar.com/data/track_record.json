@@ -1,22 +1,549 @@
 {
-  "generatedAt": "2026-10-22T08:06:08.327Z",
+  "generatedAt": "2026-10-24T21:48:13.867Z",
   "provenance": {
-    "appVersion": "1.1.102",
+    "appVersion": "1.1.103",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 16,
-    "totalFights": 205,
-    "abstentions": 110,
-    "winnerCorrect": 49,
-    "winnerAttempts": 92,
-    "methodCorrect": 46,
-    "methodAttempts": 91,
-    "durationCorrect": 49,
-    "durationAttempts": 78,
-    "dimensionsWithConfidence": 261
+    "totalEvents": 17,
+    "totalFights": 219,
+    "abstentions": 111,
+    "winnerCorrect": 54,
+    "winnerAttempts": 101,
+    "methodCorrect": 55,
+    "methodAttempts": 104,
+    "durationCorrect": 56,
+    "durationAttempts": 90,
+    "dimensionsWithConfidence": 295
   },
   "events": [
+    {
+      "dateKey": "24-10-2026",
+      "eventName": "UFC 333: Volkanovski vs. Evloev",
+      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "fights": [
+        {
+          "fightId": "148eb66dd69bfc8a",
+          "fightOrder": 1,
+          "fighter1": "Alexander Volkanovski",
+          "fighter2": "Movsar Evloev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e1248941344b3288",
+          "fighter2Url": "http://ufcstats.com/fighter-details/76e2870ffafbe38f",
+          "fighter1Image": "img/alexander_volkanovski.png",
+          "fighter2Image": "img/movsar_evloev.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/e1248941344b3288",
+            "resultType": "KO",
+            "round": 2,
+            "time": "4:54"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 55.2,
+              "calibratedConfidence": 55.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 75.8,
+              "calibratedConfidence": 75.8
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "55c960f57c101a87",
+          "fightOrder": 2,
+          "fighter1": "Petr Yan",
+          "fighter2": "Merab Dvalishvili",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d661ce4da776fc20",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c03520b5c88ed6b4",
+          "fighter1Image": "img/petr_yan.png",
+          "fighter2Image": "img/merab_dvalishvili.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/d661ce4da776fc20",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 74.4,
+              "calibratedConfidence": 74.4
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 86,
+              "calibratedConfidence": 86
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "585227f25bd9419b",
+          "fightOrder": 3,
+          "fighter1": "Lone'er Kavanagh",
+          "fighter2": "Ramazan Temirov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
+          "fighter1Image": "img/loneer_kavanagh.png",
+          "fighter2Image": "img/ramazan_temirov.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:28"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
+              "label": "Ramazan Temirov",
+              "correct": false,
+              "rawConfidence": 56.1,
+              "calibratedConfidence": 56.1
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 45.5,
+              "calibratedConfidence": 45.5
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 70.1,
+              "calibratedConfidence": 70.1
+            }
+          },
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "aebe091a77e17147",
+          "fightOrder": 4,
+          "fighter1": "Alexander Volkov",
+          "fighter2": "Rizvan Kuniev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/279566840aa55bf2",
+          "fighter2Url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
+          "fighter1Image": "img/alexander_volkov_drago.png",
+          "fighter2Image": "img/rizvan_kuniev.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/279566840aa55bf2",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/279566840aa55bf2",
+              "label": "Alexander Volkov",
+              "correct": true,
+              "rawConfidence": 56.3,
+              "calibratedConfidence": 56.3
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 43.9,
+              "calibratedConfidence": 43.9
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 68.5,
+              "calibratedConfidence": 68.5
+            }
+          },
+          "pickedAt": "2026-09-08T08:01:43.816142+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "b6eb8f654d33652c",
+          "fightOrder": 5,
+          "fighter1": "Aaron Pico",
+          "fighter2": "Losene Keita",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5b43d68174b6e2ab",
+          "fighter1Image": "img/aaron_pico.png",
+          "fighter2Image": "img/losene_keita.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/5537efc6e496dd84",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:14"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 52.8,
+              "calibratedConfidence": 52.8
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 56.9,
+              "calibratedConfidence": 56.9
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "fb984297deb88012",
+          "fightOrder": 6,
+          "fighter1": "Dominick Reyes",
+          "fighter2": "Azamat Murzakanov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e90a2f22417af68e",
+          "fighter1Image": "img/dominick_reyes.png",
+          "fighter2Image": "img/azamat_murzakanov.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:40"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/2e19380f34871c6a",
+              "label": "Dominick Reyes",
+              "correct": true,
+              "rawConfidence": 56,
+              "calibratedConfidence": 56
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 75.1,
+              "calibratedConfidence": 75.1
+            }
+          },
+          "pickedAt": "2026-09-01T08:03:27.348093+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "b48818b65bbef95f",
+          "fightOrder": 7,
+          "fighter1": "Abdul Rakhman Yakhyaev",
+          "fighter2": "Nikita Krylov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+          "fighter2Url": "http://ufcstats.com/fighter-details/1091d4d957141094",
+          "fighter1Image": "img/abdul_rakhman_yakhyaev.jpeg",
+          "fighter2Image": "img/nikita_krylov.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+            "resultType": "KO",
+            "round": 1,
+            "time": "2:38"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+              "label": "Abdul Rakhman Yakhyaev",
+              "correct": true,
+              "rawConfidence": 64.5,
+              "calibratedConfidence": 64.5
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 52.7,
+              "calibratedConfidence": 52.7
+            },
+            "duration": {
+              "value": "under",
+              "correct": true,
+              "rawConfidence": 59.9,
+              "calibratedConfidence": 59.9
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "0bbbc673716e5fc3",
+          "fightOrder": 8,
+          "fighter1": "Abus Magomedov",
+          "fighter2": "Cam Rowston",
+          "fighter1Url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
+          "fighter1Image": "img/abus_magomedov.png",
+          "fighter2Image": "img/cam_rowston.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:44"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/8ebc3a8da015d70c",
+              "label": "Cam Rowston",
+              "correct": false,
+              "rawConfidence": 58.3,
+              "calibratedConfidence": 58.3
+            },
+            "method": {
+              "value": "submission",
+              "correct": true,
+              "rawConfidence": 37.8,
+              "calibratedConfidence": 37.8
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 58.3,
+              "calibratedConfidence": 58.3
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "c5b2ab09585a7bf8",
+          "fightOrder": 9,
+          "fighter1": "Grant Dawson",
+          "fighter2": "Nurullo Aliev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
+          "fighter1Image": "img/grant_dawson.png",
+          "fighter2Image": "img/nurullo_aliev.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 49,
+              "calibratedConfidence": 49
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 64.2,
+              "calibratedConfidence": 64.2
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "08cdfeaaa639e8e0",
+          "fightOrder": 10,
+          "fighter1": "Colby Thicknesse",
+          "fighter2": "Asaf Chopurov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a24bc9922ee76e9f",
+          "fighter1Image": "img/colby_thicknesse.png",
+          "fighter2Image": "img/asaf_chopurov_the_honey_badger.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "b49d20f1e122cecf",
+          "fightOrder": 11,
+          "fighter1": "Abubakar Vagaev",
+          "fighter2": "Jacob Malkoun",
+          "fighter1Url": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+          "fighter1Image": "img/abubakar_vagaev.png",
+          "fighter2Image": "img/jacob_malkoun.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/f7adc1fd115f8fdd",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/d4270315cbcf2569",
+              "label": "Jacob Malkoun",
+              "correct": false,
+              "rawConfidence": 66.9,
+              "calibratedConfidence": 66.9
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 41.2,
+              "calibratedConfidence": 41.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 72.1,
+              "calibratedConfidence": 72.1
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "daf472bd54ae29fd",
+          "fightOrder": 12,
+          "fighter1": "Daniel Santos",
+          "fighter2": "Bolaji Oki",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+          "fighter1Image": "img/daniel_santos.png",
+          "fighter2Image": "img/bolaji_oki.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+              "label": "Daniel Santos",
+              "correct": true,
+              "rawConfidence": 56.9,
+              "calibratedConfidence": 56.9
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 44.6,
+              "calibratedConfidence": 44.6
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 64.6,
+              "calibratedConfidence": 64.6
+            }
+          },
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "e24409773286e669",
+          "fightOrder": 13,
+          "fighter1": "Kody Steele",
+          "fighter2": "Noah Gugnon",
+          "fighter1Url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
+          "fighter1Image": "img/kody_steele.png",
+          "fighter2Image": "img/noah_gugnon_guns.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:54"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/6266abf6e4245c72",
+              "label": "Noah Gugnon",
+              "correct": false,
+              "rawConfidence": 70,
+              "calibratedConfidence": 70
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 42,
+              "calibratedConfidence": 42
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 65.3,
+              "calibratedConfidence": 65.3
+            }
+          },
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "8bfcc994801f8734",
+          "fightOrder": 14,
+          "fighter1": "Iasmin Lucindo",
+          "fighter2": "Nicolle Caliari",
+          "fighter1Url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+          "fighter2Url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
+          "fighter1Image": "img/iasmin_lucindo.png",
+          "fighter2Image": "img/nicolle_caliari.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+              "label": "Iasmin Lucindo",
+              "correct": true,
+              "rawConfidence": 80.1,
+              "calibratedConfidence": 80.1
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 55.6,
+              "calibratedConfidence": 55.6
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 81.7,
+              "calibratedConfidence": 81.7
+            }
+          },
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "abstained": false
+        }
+      ]
+    },
     {
       "dateKey": "17-10-2026",
       "eventName": "UFC Fight Night: Buckley vs. Malott",
@@ -53,7 +580,7 @@
               "calibratedConfidence": 64.1
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -94,7 +621,7 @@
               "calibratedConfidence": 84.2
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -206,7 +733,7 @@
               "calibratedConfidence": 43.5
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -240,7 +767,7 @@
               "calibratedConfidence": 66.3
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -365,7 +892,7 @@
               "calibratedConfidence": 68.2
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -475,7 +1002,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -516,7 +1043,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -593,7 +1120,7 @@
               "calibratedConfidence": 64
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -634,7 +1161,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-30T08:19:33.67832+00:00",
+          "pickedAt": "2026-09-30T08:02:17.641298+00:00",
           "abstained": false
         },
         {
