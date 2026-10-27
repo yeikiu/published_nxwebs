@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:48:13.867Z",
+  "generatedAt": "2026-10-24T21:52:50.678Z",
   "provenance": {
     "appVersion": "1.1.103",
     "radarCompetitorId": "fight-radar"
@@ -53,7 +53,7 @@
               "calibratedConfidence": 75.8
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -87,7 +87,7 @@
               "calibratedConfidence": 86
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -128,7 +128,7 @@
               "calibratedConfidence": 70.1
             }
           },
-          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
           "abstained": false
         },
         {
@@ -203,7 +203,7 @@
               "calibratedConfidence": 56.9
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -279,7 +279,7 @@
               "calibratedConfidence": 59.9
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -320,7 +320,7 @@
               "calibratedConfidence": 58.3
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -354,7 +354,7 @@
               "calibratedConfidence": 64.2
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -416,7 +416,7 @@
               "calibratedConfidence": 72.1
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -457,7 +457,7 @@
               "calibratedConfidence": 64.6
             }
           },
-          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
           "abstained": false
         },
         {
@@ -498,7 +498,7 @@
               "calibratedConfidence": 65.3
             }
           },
-          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
           "abstained": false
         },
         {
@@ -539,7 +539,7 @@
               "calibratedConfidence": 81.7
             }
           },
-          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
+          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
           "abstained": false
         }
       ]
@@ -580,7 +580,7 @@
               "calibratedConfidence": 64.1
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -621,7 +621,7 @@
               "calibratedConfidence": 84.2
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -733,7 +733,7 @@
               "calibratedConfidence": 43.5
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -767,7 +767,7 @@
               "calibratedConfidence": 66.3
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -892,7 +892,7 @@
               "calibratedConfidence": 68.2
             }
           },
-          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
           "abstained": false
         },
         {
@@ -1002,7 +1002,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
           "abstained": false
         },
         {
@@ -1043,7 +1043,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
           "abstained": false
         },
         {
@@ -1120,7 +1120,7 @@
               "calibratedConfidence": 64
             }
           },
-          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
+          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
           "abstained": false
         },
         {
@@ -1161,7 +1161,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-30T08:02:17.641298+00:00",
+          "pickedAt": "2026-09-30T08:19:33.67832+00:00",
           "abstained": false
         },
         {

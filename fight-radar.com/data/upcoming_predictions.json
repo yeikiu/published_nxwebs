@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T21:48:10.608Z",
+  "generatedAt": "2026-10-27T09:01:48.853Z",
   "provenance": {
-    "fightersCsvSha256": "e50ceef03607d22cfb08aebb3877ba64aa96fdebafded1d4b8644b4ccc6b9842",
-    "upcomingEventsSha256": "eaaf4eb67bb17661601820ca507b350ec5e1d4309f520e2bf33e08a183e0ed4d",
-    "appVersion": "1.1.103"
+    "fightersCsvSha256": "df6e238ca40a2cdb96692e2bede78cc3e80ca6e64fb4d157c3fe46f12fd3e752",
+    "upcomingEventsSha256": "5950866e6ab51113feb32c7f6fc774566f17e62af6de934e9de5f5511b0d7e57",
+    "appVersion": "1.1.104"
   },
   "summary": {
     "totalEvents": 7,
-    "totalFights": 53,
-    "predictedFights": 47,
+    "totalFights": 55,
+    "predictedFights": 49,
     "noDataFights": 6
   },
   "events": [
@@ -2846,10 +2846,125 @@
     },
     {
       "dateKey": "30-01-2027",
-      "eventName": "UFC 336",
+      "eventName": "UFC 336: Van vs. Kape",
       "location": "Toronto, Ontario, Canada",
       "startTime": "2027-01-30T22:00Z",
-      "fights": []
+      "fights": [
+        {
+          "fightId": "3395ad5d70fdda5c",
+          "fighter1": "Joshua Van (The Fearless)",
+          "fighter2": "Manel Kape (StarBoy)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/17e97649403ba428",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5d1b7e3dd9e11074",
+          "fighter1Image": "img/joshua_van.png",
+          "fighter2Image": "img/manel_kape.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 49.7,
+                "calibratedConfidence": 49.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.56,
+                  "pKo": 0.89
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 2.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 72.5,
+                "calibratedConfidence": 72.5,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
+                "metadata": {
+                  "line": 2.5,
+                  "pOver": 0.73
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "f212c3f4b9d35900",
+          "fighter1": "Carlos Prates (The Nightmare)",
+          "fighter2": "Michael Morales",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7ee0fd831c0fe7c3",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c32aeb1a59e6272d",
+          "fighter1Image": "img/carlos_prates.png",
+          "fighter2Image": "img/michael_morales.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "moneyline": {
+              "pick": "Michael Morales",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 60.3,
+              "calibratedConfidence": 60.3,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.4
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 70.8,
+                "calibratedConfidence": 70.8,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.77,
+                  "pKo": 0.92
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 2.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 59,
+                "calibratedConfidence": 59,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
+                "metadata": {
+                  "line": 2.5,
+                  "pOver": 0.59
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/c32aeb1a59e6272d",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        }
+      ]
     },
     {
       "dateKey": "06-02-2027",
