@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Nolan",
+  "event_date": "31 de octubre de 2026",
+  "event_date_iso": "2026-10-31",
+  "fight": {
+    "fighter_a": "Francis Marshall",
+    "fighter_b": "Dakota Hope",
+    "prediction": "Francis Marshall",
+    "confidence": 60,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 52,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 67,
+    "raw_fighter_a": "Francis Marshall",
+    "raw_fighter_b": "Dakota Hope",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a></strong> llega a este combate de <strong>Featherweight</strong> (peso pluma) con un récord total de carrera de 10-3-0, aunque su tramo reciente pinta un panorama más ajustado: 3-1-0 en las últimas 4 peleas de los últimos 36 meses, incluyendo una derrota el 08-03-2025. Pese a ese tropiezo, el patrón es alentador, con victorias en sus dos salidas más recientes (25-04-2026 y 28-02-2026). Lo que distingue a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a> en el radar es su dominio casi absoluto cuando la pelea llega al suelo: un derribo defensivo de 100/100 y un control de 94/100, cifras que sugieren que, si logra imponer su ritmo, puede neutralizar a cualquier rival durante tramos completos.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dakota+Hope+%28Huracan%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dakota Hope</a></strong>, por su parte, acumula un récord total de carrera de 11-2-0, una marca sólida en el conjunto de su trayectoria, pero su forma reciente genera dudas: 0-1-0 en una sola pelea dentro de los últimos 36 meses, con derrota el 04-04-2026. Esa escasa actividad reciente contrasta con un golpeo ofensivo de 41/100, superior al de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a> (36/100), lo que indica que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dakota+Hope+%28Huracan%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dakota Hope</a> podría tener argumentos en el intercambio de pie. Sin embargo, su derribo defensivo también marca 100/100, y su amenaza de finalización se sitúa en 0/100, un dato que reduce las opciones de un desenlace repentino por su parte. La diferencia en control (94 frente a 77) favorece la lectura de que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a> puede dictar los tramos de agarre sin mayor resistencia."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a></strong> llega con ligera ventaja según el radar, sosteniendo un <strong>control</strong> histórico casi perfecto (94/100).\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dakota+Hope+%28Huracan%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dakota Hope</a></strong> arrastra una derrota reciente y depende de su golpeo (41/100) para inquietar.\nEl enfrentamiento apunta a resolverse por <strong>decisión</strong> más que por una finalización temprana."
+    ],
+    "fight_conclusions": [
+      "Con tres asaltos por delante y ninguna de las dos amenazas de finalización especialmente elevadas, el camino más natural pasa por los jueces. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Francis+Marshall+%28Fire%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Francis Marshall</a> con un 60% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Nolan",
+  "event_date": "31 de octubre de 2026",
+  "event_date_iso": "2026-10-31",
+  "fight": {
+    "fighter_a": "Randy Brown",
+    "fighter_b": "Jacobe Smith",
+    "prediction": "Jacobe Smith",
+    "confidence": 65,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 53,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 60,
+    "raw_fighter_a": "Randy Brown",
+    "raw_fighter_b": "Jacobe Smith",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Randy+Brown+%28Rudeboy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Randy Brown</a></strong>, sin ranking oficial en el top 15 de peso wélter, acumula un récord total de carrera de 20-8-0, pero su forma reciente preocupa: en sus últimos 36 meses registra 3-3-0 en 6 peleas, con tres derrotas que no pueden pasarse por alto. Su derribo defensivo (75/100) y su amenaza de finalización (67/100) siguen siendo activos relevantes, pero su golpeo ofensivo apenas llega a 46 y su control de la acción se queda en un discreto 22/100.\nAl otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jacobe+Smith+%28Cobe%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacobe Smith</a></strong>, también sin ranking oficial en el top 15, llega invicto con un récord total de carrera de 13-0-0 y una forma reciente intachable: 4-0-0 en sus últimos 36 meses, sin una sola derrota en el tramo analizado. El radar lo coloca por delante en casi todos los apartados clave: domina el derribo ofensivo con 83/100, es prácticamente inquebrantable en el derribo defensivo con 100/100, y su control de la pelea alcanza un abrumador 99/100. Su amenaza de finalización, en el máximo de la escala (100/100), refuerza la sensación de que puede imponer su ritmo durante todo el combate a 3 rondas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jacobe+Smith+%28Cobe%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacobe Smith</a></strong> llega invicto y en racha perfecta, con un <strong>récord total de carrera de 13-0-0</strong>.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Randy+Brown+%28Rudeboy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Randy Brown</a></strong> atraviesa un tramo irregular: <strong>3-3-0 en los últimos 36 meses</strong>, con tres derrotas recientes.\nEl <strong>KO/TKO</strong> se perfila como el método más probable de finalización en este duelo de peso wélter."
+    ],
+    "fight_conclusions": [
+      "Las métricas de control y derribo inclinan claramente la balanza hacia un lado. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jacobe+Smith+%28Cobe%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jacobe Smith</a> con un 65% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

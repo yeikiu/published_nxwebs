@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Nolan",
+  "event_date": "31 de octubre de 2026",
+  "event_date_iso": "2026-10-31",
+  "fight": {
+    "fighter_a": "Zach Reese",
+    "fighter_b": "Mickey Gall",
+    "prediction": "Zach Reese",
+    "confidence": 63,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 41,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Zach Reese",
+    "raw_fighter_b": "Mickey Gall",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste duelo de peso medio enfrenta a dos peleadores sin ranking oficial en el top 15, ambos necesitados de un resultado que los reactive en la división. <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a></strong> llega con un récord total de carrera de 10-4-0 (1 NC), aunque su tramo más reciente pinta un panorama más parejo: en los últimos 36 meses acumula un 4-4-0 en 9 peleas, con cuatro derrotas que no pueden pasarse por alto, incluidas las caídas más recientes del 11-07-2026 y el 21-02-2026.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mickey+Gall\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mickey Gall</a></strong>, por su parte, arrastra un récord total de carrera de 7-7-0 y atraviesa un momento más delicado: 0-2-0 en sus últimos 36 meses, sin victorias en ese tramo. El radar marca una diferencia clara en el terreno del control, donde <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a> puntúa 44/100 frente a un pobre 10/100 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mickey+Gall\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mickey Gall</a>, y en el derribo ofensivo (61 contra 50), lo que sugiere que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a> podría imponer el ritmo en el suelo. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mickey+Gall\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mickey Gall</a> mantiene algo de resistencia en el golpeo, con un 60/100 en ofensiva y 51/100 en defensiva, pero su amenaza de finalización se sitúa en 0/100, un dato que contrasta con el 50/100 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a> en esa misma métrica."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a></strong> llega como favorito claro con un 63% de probabilidad en el radar.\nSu ventaja decisiva está en el <strong>derribo ofensivo (61/100)</strong> frente a un control casi nulo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mickey+Gall\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mickey Gall</a>.\nEl método más probable de finalización es la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Zach+Reese+%28Savage%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Zach Reese</a> con un 63% de probabilidad. Por separado, el método más probable de finalización es la sumisión, independientemente de quién gane. Con solo 3 rondas disponibles, cualquiera de los dos tendrá que imponer su plan de forma temprana para no dejarlo en manos de los jueces."
+    ],
+    "conclusion": ""
+  }
+}

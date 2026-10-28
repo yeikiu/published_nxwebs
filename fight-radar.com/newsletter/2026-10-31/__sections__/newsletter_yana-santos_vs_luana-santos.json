@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Nolan",
+  "event_date": "31 de octubre de 2026",
+  "event_date_iso": "2026-10-31",
+  "fight": {
+    "fighter_a": "Yana Santos",
+    "fighter_b": "Luana Santos",
+    "prediction": "Luana Santos",
+    "confidence": 82,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 62,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 78,
+    "raw_fighter_a": "Yana Santos",
+    "raw_fighter_b": "Luana Santos",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE): <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luana Santos</a></a></strong>, <strong>#6 del ranking peso gallo femenino</strong>, llega a este combate con un récord total de carrera de 17-8-0 (1 NC) y una forma reciente intachable: 3-0-0 en sus últimos 36 meses. Su perfil es el de una peleadora sólida en el golpeo, con 60 de golpeo ofensivo y 58 de golpeo defensivo, además de un derribo defensivo notable de 70/100. Sin embargo, su aportación ofensiva en el suelo es inexistente (0 en derribo ofensivo) y su control apenas alcanza 18/100, lo que limita su capacidad de imponer ritmo cuando la pelea se traslada al grappling.\nDel otro lado, <strong>Luana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luana Santos</a></a></strong>, <strong>#7 del ranking peso gallo femenino</strong>, presenta un récord total de carrera de 11-2-0 y una forma reciente de 5-1-0 en 6 peleas durante los últimos 36 meses, con una derrota en el tramo (17-08-2024) que no resta mérito a una racha mayormente ganadora. Lo que más llama la atención es su dominio en el control, con 91/100, respaldado por un derribo ofensivo de 38 y un derribo defensivo de 80. Su amenaza de finalización (40/100) también supera ampliamente la de su rival, lo que sugiere que, si logra imponer su grappling, podría abrir más opciones de las que su golpeo ofensivo (51/100) sugiere por sí solo."
+    ],
+    "quick_reads": [
+      "<strong>Luana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luana Santos</a></a></strong> llega como favorita clara con una racha reciente de 5-1-0 en sus últimos 36 meses.\nEl dominio en el control (<strong>91/100</strong>) marca la diferencia estilística frente a <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luana Santos</a></a></strong>.\nEl método más probable de finalización es la <strong>decisión</strong>, en un duelo que probablemente se extienda hasta el límite de las 3 rondas."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a Luana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Yana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Yana <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luana+Santos\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luana Santos</a></a> con un 82% de probabilidad. Su capacidad para controlar la acción en el suelo podría ser el factor decisivo frente a una rival sólida pero limitada en ese aspecto. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

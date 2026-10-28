@@ -1,0 +1,86 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Nolan",
+  "event_date": "31 de octubre de 2026",
+  "event_date_iso": "2026-10-31",
+  "generated_at": "2026-10-28T09:05:33Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Renato Moicano",
+      "fighter_b": "Tom Nolan",
+      "slug_a": "renato-moicano",
+      "slug_b": "tom-nolan",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_renato-moicano_vs_tom-nolan.html",
+        "en": "newsletter/2026-10-31/en/newsletter_renato-moicano_vs_tom-nolan.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_renato-moicano_vs_tom-nolan.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_renato-moicano_vs_tom-nolan.html"
+      }
+    },
+    {
+      "fighter_a": "Randy Brown",
+      "fighter_b": "Jacobe Smith",
+      "slug_a": "randy-brown",
+      "slug_b": "jacobe-smith",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_randy-brown_vs_jacobe-smith.html",
+        "en": "newsletter/2026-10-31/en/newsletter_randy-brown_vs_jacobe-smith.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_randy-brown_vs_jacobe-smith.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_randy-brown_vs_jacobe-smith.html"
+      }
+    },
+    {
+      "fighter_a": "Yana Santos",
+      "fighter_b": "Luana Santos",
+      "slug_a": "yana-santos",
+      "slug_b": "luana-santos",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_yana-santos_vs_luana-santos.html",
+        "en": "newsletter/2026-10-31/en/newsletter_yana-santos_vs_luana-santos.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_yana-santos_vs_luana-santos.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_yana-santos_vs_luana-santos.html"
+      }
+    },
+    {
+      "fighter_a": "Francis Marshall",
+      "fighter_b": "Dakota Hope",
+      "slug_a": "francis-marshall",
+      "slug_b": "dakota-hope",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_francis-marshall_vs_dakota-hope.html",
+        "en": "newsletter/2026-10-31/en/newsletter_francis-marshall_vs_dakota-hope.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_francis-marshall_vs_dakota-hope.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_francis-marshall_vs_dakota-hope.html"
+      }
+    },
+    {
+      "fighter_a": "Rodrigo Sezinando",
+      "fighter_b": "Theodor Berggren",
+      "slug_a": "rodrigo-sezinando",
+      "slug_b": "theodor-berggren",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_rodrigo-sezinando_vs_theodor-berggren.html",
+        "en": "newsletter/2026-10-31/en/newsletter_rodrigo-sezinando_vs_theodor-berggren.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_rodrigo-sezinando_vs_theodor-berggren.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_rodrigo-sezinando_vs_theodor-berggren.html"
+      }
+    },
+    {
+      "fighter_a": "Zach Reese",
+      "fighter_b": "Mickey Gall",
+      "slug_a": "zach-reese",
+      "slug_b": "mickey-gall",
+      "files": {
+        "es": "newsletter/2026-10-31/es/newsletter_zach-reese_vs_mickey-gall.html",
+        "en": "newsletter/2026-10-31/en/newsletter_zach-reese_vs_mickey-gall.html",
+        "pt": "newsletter/2026-10-31/pt/newsletter_zach-reese_vs_mickey-gall.html",
+        "fr": "newsletter/2026-10-31/fr/newsletter_zach-reese_vs_mickey-gall.html"
+      }
+    }
+  ]
+}
