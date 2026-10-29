@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T09:03:13.995Z",
+  "generatedAt": "2026-10-29T09:02:17.809Z",
   "provenance": {
     "fightersCsvSha256": "67514979a9171310351f62a7b2f3e920f0f06ddec558f1e21cc73034bc3145d5",
     "upcomingEventsSha256": "ee333477b4759acf5c71eabaef15076e2c1cb057378e47aa73b68ef823f0e1d7",
-    "appVersion": "1.1.105"
+    "appVersion": "1.1.106"
   },
   "summary": {
     "totalEvents": 7,
