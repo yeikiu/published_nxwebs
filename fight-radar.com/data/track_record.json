@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T03:53:06.017Z",
+  "generatedAt": "2026-11-01T15:04:43.531Z",
   "provenance": {
-    "appVersion": "1.1.107",
+    "appVersion": "1.1.108",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
     "totalEvents": 18,
     "totalFights": 231,
     "abstentions": 113,
-    "winnerCorrect": 57,
+    "winnerCorrect": 58,
     "winnerAttempts": 107,
     "methodCorrect": 59,
     "methodAttempts": 114,
@@ -151,9 +151,9 @@
           },
           "pick": {
             "winner": {
-              "value": "http://ufcstats.com/fighter-details/3143bf892608139a",
-              "label": "Yana Santos",
-              "correct": false,
+              "value": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+              "label": "Luana Santos",
+              "correct": true,
               "rawConfidence": 82,
               "calibratedConfidence": 82
             },

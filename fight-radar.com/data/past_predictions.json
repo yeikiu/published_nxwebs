@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T03:51:42.986Z",
+  "generatedAt": "2026-11-01T15:04:08.061Z",
   "globalStats": {
     "totalFights": 1591,
     "winnerCorrect": 638,
@@ -319,6 +319,7 @@
           "fighter1": "Nick Klein (Blue Collar)",
           "fighter2": "Joe Kropschot (The Land Animal)",
           "fighter1Image": "img/nick_klein.png",
+          "fighter2Image": "img/joe_kropschot_the_land_animal.png",
           "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "actual": {
@@ -366,6 +367,7 @@
         {
           "fighter1": "Lucia Szabova (Silent Killer)",
           "fighter2": "Tainara Lisboa (Thai Panther)",
+          "fighter1Image": "img/lucia_szabova_silent_killer.png",
           "fighter2Image": "img/tainara_lisboa.png",
           "weightClass": "W_Flyweight",
           "scheduledRounds": 3,
