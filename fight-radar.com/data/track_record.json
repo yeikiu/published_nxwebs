@@ -1,22 +1,441 @@
 {
-  "generatedAt": "2026-10-28T09:19:59.343Z",
+  "generatedAt": "2026-11-01T03:53:06.017Z",
   "provenance": {
-    "appVersion": "1.1.105",
+    "appVersion": "1.1.107",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 17,
-    "totalFights": 219,
-    "abstentions": 111,
-    "winnerCorrect": 54,
-    "winnerAttempts": 101,
-    "methodCorrect": 55,
-    "methodAttempts": 104,
-    "durationCorrect": 56,
-    "durationAttempts": 90,
-    "dimensionsWithConfidence": 295
+    "totalEvents": 18,
+    "totalFights": 231,
+    "abstentions": 113,
+    "winnerCorrect": 57,
+    "winnerAttempts": 107,
+    "methodCorrect": 59,
+    "methodAttempts": 114,
+    "durationCorrect": 63,
+    "durationAttempts": 98,
+    "dimensionsWithConfidence": 319
   },
   "events": [
+    {
+      "dateKey": "31-10-2026",
+      "eventName": "UFC Fight Night: Moicano vs. Nolan",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fightId": "8e263198bbcaf166",
+          "fightOrder": 1,
+          "fighter1": "Tom Nolan",
+          "fighter2": "Renato Moicano",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
+          "fighter1Image": "img/tom_nolan.png",
+          "fighter2Image": "img/renato_moicano.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+            "resultType": "KO",
+            "round": 3,
+            "time": "1:28"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+              "label": "Tom Nolan",
+              "correct": true,
+              "rawConfidence": 61,
+              "calibratedConfidence": 61
+            },
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 42.6,
+              "calibratedConfidence": 42.6
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "be74f3917604bdb2",
+          "fightOrder": 2,
+          "fighter1": "Jacobe Smith",
+          "fighter2": "Randy Brown",
+          "fighter1Url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c6aee362c7a7d482",
+          "fighter1Image": "img/jacobe_smith.png",
+          "fighter2Image": "img/randy_brown.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+              "label": "Jacobe Smith",
+              "correct": true,
+              "rawConfidence": 65.4,
+              "calibratedConfidence": 65.4
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 53.9,
+              "calibratedConfidence": 53.9
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 60.2,
+              "calibratedConfidence": 60.2
+            }
+          },
+          "pickedAt": "2026-10-24T21:47:58.111153+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "0b279f47f5960104",
+          "fightOrder": 3,
+          "fighter1": "Cody Durden",
+          "fighter2": "Ode Osbourne",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+          "fighter1Image": "img/cody_durden.png",
+          "fighter2Image": "img/ode_osbourne.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 50.3,
+              "calibratedConfidence": 50.3
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 62.6,
+              "calibratedConfidence": 62.6
+            }
+          },
+          "pickedAt": "2026-10-24T21:47:58.111153+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bfb4828e9e475b42",
+          "fightOrder": 4,
+          "fighter1": "Luana Santos",
+          "fighter2": "Yana Santos",
+          "fighter1Url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/3143bf892608139a",
+          "fighter1Image": "img/luana_santos.png",
+          "fighter2Image": "img/yana_santos.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/3143bf892608139a",
+              "label": "Yana Santos",
+              "correct": false,
+              "rawConfidence": 82,
+              "calibratedConfidence": 82
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 62.2,
+              "calibratedConfidence": 62.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 78.9,
+              "calibratedConfidence": 78.9
+            }
+          },
+          "pickedAt": "2026-09-30T08:02:17.641298+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "7eaae47752393e07",
+          "fightOrder": 5,
+          "fighter1": "Jean-Paul Lebosnoyani",
+          "fighter2": "Farman Hasanov",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a3dda21be645be93",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c88f8a9c1ea7165d",
+          "fighter1Image": "img/jean-paul_lebosnoyani.png",
+          "fighter2Image": "img/farman_hasanov_the_lion.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/a3dda21be645be93",
+            "resultType": "KO",
+            "round": 3,
+            "time": "2:11"
+          },
+          "pick": {
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 40.4,
+              "calibratedConfidence": 40.4
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 72.5,
+              "calibratedConfidence": 72.5
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bbbc6194cb071043",
+          "fightOrder": 6,
+          "fighter1": "Dakota Hope",
+          "fighter2": "Francis Marshall",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6142edbd477d20c9",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
+          "fighter1Image": "img/dakota_hope_huracan.png",
+          "fighter2Image": "img/francis_marshall.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/6142edbd477d20c9",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
+              "label": "Francis Marshall",
+              "correct": false,
+              "rawConfidence": 60.5,
+              "calibratedConfidence": 60.5
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 52.6,
+              "calibratedConfidence": 52.6
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.7,
+              "calibratedConfidence": 67.7
+            }
+          },
+          "pickedAt": "2026-10-24T21:47:58.111153+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bdb3e4d2d58d7999",
+          "fightOrder": 7,
+          "fighter1": "Rodrigo Sezinando",
+          "fighter2": "Theodor Berggren",
+          "fighter1Url": "http://ufcstats.com/fighter-details/c06d6b18862f9a53",
+          "fighter2Url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
+          "fighter1Image": "img/rodrigo_sezinando.png",
+          "fighter2Image": "img/theodor_berggren_simba.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/c06d6b18862f9a53",
+            "resultType": "KO",
+            "round": 2,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
+              "label": "Theodor Berggren",
+              "correct": false,
+              "rawConfidence": 56,
+              "calibratedConfidence": 56
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 49.1,
+              "calibratedConfidence": 49.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 55.7,
+              "calibratedConfidence": 55.7
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "07190c547e9f079a",
+          "fightOrder": 8,
+          "fighter1": "Julian Erosa",
+          "fighter2": "JeongYeong Lee",
+          "fighter1Url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
+          "fighter1Image": "img/julian_erosa.png",
+          "fighter2Image": "img/jeongyeong_lee.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:31"
+          },
+          "pick": {
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 41.1,
+              "calibratedConfidence": 41.1
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 59.2,
+              "calibratedConfidence": 59.2
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "db74dda70130949b",
+          "fightOrder": 9,
+          "fighter1": "Zach Reese",
+          "fighter2": "Mickey Gall",
+          "fighter1Url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9e50097a89442158",
+          "fighter1Image": "img/zachary_reese.png",
+          "fighter2Image": "img/mickey_gall.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
+              "label": "Zach Reese",
+              "correct": true,
+              "rawConfidence": 63.5,
+              "calibratedConfidence": 63.5
+            },
+            "method": {
+              "value": "submission",
+              "correct": false,
+              "rawConfidence": 41.5,
+              "calibratedConfidence": 41.5
+            }
+          },
+          "pickedAt": "2026-10-28T09:03:12.156819+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "f7c1cf9c3c1b36ee",
+          "fightOrder": 10,
+          "fighter1": "Joe Kropschot",
+          "fighter2": "Nick Klein",
+          "fighter1Url": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
+          "fighter1Image": "img/joe_kropschot_the_land_animal.png",
+          "fighter2Image": "img/nick_klein.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
+            "resultType": "Submission",
+            "round": 2,
+            "time": "1:25"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "cead5e2f0a3ec50e",
+          "fightOrder": 11,
+          "fighter1": "Piera Rodriguez",
+          "fighter2": "Talita Alencar",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+          "fighter1Image": "img/piera_rodriguez.png",
+          "fighter2Image": "img/talita_alencar.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 58.3,
+              "calibratedConfidence": 58.3
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 88.1,
+              "calibratedConfidence": 88.1
+            }
+          },
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "22cabb6347780088",
+          "fightOrder": 12,
+          "fighter1": "Lucia Szabova",
+          "fighter2": "Tainara Lisboa",
+          "fighter1Url": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
+          "fighter1Image": "img/lucia_szabova_silent_killer.png",
+          "fighter2Image": "img/tainara_lisboa.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
+            "resultType": "KO",
+            "round": 3,
+            "time": "3:20"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "24-10-2026",
       "eventName": "UFC 333: Volkanovski vs. Evloev",
@@ -53,7 +472,7 @@
               "calibratedConfidence": 75.8
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -87,7 +506,7 @@
               "calibratedConfidence": 86
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -128,7 +547,7 @@
               "calibratedConfidence": 70.1
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -203,7 +622,7 @@
               "calibratedConfidence": 56.9
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -279,7 +698,7 @@
               "calibratedConfidence": 59.9
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -320,7 +739,7 @@
               "calibratedConfidence": 58.3
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -354,7 +773,7 @@
               "calibratedConfidence": 64.2
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -416,7 +835,7 @@
               "calibratedConfidence": 72.1
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -457,7 +876,7 @@
               "calibratedConfidence": 64.6
             }
           },
-          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
           "abstained": false
         },
         {
@@ -498,7 +917,7 @@
               "calibratedConfidence": 65.3
             }
           },
-          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
           "abstained": false
         },
         {
@@ -539,7 +958,7 @@
               "calibratedConfidence": 81.7
             }
           },
-          "pickedAt": "2026-10-19T13:15:32.081074+00:00",
+          "pickedAt": "2026-10-19T13:06:40.845062+00:00",
           "abstained": false
         }
       ]
@@ -580,7 +999,7 @@
               "calibratedConfidence": 64.1
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -621,7 +1040,7 @@
               "calibratedConfidence": 84.2
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -733,7 +1152,7 @@
               "calibratedConfidence": 43.5
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -767,7 +1186,7 @@
               "calibratedConfidence": 66.3
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -892,7 +1311,7 @@
               "calibratedConfidence": 68.2
             }
           },
-          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "pickedAt": "2026-10-15T21:18:48.676396+00:00",
           "abstained": false
         },
         {
@@ -1002,7 +1421,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -1043,7 +1462,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -1120,7 +1539,7 @@
               "calibratedConfidence": 64
             }
           },
-          "pickedAt": "2026-09-27T08:08:54.755092+00:00",
+          "pickedAt": "2026-09-27T08:03:13.672307+00:00",
           "abstained": false
         },
         {
@@ -1161,7 +1580,7 @@
               "calibratedConfidence": 80.3
             }
           },
-          "pickedAt": "2026-09-30T08:19:33.67832+00:00",
+          "pickedAt": "2026-09-30T08:02:17.641298+00:00",
           "abstained": false
         },
         {

@@ -1,680 +1,54 @@
 {
-  "generatedAt": "2026-10-29T09:02:17.809Z",
+  "generatedAt": "2026-11-01T03:53:01.571Z",
   "provenance": {
-    "fightersCsvSha256": "67514979a9171310351f62a7b2f3e920f0f06ddec558f1e21cc73034bc3145d5",
-    "upcomingEventsSha256": "ee333477b4759acf5c71eabaef15076e2c1cb057378e47aa73b68ef823f0e1d7",
-    "appVersion": "1.1.106"
+    "fightersCsvSha256": "0c9bb1c1a8f83d7dd1820dd6505641fd2e1a9336a99f326ce613fa4a880a3daf",
+    "upcomingEventsSha256": "6600a6975079d8ef68679aa8f5ba42b2c58a9ffb97ba4a80b840f7c6e08c81e9",
+    "appVersion": "1.1.107"
   },
   "summary": {
-    "totalEvents": 7,
-    "totalFights": 57,
-    "predictedFights": 49,
-    "noDataFights": 8
+    "totalEvents": 6,
+    "totalFights": 45,
+    "predictedFights": 39,
+    "noDataFights": 6
   },
   "events": [
     {
-      "dateKey": "31-10-2026",
-      "eventName": "UFC Fight Night: Moicano vs. Nolan",
-      "location": "Las Vegas, Nevada, USA",
-      "startTime": "2026-10-31T21:00Z",
-      "fights": [
-        {
-          "fightId": "8e263198bbcaf166",
-          "fighter1": "Renato Moicano",
-          "fighter2": "Tom Nolan (Big Train)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/b6452706b373eea1",
-          "fighter2Url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
-          "fighter1Image": "img/renato_moicano.png",
-          "fighter2Image": "img/tom_nolan.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 5,
-          "prediction": {
-            "moneyline": {
-              "pick": "Tom Nolan",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 61,
-              "calibratedConfidence": 61,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.39
-              }
-            },
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.6,
-                "calibratedConfidence": 42.6,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.77,
-                  "pKo": 0.45
-                }
-              }
-            ],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
-            "method": "submission",
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "be74f3917604bdb2",
-          "fighter1": "Randy Brown (Rudeboy)",
-          "fighter2": "Jacobe Smith (Cobe)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/c6aee362c7a7d482",
-          "fighter2Url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
-          "fighter1Image": "img/randy_brown.png",
-          "fighter2Image": "img/jacobe_smith.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Jacobe Smith",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 65.4,
-              "calibratedConfidence": 65.4,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.35
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 53.9,
-                "calibratedConfidence": 53.9,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.7,
-                  "pKo": 0.77
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 60.2,
-                "calibratedConfidence": 60.2,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.6
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "0b279f47f5960104",
-          "fighter1": "Ode Osbourne (The Jamaican Sensation)",
-          "fighter2": "Cody Durden (Custom Made)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
-          "fighter2Url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
-          "fighter1Image": "img/ode_osbourne.png",
-          "fighter2Image": "img/cody_durden.png",
-          "weightClass": "Flyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 50.3,
-                "calibratedConfidence": 50.3,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.69,
-                  "pKo": 0.73
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 62.6,
-                "calibratedConfidence": 62.6,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.63
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "bfb4828e9e475b42",
-          "fighter1": "Yana Santos",
-          "fighter2": "Luana Santos",
-          "fighter1Url": "http://ufcstats.com/fighter-details/3143bf892608139a",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
-          "fighter1Image": "img/yana_santos.png",
-          "fighter2Image": "img/luana_santos.png",
-          "weightClass": "Women's Bantamweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Luana Santos",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 82,
-              "calibratedConfidence": 82,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.18
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 62.2,
-                "calibratedConfidence": 62.2,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.38,
-                  "pKo": 0.61
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 78.9,
-                "calibratedConfidence": 78.9,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.79
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/3143bf892608139a",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "7eaae47752393e07",
-          "fighter1": "Jean-Paul Lebosnoyani (Mufasa)",
-          "fighter2": "Farman Hasanov (The Lion)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/a3dda21be645be93",
-          "fighter2Url": "http://ufcstats.com/fighter-details/c88f8a9c1ea7165d",
-          "fighter1Image": "img/jean-paul_lebosnoyani.png",
-          "fighter2Image": "img/farman_hasanov_the_lion.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 40.4,
-                "calibratedConfidence": 40.4,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.74,
-                  "pKo": 0.45
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 72.5,
-                "calibratedConfidence": 72.5,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.72
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": "submission",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "bbbc6194cb071043",
-          "fighter1": "Francis Marshall (Fire)",
-          "fighter2": "Dakota Hope (Huracan)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
-          "fighter2Url": "http://ufcstats.com/fighter-details/6142edbd477d20c9",
-          "fighter1Image": "img/francis_marshall.png",
-          "fighter2Image": "img/dakota_hope_huracan.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Francis Marshall",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 60.5,
-              "calibratedConfidence": 60.5,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.6
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 52.6,
-                "calibratedConfidence": 52.6,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.47,
-                  "pKo": 0.49
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.7,
-                "calibratedConfidence": 67.7,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.68
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "bdb3e4d2d58d7999",
-          "fighter1": "Rodrigo Sezinando",
-          "fighter2": "Theodor Berggren (Simba)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/c06d6b18862f9a53",
-          "fighter2Url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
-          "fighter1Image": "img/rodrigo_sezinando.png",
-          "fighter2Image": "img/theodor_berggren_simba.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Theodor Berggren",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 56,
-              "calibratedConfidence": 56,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.44
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 49.1,
-                "calibratedConfidence": 49.1,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.8,
-                  "pKo": 0.62
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 55.7,
-                "calibratedConfidence": 55.7,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.56
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "07190c547e9f079a",
-          "fighter1": "Julian Erosa (Juicy J)",
-          "fighter2": "JeongYeong Lee (Korean Tiger)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d008d785f6347dc2",
-          "fighter1Image": "img/julian_erosa.png",
-          "fighter2Image": "img/jeongyeong_lee.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 41.1,
-                "calibratedConfidence": 41.1,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.73,
-                  "pKo": 0.44
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 59.2,
-                "calibratedConfidence": 59.2,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.59
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": "submission",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "db74dda70130949b",
-          "fighter1": "Zach Reese (Savage)",
-          "fighter2": "Mickey Gall",
-          "fighter1Url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
-          "fighter2Url": "http://ufcstats.com/fighter-details/9e50097a89442158",
-          "fighter1Image": "img/zachary_reese.png",
-          "fighter2Image": "img/mickey_gall.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Zach Reese",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 63.5,
-              "calibratedConfidence": 63.5,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.63
-              }
-            },
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 41.5,
-                "calibratedConfidence": 41.5,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.8,
-                  "pKo": 0.48
-                }
-              }
-            ],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
-            "method": "submission",
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "f7c1cf9c3c1b36ee",
-          "fighter1": "Nick Klein (Blue Collar)",
-          "fighter2": "Joe Kropschot",
-          "fighter1Url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
-          "fighter2Url": "http://ufcstats.com/fighter-details/8a81a0707350c4a8",
-          "fighter1Image": "img/nick_klein.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
-          "fightId": "cead5e2f0a3ec50e",
-          "fighter1": "Talita Alencar (Problem Child)",
-          "fighter2": "Piera Rodriguez (La Fiera)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/d35298b6df168456",
-          "fighter2Url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
-          "fighter1Image": "img/talita_alencar.png",
-          "fighter2Image": "img/piera_rodriguez.png",
-          "weightClass": "Women's Strawweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 58.3,
-                "calibratedConfidence": 58.3,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.42,
-                  "pKo": 0.29
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 88.1,
-                "calibratedConfidence": 88.1,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.88
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "22cabb6347780088",
-          "fighter1": "Lucia Szabova",
-          "fighter2": "Tainara Lisboa (Thai Panther)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/184f6ec4ee712e9f",
-          "fighter2Url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
-          "fighter2Image": "img/tainara_lisboa.png",
-          "weightClass": "Women's Flyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        }
-      ]
-    },
-    {
       "dateKey": "07-11-2026",
-      "eventName": "UFC Fight Night: Bonfim vs. Brady",
+      "eventName": "UFC Fight Night: Cortes Acosta vs. Walker",
       "location": "Las Vegas, Nevada, USA",
       "fights": [
         {
-          "fightId": "1496ad0f649dea71",
-          "fighter1": "Gabriel Bonfim (Marretinha)",
-          "fighter2": "Sean Brady",
-          "fighter1Url": "http://ufcstats.com/fighter-details/01641ba5df0c69b0",
-          "fighter2Url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
-          "fighter1Image": "img/gabriel_bonfim.png",
-          "fighter2Image": "img/sean_brady.png",
-          "weightClass": "Welterweight",
+          "fightId": "318360f22024a1a6",
+          "fighter1": "Waldo Cortes Acosta (Salsa Boy)",
+          "fighter2": "Johnny Walker",
+          "fighter1Url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+          "fighter1Image": "img/waldo_cortes-acosta.png",
+          "fighter2Image": "img/johnny_walker.png",
+          "weightClass": "Heavyweight",
           "scheduledRounds": 5,
           "prediction": {
-            "moneyline": {
-              "pick": "Gabriel Bonfim",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 57,
-              "calibratedConfidence": 57,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.57
-              }
-            },
             "methods": [
               {
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 37,
-                "calibratedConfidence": 37,
+                "rawConfidence": 61.8,
+                "calibratedConfidence": 61.8,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.66,
-                  "pKo": 0.56
+                  "pFinish": 0.68,
+                  "pKo": 0.91
                 }
               }
             ],
-            "durations": [
-              {
-                "pick": "OVER 2.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 63.9,
-                "calibratedConfidence": 63.9,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
-                "metadata": {
-                  "line": 2.5,
-                  "pOver": 0.64
-                }
-              }
-            ]
+            "durations": []
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/01641ba5df0c69b0",
+            "winnerUrl": null,
             "method": "ko",
-            "duration": {
-              "side": "over"
-            }
+            "duration": null
           },
           "contradictions": [],
           "noData": false
@@ -755,8 +129,8 @@
             "moneyline": {
               "pick": "Elijah Smith",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 78.8,
-              "calibratedConfidence": 78.8,
+              "rawConfidence": 79.1,
+              "calibratedConfidence": 79.1,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.21
@@ -773,7 +147,7 @@
                 "metadata": {
                   "method": "Decision",
                   "pFinish": 0.46,
-                  "pKo": 0.76
+                  "pKo": 0.75
                 }
               }
             ],
@@ -817,8 +191,8 @@
             "moneyline": {
               "pick": "Seokhyeon Ko",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 64.3,
-              "calibratedConfidence": 64.3,
+              "rawConfidence": 64.2,
+              "calibratedConfidence": 64.2,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.64
@@ -881,13 +255,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 41.8,
-                "calibratedConfidence": 41.8,
+                "rawConfidence": 41.7,
+                "calibratedConfidence": 41.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
                   "pFinish": 0.61,
-                  "pKo": 0.69
+                  "pKo": 0.68
                 }
               }
             ],
@@ -964,12 +338,12 @@
           "noData": false
         },
         {
-          "fightId": "231c131d8fd8a317",
+          "fightId": "34efc40d87db2225",
           "fighter1": "Gabriel Lorenco",
-          "fighter2": "Alvin Hines (Goozie)",
+          "fighter2": "Thomas Petersen (The Train)",
           "fighter1Url": "http://ufcstats.com/fighter-details/e3fc6c1fab298561",
-          "fighter2Url": "http://ufcstats.com/fighter-details/ab2a4b5e04dc5fe9",
-          "fighter2Image": "img/alvin_hines_goozie.jpg",
+          "fighter2Url": "http://ufcstats.com/fighter-details/764d39074a352e33",
+          "fighter2Image": "img/thomas_petersen.png",
           "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
@@ -1011,12 +385,12 @@
                 "pick": "Submission",
                 "predictionKey": "combat_analysis.finish_methods.submission",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 43.7,
-                "calibratedConfidence": 43.7,
+                "rawConfidence": 43.8,
+                "calibratedConfidence": 43.8,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Submission",
-                  "pFinish": 0.58,
+                  "pFinish": 0.59,
                   "pKo": 0.25
                 }
               }
@@ -1026,8 +400,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 76,
-                "calibratedConfidence": 76,
+                "rawConfidence": 75.9,
+                "calibratedConfidence": 75.9,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1083,8 +457,8 @@
             "moneyline": {
               "pick": "Murtazali Magomedov",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 60.1,
-              "calibratedConfidence": 60.1,
+              "rawConfidence": 60.2,
+              "calibratedConfidence": 60.2,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.4
@@ -1095,8 +469,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 50.2,
-                "calibratedConfidence": 50.2,
+                "rawConfidence": 50.4,
+                "calibratedConfidence": 50.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1110,8 +484,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 70.1,
-                "calibratedConfidence": 70.1,
+                "rawConfidence": 70.2,
+                "calibratedConfidence": 70.2,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1157,8 +531,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 73.1,
-                "calibratedConfidence": 73.1,
+                "rawConfidence": 73.2,
+                "calibratedConfidence": 73.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1234,8 +608,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 70.3,
-                "calibratedConfidence": 70.3,
+                "rawConfidence": 70.4,
+                "calibratedConfidence": 70.4,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1281,8 +655,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 55.2,
-                "calibratedConfidence": 55.2,
+                "rawConfidence": 55.1,
+                "calibratedConfidence": 55.1,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1373,8 +747,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 59.5,
-                "calibratedConfidence": 59.5,
+                "rawConfidence": 59.4,
+                "calibratedConfidence": 59.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1432,8 +806,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 47.1,
-                "calibratedConfidence": 47.1,
+                "rawConfidence": 47.2,
+                "calibratedConfidence": 47.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -1484,12 +858,12 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 66.5,
-                "calibratedConfidence": 66.5,
+                "rawConfidence": 66.2,
+                "calibratedConfidence": 66.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.74,
+                  "pFinish": 0.75,
                   "pKo": 0.89
                 }
               }
@@ -1530,8 +904,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 46,
-                "calibratedConfidence": 46,
+                "rawConfidence": 45.9,
+                "calibratedConfidence": 45.9,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1545,8 +919,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.6,
-                "calibratedConfidence": 67.6,
+                "rawConfidence": 67.7,
+                "calibratedConfidence": 67.7,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1580,8 +954,8 @@
             "moneyline": {
               "pick": "Charles Radtke",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 69.3,
-              "calibratedConfidence": 69.3,
+              "rawConfidence": 69.5,
+              "calibratedConfidence": 69.5,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.31
@@ -1607,8 +981,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.8,
-                "calibratedConfidence": 67.8,
+                "rawConfidence": 67.9,
+                "calibratedConfidence": 67.9,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1642,11 +1016,11 @@
             "moneyline": {
               "pick": "Chris Duncan",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 71.6,
-              "calibratedConfidence": 71.6,
+              "rawConfidence": 71.4,
+              "calibratedConfidence": 71.4,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.28
+                "p1": 0.29
               }
             },
             "methods": [
@@ -1654,8 +1028,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 60.2,
-                "calibratedConfidence": 60.2,
+                "rawConfidence": 60.4,
+                "calibratedConfidence": 60.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1669,8 +1043,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.7,
-                "calibratedConfidence": 67.7,
+                "rawConfidence": 67.6,
+                "calibratedConfidence": 67.6,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1704,11 +1078,11 @@
             "moneyline": {
               "pick": "Terrance McKinney",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 73.4,
-              "calibratedConfidence": 73.4,
+              "rawConfidence": 73.5,
+              "calibratedConfidence": 73.5,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.27
+                "p1": 0.26
               }
             },
             "methods": [
@@ -1716,8 +1090,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.9,
-                "calibratedConfidence": 42.9,
+                "rawConfidence": 42.8,
+                "calibratedConfidence": 42.8,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1778,13 +1152,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 36.8,
-                "calibratedConfidence": 36.8,
+                "rawConfidence": 37.7,
+                "calibratedConfidence": 37.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.69,
-                  "pKo": 0.53
+                  "pFinish": 0.68,
+                  "pKo": 0.55
                 }
               }
             ],
@@ -1793,8 +1167,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 59.1,
-                "calibratedConfidence": 59.1,
+                "rawConfidence": 59,
+                "calibratedConfidence": 59,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1830,8 +1204,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 56.8,
-                "calibratedConfidence": 56.8,
+                "rawConfidence": 56.7,
+                "calibratedConfidence": 56.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -1845,8 +1219,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 71.1,
-                "calibratedConfidence": 71.1,
+                "rawConfidence": 71.2,
+                "calibratedConfidence": 71.2,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1880,11 +1254,11 @@
             "moneyline": {
               "pick": "Juan Diaz",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 59.4,
-              "calibratedConfidence": 59.4,
+              "rawConfidence": 64.3,
+              "calibratedConfidence": 64.3,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.41
+                "p1": 0.36
               }
             },
             "methods": [
@@ -1892,12 +1266,12 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 59.6,
-                "calibratedConfidence": 59.6,
+                "rawConfidence": 56.6,
+                "calibratedConfidence": 56.6,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.71,
+                  "pFinish": 0.68,
                   "pKo": 0.83
                 }
               }
@@ -1907,13 +1281,13 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 66,
-                "calibratedConfidence": 66,
+                "rawConfidence": 66.6,
+                "calibratedConfidence": 66.6,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "line": 1.5,
-                  "pOver": 0.66
+                  "pOver": 0.67
                 }
               }
             ]
@@ -1969,8 +1343,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 59.7,
-                "calibratedConfidence": 59.7,
+                "rawConfidence": 59.6,
+                "calibratedConfidence": 59.6,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2004,8 +1378,8 @@
             "moneyline": {
               "pick": "Melquizael Costa",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 71,
-              "calibratedConfidence": 71,
+              "rawConfidence": 70.9,
+              "calibratedConfidence": 70.9,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.29
@@ -2016,8 +1390,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.5,
-                "calibratedConfidence": 42.5,
+                "rawConfidence": 42.6,
+                "calibratedConfidence": 42.6,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -2100,7 +1474,7 @@
               "calibratedConfidence": 67.5,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.33
+                "p1": 0.32
               }
             },
             "methods": [
@@ -2108,8 +1482,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 60.1,
-                "calibratedConfidence": 60.1,
+                "rawConfidence": 60,
+                "calibratedConfidence": 60,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -2216,8 +1590,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 37.8,
-                "calibratedConfidence": 37.8,
+                "rawConfidence": 37.9,
+                "calibratedConfidence": 37.9,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -2231,8 +1605,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 57.1,
-                "calibratedConfidence": 57.1,
+                "rawConfidence": 57.2,
+                "calibratedConfidence": 57.2,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2266,11 +1640,11 @@
             "moneyline": {
               "pick": "Ikram Aliskerov",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 71.4,
-              "calibratedConfidence": 71.4,
+              "rawConfidence": 71.6,
+              "calibratedConfidence": 71.6,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.29
+                "p1": 0.28
               }
             },
             "methods": [
@@ -2278,8 +1652,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 49.6,
-                "calibratedConfidence": 49.6,
+                "rawConfidence": 49.5,
+                "calibratedConfidence": 49.5,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -2293,8 +1667,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 64.6,
-                "calibratedConfidence": 64.6,
+                "rawConfidence": 64.7,
+                "calibratedConfidence": 64.7,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2392,8 +1766,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 48.8,
-                "calibratedConfidence": 48.8,
+                "rawConfidence": 48.7,
+                "calibratedConfidence": 48.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -2442,8 +1816,8 @@
             "moneyline": {
               "pick": "Santiago Luna",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 60.2,
-              "calibratedConfidence": 60.2,
+              "rawConfidence": 59.9,
+              "calibratedConfidence": 59.9,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
                 "p1": 0.4
@@ -2454,8 +1828,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 55.1,
-                "calibratedConfidence": 55.1,
+                "rawConfidence": 55.3,
+                "calibratedConfidence": 55.3,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -2506,8 +1880,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.3,
-                "calibratedConfidence": 42.3,
+                "rawConfidence": 42.2,
+                "calibratedConfidence": 42.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -2689,8 +2063,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 56.8,
-                "calibratedConfidence": 56.8,
+                "rawConfidence": 56.9,
+                "calibratedConfidence": 56.9,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2804,7 +2178,7 @@
                 "metadata": {
                   "method": "Decision",
                   "pFinish": 0.42,
-                  "pKo": 0.54
+                  "pKo": 0.55
                 }
               }
             ],
@@ -2860,12 +2234,12 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 46.6,
-                "calibratedConfidence": 46.6,
+                "rawConfidence": 46.5,
+                "calibratedConfidence": 46.5,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.53,
+                  "pFinish": 0.54,
                   "pKo": 0.49
                 }
               }
@@ -2875,8 +2249,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 76.6,
-                "calibratedConfidence": 76.6,
+                "rawConfidence": 76.7,
+                "calibratedConfidence": 76.7,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2942,8 +2316,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 49.7,
-                "calibratedConfidence": 49.7,
+                "rawConfidence": 49.6,
+                "calibratedConfidence": 49.6,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -3004,8 +2378,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 71,
-                "calibratedConfidence": 71,
+                "rawConfidence": 71.1,
+                "calibratedConfidence": 71.1,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -3019,8 +2393,8 @@
                 "pick": "OVER 2.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_2_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 59,
-                "calibratedConfidence": 59,
+                "rawConfidence": 58.9,
+                "calibratedConfidence": 58.9,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_2_5_rounds",
                 "metadata": {
