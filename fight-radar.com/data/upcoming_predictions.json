@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T15:04:40.050Z",
+  "generatedAt": "2026-11-03T09:01:55.459Z",
   "provenance": {
-    "fightersCsvSha256": "0c9bb1c1a8f83d7dd1820dd6505641fd2e1a9336a99f326ce613fa4a880a3daf",
-    "upcomingEventsSha256": "6600a6975079d8ef68679aa8f5ba42b2c58a9ffb97ba4a80b840f7c6e08c81e9",
-    "appVersion": "1.1.108"
+    "fightersCsvSha256": "58003767d86ddfc7358cbf613c33f9779740c9654b33f568926542eb2af67da5",
+    "upcomingEventsSha256": "eb9f63bef71a7eba2808b0eccc97af4b0e27c4f8919427540de6b2f0c472a319",
+    "appVersion": "1.1.110"
   },
   "summary": {
     "totalEvents": 6,
-    "totalFights": 45,
-    "predictedFights": 39,
+    "totalFights": 47,
+    "predictedFights": 41,
     "noDataFights": 6
   },
   "events": [
@@ -2418,10 +2418,119 @@
     },
     {
       "dateKey": "06-02-2027",
-      "eventName": "UFC Fight Night",
+      "eventName": "UFC Fight Night: Salkilld vs. Saint Denis",
       "location": "Sydney, New South Wales, Australia",
       "startTime": "2027-02-06T22:00Z",
-      "fights": []
+      "fights": [
+        {
+          "fightId": "731f044ea0f5bd0d",
+          "fighter1": "Quillan Salkilld",
+          "fighter2": "Benoit Saint Denis (God of War)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c2299ec916bc7c56",
+          "fighter1Image": "img/quillan_salkilld.png",
+          "fighter2Image": "img/benoit_saint_denis.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 5,
+          "prediction": {
+            "moneyline": {
+              "pick": "Quillan Salkilld",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 62.9,
+              "calibratedConfidence": 62.9,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.63
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 51.2,
+                "calibratedConfidence": 51.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.78,
+                  "pKo": 0.66
+                }
+              }
+            ],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/17734443a833cdf7",
+            "method": "ko",
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "87840c932db5d824",
+          "fighter1": "Bogdan Guskov (Hitman)",
+          "fighter2": "Robert Whittaker (The Reaper)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
+          "fighter1Image": "img/bogdan_guskov.png",
+          "fighter2Image": "img/robert_whittaker.png",
+          "weightClass": "Light Heavyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Robert Whittaker",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 56.3,
+              "calibratedConfidence": 56.3,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.44
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 47.2,
+                "calibratedConfidence": 47.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.7,
+                  "pKo": 0.67
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 60.3,
+                "calibratedConfidence": 60.3,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.6
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        }
+      ]
     }
   ]
 }
