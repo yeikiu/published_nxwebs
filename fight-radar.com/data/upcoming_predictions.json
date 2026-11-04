@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T09:01:55.459Z",
+  "generatedAt": "2026-11-04T09:03:17.087Z",
   "provenance": {
-    "fightersCsvSha256": "58003767d86ddfc7358cbf613c33f9779740c9654b33f568926542eb2af67da5",
-    "upcomingEventsSha256": "eb9f63bef71a7eba2808b0eccc97af4b0e27c4f8919427540de6b2f0c472a319",
-    "appVersion": "1.1.110"
+    "fightersCsvSha256": "56c1b8ffda08b33d591d418fcad7f92c55e34429895b73aa49c25b4a4fea3d04",
+    "upcomingEventsSha256": "841b50781c2c14c032a0dfa064c03a6650b4f4a21989d3beac327a3f4bb397a4",
+    "appVersion": "1.1.111"
   },
   "summary": {
     "totalEvents": 6,
@@ -178,68 +178,6 @@
           "noData": false
         },
         {
-          "fightId": "86cac0cd311298f9",
-          "fighter1": "Seokhyeon Ko (The Korean Tyson)",
-          "fighter2": "Wellington Turman (The Prodigy)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
-          "fighter1Image": "img/seokhyeon_ko.png",
-          "fighter2Image": "img/wellington_turman.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Seokhyeon Ko",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 64.2,
-              "calibratedConfidence": 64.2,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.64
-              }
-            },
-            "methods": [
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 38.4,
-                "calibratedConfidence": 38.4,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.71,
-                  "pKo": 0.46
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 62.5,
-                "calibratedConfidence": 62.5,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.62
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/4a07b1988477502c",
-            "method": "submission",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
           "fightId": "47cb6909e982edce",
           "fighter1": "Billy Elekana (Son of Susie)",
           "fighter2": "Lucas Fernando",
@@ -276,24 +214,24 @@
           "noData": false
         },
         {
-          "fightId": "135f52f1942b4b5d",
-          "fighter1": "Mantas Kondratavicius",
-          "fighter2": "Andre Petroski",
-          "fighter1Url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
-          "fighter2Url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
-          "fighter1Image": "img/mantas_kondratavicius.png",
-          "fighter2Image": "img/andre_petroski.png",
-          "weightClass": "Middleweight",
+          "fightId": "18829b00743c2a81",
+          "fighter1": "Priscila Cachoeira (Zombie Girl)",
+          "fighter2": "Nina Milosevic (Queen Beast)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
+          "fighter2Url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
+          "fighter1Image": "img/priscila_cachoeira.png",
+          "fighter2Image": "img/nina_milosevic_queen_beast.png",
+          "weightClass": "Women's Bantamweight",
           "scheduledRounds": 3,
           "prediction": {
             "moneyline": {
-              "pick": "Mantas Kondratavicius",
+              "pick": "Nina Milosevic",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 59.9,
-              "calibratedConfidence": 59.9,
+              "rawConfidence": 76.5,
+              "calibratedConfidence": 76.5,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.6
+                "p1": 0.24
               }
             },
             "methods": [
@@ -301,13 +239,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 46.6,
-                "calibratedConfidence": 46.6,
+                "rawConfidence": 55.1,
+                "calibratedConfidence": 55.1,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.66,
-                  "pKo": 0.7
+                  "pFinish": 0.71,
+                  "pKo": 0.77
                 }
               }
             ],
@@ -316,8 +254,92 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 57,
-                "calibratedConfidence": 57,
+                "rawConfidence": 60.4,
+                "calibratedConfidence": 60.4,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.6
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "7bd3511b93df3a85",
+          "fighter1": "Mitch Raposo",
+          "fighter2": "Marcos Degli",
+          "fighter1Url": "http://ufcstats.com/fighter-details/0be6776db31d98ec",
+          "fighter2Url": "http://ufcstats.com/fighter-details/0575068a0f83f963",
+          "fighter1Image": "img/mitch_raposo.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "04048dc8c81f34ea",
+          "fighter1": "Keiichiro Nakamura",
+          "fighter2": "Ollie Schmid (The Hungarian Stallion)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/b701f095e6ccb149",
+          "fighter1Image": "img/keiichiro_nakamura.png",
+          "fighter2Image": "img/ollie_schmid_the_hungarian_stallion.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Keiichiro Nakamura",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 55.3,
+              "calibratedConfidence": 55.3,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.55
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 73.2,
+                "calibratedConfidence": 73.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.77,
+                  "pKo": 0.95
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 56.5,
+                "calibratedConfidence": 56.5,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -328,7 +350,7 @@
             ]
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
+            "winnerUrl": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
             "method": "ko",
             "duration": {
               "side": "over"
@@ -422,28 +444,6 @@
           "noData": false
         },
         {
-          "fightId": "7bd3511b93df3a85",
-          "fighter1": "Mitch Raposo",
-          "fighter2": "Marcos Degli",
-          "fighter1Url": "http://ufcstats.com/fighter-details/0be6776db31d98ec",
-          "fighter2Url": "http://ufcstats.com/fighter-details/0575068a0f83f963",
-          "fighter1Image": "img/mitch_raposo.png",
-          "weightClass": "Flyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
-            "durations": []
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": null,
-            "duration": null
-          },
-          "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
-        },
-        {
           "fightId": "2989c378c1a13c5f",
           "fighter1": "Jose Delano",
           "fighter2": "Murtazali Magomedov (The Highlight)",
@@ -497,68 +497,6 @@
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/d436f5d55156a521",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "04048dc8c81f34ea",
-          "fighter1": "Keiichiro Nakamura",
-          "fighter2": "Ollie Schmid (The Hungarian Stallion)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
-          "fighter2Url": "http://ufcstats.com/fighter-details/b701f095e6ccb149",
-          "fighter1Image": "img/keiichiro_nakamura.png",
-          "fighter2Image": "img/ollie_schmid_the_hungarian_stallion.png",
-          "weightClass": "Featherweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Keiichiro Nakamura",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 55.3,
-              "calibratedConfidence": 55.3,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.55
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 73.2,
-                "calibratedConfidence": 73.2,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.77,
-                  "pKo": 0.95
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 56.5,
-                "calibratedConfidence": 56.5,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.57
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/3618e0632ecdba9c",
             "method": "ko",
             "duration": {
               "side": "over"
@@ -630,24 +568,24 @@
           "noData": false
         },
         {
-          "fightId": "18829b00743c2a81",
-          "fighter1": "Priscila Cachoeira (Zombie Girl)",
-          "fighter2": "Nina Milosevic (Queen Beast)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
-          "fighter2Url": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
-          "fighter1Image": "img/priscila_cachoeira.png",
-          "fighter2Image": "img/nina_milosevic_queen_beast.png",
-          "weightClass": "Women's Bantamweight",
+          "fightId": "135f52f1942b4b5d",
+          "fighter1": "Mantas Kondratavicius",
+          "fighter2": "Andre Petroski",
+          "fighter1Url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
+          "fighter1Image": "img/mantas_kondratavicius.png",
+          "fighter2Image": "img/andre_petroski.png",
+          "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "prediction": {
             "moneyline": {
-              "pick": "Nina Milosevic",
+              "pick": "Mantas Kondratavicius",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 76.5,
-              "calibratedConfidence": 76.5,
+              "rawConfidence": 59.9,
+              "calibratedConfidence": 59.9,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.24
+                "p1": 0.6
               }
             },
             "methods": [
@@ -655,13 +593,13 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 55.1,
-                "calibratedConfidence": 55.1,
+                "rawConfidence": 46.6,
+                "calibratedConfidence": 46.6,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.71,
-                  "pKo": 0.77
+                  "pFinish": 0.66,
+                  "pKo": 0.7
                 }
               }
             ],
@@ -670,20 +608,82 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 60.4,
-                "calibratedConfidence": 60.4,
+                "rawConfidence": 57,
+                "calibratedConfidence": 57,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "line": 1.5,
-                  "pOver": 0.6
+                  "pOver": 0.57
                 }
               }
             ]
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/eabece0edc2d62ca",
+            "winnerUrl": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
             "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "86cac0cd311298f9",
+          "fighter1": "Seokhyeon Ko (The Korean Tyson)",
+          "fighter2": "Wellington Turman (The Prodigy)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
+          "fighter1Image": "img/seokhyeon_ko.png",
+          "fighter2Image": "img/wellington_turman.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Seokhyeon Ko",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 64.2,
+              "calibratedConfidence": 64.2,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.64
+              }
+            },
+            "methods": [
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 38.4,
+                "calibratedConfidence": 38.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.71,
+                  "pKo": 0.46
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 62.5,
+                "calibratedConfidence": 62.5,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.62
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/4a07b1988477502c",
+            "method": "submission",
             "duration": {
               "side": "over"
             }
@@ -1454,7 +1454,7 @@
       "dateKey": "21-11-2026",
       "eventName": "UFC Fight Night: Prochazka vs. Stirling",
       "location": "Doha, Qatar",
-      "startTime": "2026-11-21T22:00Z",
+      "startTime": "2026-11-21T15:00Z",
       "fights": [
         {
           "fightId": "9f95cfd0670d5c72",

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Cortes Acosta vs. Walker",
+  "event_date": "7 de noviembre de 2026",
+  "event_date_iso": "2026-11-07",
+  "fight": {
+    "fighter_a": "Seokhyeon Ko",
+    "fighter_b": "Wellington Turman",
+    "prediction": "Seokhyeon Ko",
+    "confidence": 64,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 38,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 62,
+    "raw_fighter_a": "Seokhyeon Ko",
+    "raw_fighter_b": "Wellington Turman",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\nEste combate estelar entre <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a></strong> y <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wellington+Turman+%28The+Prodigy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wellington Turman</a></strong> enfrenta a dos peleadores fuera del top 15 de peso wélter, pero con trayectorias que invitan a un cruce de estilos interesante. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> llega con un récord total de carrera de 13-3-0, y en los últimos 36 meses presenta un 2-1-0 en 3 peleas —incluye 1 derrota reciente, la más próxima el 18-07-2026—, lo que confirma que mantiene actividad constante aunque no inmaculada. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wellington+Turman+%28The+Prodigy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wellington Turman</a>, por su parte, acumula un récord total de 18-8-0, con un 0-1-0 en 1 pelea dentro del mismo período de 36 meses, su única salida reciente registrada el 02-12-2023.\nEn el terreno del radar, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> domina ampliamente el control (86 frente a 76) y exhibe una amenaza de finalización que alcanza el máximo de 100, un dato que contrasta con el 0 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wellington+Turman+%28The+Prodigy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wellington Turman</a> en esa misma métrica. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Wellington+Turman+%28The+Prodigy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Wellington Turman</a>, sin embargo, no es un peleador pasivo: su derribo ofensivo de 100 y un golpeo ofensivo de 65 sugieren que podría buscar imponer su físico desde el inicio, aunque su derribo defensivo de 0 y golpeo defensivo de 36 exponen vulnerabilidades claras que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> podría explotar. A lo largo de las 3 rondas pactadas, la capacidad de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> para cerrar distancia y controlar el intercambio podría resultar determinante."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a></strong> llega como favorito con un <strong>64%</strong> de probabilidad según el radar.\nSu ventaja decisiva está en el control (86 contra 76) y una amenaza de finalización que toca el <strong>100</strong>.\nEl método más probable de cierre en este combate es la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "Con la amenaza de finalización de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> muy por encima de la de su rival, el panorama apunta a un combate que podría resolverse antes del límite. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Seokhyeon+Ko+%28The+Korean+Tyson%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Seokhyeon Ko</a> con un 64% de probabilidad. Por separado, el método más probable de finalización es la sumisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
