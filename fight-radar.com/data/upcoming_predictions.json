@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04T09:03:17.087Z",
+  "generatedAt": "2026-11-05T04:27:22.439Z",
   "provenance": {
-    "fightersCsvSha256": "56c1b8ffda08b33d591d418fcad7f92c55e34429895b73aa49c25b4a4fea3d04",
-    "upcomingEventsSha256": "841b50781c2c14c032a0dfa064c03a6650b4f4a21989d3beac327a3f4bb397a4",
-    "appVersion": "1.1.111"
+    "fightersCsvSha256": "c74400f24f49bb0df078417e133a679776f951db31001f149fa8758cb3076e2e",
+    "upcomingEventsSha256": "3f877c4bca3782fc74b8fc1762c29a850b3db626d0238048eb8cbe3ae0696e84",
+    "appVersion": "1.1.112"
   },
   "summary": {
     "totalEvents": 6,
-    "totalFights": 47,
-    "predictedFights": 41,
-    "noDataFights": 6
+    "totalFights": 49,
+    "predictedFights": 42,
+    "noDataFights": 7
   },
   "events": [
     {
@@ -506,66 +506,26 @@
           "noData": false
         },
         {
-          "fightId": "a6189582f657ecd3",
+          "fightId": "9d96874c91961378",
           "fighter1": "Austin Bashi",
-          "fighter2": "Lucas Brennan (Skywalker)",
+          "fighter2": "Carlos Calderon",
           "fighter1Url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
-          "fighter2Url": "http://ufcstats.com/fighter-details/33a8708747b7f943",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7d4d7583df7eebf9",
           "fighter1Image": "img/austin_bashi.png",
-          "fighter2Image": "img/lucas_brennan_skywalker.png",
           "weightClass": "Featherweight",
           "scheduledRounds": 3,
           "prediction": {
-            "moneyline": {
-              "pick": "Austin Bashi",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 64.2,
-              "calibratedConfidence": 64.2,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.64
-              }
-            },
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 54.1,
-                "calibratedConfidence": 54.1,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.46,
-                  "pKo": 0.46
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 70.4,
-                "calibratedConfidence": 70.4,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.7
-                }
-              }
-            ]
+            "methods": [],
+            "durations": []
           },
           "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
           },
           "contradictions": [],
-          "noData": false
+          "noData": true,
+          "noDataReason": "missing_fighter"
         },
         {
           "fightId": "135f52f1942b4b5d",
@@ -2523,6 +2483,130 @@
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
             "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "70918722eaf73c8d",
+          "fighter1": "Marwan Rahiki (Freaky)",
+          "fighter2": "JooSang Yoo (Zombie Jr.)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
+          "fighter1Image": "img/marwan_rahiki_freaky.png",
+          "fighter2Image": "img/joo_sang_yoo.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Marwan Rahiki",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 72.5,
+              "calibratedConfidence": 72.5,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.73
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 61.4,
+                "calibratedConfidence": 61.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.73,
+                  "pKo": 0.84
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 68.2,
+                "calibratedConfidence": 68.2,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.68
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "220cd6e2b583ce8b",
+          "fighter1": "Kaan Ofli (Genghis)",
+          "fighter2": "Joanderson Brito (Tubarao)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "fighter2Url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "fighter1Image": "img/kaan_ofli.png",
+          "fighter2Image": "img/joanderson_brito.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Joanderson Brito",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 70.6,
+              "calibratedConfidence": 70.6,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.29
+              }
+            },
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 46.1,
+                "calibratedConfidence": 46.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.54,
+                  "pKo": 0.5
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 65.9,
+                "calibratedConfidence": 65.9,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.66
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+            "method": "decision",
             "duration": {
               "side": "over"
             }

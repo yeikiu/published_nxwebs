@@ -151,8 +151,8 @@
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Lucas Brennan (Skywalker)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/33a8708747b7f943",
+          "name": "Carlos Calderon",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d4d7583df7eebf9",
           "division_ranking": ""
         },
         "weightClass": "Featherweight",
@@ -701,6 +701,34 @@
           "division_ranking": "11"
         },
         "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marwan Rahiki (Freaky)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "JooSang Yoo (Zombie Jr.)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a44020ea2e8cd026",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kaan Ofli (Genghis)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Joanderson Brito (Tubarao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+          "division_ranking": "12"
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ],
