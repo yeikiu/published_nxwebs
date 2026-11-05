@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T04:27:22.439Z",
+  "generatedAt": "2026-11-05T18:00:26.914Z",
   "provenance": {
     "fightersCsvSha256": "c74400f24f49bb0df078417e133a679776f951db31001f149fa8758cb3076e2e",
-    "upcomingEventsSha256": "3f877c4bca3782fc74b8fc1762c29a850b3db626d0238048eb8cbe3ae0696e84",
-    "appVersion": "1.1.112"
+    "upcomingEventsSha256": "ab87fdcc1cb34b32e05552ae15ea2f22fb18c967e81bba6fa26bc2d8ef516245",
+    "appVersion": "1.1.113"
   },
   "summary": {
     "totalEvents": 6,
-    "totalFights": 49,
-    "predictedFights": 42,
+    "totalFights": 48,
+    "predictedFights": 41,
     "noDataFights": 7
   },
   "events": [
@@ -1149,6 +1149,68 @@
           "noData": false
         },
         {
+          "fightId": "003c24cf9ad22797",
+          "fighter1": "Jared Gordon (Flash)",
+          "fighter2": "Melquizael Costa (The Dalmatian)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
+          "fighter2Url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+          "fighter1Image": "img/jared_gordon.png",
+          "fighter2Image": "img/melquizael_costa.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "moneyline": {
+              "pick": "Melquizael Costa",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 70.9,
+              "calibratedConfidence": 70.9,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.29
+              }
+            },
+            "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 42.6,
+                "calibratedConfidence": 42.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.59,
+                  "pKo": 0.72
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 67.4,
+                "calibratedConfidence": 67.4,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.67
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+            "method": "ko",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
           "fightId": "9ab4e6706dde2f08",
           "fighter1": "Macy Chiasson",
           "fighter2": "Bia Mesquita (The Lady GOAT)",
@@ -1254,130 +1316,6 @@
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "2ecdc4e529d300ed",
-          "fighter1": "Nazim Sadykhov (Black Wolf)",
-          "fighter2": "Jefferson Nascimento (Toddynho)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
-          "fighter2Url": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
-          "fighter1Image": "img/nazim_sadykhov.png",
-          "fighter2Image": "img/jefferson_nascimento_toddynho.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Jefferson Nascimento",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 58.6,
-              "calibratedConfidence": 58.6,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.41
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 49,
-                "calibratedConfidence": 49,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.77,
-                  "pKo": 0.64
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 59.6,
-                "calibratedConfidence": 59.6,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.6
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
-            "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "003c24cf9ad22797",
-          "fighter1": "Jared Gordon (Flash)",
-          "fighter2": "Melquizael Costa (The Dalmatian)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
-          "fighter2Url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
-          "fighter1Image": "img/jared_gordon.png",
-          "fighter2Image": "img/melquizael_costa.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Melquizael Costa",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 70.9,
-              "calibratedConfidence": 70.9,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.29
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.6,
-                "calibratedConfidence": 42.6,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.59,
-                  "pKo": 0.72
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.4,
-                "calibratedConfidence": 67.4,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.67
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
             "method": "ko",
             "duration": {
               "side": "over"
@@ -1587,6 +1525,58 @@
           "noData": false
         },
         {
+          "fightId": "bb87d61405839366",
+          "fighter1": "Kyoji Horiguchi (Karate Kid)",
+          "fighter2": "Asu Almabayev (Zulfikar)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "fighter1Image": "img/kyoji_horiguchi.png",
+          "fighter2Image": "img/asu_almabayev.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 53.2,
+                "calibratedConfidence": 53.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.47,
+                  "pKo": 0.55
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 70.1,
+                "calibratedConfidence": 70.1,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.7
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
           "fightId": "40138da5af0ea504",
           "fighter1": "Jared Cannonier (The Killa Gorilla)",
           "fighter2": "Ikram Aliskerov",
@@ -1641,120 +1631,6 @@
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/b07aed698fba8624",
             "method": "ko",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "c15e3bc02069e7d5",
-          "fighter1": "Shamil Gaziev",
-          "fighter2": "Tallison Teixeira (Xicao)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
-          "fighter2Url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "fighter1Image": "img/shamil_gaziev.png",
-          "fighter2Image": "img/tallison_teixeira.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "moneyline": {
-              "pick": "Tallison Teixeira",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 69.8,
-              "calibratedConfidence": 69.8,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.3
-              }
-            },
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 59.4,
-                "calibratedConfidence": 59.4,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.83,
-                  "pKo": 0.72
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "UNDER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 57.7,
-                "calibratedConfidence": 57.7,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.42
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/17923f676f100e16",
-            "method": "ko",
-            "duration": {
-              "side": "under"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "9b0986861f8007c2",
-          "fighter1": "Jake Matthews (The Celtic Kid)",
-          "fighter2": "Tahir Abdullayev (Tank)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
-          "fighter2Url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
-          "fighter1Image": "img/jake_matthews.png",
-          "fighter2Image": "img/tahir_abdullayev_tank.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 48.7,
-                "calibratedConfidence": 48.7,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.51,
-                  "pKo": 0.58
-                }
-              }
-            ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 68.6,
-                "calibratedConfidence": 68.6,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.69
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": null,
-            "method": "decision",
             "duration": {
               "side": "over"
             }
@@ -1825,52 +1701,62 @@
           "noData": false
         },
         {
-          "fightId": "bb87d61405839366",
-          "fighter1": "Asu Almabayev (Zulfikar)",
-          "fighter2": "Kyoji Horiguchi (Karate Kid)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "fighter2Url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
-          "fighter1Image": "img/asu_almabayev.png",
-          "fighter2Image": "img/kyoji_horiguchi.png",
-          "weightClass": "Flyweight",
+          "fightId": "c15e3bc02069e7d5",
+          "fighter1": "Shamil Gaziev",
+          "fighter2": "Tallison Teixeira (Xicao)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+          "fighter2Url": "http://ufcstats.com/fighter-details/17923f676f100e16",
+          "fighter1Image": "img/shamil_gaziev.png",
+          "fighter2Image": "img/tallison_teixeira.png",
+          "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
+            "moneyline": {
+              "pick": "Tallison Teixeira",
+              "titleKey": "betting_markets.fight_winner",
+              "rawConfidence": 69.8,
+              "calibratedConfidence": 69.8,
+              "reasoningKey": "radar_model.reasoning.winner",
+              "metadata": {
+                "p1": 0.3
+              }
+            },
             "methods": [
               {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 42.2,
-                "calibratedConfidence": 42.2,
+                "rawConfidence": 59.4,
+                "calibratedConfidence": 59.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.58,
-                  "pKo": 0.29
+                  "method": "KO/TKO",
+                  "pFinish": 0.83,
+                  "pKo": 0.72
                 }
               }
             ],
             "durations": [
               {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "pick": "UNDER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.under_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 70.1,
-                "calibratedConfidence": 70.1,
+                "rawConfidence": 57.7,
+                "calibratedConfidence": 57.7,
                 "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "explanationKey": "combat_analysis.bet_explanations.under_1_5_rounds",
                 "metadata": {
                   "line": 1.5,
-                  "pOver": 0.7
+                  "pOver": 0.42
                 }
               }
             ]
           },
           "radar": {
-            "winnerUrl": null,
-            "method": "decision",
+            "winnerUrl": "http://ufcstats.com/fighter-details/17923f676f100e16",
+            "method": "ko",
             "duration": {
-              "side": "over"
+              "side": "under"
             }
           },
           "contradictions": [],
@@ -1930,6 +1816,58 @@
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
+            "method": "decision",
+            "duration": {
+              "side": "over"
+            }
+          },
+          "contradictions": [],
+          "noData": false
+        },
+        {
+          "fightId": "9b0986861f8007c2",
+          "fighter1": "Jake Matthews (The Celtic Kid)",
+          "fighter2": "Tahir Abdullayev (Tank)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
+          "fighter2Url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
+          "fighter1Image": "img/jake_matthews.png",
+          "fighter2Image": "img/tahir_abdullayev_tank.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 48.7,
+                "calibratedConfidence": 48.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.51,
+                  "pKo": 0.58
+                }
+              }
+            ],
+            "durations": [
+              {
+                "pick": "OVER 1.5 rounds",
+                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
+                "titleKey": "betting_markets.total_rounds",
+                "rawConfidence": 68.6,
+                "calibratedConfidence": 68.6,
+                "reasoningKey": "radar_model.reasoning.duration",
+                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
+                "metadata": {
+                  "line": 1.5,
+                  "pOver": 0.69
+                }
+              }
+            ]
+          },
+          "radar": {
+            "winnerUrl": null,
             "method": "decision",
             "duration": {
               "side": "over"

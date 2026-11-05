@@ -335,6 +335,20 @@
       },
       {
         "fighter1": {
+          "name": "Jared Gordon (Flash)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Melquizael Costa (The Dalmatian)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Macy Chiasson",
           "ufcstats_url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
           "division_ranking": "9"
@@ -359,34 +373,6 @@
           "division_ranking": ""
         },
         "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nazim Sadykhov (Black Wolf)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jefferson Nascimento (Toddynho)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jared Gordon (Flash)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Melquizael Costa (The Dalmatian)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -454,6 +440,20 @@
       },
       {
         "fighter1": {
+          "name": "Kyoji Horiguchi (Karate Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Asu Almabayev (Zulfikar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "division_ranking": "7"
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Jared Cannonier (The Killa Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
           "division_ranking": "12"
@@ -464,34 +464,6 @@
           "division_ranking": "13"
         },
         "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Shamil Gaziev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tallison Teixeira (Xicao)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jake Matthews (The Celtic Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Tahir Abdullayev (Tank)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
         "scheduledRounds": 3
       },
       {
@@ -510,16 +482,16 @@
       },
       {
         "fighter1": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "7"
+          "name": "Shamil Gaziev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+          "division_ranking": ""
         },
         "fighter2": {
-          "name": "Kyoji Horiguchi (Karate Kid)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
-          "division_ranking": "5"
+          "name": "Tallison Teixeira (Xicao)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
+          "division_ranking": ""
         },
-        "weightClass": "Flyweight",
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       },
       {
@@ -534,6 +506,20 @@
           "division_ranking": ""
         },
         "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jake Matthews (The Celtic Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Tahir Abdullayev (Tank)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
     ],
