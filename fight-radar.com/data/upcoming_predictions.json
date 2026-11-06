@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T18:00:26.914Z",
+  "generatedAt": "2026-11-06T14:51:59.897Z",
   "provenance": {
     "fightersCsvSha256": "c74400f24f49bb0df078417e133a679776f951db31001f149fa8758cb3076e2e",
     "upcomingEventsSha256": "ab87fdcc1cb34b32e05552ae15ea2f22fb18c967e81bba6fa26bc2d8ef516245",
-    "appVersion": "1.1.113"
+    "appVersion": "1.1.114"
   },
   "summary": {
     "totalEvents": 6,
@@ -38,6 +38,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.68,
+                  "pKo": 0.91
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 31.9,
+                "calibratedConfidence": 31.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.68,
                   "pKo": 0.91
                 }
@@ -84,6 +97,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.46,
+                  "pKo": 0.3
+                }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 32.2,
+                "calibratedConfidence": 32.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
                   "pFinish": 0.46,
                   "pKo": 0.3
                 }
@@ -149,6 +175,19 @@
                   "pFinish": 0.46,
                   "pKo": 0.75
                 }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 34.9,
+                "calibratedConfidence": 34.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.46,
+                  "pKo": 0.75
+                }
               }
             ],
             "durations": [
@@ -201,6 +240,19 @@
                   "pFinish": 0.61,
                   "pKo": 0.68
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 39.1,
+                "calibratedConfidence": 39.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.61,
+                  "pKo": 0.68
+                }
               }
             ],
             "durations": []
@@ -244,6 +296,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.71,
+                  "pKo": 0.77
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 28.7,
+                "calibratedConfidence": 28.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.71,
                   "pKo": 0.77
                 }
@@ -331,6 +396,19 @@
                   "pFinish": 0.77,
                   "pKo": 0.95
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 22.8,
+                "calibratedConfidence": 22.8,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.77,
+                  "pKo": 0.95
+                }
               }
             ],
             "durations": [
@@ -415,6 +493,19 @@
                   "pFinish": 0.59,
                   "pKo": 0.25
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 41.4,
+                "calibratedConfidence": 41.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.59,
+                  "pKo": 0.25
+                }
               }
             ],
             "durations": [
@@ -474,6 +565,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.58,
+                  "pKo": 0.87
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 42.2,
+                "calibratedConfidence": 42.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.58,
                   "pKo": 0.87
                 }
@@ -561,6 +665,19 @@
                   "pFinish": 0.66,
                   "pKo": 0.7
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 33.6,
+                "calibratedConfidence": 33.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.66,
+                  "pKo": 0.7
+                }
               }
             ],
             "durations": [
@@ -620,6 +737,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Submission",
+                  "pFinish": 0.71,
+                  "pKo": 0.46
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 33,
+                "calibratedConfidence": 33,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.71,
                   "pKo": 0.46
                 }
@@ -715,6 +845,19 @@
                   "pFinish": 0.75,
                   "pKo": 0.8
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 25.4,
+                "calibratedConfidence": 25.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.75,
+                  "pKo": 0.8
+                }
               }
             ],
             "durations": []
@@ -774,6 +917,19 @@
                   "pFinish": 0.53,
                   "pKo": 0.59
                 }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 31.3,
+                "calibratedConfidence": 31.3,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.53,
+                  "pKo": 0.59
+                }
               }
             ],
             "durations": [
@@ -826,6 +982,19 @@
                   "pFinish": 0.75,
                   "pKo": 0.89
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 25.4,
+                "calibratedConfidence": 25.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.75,
+                  "pKo": 0.89
+                }
               }
             ],
             "durations": []
@@ -869,6 +1038,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.65,
+                  "pKo": 0.7
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 34.7,
+                "calibratedConfidence": 34.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.65,
                   "pKo": 0.7
                 }
@@ -934,6 +1116,19 @@
                   "pFinish": 0.67,
                   "pKo": 0.84
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 33.2,
+                "calibratedConfidence": 33.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.67,
+                  "pKo": 0.84
+                }
               }
             ],
             "durations": [
@@ -993,6 +1188,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.73,
+                  "pKo": 0.82
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 26.7,
+                "calibratedConfidence": 26.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.73,
                   "pKo": 0.82
                 }
@@ -1058,6 +1266,19 @@
                   "pFinish": 0.75,
                   "pKo": 0.57
                 }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 32,
+                "calibratedConfidence": 32,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.75,
+                  "pKo": 0.57
+                }
               }
             ],
             "durations": [
@@ -1117,6 +1338,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.68,
+                  "pKo": 0.55
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 31.9,
+                "calibratedConfidence": 31.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.68,
                   "pKo": 0.55
                 }
@@ -1182,6 +1416,19 @@
                   "pFinish": 0.59,
                   "pKo": 0.72
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 40.9,
+                "calibratedConfidence": 40.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.59,
+                  "pKo": 0.72
+                }
               }
             ],
             "durations": [
@@ -1231,6 +1478,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.43,
+                  "pKo": 0.65
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 28,
+                "calibratedConfidence": 28,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.43,
                   "pKo": 0.65
                 }
@@ -1293,6 +1553,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.68,
+                  "pKo": 0.83
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 31.6,
+                "calibratedConfidence": 31.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.68,
                   "pKo": 0.83
                 }
@@ -1388,6 +1661,19 @@
                   "pFinish": 0.76,
                   "pKo": 0.79
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 23.9,
+                "calibratedConfidence": 23.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.76,
+                  "pKo": 0.79
+                }
               }
             ],
             "durations": []
@@ -1431,6 +1717,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.6,
+                  "pKo": 0.57
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 34.1,
+                "calibratedConfidence": 34.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.6,
                   "pKo": 0.57
                 }
@@ -1496,6 +1795,19 @@
                   "pFinish": 0.62,
                   "pKo": 0.53
                 }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 33,
+                "calibratedConfidence": 33,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.62,
+                  "pKo": 0.53
+                }
               }
             ],
             "durations": [
@@ -1545,6 +1857,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.47,
+                  "pKo": 0.55
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 25.7,
+                "calibratedConfidence": 25.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.47,
                   "pKo": 0.55
                 }
@@ -1610,6 +1935,19 @@
                   "pFinish": 0.61,
                   "pKo": 0.81
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 38.7,
+                "calibratedConfidence": 38.7,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.61,
+                  "pKo": 0.81
+                }
               }
             ],
             "durations": [
@@ -1669,6 +2007,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.45,
+                  "pKo": 0.35
+                }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 28.9,
+                "calibratedConfidence": 28.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
                   "pFinish": 0.45,
                   "pKo": 0.35
                 }
@@ -1734,6 +2085,19 @@
                   "pFinish": 0.83,
                   "pKo": 0.72
                 }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 23.5,
+                "calibratedConfidence": 23.5,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.83,
+                  "pKo": 0.72
+                }
               }
             ],
             "durations": [
@@ -1796,6 +2160,19 @@
                   "pFinish": 0.36,
                   "pKo": 0.73
                 }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 26.2,
+                "calibratedConfidence": 26.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.36,
+                  "pKo": 0.73
+                }
               }
             ],
             "durations": [
@@ -1845,6 +2222,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.51,
+                  "pKo": 0.58
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 29.8,
+                "calibratedConfidence": 29.8,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.51,
                   "pKo": 0.58
                 }
@@ -1918,6 +2308,19 @@
                   "pFinish": 0.63,
                   "pKo": 0.41
                 }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 37,
+                "calibratedConfidence": 37,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.63,
+                  "pKo": 0.41
+                }
               }
             ],
             "durations": []
@@ -1951,6 +2354,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.63,
+                  "pKo": 0.88
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 37.4,
+                "calibratedConfidence": 37.4,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.63,
                   "pKo": 0.88
                 }
@@ -2016,6 +2432,19 @@
                   "pFinish": 0.75,
                   "pKo": 0.66
                 }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 25.2,
+                "calibratedConfidence": 25.2,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.75,
+                  "pKo": 0.66
+                }
               }
             ],
             "durations": [
@@ -2078,6 +2507,19 @@
                   "pFinish": 0.42,
                   "pKo": 0.55
                 }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 23.1,
+                "calibratedConfidence": 23.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.42,
+                  "pKo": 0.55
+                }
               }
             ],
             "durations": [
@@ -2137,6 +2579,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.54,
+                  "pKo": 0.49
+                }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 27.1,
+                "calibratedConfidence": 27.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
                   "pFinish": 0.54,
                   "pKo": 0.49
                 }
@@ -2222,6 +2677,19 @@
                   "pFinish": 0.56,
                   "pKo": 0.89
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 44.1,
+                "calibratedConfidence": 44.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.56,
+                  "pKo": 0.89
+                }
               }
             ],
             "durations": [
@@ -2281,6 +2749,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.77,
+                  "pKo": 0.92
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 22.9,
+                "calibratedConfidence": 22.9,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.77,
                   "pKo": 0.92
                 }
@@ -2354,6 +2835,19 @@
                   "pFinish": 0.78,
                   "pKo": 0.66
                 }
+              },
+              {
+                "pick": "Submission",
+                "predictionKey": "combat_analysis.finish_methods.submission",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 26.5,
+                "calibratedConfidence": 26.5,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Submission",
+                  "pFinish": 0.78,
+                  "pKo": 0.66
+                }
               }
             ],
             "durations": []
@@ -2397,6 +2891,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
+                  "pFinish": 0.7,
+                  "pKo": 0.67
+                }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 29.6,
+                "calibratedConfidence": 29.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
                   "pFinish": 0.7,
                   "pKo": 0.67
                 }
@@ -2462,6 +2969,19 @@
                   "pFinish": 0.73,
                   "pKo": 0.84
                 }
+              },
+              {
+                "pick": "Decision",
+                "predictionKey": "combat_analysis.finish_methods.decision",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 27,
+                "calibratedConfidence": 27,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "Decision",
+                  "pFinish": 0.73,
+                  "pKo": 0.84
+                }
               }
             ],
             "durations": [
@@ -2521,6 +3041,19 @@
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
+                  "pFinish": 0.54,
+                  "pKo": 0.5
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 27.1,
+                "calibratedConfidence": 27.1,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
                   "pFinish": 0.54,
                   "pKo": 0.5
                 }
