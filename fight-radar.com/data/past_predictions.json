@@ -1,18 +1,440 @@
 {
-  "generatedAt": "2026-11-01T15:04:08.061Z",
+  "generatedAt": "2026-11-08T06:07:37.013Z",
   "globalStats": {
-    "totalFights": 1591,
-    "winnerCorrect": 638,
-    "winnerAttempts": 935,
-    "methodCorrect": 589,
-    "methodAttempts": 1097,
-    "durationCorrect": 795,
-    "durationAttempts": 1112,
-    "noHistoryFights": 306,
+    "totalFights": 1595,
+    "winnerCorrect": 641,
+    "winnerAttempts": 938,
+    "methodCorrect": 591,
+    "methodAttempts": 1107,
+    "durationCorrect": 798,
+    "durationAttempts": 1114,
+    "noHistoryFights": 307,
     "evenMatchupFights": 0,
-    "nonOfficialFights": 23
+    "nonOfficialFights": 22
   },
   "events": [
+    {
+      "dateKey": "07-11-2026",
+      "eventName": "UFC Fight Night: Cortes Acosta vs. Walker",
+      "location": "Las Vegas, Nevada, USA",
+      "fights": [
+        {
+          "fighter1": "Johnny Walker",
+          "fighter2": "Waldo Cortes Acosta (Salsa Boy)",
+          "fighter1Image": "img/johnny_walker.png",
+          "fighter2Image": "img/waldo_cortes-acosta.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "Johnny Walker",
+            "resultType": "KO",
+            "round": 3,
+            "time": "2:27"
+          },
+          "prediction": {
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 46.6,
+              "rawConfidence": 46.6,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Tatiana Suarez",
+          "fighter2": "Virna Jandiroba (Carcara)",
+          "fighter1Image": "img/tatiana_suarez.png",
+          "fighter2Image": "img/virna_jandiroba.png",
+          "weightClass": "W_Strawweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Tatiana Suarez",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Tatiana Suarez",
+              "calibratedConfidence": 56.3,
+              "rawConfidence": 56.3,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 53.7,
+              "rawConfidence": 53.7,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 75.3,
+              "rawConfidence": 75.3,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Elijah Smith (Swift)",
+          "fighter2": "Davey Grant (Dangerous)",
+          "fighter1Image": "img/elijah_smith.png",
+          "fighter2Image": "img/davey_grant.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Elijah Smith",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Elijah Smith",
+              "calibratedConfidence": 79.1,
+              "rawConfidence": 79.1,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 48.2,
+              "rawConfidence": 48.2,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 74.3,
+              "rawConfidence": 74.3,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Lucas Fernando",
+          "fighter2": "Billy Elekana (Son of Susie)",
+          "fighter1Image": "img/lucas_fernando_1.png",
+          "fighter2Image": "img/billy_elekana.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Lucas Fernando",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 64.1,
+              "rawConfidence": 64.1,
+              "correct": false
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Nina Milosevic (Queen Beast)",
+          "fighter2": "Priscila Cachoeira (Zombie Girl)",
+          "fighter1Image": "img/nina_milosevic_queen_beast.png",
+          "fighter2Image": "img/priscila_cachoeira.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Nina Milosevic",
+            "resultType": "KO",
+            "round": 2,
+            "time": "3:40"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Nina Milosevic",
+              "calibratedConfidence": 76.5,
+              "rawConfidence": 76.5,
+              "correct": true
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 42.8,
+              "rawConfidence": 42.8,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 60.4,
+              "rawConfidence": 60.4,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Mitch Raposo",
+          "fighter2": "Marcos Degli (Tailandes)",
+          "fighter1Image": "img/mitch_raposo.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Mitch Raposo",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Ollie Schmid (The Hungarian Stallion)",
+          "fighter2": "Keiichiro Nakamura",
+          "fighter1Image": "img/ollie_schmid_the_hungarian_stallion.png",
+          "fighter2Image": "img/keiichiro_nakamura.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Ollie Schmid",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Keiichiro Nakamura",
+              "calibratedConfidence": 55.3,
+              "rawConfidence": 55.3,
+              "correct": false
+            },
+            "method": {
+              "pick": "Decision",
+              "calibratedConfidence": 42.7,
+              "rawConfidence": 42.7,
+              "correct": true
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 56.6,
+              "rawConfidence": 56.6,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Thomas Petersen (The Train)",
+          "fighter2": "Gabriel Lorenco (The Black Mamba)",
+          "fighter1Image": "img/thomas_petersen.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Thomas Petersen",
+            "resultType": "KO",
+            "round": 3,
+            "time": "4:47"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Karine Silva (Killer)",
+          "fighter2": "Gabriella Fernandes (Gabi)",
+          "fighter1Image": "img/karine_silva.png",
+          "fighter2Image": "img/gabriella_fernandes.png",
+          "weightClass": "W_Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Karine Silva",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Karine Silva",
+              "calibratedConfidence": 68.1,
+              "rawConfidence": 68.1,
+              "correct": true
+            },
+            "method": {
+              "pick": "Submission",
+              "calibratedConfidence": 43.8,
+              "rawConfidence": 43.8,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 75.9,
+              "rawConfidence": 75.9,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Jose Delano",
+          "fighter2": "Murtazali Magomedov (The Highlight)",
+          "fighter1Image": "img/jose_delano_1.png",
+          "fighter2Image": "img/murtazali_magomedov_the_highlight_1.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Murtazali Magomedov",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Murtazali Magomedov",
+              "calibratedConfidence": 60.2,
+              "rawConfidence": 60.2,
+              "correct": true
+            },
+            "method": {
+              "pick": "KO/TKO",
+              "calibratedConfidence": 50.3,
+              "rawConfidence": 50.3,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 70.2,
+              "rawConfidence": 70.2,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Austin Bashi",
+          "fighter2": "Carlos Calderon (Chief)",
+          "fighter1Image": "img/austin_bashi.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Austin Bashi",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "1:07"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Andre Petroski",
+          "fighter2": "Mantas Kondratavicius",
+          "fighter1Image": "img/andre_petroski.png",
+          "fighter2Image": "img/mantas_kondratavicius.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Andre Petroski",
+            "resultType": "KO",
+            "round": 2,
+            "time": "4:39"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Mantas Kondratavicius",
+              "calibratedConfidence": 59.9,
+              "rawConfidence": 59.9,
+              "correct": false
+            },
+            "method": {
+              "pick": "Submission",
+              "calibratedConfidence": 49.3,
+              "rawConfidence": 49.3,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 57,
+              "rawConfidence": 57,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Seokhyeon Ko (The Korean Tyson)",
+          "fighter2": "Wellington Turman (The Prodigy)",
+          "fighter1Image": "img/seokhyeon_ko.png",
+          "fighter2Image": "img/wellington_turman.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Seokhyeon Ko",
+            "resultType": "KO",
+            "round": 3,
+            "time": "5:00"
+          },
+          "prediction": {
+            "moneyline": {
+              "pick": "Seokhyeon Ko",
+              "calibratedConfidence": 64.2,
+              "rawConfidence": 64.2,
+              "correct": true
+            },
+            "method": {
+              "pick": "Submission",
+              "calibratedConfidence": 38.4,
+              "rawConfidence": 38.4,
+              "correct": false
+            },
+            "duration": {
+              "pick": "OVER 1.5 rounds",
+              "calibratedConfidence": 62.5,
+              "rawConfidence": 62.5,
+              "correct": true
+            }
+          },
+          "noData": false,
+          "evenMatchup": false,
+          "nonOfficial": false
+        },
+        {
+          "fighter1": "Jonny Parsons (The Sluggernaut)",
+          "fighter2": "Jose Souza (Canela)",
+          "fighter1Image": "img/jonny_parsons.png",
+          "fighter2Image": "img/jose_souza_canela.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "Jose Souza",
+            "resultType": "KO",
+            "round": 1,
+            "time": "4:16"
+          },
+          "prediction": {},
+          "noData": true,
+          "evenMatchup": false,
+          "nonOfficial": false
+        }
+      ]
+    },
     {
       "dateKey": "31-10-2026",
       "eventName": "UFC Fight Night: Moicano vs. Nolan",
@@ -59,8 +481,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Jacobe Smith",
-              "calibratedConfidence": 65.6,
-              "rawConfidence": 65.6,
+              "calibratedConfidence": 65.5,
+              "rawConfidence": 65.5,
               "correct": true
             },
             "method": {
@@ -201,8 +623,8 @@
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 48.3,
-              "rawConfidence": 48.3,
+              "calibratedConfidence": 48.4,
+              "rawConfidence": 48.4,
               "correct": true
             },
             "duration": {
@@ -238,8 +660,8 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 53.1,
-              "rawConfidence": 53.1,
+              "calibratedConfidence": 53,
+              "rawConfidence": 53,
               "correct": true
             },
             "duration": {
@@ -269,8 +691,8 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 47.8,
-              "rawConfidence": 47.8,
+              "calibratedConfidence": 47.9,
+              "rawConfidence": 47.9,
               "correct": true
             },
             "duration": {
@@ -300,8 +722,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Zach Reese",
-              "calibratedConfidence": 63.4,
-              "rawConfidence": 63.4,
+              "calibratedConfidence": 63.1,
+              "rawConfidence": 63.1,
               "correct": true
             },
             "method": {
@@ -349,8 +771,8 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 58.3,
-              "rawConfidence": 58.3,
+              "calibratedConfidence": 58.1,
+              "rawConfidence": 58.1,
               "correct": true
             },
             "duration": {
@@ -405,8 +827,8 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 58.4,
-              "rawConfidence": 58.4,
+              "calibratedConfidence": 58.5,
+              "rawConfidence": 58.5,
               "correct": false
             },
             "duration": {
@@ -504,8 +926,8 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 58.8,
-              "rawConfidence": 58.8,
+              "calibratedConfidence": 58.4,
+              "rawConfidence": 58.4,
               "correct": true
             },
             "duration": {
@@ -572,8 +994,8 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 75.2,
-              "rawConfidence": 75.2,
+              "calibratedConfidence": 75.3,
+              "rawConfidence": 75.3,
               "correct": true
             }
           },
@@ -603,8 +1025,8 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 52.7,
-              "rawConfidence": 52.7,
+              "calibratedConfidence": 52.6,
+              "rawConfidence": 52.6,
               "correct": true
             },
             "duration": {
@@ -640,8 +1062,8 @@
             },
             "method": {
               "pick": "Submission",
-              "calibratedConfidence": 37.8,
-              "rawConfidence": 37.8,
+              "calibratedConfidence": 37.9,
+              "rawConfidence": 37.9,
               "correct": true
             },
             "duration": {
@@ -677,8 +1099,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 64.1,
+              "calibratedConfidence": 64.2,
+              "rawConfidence": 64.2,
               "correct": true
             }
           },
@@ -720,14 +1142,14 @@
           "prediction": {
             "moneyline": {
               "pick": "Jacob Malkoun",
-              "calibratedConfidence": 74.1,
-              "rawConfidence": 74.1,
+              "calibratedConfidence": 74.2,
+              "rawConfidence": 74.2,
               "correct": false
             },
             "method": {
               "pick": "Submission",
-              "calibratedConfidence": 35.5,
-              "rawConfidence": 35.5,
+              "calibratedConfidence": 35.6,
+              "rawConfidence": 35.6,
               "correct": false
             },
             "duration": {
@@ -763,8 +1185,8 @@
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 44.5,
-              "rawConfidence": 44.5,
+              "calibratedConfidence": 44.6,
+              "rawConfidence": 44.6,
               "correct": true
             },
             "duration": {
@@ -806,8 +1228,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 65.4,
-              "rawConfidence": 65.4,
+              "calibratedConfidence": 65.5,
+              "rawConfidence": 65.5,
               "correct": false
             }
           },
@@ -837,8 +1259,8 @@
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 62.5,
-              "rawConfidence": 62.5,
+              "calibratedConfidence": 62.4,
+              "rawConfidence": 62.4,
               "correct": true
             },
             "duration": {
@@ -881,8 +1303,8 @@
             },
             "duration": {
               "pick": "OVER 2.5 rounds",
-              "calibratedConfidence": 64.1,
-              "rawConfidence": 64.1,
+              "calibratedConfidence": 64,
+              "rawConfidence": 64,
               "correct": false
             }
           },
@@ -961,8 +1383,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Kyle Daukaus",
-              "calibratedConfidence": 70,
-              "rawConfidence": 70,
+              "calibratedConfidence": 69.9,
+              "rawConfidence": 69.9,
               "correct": false
             },
             "method": {
@@ -1010,8 +1432,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Mandel Nallo",
-              "calibratedConfidence": 60.8,
-              "rawConfidence": 60.8,
+              "calibratedConfidence": 61.1,
+              "rawConfidence": 61.1,
               "correct": true
             },
             "method": {
@@ -1041,14 +1463,14 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 49.3,
-              "rawConfidence": 49.3,
+              "calibratedConfidence": 50.9,
+              "rawConfidence": 50.9,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 66.4,
-              "rawConfidence": 66.4,
+              "calibratedConfidence": 66.5,
+              "rawConfidence": 66.5,
               "correct": true
             }
           },
@@ -1156,8 +1578,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 68.2,
-              "rawConfidence": 68.2,
+              "calibratedConfidence": 68.1,
+              "rawConfidence": 68.1,
               "correct": false
             }
           },
@@ -1206,8 +1628,8 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 52.2,
-              "rawConfidence": 52.2,
+              "calibratedConfidence": 52.1,
+              "rawConfidence": 52.1,
               "correct": false
             },
             "duration": {
@@ -1237,8 +1659,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Matheus Camilo",
-              "calibratedConfidence": 72.4,
-              "rawConfidence": 72.4,
+              "calibratedConfidence": 72.3,
+              "rawConfidence": 72.3,
               "correct": false
             },
             "method": {
@@ -1249,8 +1671,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 67.1,
-              "rawConfidence": 67.1,
+              "calibratedConfidence": 67,
+              "rawConfidence": 67,
               "correct": true
             }
           },
@@ -1274,8 +1696,8 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 57.6,
-              "rawConfidence": 57.6,
+              "calibratedConfidence": 57.5,
+              "rawConfidence": 57.5,
               "correct": true
             },
             "duration": {
@@ -1385,8 +1807,8 @@
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 54.6,
-              "rawConfidence": 54.6,
+              "calibratedConfidence": 54.4,
+              "rawConfidence": 54.4,
               "correct": false
             }
           },
@@ -1602,8 +2024,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Natalia Silva",
-              "calibratedConfidence": 55.7,
-              "rawConfidence": 55.7,
+              "calibratedConfidence": 55.6,
+              "rawConfidence": 55.6,
               "correct": true
             },
             "method": {
@@ -1639,14 +2061,14 @@
           "prediction": {
             "moneyline": {
               "pick": "Payton Talbott",
-              "calibratedConfidence": 76.6,
-              "rawConfidence": 76.6,
+              "calibratedConfidence": 76.3,
+              "rawConfidence": 76.3,
               "correct": true
             },
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 45.2,
-              "rawConfidence": 45.2,
+              "calibratedConfidence": 45.1,
+              "rawConfidence": 45.1,
               "correct": false
             },
             "duration": {
@@ -1737,8 +2159,8 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 60.7,
-              "rawConfidence": 60.7,
+              "calibratedConfidence": 60.6,
+              "rawConfidence": 60.6,
               "correct": true
             },
             "duration": {
@@ -1866,14 +2288,14 @@
           "prediction": {
             "method": {
               "pick": "Decision",
-              "calibratedConfidence": 42,
-              "rawConfidence": 42,
+              "calibratedConfidence": 41.9,
+              "rawConfidence": 41.9,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 58.3,
-              "rawConfidence": 58.3,
+              "calibratedConfidence": 58.2,
+              "rawConfidence": 58.2,
               "correct": false
             }
           },
@@ -49396,264 +49818,6 @@
             }
           },
           "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        }
-      ]
-    },
-    {
-      "dateKey": "04-11-2023",
-      "eventName": "UFC Fight Night: Almeida vs. Lewis",
-      "location": "Sao Paulo, Sao Paulo, Brazil",
-      "fights": [
-        {
-          "fighter1": "Derrick Lewis (The Black Beast)",
-          "fighter2": "Jailton Almeida (Malhadinho)",
-          "fighter1Image": "img/derrick_lewis.png",
-          "fighter2Image": "img/jailton_almeida.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 5,
-          "actual": {
-            "winner": "Jailton Almeida",
-            "resultType": "Decision",
-            "round": 5,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Jailton Almeida",
-              "calibratedConfidence": 81.1,
-              "rawConfidence": 81.1,
-              "correct": true
-            },
-            "duration": {
-              "pick": "UNDER 2.5 rounds",
-              "calibratedConfidence": 61.4,
-              "rawConfidence": 61.4,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Nicolas Dalby (Lokomotivo)",
-          "fighter2": "Gabriel Bonfim (Marretinha)",
-          "fighter1Image": "img/nicolas_dalby.png",
-          "fighter2Image": "img/gabriel_bonfim.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Nicolas Dalby",
-            "resultType": "KO",
-            "round": 2,
-            "time": "4:33"
-          },
-          "prediction": {
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 66.3,
-              "rawConfidence": 66.3,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Don'Tale Mayes (Lord Kong)",
-          "fighter2": "Rodrigo Nascimento (Ze Colmeia)",
-          "fighter1Image": "img/dontale_mayes.png",
-          "fighter2Image": "img/rodrigo_nascimento.png",
-          "weightClass": "Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Rodrigo Nascimento",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Don'Tale Mayes",
-              "calibratedConfidence": 61.3,
-              "rawConfidence": 61.3,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 56.1,
-              "rawConfidence": 56.1,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Caio Borralho (The Natural)",
-          "fighter2": "Abus Magomedov",
-          "fighter1Image": "img/caio_borralho.png",
-          "fighter2Image": "img/abus_magomedov.png",
-          "weightClass": "Middleweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Caio Borralho",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Caio Borralho",
-              "calibratedConfidence": 68.2,
-              "rawConfidence": 68.2,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 57.2,
-              "rawConfidence": 57.2,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Kaynan Kruschewsky (Bahia)",
-          "fighter2": "Elves Brener",
-          "fighter1Image": "img/kaynan_kruschewsky.png",
-          "fighter2Image": "img/elves_brener.png",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Elves Brener",
-            "resultType": "KO",
-            "round": 1,
-            "time": "4:01"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Elizeu Zaleski dos Santos (Capoeira)",
-          "fighter2": "Rinat Fakhretdinov (Gladiator)",
-          "fighter1Image": "img/elizeu_zaleski_dos_santos.png",
-          "fighter2Image": "img/rinat_fakhretdinov.png",
-          "weightClass": "Welterweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "DRAW",
-            "resultType": "Draw",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": true
-        },
-        {
-          "fighter1": "Vitor Petrino",
-          "fighter2": "Modestas Bukauskas (The Baltic Gladiator)",
-          "fighter1Image": "img/vitor_petrino.png",
-          "fighter2Image": "img/modestas_bukauskas.png",
-          "weightClass": "Light_Heavyweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Vitor Petrino",
-            "resultType": "KO",
-            "round": 2,
-            "time": "1:03"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Vitor Petrino",
-              "calibratedConfidence": 67,
-              "rawConfidence": 67,
-              "correct": true
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 58,
-              "rawConfidence": 58,
-              "correct": false
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Denise Gomes (Dee)",
-          "fighter2": "Angela Hill (Overkill)",
-          "fighter1Image": "img/denise_gomes.png",
-          "fighter2Image": "img/angela_hill.png",
-          "weightClass": "W_Strawweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Angela Hill",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {
-            "moneyline": {
-              "pick": "Denise Gomes",
-              "calibratedConfidence": 70.4,
-              "rawConfidence": 70.4,
-              "correct": false
-            },
-            "duration": {
-              "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 69.9,
-              "rawConfidence": 69.9,
-              "correct": true
-            }
-          },
-          "noData": false,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Eduarda Moura (Ronda)",
-          "fighter2": "Montserrat Conejo Ruiz",
-          "fighter1Image": "img/eduarda_moura.png",
-          "fighter2Image": "img/montserrat_conejo_ruiz.png",
-          "weightClass": "W_Strawweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Eduarda Moura",
-            "resultType": "KO",
-            "round": 2,
-            "time": "2:14"
-          },
-          "prediction": {},
-          "noData": true,
-          "evenMatchup": false,
-          "nonOfficial": false
-        },
-        {
-          "fighter1": "Marc Diakiese (Bonecrusher)",
-          "fighter2": "Kaue Fernandes",
-          "fighter1Image": "img/marc_diakiese.png",
-          "fighter2Image": "img/kaue_fernandes.png",
-          "weightClass": "Lightweight",
-          "scheduledRounds": 3,
-          "actual": {
-            "winner": "Marc Diakiese",
-            "resultType": "Decision",
-            "round": 3,
-            "time": "5:00"
-          },
-          "prediction": {},
-          "noData": true,
           "evenMatchup": false,
           "nonOfficial": false
         }
