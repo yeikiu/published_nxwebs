@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T09:02:21.625Z",
+  "generatedAt": "2026-11-10T23:42:20.431Z",
   "provenance": {
-    "fightersCsvSha256": "c58403740b5e107e7e3818b17b3c616c477724f74c38d7dfd49d51e4a96d2a71",
-    "upcomingEventsSha256": "c94e06ca3a357f38037da9d2962236724d8178ebf82c3c73ca9e38659657f953",
-    "appVersion": "1.1.117"
+    "fightersCsvSha256": "30d1124f1a57c06d5a73335b2e2a3e4c3c7e2083058ff76b913b167bd67d97dd",
+    "upcomingEventsSha256": "ed39c5840171881280138479026e493ed1ab671ed289f0d339b55bb5f7fd24e9",
+    "appVersion": "1.1.118"
   },
   "summary": {
     "totalEvents": 6,
@@ -730,12 +730,12 @@
           "noData": false
         },
         {
-          "fightId": "c8aa9caa2d73ccb9",
-          "fighter1": "Adrian Yanez",
+          "fightId": "98ec0b73dc07c57f",
+          "fighter1": "Alatengheili (The Mongolian Knight)",
           "fighter2": "Juan Diaz (Pegajoso)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/0232cabbc30a2372",
+          "fighter1Url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
           "fighter2Url": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
-          "fighter1Image": "img/adrian_yanez.png",
+          "fighter1Image": "img/alatengheili.png",
           "fighter2Image": "img/juan_diaz_pegajoso.png",
           "weightClass": "Bantamweight",
           "scheduledRounds": 3,
@@ -743,38 +743,38 @@
             "moneyline": {
               "pick": "Juan Diaz",
               "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 64.1,
-              "calibratedConfidence": 64.1,
+              "rawConfidence": 65.7,
+              "calibratedConfidence": 65.7,
               "reasoningKey": "radar_model.reasoning.winner",
               "metadata": {
-                "p1": 0.36
+                "p1": 0.34
               }
             },
             "methods": [
               {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 56.7,
-                "calibratedConfidence": 56.7,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.69,
-                  "pKo": 0.83
-                }
-              },
-              {
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 31.5,
-                "calibratedConfidence": 31.5,
+                "rawConfidence": 60.4,
+                "calibratedConfidence": 60.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.69,
-                  "pKo": 0.83
+                  "pFinish": 0.4,
+                  "pKo": 0.73
+                }
+              },
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 29,
+                "calibratedConfidence": 29,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.4,
+                  "pKo": 0.73
                 }
               }
             ],
@@ -783,20 +783,20 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 66.6,
-                "calibratedConfidence": 66.6,
+                "rawConfidence": 73.2,
+                "calibratedConfidence": 73.2,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
                   "line": 1.5,
-                  "pOver": 0.67
+                  "pOver": 0.73
                 }
               }
             ]
           },
           "radar": {
             "winnerUrl": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
-            "method": "ko",
+            "method": "decision",
             "duration": {
               "side": "over"
             }
