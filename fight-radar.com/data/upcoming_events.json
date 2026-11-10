@@ -325,6 +325,183 @@
     "ufcEventId": 1348,
     "startTime": "2026-11-21T15:00Z"
   },
+  "05-12-2026": {
+    "date": "05-12-2026",
+    "name": "UFC Fight Night: Adesanya vs. Magomedov",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Israel Adesanya (The Last Stylebender)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1338e2c7480bdf9e",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Shara Magomedov (Bullet)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
+          "division_ranking": "15"
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Ian Machado Garry (The Future)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/442c9011034ae1fd",
+          "division_ranking": "1"
+        },
+        "fighter2": {
+          "name": "Yaroslav Amosov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
+          "division_ranking": "11"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Serghei Spivac (Polar Bear)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Mario Pinto",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/39d309957c5c210d",
+          "division_ranking": "15"
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Levan Chokheli",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a69a7120cf26669d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Islam Dulatov (The Ripper)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e803242fb2e41112",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mairon Santos (The Legend)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/480779d7f9a424d3",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Akbar Abdullaev",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/24cb8f04de1310cb",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Magomed Tuchalov (Tiger)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc5a51159ec2fdf2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ion Cutelaba (The Hulk)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd13728ae1151f46",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Bruno Silva (Bulldog)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/294aa73dbf37d281",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jafel Filho (Pastor)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Uran Satybaldiev (Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/02f484417a6fa69d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ivan Gnizditskiy",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/057a241e4ba90c4d",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marco Tulio (Matuto)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9384e71bca6c409d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "JunYong Park (The Iron Turtle)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/285ae0b4a68221f4",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Pavel Andrusca",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/93f9c19ae41d2a97",
+          "division_ranking": "8"
+        },
+        "fighter2": {
+          "name": "Mahammadali Osmanli (The Ineffable)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bbdbc925f4323ac",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Modestino Rodrigues",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/48e43b65f7838878",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Matthieu Duclos",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ec322adbabbfa6e7",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Abdul Hussein (King)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/0e6bc8d1d6c0ad90",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Hecher Sosa (Guanche Warrior)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ec3bd30378d63dd1",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      }
+    ],
+    "ufcEventId": 1352,
+    "startTime": "2026-12-05T15:00Z"
+  },
   "12-12-2026": {
     "date": "12-12-2026",
     "name": "UFC 335: Oliveira vs. Lopes",
