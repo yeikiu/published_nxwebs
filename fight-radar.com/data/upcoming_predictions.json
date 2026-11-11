@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-10T23:42:20.431Z",
+  "generatedAt": "2026-11-11T09:03:39.419Z",
   "provenance": {
-    "fightersCsvSha256": "30d1124f1a57c06d5a73335b2e2a3e4c3c7e2083058ff76b913b167bd67d97dd",
-    "upcomingEventsSha256": "ed39c5840171881280138479026e493ed1ab671ed289f0d339b55bb5f7fd24e9",
-    "appVersion": "1.1.118"
+    "fightersCsvSha256": "a5359d9b2d26e167a12efdc17a9eed1ebfcf44735888459ea3a991a5ba738120",
+    "upcomingEventsSha256": "253080d4ff920fcfdf66ce5fc3773aafe07c70fbeea1cd07b8ee68cf1cb51f83",
+    "appVersion": "1.1.119"
   },
   "summary": {
     "totalEvents": 6,
-    "totalFights": 46,
+    "totalFights": 50,
     "predictedFights": 40,
-    "noDataFights": 6
+    "noDataFights": 10
   },
   "events": [
     {
@@ -2971,6 +2971,90 @@
           },
           "contradictions": [],
           "noData": false
+        },
+        {
+          "fightId": "99c8930dfb2baa00",
+          "fighter1": "George Mangos",
+          "fighter2": "Dagiisuren Chagnaadorj",
+          "fighter1Url": "http://ufcstats.com/fighter-details/122ae3b34275fbb2",
+          "fighter2Url": "http://ufcstats.com/fighter-details/70186298465de3f3",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "a6e7850cb175fc03",
+          "fighter1": "Rabindra Dhant",
+          "fighter2": "Ryo Tajima",
+          "fighter1Url": "http://ufcstats.com/fighter-details/9f8bd85aaeec2f56",
+          "fighter2Url": "http://ufcstats.com/fighter-details/34fbfc3f65b64645",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "7a87a0c74932a839",
+          "fighter1": "Jiniushiyue",
+          "fighter2": "Takaya Suzuki",
+          "fighter1Url": "http://ufcstats.com/fighter-details/c14a683dac2ebc4c",
+          "fighter2Url": "http://ufcstats.com/fighter-details/81d59c1e07478361",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
+        },
+        {
+          "fightId": "69e17f31c8c76ab1",
+          "fighter1": "Meng Bo",
+          "fighter2": "BoHyun Park",
+          "fighter1Url": "http://ufcstats.com/fighter-details/2d85fcb4468c30d7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/504d3a11e4408253",
+          "weightClass": "Women's Strawweight",
+          "scheduledRounds": 3,
+          "prediction": {
+            "methods": [],
+            "durations": []
+          },
+          "radar": {
+            "winnerUrl": null,
+            "method": null,
+            "duration": null
+          },
+          "contradictions": [],
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     }

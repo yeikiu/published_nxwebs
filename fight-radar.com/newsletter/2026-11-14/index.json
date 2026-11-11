@@ -1,0 +1,110 @@
+{
+  "event": "UFC 334: Gane vs. Hokit",
+  "event_date": "14 de noviembre de 2026",
+  "event_date_iso": "2026-11-14",
+  "generated_at": "2026-11-11T09:06:51Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Ciryl Gane",
+      "fighter_b": "Josh Hokit",
+      "slug_a": "ciryl-gane",
+      "slug_b": "josh-hokit",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_ciryl-gane_vs_josh-hokit.html",
+        "en": "newsletter/2026-11-14/en/newsletter_ciryl-gane_vs_josh-hokit.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_ciryl-gane_vs_josh-hokit.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_ciryl-gane_vs_josh-hokit.html"
+      }
+    },
+    {
+      "fighter_a": "Bilal Hasan",
+      "fighter_b": "Luis Gurule",
+      "slug_a": "bilal-hasan",
+      "slug_b": "luis-gurule",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_bilal-hasan_vs_luis-gurule.html",
+        "en": "newsletter/2026-11-14/en/newsletter_bilal-hasan_vs_luis-gurule.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_bilal-hasan_vs_luis-gurule.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_bilal-hasan_vs_luis-gurule.html"
+      }
+    },
+    {
+      "fighter_a": "Stephen Thompson",
+      "fighter_b": "Charles Radtke",
+      "slug_a": "stephen-thompson",
+      "slug_b": "charles-radtke",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_stephen-thompson_vs_charles-radtke.html",
+        "en": "newsletter/2026-11-14/en/newsletter_stephen-thompson_vs_charles-radtke.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_stephen-thompson_vs_charles-radtke.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_stephen-thompson_vs_charles-radtke.html"
+      }
+    },
+    {
+      "fighter_a": "Drew Dober",
+      "fighter_b": "Chris Duncan",
+      "slug_a": "drew-dober",
+      "slug_b": "chris-duncan",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_drew-dober_vs_chris-duncan.html",
+        "en": "newsletter/2026-11-14/en/newsletter_drew-dober_vs_chris-duncan.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_drew-dober_vs_chris-duncan.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_drew-dober_vs_chris-duncan.html"
+      }
+    },
+    {
+      "fighter_a": "Jim Miller",
+      "fighter_b": "Terrance McKinney",
+      "slug_a": "jim-miller",
+      "slug_b": "terrance-mckinney",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_jim-miller_vs_terrance-mckinney.html",
+        "en": "newsletter/2026-11-14/en/newsletter_jim-miller_vs_terrance-mckinney.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_jim-miller_vs_terrance-mckinney.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_jim-miller_vs_terrance-mckinney.html"
+      }
+    },
+    {
+      "fighter_a": "Donte Johnson",
+      "fighter_b": "Cesar Almeida",
+      "slug_a": "donte-johnson",
+      "slug_b": "cesar-almeida",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_donte-johnson_vs_cesar-almeida.html",
+        "en": "newsletter/2026-11-14/en/newsletter_donte-johnson_vs_cesar-almeida.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_donte-johnson_vs_cesar-almeida.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_donte-johnson_vs_cesar-almeida.html"
+      }
+    },
+    {
+      "fighter_a": "Jared Gordon",
+      "fighter_b": "Melquizael Costa",
+      "slug_a": "jared-gordon",
+      "slug_b": "melquizael-costa",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_jared-gordon_vs_melquizael-costa.html",
+        "en": "newsletter/2026-11-14/en/newsletter_jared-gordon_vs_melquizael-costa.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_jared-gordon_vs_melquizael-costa.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_jared-gordon_vs_melquizael-costa.html"
+      }
+    },
+    {
+      "fighter_a": "Alatengheili",
+      "fighter_b": "Juan Diaz",
+      "slug_a": "alatengheili",
+      "slug_b": "juan-diaz",
+      "files": {
+        "es": "newsletter/2026-11-14/es/newsletter_alatengheili_vs_juan-diaz.html",
+        "en": "newsletter/2026-11-14/en/newsletter_alatengheili_vs_juan-diaz.html",
+        "pt": "newsletter/2026-11-14/pt/newsletter_alatengheili_vs_juan-diaz.html",
+        "fr": "newsletter/2026-11-14/fr/newsletter_alatengheili_vs_juan-diaz.html"
+      }
+    }
+  ]
+}

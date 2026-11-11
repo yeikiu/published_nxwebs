@@ -1,0 +1,52 @@
+{
+  "event": "UFC 334: Gane vs. Hokit",
+  "event_date": "14 de noviembre de 2026",
+  "event_date_iso": "2026-11-14",
+  "fight": {
+    "fighter_a": "Jim Miller",
+    "fighter_b": "Terrance McKinney",
+    "prediction": "Terrance McKinney",
+    "confidence": 73,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 42,
+    "duration": "UNDER 1.5 rounds",
+    "duration_prob": 55,
+    "raw_fighter_a": "Jim Miller",
+    "raw_fighter_b": "Terrance McKinney",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a></strong>, sin ranking oficial en el top 15 de peso ligero, suma un récord total de carrera de 39-19-0 (1 NC), una cifra que refleja una trayectoria larguísima dentro de la división. En los últimos 36 meses su forma ha sido irregular: 3-2-0 en 5 peleas, con dos derrotas incluidas en ese tramo reciente. Aun así, su amenaza de finalización se mantiene en el máximo del radar (100/100), apoyada en un derribo ofensivo igualmente de 100/100, una combinación que explica por qué nadie puede confiarse ante él incluso en una etapa avanzada de su carrera.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a></strong>, también fuera del top 15, presenta un récord total de 18-9-0 y un tramo reciente de 3-3-0 en 6 peleas, con tres derrotas en ese período que marcan una regularidad a la baja pero sin apagar su peligrosidad explosiva. El radar lo sitúa por delante en golpeo ofensivo (59 frente a 47) y, sobre todo, en control (75 frente a 31), además de compartir con <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a> una amenaza de finalización de 100/100 y un derribo ofensivo idéntico. Ese perfil de pegada rápida y control superior es lo que inclina la balanza del radar a su favor en este enfrentamiento."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a></strong> llega como favorito claro en este duelo de peso ligero.\n<a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jim+Miller+%28A-10%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jim Miller</a> aporta experiencia pero arrastra <strong>2 derrotas</strong> en sus últimas 5 peleas.\nEl enfrentamiento apunta a resolverse por <strong>KO/TKO</strong> antes del límite de las 3 rondas."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan con una amenaza de finalización al máximo, lo que anticipa un cruce de golpes de alto voltaje desde el inicio. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Terrance+McKinney+%28T.+Wrecks%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Terrance McKinney</a> con un 73% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

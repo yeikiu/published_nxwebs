@@ -1,0 +1,52 @@
+{
+  "event": "UFC 334: Gane vs. Hokit",
+  "event_date": "14 de noviembre de 2026",
+  "event_date_iso": "2026-11-14",
+  "fight": {
+    "fighter_a": "Drew Dober",
+    "fighter_b": "Chris Duncan",
+    "prediction": "Chris Duncan",
+    "confidence": 71,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 60,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 67,
+    "raw_fighter_a": "Drew Dober",
+    "raw_fighter_b": "Chris Duncan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Drew+Dober\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Drew Dober</a></strong>, sin ranking oficial en el top 15 de peso ligero, acumula un récord total de carrera de 29-15-0 (1 NC), pero su tramo reciente pinta un panorama más complicado: 2-3-0 en las últimas 5 peleas de los últimos 36 meses, con tres derrotas que no se pueden pasar por alto. Pese a ello, su amenaza de finalización marca un rotundo 100 en el radar, y su derribo defensivo de 67 sugiere que seguirá siendo difícil de llevar al suelo incluso en una noche adversa.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chris+Duncan+%28The+Problem%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chris Duncan</a></strong>, también fuera del top 15, presenta un perfil más sólido en el corto plazo: 4-2-0 en sus últimas 6 peleas de los últimos 36 meses, sobre un récord total de carrera de 15-3-0. Su control de 54 y un derribo ofensivo de 43 le dan una vía adicional para imponer ritmo si decide llevar el combate a terreno de grappling, mientras que su amenaza de finalización de 75 lo mantiene peligroso también en el intercambio de pie. A tres rondas, el margen de error para <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Drew+Dober\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Drew Dober</a> se reduce: necesitará capitalizar rápido cualquier apertura."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chris+Duncan+%28The+Problem%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chris Duncan</a></strong> llega como favorito claro en este duelo de peso ligero.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Drew+Dober\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Drew Dober</a></strong> conserva una amenaza de finalización de 100, puro peligro de pie hasta el último segundo.\nEl método más probable de desenlace es <strong>KO/TKO</strong>, sin importar quién lo ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Chris+Duncan+%28The+Problem%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Chris Duncan</a> con un 71% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC 334: Gane vs. Hokit",
+  "event_date": "14 de noviembre de 2026",
+  "event_date_iso": "2026-11-14",
+  "fight": {
+    "fighter_a": "Ciryl Gane",
+    "fighter_b": "Josh Hokit",
+    "prediction": "Ciryl Gane",
+    "confidence": 63,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 59,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Ciryl Gane",
+    "raw_fighter_b": "Josh Hokit",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ciryl+Gane+%28Bon+Gamin%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ciryl Gane</a></strong> llega a esta defensa como <strong>campeón</strong> de peso pesado, con un récord total de carrera de 14-2-0 (más 1 NC) que habla de una trayectoria consolidada en la cima de la división. En los últimos 36 meses su forma es sólida: 2-0-0 en 3 peleas, un tramo donde la única mancha es el no contest de octubre de 2025, no una derrota. Su golpeo ofensivo (<strong>68/100</strong>) es la pieza central de su juego, acompañado de una amenaza de finalización notable (50/100) que lo convierte en un peligro constante de pie.\nEnfrente estará <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Josh+Hokit\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Josh Hokit</a></strong>, <strong>#4 del ranking peso pesado</strong>, que llega invicto con un récord total de carrera de 10-0-0 y una racha perfecta de 4-0-0 en los últimos 36 meses repartida en igual número de peleas. Lo que distingue a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Josh+Hokit\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Josh Hokit</a> no es el golpeo, sino su capacidad de control (<strong>80/100</strong>) y su derribo defensivo (<strong>78/100</strong>), cifras que sugieren que puede neutralizar el juego de pie del campeón si logra llevar el combate a su terreno. Su amenaza de finalización (75/100) tampoco es menor, lo que deja abierta la posibilidad de una sorpresa si consigue imponer su ritmo en alguna de las cinco rondas pactadas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ciryl+Gane+%28Bon+Gamin%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ciryl Gane</a></strong> llega como favorito claro ante un invicto que nunca ha pisado este terreno.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Josh+Hokit\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Josh Hokit</a></strong> presenta un dominio abrumador en el control (<strong>80/100</strong>), la gran incógnita del combate.\nEl <strong>KO/TKO</strong> se perfila como el método más probable, sin importar quién lo ejecute."
+    ],
+    "fight_conclusions": [
+      "Es un cruce de estilos genuino: potencia y precisión en el striking frente a control y presión constante. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ciryl+Gane+%28Bon+Gamin%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ciryl Gane</a> con un 63% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
