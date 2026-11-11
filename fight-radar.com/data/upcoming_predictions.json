@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T09:03:39.419Z",
+  "generatedAt": "2026-11-11T14:37:57.815Z",
   "provenance": {
-    "fightersCsvSha256": "a5359d9b2d26e167a12efdc17a9eed1ebfcf44735888459ea3a991a5ba738120",
-    "upcomingEventsSha256": "253080d4ff920fcfdf66ce5fc3773aafe07c70fbeea1cd07b8ee68cf1cb51f83",
-    "appVersion": "1.1.119"
+    "fightersCsvSha256": "e0a454410f58d291dbf12e949a8851ac29268ab56d75f39e5307bdf67fe44b3a",
+    "upcomingEventsSha256": "2f8227051b19217490c278e73fc43af7bce2e47667f3111de9a2985550d3d588",
+    "appVersion": "1.1.120"
   },
   "summary": {
     "totalEvents": 6,
@@ -268,8 +268,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 67.6,
-                "calibratedConfidence": 67.6,
+                "rawConfidence": 67.5,
+                "calibratedConfidence": 67.5,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -315,8 +315,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 55.9,
-                "calibratedConfidence": 55.9,
+                "rawConfidence": 56.2,
+                "calibratedConfidence": 56.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -328,8 +328,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 33.3,
-                "calibratedConfidence": 33.3,
+                "rawConfidence": 33.1,
+                "calibratedConfidence": 33.1,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -1022,8 +1022,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 57.2,
-                "calibratedConfidence": 57.2,
+                "rawConfidence": 57.1,
+                "calibratedConfidence": 57.1,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1087,8 +1087,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 70.1,
-                "calibratedConfidence": 70.1,
+                "rawConfidence": 70.2,
+                "calibratedConfidence": 70.2,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1237,8 +1237,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 72.2,
-                "calibratedConfidence": 72.2,
+                "rawConfidence": 72.3,
+                "calibratedConfidence": 72.3,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1424,8 +1424,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 48.6,
-                "calibratedConfidence": 48.6,
+                "rawConfidence": 49,
+                "calibratedConfidence": 49,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -1437,8 +1437,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 29.9,
-                "calibratedConfidence": 29.9,
+                "rawConfidence": 29.4,
+                "calibratedConfidence": 29.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1452,8 +1452,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 68.7,
-                "calibratedConfidence": 68.7,
+                "rawConfidence": 68.8,
+                "calibratedConfidence": 68.8,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1582,8 +1582,8 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 52.9,
-                "calibratedConfidence": 52.9,
+                "rawConfidence": 52.4,
+                "calibratedConfidence": 52.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
@@ -1595,8 +1595,8 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 37.9,
-                "calibratedConfidence": 37.9,
+                "rawConfidence": 38.4,
+                "calibratedConfidence": 38.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
@@ -1685,8 +1685,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 55.8,
-                "calibratedConfidence": 55.8,
+                "rawConfidence": 55.9,
+                "calibratedConfidence": 55.9,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -1722,12 +1722,12 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 48.4,
-                "calibratedConfidence": 48.4,
+                "rawConfidence": 47.7,
+                "calibratedConfidence": 47.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.69,
+                  "pFinish": 0.68,
                   "pKo": 0.7
                 }
               },
@@ -1735,12 +1735,12 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 31.1,
-                "calibratedConfidence": 31.1,
+                "rawConfidence": 31.8,
+                "calibratedConfidence": 31.8,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.69,
+                  "pFinish": 0.68,
                   "pKo": 0.7
                 }
               }
@@ -2035,8 +2035,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 73.6,
-                "calibratedConfidence": 73.6,
+                "rawConfidence": 73.5,
+                "calibratedConfidence": 73.5,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2132,8 +2132,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 62.7,
-                "calibratedConfidence": 62.7,
+                "rawConfidence": 62.8,
+                "calibratedConfidence": 62.8,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2631,12 +2631,12 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 71.1,
-                "calibratedConfidence": 71.1,
+                "rawConfidence": 70.4,
+                "calibratedConfidence": 70.4,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.77,
+                  "pFinish": 0.76,
                   "pKo": 0.92
                 }
               },
@@ -2644,12 +2644,12 @@
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 22.9,
-                "calibratedConfidence": 22.9,
+                "rawConfidence": 23.6,
+                "calibratedConfidence": 23.6,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.77,
+                  "pFinish": 0.76,
                   "pKo": 0.92
                 }
               }
@@ -2876,8 +2876,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 68.4,
-                "calibratedConfidence": 68.4,
+                "rawConfidence": 68.5,
+                "calibratedConfidence": 68.5,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {
@@ -2951,8 +2951,8 @@
                 "pick": "OVER 1.5 rounds",
                 "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
                 "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 65.9,
-                "calibratedConfidence": 65.9,
+                "rawConfidence": 66,
+                "calibratedConfidence": 66,
                 "reasoningKey": "radar_model.reasoning.duration",
                 "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
                 "metadata": {

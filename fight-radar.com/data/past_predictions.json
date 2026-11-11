@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T06:07:37.013Z",
+  "generatedAt": "2026-11-11T14:37:56.203Z",
   "globalStats": {
     "totalFights": 1595,
     "winnerCorrect": 641,
     "winnerAttempts": 938,
-    "methodCorrect": 591,
+    "methodCorrect": 592,
     "methodAttempts": 1107,
     "durationCorrect": 798,
     "durationAttempts": 1114,
@@ -108,8 +108,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 74.3,
-              "rawConfidence": 74.3,
+              "calibratedConfidence": 74.4,
+              "rawConfidence": 74.4,
               "correct": false
             }
           },
@@ -183,6 +183,7 @@
           "fighter1": "Mitch Raposo",
           "fighter2": "Marcos Degli (Tailandes)",
           "fighter1Image": "img/mitch_raposo.png",
+          "fighter2Image": "img/marcos_degli_tailandes.png",
           "weightClass": "Flyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -224,8 +225,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 56.6,
-              "rawConfidence": 56.6,
+              "calibratedConfidence": 56.5,
+              "rawConfidence": 56.5,
               "correct": true
             }
           },
@@ -237,6 +238,7 @@
           "fighter1": "Thomas Petersen (The Train)",
           "fighter2": "Gabriel Lorenco (The Black Mamba)",
           "fighter1Image": "img/thomas_petersen.png",
+          "fighter2Image": "img/gabriel_lorenco_the_black_mamba.png",
           "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "actual": {
@@ -328,6 +330,7 @@
           "fighter1": "Austin Bashi",
           "fighter2": "Carlos Calderon (Chief)",
           "fighter1Image": "img/austin_bashi.png",
+          "fighter2Image": "img/carlos_calderon_chief.png",
           "weightClass": "Featherweight",
           "scheduledRounds": 3,
           "actual": {
@@ -369,8 +372,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 57,
-              "rawConfidence": 57,
+              "calibratedConfidence": 56.9,
+              "rawConfidence": 56.9,
               "correct": true
             }
           },
@@ -387,27 +390,27 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Seokhyeon Ko",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
           "prediction": {
             "moneyline": {
               "pick": "Seokhyeon Ko",
-              "calibratedConfidence": 64.2,
-              "rawConfidence": 64.2,
+              "calibratedConfidence": 65.2,
+              "rawConfidence": 65.2,
               "correct": true
             },
             "method": {
-              "pick": "Submission",
-              "calibratedConfidence": 38.4,
-              "rawConfidence": 38.4,
-              "correct": false
+              "pick": "Decision",
+              "calibratedConfidence": 45.4,
+              "rawConfidence": 45.4,
+              "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 62.5,
-              "rawConfidence": 62.5,
+              "calibratedConfidence": 65,
+              "rawConfidence": 65,
               "correct": true
             }
           },
@@ -487,8 +490,8 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 54,
-              "rawConfidence": 54,
+              "calibratedConfidence": 53.7,
+              "rawConfidence": 53.7,
               "correct": false
             },
             "duration": {
@@ -561,8 +564,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 78.9,
-              "rawConfidence": 78.9,
+              "calibratedConfidence": 79,
+              "rawConfidence": 79,
               "correct": true
             }
           },
@@ -586,14 +589,14 @@
           "prediction": {
             "method": {
               "pick": "Submission",
-              "calibratedConfidence": 40.4,
-              "rawConfidence": 40.4,
+              "calibratedConfidence": 51.8,
+              "rawConfidence": 51.8,
               "correct": false
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 72.6,
-              "rawConfidence": 72.6,
+              "calibratedConfidence": 74.3,
+              "rawConfidence": 74.3,
               "correct": true
             }
           },
@@ -660,14 +663,14 @@
             },
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 53,
-              "rawConfidence": 53,
+              "calibratedConfidence": 52.5,
+              "rawConfidence": 52.5,
               "correct": true
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 55.6,
-              "rawConfidence": 55.6,
+              "calibratedConfidence": 55.5,
+              "rawConfidence": 55.5,
               "correct": true
             }
           },
@@ -697,8 +700,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 59.2,
-              "rawConfidence": 59.2,
+              "calibratedConfidence": 59.3,
+              "rawConfidence": 59.3,
               "correct": false
             }
           },
@@ -777,8 +780,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 88.1,
-              "rawConfidence": 88.1,
+              "calibratedConfidence": 88,
+              "rawConfidence": 88,
               "correct": true
             }
           },
@@ -932,8 +935,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 68.4,
-              "rawConfidence": 68.4,
+              "calibratedConfidence": 68.5,
+              "rawConfidence": 68.5,
               "correct": true
             }
           },
@@ -1142,8 +1145,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Jacob Malkoun",
-              "calibratedConfidence": 74.2,
-              "rawConfidence": 74.2,
+              "calibratedConfidence": 74.1,
+              "rawConfidence": 74.1,
               "correct": false
             },
             "method": {
@@ -1154,8 +1157,8 @@
             },
             "duration": {
               "pick": "OVER 1.5 rounds",
-              "calibratedConfidence": 73.6,
-              "rawConfidence": 73.6,
+              "calibratedConfidence": 73.7,
+              "rawConfidence": 73.7,
               "correct": true
             }
           },
@@ -1216,8 +1219,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Noah Gugnon",
-              "calibratedConfidence": 70.1,
-              "rawConfidence": 70.1,
+              "calibratedConfidence": 70.2,
+              "rawConfidence": 70.2,
               "correct": false
             },
             "method": {
@@ -1297,8 +1300,8 @@
           "prediction": {
             "method": {
               "pick": "KO/TKO",
-              "calibratedConfidence": 62.1,
-              "rawConfidence": 62.1,
+              "calibratedConfidence": 61.9,
+              "rawConfidence": 61.9,
               "correct": true
             },
             "duration": {
@@ -1832,8 +1835,8 @@
           "prediction": {
             "moneyline": {
               "pick": "Francisco Prado",
-              "calibratedConfidence": 63.5,
-              "rawConfidence": 63.5,
+              "calibratedConfidence": 63.6,
+              "rawConfidence": 63.6,
               "correct": true
             },
             "method": {
@@ -6531,7 +6534,7 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Jean-Paul Lebosnoyani",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
@@ -17800,7 +17803,7 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Seokhyeon Ko",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
@@ -24245,7 +24248,7 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "Seokhyeon Ko",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
