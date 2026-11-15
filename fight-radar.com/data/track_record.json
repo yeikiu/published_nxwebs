@@ -1,22 +1,483 @@
 {
-  "generatedAt": "2026-11-11T09:21:46.857Z",
+  "generatedAt": "2026-11-15T06:06:17.886Z",
   "provenance": {
-    "appVersion": "1.1.119",
+    "appVersion": "1.1.123",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 19,
-    "totalFights": 245,
-    "abstentions": 117,
-    "winnerCorrect": 64,
-    "winnerAttempts": 115,
-    "methodCorrect": 63,
-    "methodAttempts": 124,
-    "durationCorrect": 70,
-    "durationAttempts": 106,
-    "dimensionsWithConfidence": 345
+    "totalEvents": 20,
+    "totalFights": 258,
+    "abstentions": 119,
+    "winnerCorrect": 69,
+    "winnerAttempts": 123,
+    "methodCorrect": 68,
+    "methodAttempts": 135,
+    "durationCorrect": 77,
+    "durationAttempts": 115,
+    "dimensionsWithConfidence": 373
   },
   "events": [
+    {
+      "dateKey": "14-11-2026",
+      "eventName": "UFC 334: Gane vs. Hokit",
+      "location": "New York City, New York, USA",
+      "fights": [
+        {
+          "fightId": "b76f6b263c31ec58",
+          "fightOrder": 1,
+          "fighter1": "Ciryl Gane",
+          "fighter2": "Josh Hokit",
+          "fighter1Url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "fighter1Image": "img/ciryl_gane.png",
+          "fighter2Image": "img/josh_hokit.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+            "resultType": "Decision",
+            "round": 5,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+              "label": "Ciryl Gane",
+              "correct": true,
+              "rawConfidence": 63.3,
+              "calibratedConfidence": 63.3
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 59.5,
+              "calibratedConfidence": 59.5
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "8b8aa3509484e7ba",
+          "fightOrder": 2,
+          "fighter1": "Kayla Harrison",
+          "fighter2": "Amanda Nunes",
+          "fighter1Url": "http://ufcstats.com/fighter-details/1af1170ed937cba7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/80fa8218c99f9c58",
+          "fighter1Image": "img/kayla_harrison.png",
+          "fighter2Image": "img/amanda_nunes.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/1af1170ed937cba7",
+            "resultType": "Submission",
+            "round": 4,
+            "time": "1:29"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "822bfefb16362f69",
+          "fightOrder": 3,
+          "fighter1": "Caio Borralho",
+          "fighter2": "Yousri Belgaroui",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+          "fighter1Image": "img/caio_borralho.png",
+          "fighter2Image": "img/yousri_belgaroui.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4126a78111c0855a",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 47.2,
+              "calibratedConfidence": 47.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.4,
+              "calibratedConfidence": 67.4
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "0e1f52e7b579bdbc",
+          "fightOrder": 4,
+          "fighter1": "Uros Medic",
+          "fighter2": "Kevin Holland",
+          "fighter1Url": "http://ufcstats.com/fighter-details/681399317dbf4701",
+          "fighter2Url": "http://ufcstats.com/fighter-details/3a46b268013afede",
+          "fighter1Image": "img/uros_medic.png",
+          "fighter2Image": "img/kevin_holland.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": null,
+          "pick": {
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 66.1,
+              "calibratedConfidence": 66.1
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "5f61df0e17674131",
+          "fightOrder": 5,
+          "fighter1": "Luis Gurule",
+          "fighter2": "Bilal Hasan",
+          "fighter1Url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+          "fighter1Image": "img/luis_gurule.png",
+          "fighter2Image": "img/bilal_hasan_the_indoninja.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/5182316da3c1d891",
+              "label": "Bilal Hasan",
+              "correct": false,
+              "rawConfidence": 74.9,
+              "calibratedConfidence": 74.9
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 45.9,
+              "calibratedConfidence": 45.9
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.5,
+              "calibratedConfidence": 67.5
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "e4d02ff13fb5ce37",
+          "fightOrder": 6,
+          "fighter1": "Stephen Thompson",
+          "fighter2": "Charles Radtke",
+          "fighter1Url": "http://ufcstats.com/fighter-details/4a28cb716c19157a",
+          "fighter2Url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
+          "fighter1Image": "img/stephen_thompson.png",
+          "fighter2Image": "img/charles_radtke.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/4a28cb716c19157a",
+            "resultType": "KO",
+            "round": 3,
+            "time": "2:54"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/feedf3053472fe56",
+              "label": "Charles Radtke",
+              "correct": false,
+              "rawConfidence": 69.5,
+              "calibratedConfidence": 69.5
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 56.2,
+              "calibratedConfidence": 56.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.9,
+              "calibratedConfidence": 67.9
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "5bb6e7811387a018",
+          "fightOrder": 7,
+          "fighter1": "Chris Duncan",
+          "fighter2": "Drew Dober",
+          "fighter1Url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+          "fighter2Url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
+          "fighter1Image": "img/chris_duncan.png",
+          "fighter2Image": "img/drew_dober.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+              "label": "Chris Duncan",
+              "correct": true,
+              "rawConfidence": 71.4,
+              "calibratedConfidence": 71.4
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 60.4,
+              "calibratedConfidence": 60.4
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.6,
+              "calibratedConfidence": 67.6
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "3be83399ff6279f0",
+          "fightOrder": 8,
+          "fighter1": "Terrance McKinney",
+          "fighter2": "Jim Miller",
+          "fighter1Url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
+          "fighter1Image": "img/terrance_mckinney.png",
+          "fighter2Image": "img/jim_miller.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/809bd1a871491508",
+            "resultType": "KO",
+            "round": 1,
+            "time": "1:53"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/809bd1a871491508",
+              "label": "Terrance McKinney",
+              "correct": true,
+              "rawConfidence": 73.5,
+              "calibratedConfidence": 73.5
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 42.8,
+              "calibratedConfidence": 42.8
+            },
+            "duration": {
+              "value": "under",
+              "correct": true,
+              "rawConfidence": 55.5,
+              "calibratedConfidence": 55.5
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "d47797278057cc1a",
+          "fightOrder": 9,
+          "fighter1": "Cesar Almeida",
+          "fighter2": "Donte Johnson",
+          "fighter1Url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+          "fighter1Image": "img/cesar_almeida.png",
+          "fighter2Image": "img/donte_johnson.png",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:20"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+              "label": "Donte Johnson",
+              "correct": false,
+              "rawConfidence": 70.2,
+              "calibratedConfidence": 70.2
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 37.7,
+              "calibratedConfidence": 37.7
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 59.1,
+              "calibratedConfidence": 59.1
+            }
+          },
+          "pickedAt": "2026-10-28T09:19:56.936439+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "003c24cf9ad22797",
+          "fightOrder": 10,
+          "fighter1": "Melquizael Costa",
+          "fighter2": "Jared Gordon",
+          "fighter1Url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
+          "fighter1Image": "img/melquizael_costa.png",
+          "fighter2Image": "img/jared_gordon.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
+              "label": "Melquizael Costa",
+              "correct": true,
+              "rawConfidence": 70.9,
+              "calibratedConfidence": 70.9
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 42.6,
+              "calibratedConfidence": 42.6
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 67.5,
+              "calibratedConfidence": 67.5
+            }
+          },
+          "pickedAt": "2026-10-28T09:19:56.936439+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "9ab4e6706dde2f08",
+          "fightOrder": 11,
+          "fighter1": "Bia Mesquita",
+          "fighter2": "Macy Chiasson",
+          "fighter1Url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+          "fighter2Url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
+          "fighter1Image": "img/bia_mesquita.png",
+          "fighter2Image": "img/macy_chiasson.png",
+          "weightClass": "W_Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+            "resultType": "Submission",
+            "round": 1,
+            "time": "3:23"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 56.7,
+              "calibratedConfidence": 56.7
+            },
+            "duration": {
+              "value": "over",
+              "correct": false,
+              "rawConfidence": 71.1,
+              "calibratedConfidence": 71.1
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "98ec0b73dc07c57f",
+          "fightOrder": 12,
+          "fighter1": "Juan Diaz",
+          "fighter2": "Alatengheili",
+          "fighter1Url": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
+          "fighter2Url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+          "fighter1Image": "img/juan_diaz_pegajoso.png",
+          "fighter2Image": "img/alatengheili.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
+              "label": "Juan Diaz",
+              "correct": true,
+              "rawConfidence": 65.7,
+              "calibratedConfidence": 65.7
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 60.4,
+              "calibratedConfidence": 60.4
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 73.2,
+              "calibratedConfidence": 73.2
+            }
+          },
+          "pickedAt": "2026-11-10T23:42:10.183379+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "74b4d9c9758d5d85",
+          "fightOrder": 13,
+          "fighter1": "Evan Elder",
+          "fighter2": "Samuel Sanches",
+          "fighter1Url": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/438d497617ecb16e",
+          "fighter1Image": "img/evan_elder.png",
+          "fighter2Image": "img/samuel_sanches_the_prodigy.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "07-11-2026",
       "eventName": "UFC Fight Night: Cortes Acosta vs. Walker",

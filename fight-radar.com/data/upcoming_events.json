@@ -1,195 +1,4 @@
 {
-  "14-11-2026": {
-    "date": "14-11-2026",
-    "name": "UFC 334: Gane vs. Hokit",
-    "location": "New York City, New York, USA",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Ciryl Gane (Bon Gamin)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Josh Hokit",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
-          "division_ranking": "4"
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Kayla Harrison",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1af1170ed937cba7",
-          "division_ranking": "0"
-        },
-        "fighter2": {
-          "name": "Amanda Nunes (The Lioness)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/80fa8218c99f9c58",
-          "division_ranking": ""
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Caio Borralho (The Natural)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
-          "division_ranking": "5"
-        },
-        "fighter2": {
-          "name": "Yousri Belgaroui",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Uros Medic (The Doctor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/681399317dbf4701",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Kevin Holland (Trailblazer)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/3a46b268013afede",
-          "division_ranking": "15"
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bilal Hasan (The IndoNinja)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5182316da3c1d891",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Luis Gurule (Grim)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Stephen Thompson (Wonderboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a28cb716c19157a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Charles Radtke (Chuck Buffalo)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Drew Dober",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Chris Duncan (The Problem)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jim Miller (A-10)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Terrance McKinney (T. Wrecks)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/809bd1a871491508",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Donte Johnson (Lock Jaw)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Cesar Almeida (Cesinha)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Jared Gordon (Flash)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Melquizael Costa (The Dalmatian)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/20bccc9bb4ceb23e",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Macy Chiasson",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9cdd2da1a9104a0b",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Bia Mesquita (The Lady GOAT)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
-          "division_ranking": "11"
-        },
-        "weightClass": "Women's Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alatengheili (The Mongolian Knight)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Juan Diaz (Pegajoso)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Evan Elder (The Phenom)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Samuel Sanches",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/438d497617ecb16e",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1345,
-    "startTime": "2026-11-14T22:00Z"
-  },
   "21-11-2026": {
     "date": "21-11-2026",
     "name": "UFC Fight Night: Prochazka vs. Stirling",
@@ -319,6 +128,34 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Nikolas Motta (Iron)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/37f560436d745c18",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Dom Mar Fan (Street Buddha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Diyar Nurgozhay",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Alik Lorenz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/92b5f4ee9ff40321",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
       }
     ],
