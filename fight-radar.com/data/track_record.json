@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:06:17.886Z",
+  "generatedAt": "2026-11-15T06:11:20.142Z",
   "provenance": {
     "appVersion": "1.1.123",
     "radarCompetitorId": "fight-radar"
@@ -452,7 +452,7 @@
               "calibratedConfidence": 73.2
             }
           },
-          "pickedAt": "2026-11-10T23:42:10.183379+00:00",
+          "pickedAt": "2026-11-10T23:49:17.24323+00:00",
           "abstained": false
         },
         {

@@ -374,20 +374,6 @@
       },
       {
         "fighter1": {
-          "name": "Joe Pyfer (Bodybagz)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c1085e1701b13eca",
-          "division_ranking": "6"
-        },
-        "fighter2": {
-          "name": "Bo Nickal",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
-          "division_ranking": "14"
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Brandon Moreno (The Assassin Baby)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
           "division_ranking": "8"
@@ -427,10 +413,112 @@
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Kyler Phillips (The Matrix)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/60425d07ef4b91a7",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ethyn Ewing (The Professor Finesser)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d776b5814f2400b4",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Damian Pinas (The Baba Yaga)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Baisangur Susurkaev (Hunter)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1349,
     "startTime": "2026-12-12T22:00Z"
+  },
+  "16-01-2027": {
+    "date": "16-01-2027",
+    "name": "UFC Fight Night: Rodriguez vs. Garcia",
+    "location": "Dallas, Texas, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Yair Rodriguez (El Pantera)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cbf5e6f231b55443",
+          "division_ranking": "7"
+        },
+        "fighter2": {
+          "name": "Steve Garcia (Mean Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
+          "division_ranking": "10"
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Daniel Rodriguez (D-Rod)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Roberto Soldic (Robocop)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5a229cbd9cdd28ca",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Chidi Njokuani (Bang Bang)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ignacio Bahamondes (La Jaula)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      }
+    ],
+    "ufcEventId": 1353,
+    "startTime": "2027-01-16T22:00Z"
+  },
+  "23-01-2027": {
+    "date": "23-01-2027",
+    "name": "UFC Fight Night: Bonfim vs. Brady",
+    "location": "Las Vegas, Nevada, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Gabriel Bonfim (Marretinha)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/01641ba5df0c69b0",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Sean Brady",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
+          "division_ranking": "6"
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 5
+      }
+    ],
+    "ufcEventId": 1354,
+    "startTime": "2027-01-23T22:00Z"
   },
   "30-01-2027": {
     "date": "30-01-2027",
@@ -464,6 +552,48 @@
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 5
+      },
+      {
+        "fighter1": {
+          "name": "Lance Gibson Jr. (Fearless)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/07bc580bdf3eb9c8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Michael Johnson (The Menace)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/511e82663651438d",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Serhiy Sidey",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1a2bf44edb8055b6",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Louis Lee Scott",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4327506eb9ee342f",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cam Nelson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/34d4cae19105eb68",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Sean Clancy Jr.",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c02862a5f6d3fbd0",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1350,
@@ -589,5 +719,28 @@
     ],
     "ufcEventId": 1351,
     "startTime": "2027-02-06T22:00Z"
+  },
+  "13-02-2027": {
+    "date": "13-02-2027",
+    "name": "UFC Fight Night: Pyfer vs. Nickal",
+    "location": "Cleveland, Ohio, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Joe Pyfer (Bodybagz)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c1085e1701b13eca",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Bo Nickal",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
+          "division_ranking": "14"
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 5
+      }
+    ],
+    "ufcEventId": 1355,
+    "startTime": "2027-02-13T22:00Z"
   }
 }
