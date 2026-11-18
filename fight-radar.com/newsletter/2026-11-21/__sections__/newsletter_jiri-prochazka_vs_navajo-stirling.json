@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Prochazka vs. Stirling",
+  "event_date": "21 de noviembre de 2026",
+  "event_date_iso": "2026-11-21",
+  "fight": {
+    "fighter_a": "Jiri Prochazka",
+    "fighter_b": "Navajo Stirling",
+    "prediction": "Navajo Stirling",
+    "confidence": 67,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 60,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Jiri Prochazka",
+    "raw_fighter_b": "Navajo Stirling",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "MAIN EVENT",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(MAIN EVENT):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jiri+Prochazka\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jiri Prochazka</a></strong>, <strong>#2 del ranking peso semipesado</strong>, llega a este enfrentamiento con un récord total de carrera de 32-6-1, una trayectoria extensa que habla de su nivel entre la élite de la división. Sin embargo, en los últimos 3 años su forma es irregular: 3-2-0 en 5 peleas, con dos derrotas que no pueden pasarse por alto. Su última salida, el 11-04-2026, terminó en derrota. Lo que mantiene a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jiri+Prochazka\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jiri Prochazka</a> como una amenaza real es su perfil ofensivo: un derribo ofensivo de 100, un control de 94 y una amenaza de finalización que toca el techo de 100, cifras que reflejan su capacidad de cambiar el curso de una pelea en cualquier instante.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Navajo+Stirling\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Navajo Stirling</a></strong>, <strong>#5 del ranking peso semipesado</strong>, llega en una posición radicalmente distinta en cuanto a forma reciente. Con un récord total de carrera de 11-0-0, sigue invicto, y en los últimos 3 años acumula un impecable 6-0-0 en 6 peleas, todas ganadas, la más reciente el 01-08-2026. Sus métricas de golpeo ofensivo (54) y defensivo (59) son sólidas y equilibradas, aunque su derribo ofensivo (36) y su control (51) quedan por debajo de los registros de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jiri+Prochazka\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jiri Prochazka</a>. Aun así, ese invicto sostenido en el tiempo es un argumento de peso dentro del enfrentamiento de ranking."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Navajo+Stirling\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Navajo Stirling</a></strong> llega como favorito claro con un récord perfecto en los últimos tres años.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jiri+Prochazka\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jiri Prochazka</a></strong> aporta mayor amenaza de finalización, pero arrastra altibajos recientes.\nEl <strong>KO/TKO</strong> se perfila como la vía más probable de cierre en este duelo divisional."
+    ],
+    "fight_conclusions": [
+      "Este duelo divisional enfrenta la experiencia y el poder de finalización de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jiri+Prochazka\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jiri Prochazka</a> contra la regularidad y el invicto de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Navajo+Stirling\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Navajo Stirling</a>. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Navajo+Stirling\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Navajo Stirling</a> con un 67% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

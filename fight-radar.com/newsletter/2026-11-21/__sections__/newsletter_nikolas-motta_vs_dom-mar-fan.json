@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Prochazka vs. Stirling",
+  "event_date": "21 de noviembre de 2026",
+  "event_date_iso": "2026-11-21",
+  "fight": {
+    "fighter_a": "Nikolas Motta",
+    "fighter_b": "Dom Mar Fan",
+    "prediction": "Dom Mar Fan",
+    "confidence": 66,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 42,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 60,
+    "raw_fighter_a": "Nikolas Motta",
+    "raw_fighter_b": "Dom Mar Fan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate entre <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nikolas+Motta+%28Iron%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikolas Motta</a></strong> y <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a></strong> enfrenta a dos peleadores sin ranking oficial en el top 15 de peso ligero, pero con trayectorias que invitan a un análisis detallado. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nikolas+Motta+%28Iron%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikolas Motta</a> acumula un récord total de carrera de 15-6-0 (1 NC), mientras que en los últimos 36 meses su forma reciente es de 2-1-0 en 4 peleas, incluyendo una derrota en su presentación más reciente, el 21 de junio de 2025.\n<a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a>, por su parte, suma un récord total de carrera de 9-3-0, con un tramo de los últimos 36 meses de 1-1-0 en 2 peleas, también con una derrota de por medio en su salida más reciente del 2 de mayo de 2026. En el plano estadístico, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a> domina el golpeo ofensivo (57 frente a 40) y el control (33 frente a 25), mientras que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nikolas+Motta+%28Iron%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikolas Motta</a> iguala en derribo defensivo (82 para ambos) y muestra una mayor amenaza de finalización (50 frente a 0). Ese contraste entre el poder de golpeo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a> y la solidez defensiva de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Nikolas+Motta+%28Iron%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Nikolas Motta</a> en el suelo es el eje central de este duelo divisional."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a></strong> llega como favorito claro con un <strong>66%</strong> de probabilidad a favor.\nAmbos comparten un dato clave: <strong>82 de control</strong> en el radar de derribo defensivo, pero <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a> impone diferencia con <strong>57 de golpeo ofensivo</strong> frente a los 40 de su rival.\nEl desenlace más probable pasa por la vía del <strong>KO/TKO</strong>, independientemente de quién se lleve la decisión del radar."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Dom+Mar+Fan+%28Street+Buddha%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Dom Mar Fan</a> con un 66% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane. La pelea está programada a 3 rondas, por lo que cualquier finalización deberá llegar dentro de ese margen."
+    ],
+    "conclusion": ""
+  }
+}

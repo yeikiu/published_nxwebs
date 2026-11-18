@@ -1,0 +1,110 @@
+{
+  "event": "UFC Fight Night: Prochazka vs. Stirling",
+  "event_date": "21 de noviembre de 2026",
+  "event_date_iso": "2026-11-21",
+  "generated_at": "2026-11-18T09:06:52Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Jiri Prochazka",
+      "fighter_b": "Navajo Stirling",
+      "slug_a": "jiri-prochazka",
+      "slug_b": "navajo-stirling",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_jiri-prochazka_vs_navajo-stirling.html",
+        "en": "newsletter/2026-11-21/en/newsletter_jiri-prochazka_vs_navajo-stirling.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_jiri-prochazka_vs_navajo-stirling.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_jiri-prochazka_vs_navajo-stirling.html"
+      }
+    },
+    {
+      "fighter_a": "Aljamain Sterling",
+      "fighter_b": "Kevin Vallejos",
+      "slug_a": "aljamain-sterling",
+      "slug_b": "kevin-vallejos",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_aljamain-sterling_vs_kevin-vallejos.html",
+        "en": "newsletter/2026-11-21/en/newsletter_aljamain-sterling_vs_kevin-vallejos.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_aljamain-sterling_vs_kevin-vallejos.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_aljamain-sterling_vs_kevin-vallejos.html"
+      }
+    },
+    {
+      "fighter_a": "Dan Hooker",
+      "fighter_b": "Brian Ortega",
+      "slug_a": "dan-hooker",
+      "slug_b": "brian-ortega",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_dan-hooker_vs_brian-ortega.html",
+        "en": "newsletter/2026-11-21/en/newsletter_dan-hooker_vs_brian-ortega.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_dan-hooker_vs_brian-ortega.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_dan-hooker_vs_brian-ortega.html"
+      }
+    },
+    {
+      "fighter_a": "Jared Cannonier",
+      "fighter_b": "Ikram Aliskerov",
+      "slug_a": "jared-cannonier",
+      "slug_b": "ikram-aliskerov",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_jared-cannonier_vs_ikram-aliskerov.html",
+        "en": "newsletter/2026-11-21/en/newsletter_jared-cannonier_vs_ikram-aliskerov.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_jared-cannonier_vs_ikram-aliskerov.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_jared-cannonier_vs_ikram-aliskerov.html"
+      }
+    },
+    {
+      "fighter_a": "Aleksandre Topuria",
+      "fighter_b": "Santiago Luna",
+      "slug_a": "aleksandre-topuria",
+      "slug_b": "santiago-luna",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_aleksandre-topuria_vs_santiago-luna.html",
+        "en": "newsletter/2026-11-21/en/newsletter_aleksandre-topuria_vs_santiago-luna.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_aleksandre-topuria_vs_santiago-luna.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_aleksandre-topuria_vs_santiago-luna.html"
+      }
+    },
+    {
+      "fighter_a": "Shamil Gaziev",
+      "fighter_b": "Tallison Teixeira",
+      "slug_a": "shamil-gaziev",
+      "slug_b": "tallison-teixeira",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_shamil-gaziev_vs_tallison-teixeira.html",
+        "en": "newsletter/2026-11-21/en/newsletter_shamil-gaziev_vs_tallison-teixeira.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_shamil-gaziev_vs_tallison-teixeira.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_shamil-gaziev_vs_tallison-teixeira.html"
+      }
+    },
+    {
+      "fighter_a": "Amir Albazi",
+      "fighter_b": "Alessandro Costa",
+      "slug_a": "amir-albazi",
+      "slug_b": "alessandro-costa",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_amir-albazi_vs_alessandro-costa.html",
+        "en": "newsletter/2026-11-21/en/newsletter_amir-albazi_vs_alessandro-costa.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_amir-albazi_vs_alessandro-costa.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_amir-albazi_vs_alessandro-costa.html"
+      }
+    },
+    {
+      "fighter_a": "Nikolas Motta",
+      "fighter_b": "Dom Mar Fan",
+      "slug_a": "nikolas-motta",
+      "slug_b": "dom-mar-fan",
+      "files": {
+        "es": "newsletter/2026-11-21/es/newsletter_nikolas-motta_vs_dom-mar-fan.html",
+        "en": "newsletter/2026-11-21/en/newsletter_nikolas-motta_vs_dom-mar-fan.html",
+        "pt": "newsletter/2026-11-21/pt/newsletter_nikolas-motta_vs_dom-mar-fan.html",
+        "fr": "newsletter/2026-11-21/fr/newsletter_nikolas-motta_vs_dom-mar-fan.html"
+      }
+    }
+  ]
+}

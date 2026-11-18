@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-18T00:15:10.122Z",
+  "generatedAt": "2026-11-18T09:04:15.780Z",
   "provenance": {
-    "fightersCsvSha256": "1d647e7de15a97efc42d53cabe07a4e9773e7a615988a0eabc75b84a7f76103e",
-    "upcomingEventsSha256": "6b8a1386aeccb503d3c0066626f0c0b57c58115392b00d2e00dff90bbc572fdb",
-    "appVersion": "1.1.125"
+    "fightersCsvSha256": "9bdceb4097ce5850d96426392c72f96f386ba86542bd2e013f2a5b0b9992e412",
+    "upcomingEventsSha256": "f559f419413680033459f66d30b4e494cba9436f7de4885b425d06590cd6519c",
+    "appVersion": "1.1.126"
   },
   "summary": {
     "totalEvents": 8,
-    "totalFights": 48,
-    "predictedFights": 37,
+    "totalFights": 47,
+    "predictedFights": 36,
     "noDataFights": 11
   },
   "events": [
@@ -1503,12 +1503,12 @@
         },
         {
           "fightId": "4bb5ec7d1e05fd55",
-          "fighter1": "Sergei Pavlovich",
-          "fighter2": "Alex Pereira (Poatan)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/f14cf73e51b29254",
-          "fighter2Url": "http://ufcstats.com/fighter-details/e5549c82bfb5582d",
-          "fighter1Image": "img/sergei_pavlovich.png",
-          "fighter2Image": "img/alex_pereira.png",
+          "fighter1": "Alex Pereira (Poatan)",
+          "fighter2": "Sergei Pavlovich",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e5549c82bfb5582d",
+          "fighter2Url": "http://ufcstats.com/fighter-details/f14cf73e51b29254",
+          "fighter1Image": "img/alex_pereira.png",
+          "fighter2Image": "img/sergei_pavlovich.png",
           "weightClass": "Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
@@ -1517,26 +1517,26 @@
                 "pick": "KO/TKO",
                 "predictionKey": "combat_analysis.finish_methods.ko_tko",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 56,
-                "calibratedConfidence": 56,
+                "rawConfidence": 67.2,
+                "calibratedConfidence": 67.2,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "KO/TKO",
-                  "pFinish": 0.64,
-                  "pKo": 0.88
+                  "pFinish": 0.73,
+                  "pKo": 0.92
                 }
               },
               {
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 36.5,
-                "calibratedConfidence": 36.5,
+                "rawConfidence": 26.7,
+                "calibratedConfidence": 26.7,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.64,
-                  "pKo": 0.88
+                  "pFinish": 0.73,
+                  "pKo": 0.92
                 }
               }
             ],
@@ -1642,101 +1642,53 @@
           "noData": false
         },
         {
-          "fightId": "f2da1e3550a9b07a",
-          "fighter1": "Maycee Barber (The Future)",
-          "fighter2": "Carli Judice (Crispy)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/6a740daf1b279661",
-          "fighter2Url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
-          "fighter1Image": "img/maycee_barber.png",
-          "fighter2Image": "img/carli_judice.png",
-          "weightClass": "Women's Flyweight",
+          "fightId": "e30ac23aa5b09d3f",
+          "fighter1": "Damian Pinas (The Baba Yaga)",
+          "fighter2": "Baisangur Susurkaev (Hunter)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
+          "fighter2Url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
+          "fighter1Image": "img/damian_pinas_the_baba_yaga.png",
+          "fighter2Image": "img/baisangur_susurkaev.png",
+          "weightClass": "Middleweight",
           "scheduledRounds": 3,
           "prediction": {
-            "moneyline": {
-              "pick": "Carli Judice",
-              "titleKey": "betting_markets.fight_winner",
-              "rawConfidence": 57.5,
-              "calibratedConfidence": 57.5,
-              "reasoningKey": "radar_model.reasoning.winner",
-              "metadata": {
-                "p1": 0.43
-              }
-            },
             "methods": [
+              {
+                "pick": "KO/TKO",
+                "predictionKey": "combat_analysis.finish_methods.ko_tko",
+                "titleKey": "betting_markets.method_of_victory",
+                "rawConfidence": 63.6,
+                "calibratedConfidence": 63.6,
+                "reasoningKey": "radar_model.reasoning.method",
+                "metadata": {
+                  "method": "KO/TKO",
+                  "pFinish": 0.72,
+                  "pKo": 0.88
+                }
+              },
               {
                 "pick": "Decision",
                 "predictionKey": "combat_analysis.finish_methods.decision",
                 "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 46.4,
-                "calibratedConfidence": 46.4,
+                "rawConfidence": 28.1,
+                "calibratedConfidence": 28.1,
                 "reasoningKey": "radar_model.reasoning.method",
                 "metadata": {
                   "method": "Decision",
-                  "pFinish": 0.54,
-                  "pKo": 0.49
-                }
-              },
-              {
-                "pick": "Submission",
-                "predictionKey": "combat_analysis.finish_methods.submission",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 27.1,
-                "calibratedConfidence": 27.1,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Submission",
-                  "pFinish": 0.54,
-                  "pKo": 0.49
+                  "pFinish": 0.72,
+                  "pKo": 0.88
                 }
               }
             ],
-            "durations": [
-              {
-                "pick": "OVER 1.5 rounds",
-                "predictionKey": "combat_analysis.duration_predictions.over_1_5_rounds",
-                "titleKey": "betting_markets.total_rounds",
-                "rawConfidence": 76.6,
-                "calibratedConfidence": 76.6,
-                "reasoningKey": "radar_model.reasoning.duration",
-                "explanationKey": "combat_analysis.bet_explanations.over_1_5_rounds",
-                "metadata": {
-                  "line": 1.5,
-                  "pOver": 0.77
-                }
-              }
-            ]
-          },
-          "radar": {
-            "winnerUrl": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
-            "method": "decision",
-            "duration": {
-              "side": "over"
-            }
-          },
-          "contradictions": [],
-          "noData": false
-        },
-        {
-          "fightId": "0d342e399f32212f",
-          "fighter1": "Quentin Pasley",
-          "fighter2": "Junior Tafa (The Juggernaut)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/15b1f83a90302adf",
-          "fighter2Url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
-          "fighter2Image": "img/junior_tafa.png",
-          "weightClass": "Light Heavyweight",
-          "scheduledRounds": 3,
-          "prediction": {
-            "methods": [],
             "durations": []
           },
           "radar": {
             "winnerUrl": null,
-            "method": null,
+            "method": "ko",
             "duration": null
           },
           "contradictions": [],
-          "noData": true,
-          "noDataReason": "missing_fighter"
+          "noData": false
         },
         {
           "fightId": "021f52c802fe20fe",
@@ -1814,53 +1766,26 @@
           "noData": false
         },
         {
-          "fightId": "e30ac23aa5b09d3f",
-          "fighter1": "Damian Pinas (The Baba Yaga)",
-          "fighter2": "Baisangur Susurkaev (Hunter)",
-          "fighter1Url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
-          "fighter2Url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
-          "fighter1Image": "img/damian_pinas_the_baba_yaga.png",
-          "fighter2Image": "img/baisangur_susurkaev.png",
-          "weightClass": "Middleweight",
+          "fightId": "0d342e399f32212f",
+          "fighter1": "Quentin Pasley",
+          "fighter2": "Junior Tafa (The Juggernaut)",
+          "fighter1Url": "http://ufcstats.com/fighter-details/15b1f83a90302adf",
+          "fighter2Url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
+          "fighter2Image": "img/junior_tafa.png",
+          "weightClass": "Light Heavyweight",
           "scheduledRounds": 3,
           "prediction": {
-            "methods": [
-              {
-                "pick": "KO/TKO",
-                "predictionKey": "combat_analysis.finish_methods.ko_tko",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 63.6,
-                "calibratedConfidence": 63.6,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "KO/TKO",
-                  "pFinish": 0.72,
-                  "pKo": 0.88
-                }
-              },
-              {
-                "pick": "Decision",
-                "predictionKey": "combat_analysis.finish_methods.decision",
-                "titleKey": "betting_markets.method_of_victory",
-                "rawConfidence": 28.1,
-                "calibratedConfidence": 28.1,
-                "reasoningKey": "radar_model.reasoning.method",
-                "metadata": {
-                  "method": "Decision",
-                  "pFinish": 0.72,
-                  "pKo": 0.88
-                }
-              }
-            ],
+            "methods": [],
             "durations": []
           },
           "radar": {
             "winnerUrl": null,
-            "method": "ko",
+            "method": null,
             "duration": null
           },
           "contradictions": [],
-          "noData": false
+          "noData": true,
+          "noDataReason": "missing_fighter"
         }
       ]
     },
