@@ -1,22 +1,461 @@
 {
-  "generatedAt": "2026-11-19T09:08:30.191Z",
+  "generatedAt": "2026-11-21T21:06:09.510Z",
   "provenance": {
-    "appVersion": "1.1.127",
+    "appVersion": "1.1.129",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
-    "totalEvents": 20,
-    "totalFights": 258,
-    "abstentions": 119,
-    "winnerCorrect": 69,
-    "winnerAttempts": 123,
-    "methodCorrect": 68,
-    "methodAttempts": 135,
-    "durationCorrect": 77,
-    "durationAttempts": 115,
-    "dimensionsWithConfidence": 373
+    "totalEvents": 21,
+    "totalFights": 270,
+    "abstentions": 121,
+    "winnerCorrect": 76,
+    "winnerAttempts": 131,
+    "methodCorrect": 74,
+    "methodAttempts": 145,
+    "durationCorrect": 85,
+    "durationAttempts": 124,
+    "dimensionsWithConfidence": 400
   },
   "events": [
+    {
+      "dateKey": "21-11-2026",
+      "eventName": "UFC Fight Night: Prochazka vs. Stirling",
+      "location": "Doha, Qatar",
+      "fights": [
+        {
+          "fightId": "9f95cfd0670d5c72",
+          "fightOrder": 1,
+          "fighter1": "Navajo Stirling",
+          "fighter2": "Jiri Prochazka",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+          "fighter2Url": "http://ufcstats.com/fighter-details/009341ed974bad72",
+          "fighter1Image": "img/navajo_stirling.png",
+          "fighter2Image": "img/jiri_prochazka.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 5,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+            "resultType": "KO",
+            "round": 2,
+            "time": "4:58"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/b4b496ec2197ee3e",
+              "label": "Navajo Stirling",
+              "correct": true,
+              "rawConfidence": 67.8,
+              "calibratedConfidence": 67.8
+            },
+            "method": {
+              "value": "ko",
+              "correct": true,
+              "rawConfidence": 60.3,
+              "calibratedConfidence": 60.3
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "d10377c1bf953b12",
+          "fightOrder": 2,
+          "fighter1": "Kevin Vallejos",
+          "fighter2": "Aljamain Sterling",
+          "fighter1Url": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
+          "fighter2Url": "http://ufcstats.com/fighter-details/cb696ebfb6598724",
+          "fighter1Image": "img/kevin_vallejos.png",
+          "fighter2Image": "img/aljamain_sterling.png",
+          "weightClass": "Featherweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/239d8e5359022f3b",
+              "label": "Kevin Vallejos",
+              "correct": true,
+              "rawConfidence": 66.5,
+              "calibratedConfidence": 66.5
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 39.9,
+              "calibratedConfidence": 39.9
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 72,
+              "calibratedConfidence": 72
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "b4a73201e2a0fe00",
+          "fightOrder": 3,
+          "fighter1": "Dan Hooker",
+          "fighter2": "Brian Ortega",
+          "fighter1Url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
+          "fighter2Url": "http://ufcstats.com/fighter-details/def8166ff24bd237",
+          "fighter1Image": "img/dan_hooker.png",
+          "fighter2Image": "img/brian_ortega.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
+              "label": "Dan Hooker",
+              "correct": true,
+              "rawConfidence": 61.4,
+              "calibratedConfidence": 61.4
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 37.7,
+              "calibratedConfidence": 37.7
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 57.2,
+              "calibratedConfidence": 57.2
+            }
+          },
+          "pickedAt": "2026-10-18T08:11:20.927814+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "bb87d61405839366",
+          "fightOrder": 4,
+          "fighter1": "Kyoji Horiguchi",
+          "fighter2": "Asu Almabayev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+          "fighter2Url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
+          "fighter1Image": "img/kyoji_horiguchi.png",
+          "fighter2Image": "img/asu_almabayev.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 53.9,
+              "calibratedConfidence": 53.9
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 70.1,
+              "calibratedConfidence": 70.1
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "40138da5af0ea504",
+          "fightOrder": 5,
+          "fighter1": "Ikram Aliskerov",
+          "fighter2": "Jared Cannonier",
+          "fighter1Url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
+          "fighter2Url": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
+          "fighter1Image": "img/ikram_aliskerov.png",
+          "fighter2Image": "img/jared_cannonier.png",
+          "weightClass": "Middleweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/b07aed698fba8624",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/b07aed698fba8624",
+              "label": "Ikram Aliskerov",
+              "correct": true,
+              "rawConfidence": 71.9,
+              "calibratedConfidence": 71.9
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 48.2,
+              "calibratedConfidence": 48.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 64.7,
+              "calibratedConfidence": 64.7
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "eebd025d146a4aed",
+          "fightOrder": 6,
+          "fighter1": "Santiago Luna",
+          "fighter2": "Aleksandre Topuria",
+          "fighter1Url": "http://ufcstats.com/fighter-details/faf317c665546a36",
+          "fighter2Url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61",
+          "fighter1Image": "img/santiago_luna_borderboy.png",
+          "fighter2Image": "img/aleksandre_topuria.png",
+          "weightClass": "Bantamweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/faf317c665546a36",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/faf317c665546a36",
+              "label": "Santiago Luna",
+              "correct": true,
+              "rawConfidence": 59.9,
+              "calibratedConfidence": 59.9
+            },
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 55.2,
+              "calibratedConfidence": 55.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 72.2,
+              "calibratedConfidence": 72.2
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "c15e3bc02069e7d5",
+          "fightOrder": 7,
+          "fighter1": "Tallison Teixeira",
+          "fighter2": "Shamil Gaziev",
+          "fighter1Url": "http://ufcstats.com/fighter-details/17923f676f100e16",
+          "fighter2Url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+          "fighter1Image": "img/tallison_teixeira.png",
+          "fighter2Image": "img/shamil_gaziev.png",
+          "weightClass": "Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/17923f676f100e16",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/17923f676f100e16",
+              "label": "Tallison Teixeira",
+              "correct": true,
+              "rawConfidence": 70.2,
+              "calibratedConfidence": 70.2
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 59.6,
+              "calibratedConfidence": 59.6
+            },
+            "duration": {
+              "value": "under",
+              "correct": false,
+              "rawConfidence": 57.8,
+              "calibratedConfidence": 57.8
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "c18a3d62d2c8d604",
+          "fightOrder": 8,
+          "fighter1": "Amir Albazi",
+          "fighter2": "Alessandro Costa",
+          "fighter1Url": "http://ufcstats.com/fighter-details/6d35bf94f7d30241",
+          "fighter2Url": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
+          "fighter1Image": "img/amir_albazi.png",
+          "fighter2Image": "img/alessandro_costa.png",
+          "weightClass": "Flyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/6d35bf94f7d30241",
+            "resultType": "Submission",
+            "round": 3,
+            "time": "4:34"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/3fa97913cfd205d3",
+              "label": "Alessandro Costa",
+              "correct": false,
+              "rawConfidence": 59.7,
+              "calibratedConfidence": 59.7
+            },
+            "method": {
+              "value": "decision",
+              "correct": false,
+              "rawConfidence": 64.2,
+              "calibratedConfidence": 64.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 68.5,
+              "calibratedConfidence": 68.5
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "9b0986861f8007c2",
+          "fightOrder": 9,
+          "fighter1": "Tahir Abdullayev",
+          "fighter2": "Jake Matthews",
+          "fighter1Url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
+          "fighter2Url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
+          "fighter1Image": "img/tahir_abdullayev_tank.png",
+          "fighter2Image": "img/jake_matthews.png",
+          "weightClass": "Welterweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "method": {
+              "value": "decision",
+              "correct": true,
+              "rawConfidence": 49,
+              "calibratedConfidence": 49
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 68.9,
+              "calibratedConfidence": 68.9
+            }
+          },
+          "pickedAt": "2026-10-15T21:44:36.855132+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "ba2ded5adbc23d1f",
+          "fightOrder": 10,
+          "fighter1": "Dom Mar Fan",
+          "fighter2": "Nikolas Motta",
+          "fighter1Url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+          "fighter2Url": "http://ufcstats.com/fighter-details/37f560436d745c18",
+          "fighter1Image": "img/dom_mar_fan_street_buddha.png",
+          "fighter2Image": "img/nikolas_motta.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+            "resultType": "Decision",
+            "round": 3,
+            "time": "5:00"
+          },
+          "pick": {
+            "winner": {
+              "value": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+              "label": "Dom Mar Fan",
+              "correct": true,
+              "rawConfidence": 66.5,
+              "calibratedConfidence": 66.5
+            },
+            "method": {
+              "value": "ko",
+              "correct": false,
+              "rawConfidence": 42.2,
+              "calibratedConfidence": 42.2
+            },
+            "duration": {
+              "value": "over",
+              "correct": true,
+              "rawConfidence": 60.8,
+              "calibratedConfidence": 60.8
+            }
+          },
+          "pickedAt": "2026-11-15T06:05:53.53247+00:00",
+          "abstained": false
+        },
+        {
+          "fightId": "760db42809cc18d5",
+          "fightOrder": 11,
+          "fighter1": "Diyar Nurgozhay",
+          "fighter2": "Alik Lorenz",
+          "fighter1Url": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
+          "fighter2Url": "http://ufcstats.com/fighter-details/92b5f4ee9ff40321",
+          "fighter1Image": "img/diyar_nurgozhay.png",
+          "fighter2Image": "img/alik_lorenz.png",
+          "weightClass": "Light_Heavyweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
+            "resultType": "KO",
+            "round": 2,
+            "time": "0:24"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        },
+        {
+          "fightId": "4a647691ea02a9b3",
+          "fightOrder": 12,
+          "fighter1": "John Mitchell",
+          "fighter2": "Shoaib Yousaf",
+          "fighter1Url": "http://ufcstats.com/fighter-details/ccf25f81fcdaecb4",
+          "fighter2Url": "http://ufcstats.com/fighter-details/5f183a54b8875e61",
+          "fighter1Image": "img/john_mitchell_the_cork_horse.png",
+          "fighter2Image": "img/shoaib_yousaf_the_assassin.png",
+          "weightClass": "Lightweight",
+          "scheduledRounds": 3,
+          "actual": {
+            "winner": "http://ufcstats.com/fighter-details/ccf25f81fcdaecb4",
+            "resultType": "KO",
+            "round": 1,
+            "time": "3:50"
+          },
+          "pick": null,
+          "pickedAt": null,
+          "abstained": true
+        }
+      ]
+    },
     {
       "dateKey": "14-11-2026",
       "eventName": "UFC 334: Gane vs. Hokit",
@@ -452,7 +891,7 @@
               "calibratedConfidence": 73.2
             }
           },
-          "pickedAt": "2026-11-10T23:49:17.24323+00:00",
+          "pickedAt": "2026-11-10T23:42:10.183379+00:00",
           "abstained": false
         },
         {
