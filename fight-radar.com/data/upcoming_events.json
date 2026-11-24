@@ -171,6 +171,34 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Luke Riley",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Gabriel Santos (Mosquitinho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f2f140ce7532e327",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mateusz Rebecki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Elves Brener",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1352,

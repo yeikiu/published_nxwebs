@@ -1,1 +1,0 @@
-fight_radar_pokemon 68de5d0 (movil/preview c0681b9 + fix/superman-en-vuelo f38712c)
