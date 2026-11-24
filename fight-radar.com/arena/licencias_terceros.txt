@@ -1,0 +1,65 @@
+FIGHT RADAR - LICENCIAS DE TERCEROS / THIRD-PARTY LICENSES
+
+El build del juego incluye este codigo de terceros (licencia MIT). Los creditos completos
+(musica, efectos de sonido, arte, herramientas y datos) salen en el juego al ganar la Liga y en src/data/creditos.json.
+
+Efectos de sonido: "The Essential Retro Video Game Sound Effects Collection [512 sounds]"
+de Juhani Junkala (SubspaceAudio), CC0 1.0 (dominio publico, uso comercial libre, sin
+obligacion de atribucion; se le cita igual). https://opengameart.org/content/512-sound-effects-8-bit-style
+Lista de los 16 efectos usados y su fichero original: seccion "sonido" de src/data/creditos.json.
+
+==========================================================================
+Phaser 3 (v3.90.0) - https://github.com/phaserjs/phaser
+==========================================================================
+The MIT License (MIT)
+
+Copyright (c) 2024 Richard Davey, Phaser Studio Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+==========================================================================
+Vite (helpers del empaquetado / build runtime helpers) - https://vite.dev
+==========================================================================
+MIT License
+
+Copyright (c) 2019-present, VoidZero Inc. and Vite contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==========================================================================
+Musica CC-BY 3.0 / CC-BY 3.0 music
+==========================================================================
+"Grassy World Overture (8bit/Orchestral)" by Matthew Pablo, licensed under CC-BY 3.0
+(https://creativecommons.org/licenses/by/3.0/). https://opengameart.org/content/grassy-world-overture-8bitorchestral
+El resto de la musica es CC0 (OpenGameArt.org); sus autores salen igual en los creditos.

@@ -1,0 +1,1 @@
+fight_radar_pokemon 89c9eee + exp/arena-qa (3da5d34): fix/congela-puertas sobre 1940fe7 + fix/rival-invisible 47e1e0d
