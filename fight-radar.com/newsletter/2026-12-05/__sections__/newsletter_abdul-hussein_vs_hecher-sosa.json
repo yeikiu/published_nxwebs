@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Abdul Hussein",
+    "fighter_b": "Hecher Sosa",
+    "prediction": "Abdul Hussein",
+    "confidence": 60,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 71,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 62,
+    "raw_fighter_a": "Abdul Hussein",
+    "raw_fighter_b": "Hecher Sosa",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Abdul+Hussein+%28King%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Abdul Hussein</a></strong> presenta un récord total de carrera de 16-2-0, y en los últimos 36 meses acumula un 1-0-0 en una sola pelea disputada. Su contraparte, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Hecher+Sosa+%28Guanche+Warrior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hecher Sosa</a></strong>, exhibe un récord total de 15-1-0, con idéntica marca reciente de 1-0-0 en una pelea dentro del mismo periodo. Ninguno de los dos figura en el top 15 de la división, lo que convierte este cruce en una oportunidad real para que cualquiera de los dos empiece a escalar en la clasificación.\nLas métricas del radar inclinan la balanza hacia <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Abdul+Hussein+%28King%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Abdul Hussein</a>: su control de <strong>86/100</strong> contrasta de forma notable con el 15/100 de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Hecher+Sosa+%28Guanche+Warrior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hecher Sosa</a>, y su amenaza de finalización alcanza el máximo de <strong>100/100</strong> frente al 0/100 de su rival. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Hecher+Sosa+%28Guanche+Warrior%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Hecher Sosa</a>, por su parte, muestra algo más de solidez en el golpeo defensivo (63 frente a 46), lo que podría ayudarle a sobrevivir los intercambios si logra mantener la distancia. Aun así, la capacidad de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Abdul+Hussein+%28King%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Abdul Hussein</a> para imponer su ritmo en el suelo luce como el factor decisivo de este enfrentamiento a 3 rondas."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Abdul+Hussein+%28King%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Abdul Hussein</a></strong> llega como favorito claro en este duelo de peso gallo.\nSu control de <strong>86/100</strong> y una amenaza de finalización de <strong>100/100</strong> marcan la diferencia.\nEl método más probable de desenlace es la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Abdul+Hussein+%28King%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Abdul Hussein</a> con un 60% de probabilidad. Por separado, el método más probable de finalización es la sumisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

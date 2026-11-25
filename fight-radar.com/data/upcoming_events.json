@@ -13,7 +13,7 @@
         "fighter2": {
           "name": "Shara Magomedov (Bullet)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5
@@ -27,7 +27,7 @@
         "fighter2": {
           "name": "Yaroslav Amosov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
-          "division_ranking": "11"
+          "division_ranking": "12"
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 3
@@ -171,6 +171,34 @@
         },
         "weightClass": "Bantamweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Luke Riley",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b1de86d835638319",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Gabriel Santos (Mosquitinho)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f2f140ce7532e327",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Mateusz Rebecki",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Elves Brener",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1352,
@@ -264,10 +292,38 @@
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jacqueline Cavalcanti",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635",
+          "division_ranking": "9"
+        },
+        "fighter2": {
+          "name": "Michelle Montague (The Wild One)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/ca80d72da81d7224",
+          "division_ranking": "11"
+        },
+        "weightClass": "Women's Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Roque Conceicao",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b4ebc1539a08054b",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nilson Rojas (El Rayo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bf60dd3256801649",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1349,
-    "startTime": "2026-12-12T22:00Z"
+    "startTime": "2026-12-12T21:00Z"
   },
   "16-01-2027": {
     "date": "16-01-2027",
@@ -278,7 +334,7 @@
         "fighter1": {
           "name": "Yair Rodriguez (El Pantera)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/cbf5e6f231b55443",
-          "division_ranking": "7"
+          "division_ranking": "8"
         },
         "fighter2": {
           "name": "Steve Garcia (Mean Machine)",
@@ -446,7 +502,7 @@
         "fighter1": {
           "name": "Sam Hughes (Sampage)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e94085e821bd81de",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Karolina Kowalkiewicz",
@@ -556,6 +612,62 @@
           "division_ranking": ""
         },
         "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Tanner Boser (The Bulldozer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/04c8b08b16a5b99e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Montanha",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/1f8cd7634e8286ff",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Marc-Andre Barriault (Powerbar)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/8e9eb3fc86db0f7d",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Tresean Gore (Mr. Vicious)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Gable Steveson",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f7e856a73c96048e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Terrance Chatman (The Answer)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/23a81656507b56a3",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Julien Leblanc",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cd0dfd9846bd03b9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Vlasto Cepo (El Chapo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/025c1ee70b2cedf4",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
         "scheduledRounds": 3
       }
     ],
@@ -711,7 +823,7 @@
         "fighter2": {
           "name": "Bo Nickal",
           "ufcstats_url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
-          "division_ranking": "14"
+          "division_ranking": "13"
         },
         "weightClass": "Middleweight",
         "scheduledRounds": 5

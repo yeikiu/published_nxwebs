@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Bruno Silva",
+    "fighter_b": "Jafel Filho",
+    "prediction": "Jafel Filho",
+    "confidence": 55,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 43,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 60,
+    "raw_fighter_a": "Bruno Silva",
+    "raw_fighter_b": "Jafel Filho",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste duelo de peso mosca enfrenta a dos peleadores que buscan detener rachas muy distintas. <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Silva+%28Bulldog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Silva</a></strong>, sin ranking oficial en el top 15, acumula un récord total de carrera de 23-13-0, pero su tramo reciente es preocupante: 0-3-0 en sus últimas 3 peleas, todas perdidas. Su perfil en el radar muestra fortalezas claras en la defensa de derribo (82/100) y en el control (65/100), además de una amenaza de finalización que alcanza el máximo de 100/100, señal de que sigue siendo peligroso incluso en una racha adversa.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jafel+Filho+%28Pastor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jafel Filho</a></strong>, también fuera del top 15, presenta un récord total de carrera de 17-5-0, con un tramo de los últimos 36 meses más equilibrado: 2-2-0 en 4 peleas, incluyendo 2 derrotas que no deben pasarse por alto. Su ofensiva de derribo (67/100) y su amenaza de finalización, igualmente en 100/100, lo posicionan como una pieza completa en el intercambio técnico. El golpeo defensivo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jafel+Filho+%28Pastor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jafel Filho</a> (57/100) se impone ligeramente sobre el de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Silva+%28Bulldog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Silva</a> (47/100), un detalle que podría pesar si el combate se extiende en el terreno de pie antes de buscar el suelo."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jafel+Filho+%28Pastor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jafel Filho</a></strong> llega como favorito con un 55% de probabilidad según el radar.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Silva+%28Bulldog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Silva</a></strong> arrastra una racha de <strong>0-3-0</strong> en sus últimos 36 meses, con 3 derrotas consecutivas.\nEl método más probable de finalización es <strong>KO/TKO</strong>, sin importar quién gane."
+    ],
+    "fight_conclusions": [
+      "Con ambos peleadores mostrando una amenaza de finalización al máximo nivel, este combate de peso mosca apunta a resolverse antes del límite de las 3 rondas. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Jafel+Filho+%28Pastor%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Jafel Filho</a> con un 55% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

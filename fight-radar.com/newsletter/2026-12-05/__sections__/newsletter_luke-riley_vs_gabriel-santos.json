@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Luke Riley",
+    "fighter_b": "Gabriel Santos",
+    "prediction": "Luke Riley",
+    "confidence": 60,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 57,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 59,
+    "raw_fighter_a": "Luke Riley",
+    "raw_fighter_b": "Gabriel Santos",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a></strong> se presenta a este combate con un récord total de carrera intachable de <strong>14-0-0</strong>, reforzado por un tramo reciente de <strong>3-0-0</strong> en sus últimas 3 peleas de los últimos 36 meses. Aunque figura fuera del top 15 de peso pluma, su progresión reciente no muestra fisuras, y el radar le reconoce una amenaza de finalización de <strong>67</strong>, la cifra más alta de todo el cruce, apoyada en un golpeo ofensivo de <strong>59</strong> y un golpeo defensivo de <strong>61</strong>.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gabriel+Santos+%28Mosquitinho%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gabriel Santos</a></strong>, también fuera del top 15 de la división, acumula un récord total de <strong>12-2-0</strong>, con un tramo reciente de <strong>2-0-0</strong> en sus últimas 2 peleas de los últimos 36 meses. Su perfil estadístico es prácticamente el inverso al de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a>: mientras su golpeo ofensivo marca <strong>66</strong>, lo que realmente distingue a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gabriel+Santos+%28Mosquitinho%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gabriel Santos</a> es su dominio en el plano del derribo, con un <strong>67</strong> en ataque de derribo y un extraordinario <strong>100</strong> en defensa de derribo, además de un control de <strong>84</strong>. Si este combate se traslada al suelo, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gabriel+Santos+%28Mosquitinho%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gabriel Santos</a> tiene las herramientas para imponer un ritmo que a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a> le resultaría muy difícil de revertir, aunque su golpeo defensivo de <strong>46</strong> deja una puerta abierta si el intercambio se queda de pie."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a></strong> llega como favorito con un <strong>60% de probabilidad</strong> según el radar.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gabriel+Santos+%28Mosquitinho%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gabriel Santos</a></strong> domina el control en el suelo con un dato arrollador: <strong>84/100</strong>.\nEl <strong>KO/TKO</strong> se perfila como la vía más probable para cerrar este combate."
+    ],
+    "fight_conclusions": [
+      "La clave pasa por dónde se desarrolle el combate: de pie, el balance estadístico se inclina hacia <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a>; en el suelo, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Gabriel+Santos+%28Mosquitinho%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Gabriel Santos</a> tiene argumentos de sobra. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Luke+Riley\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Luke Riley</a> con un 60% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

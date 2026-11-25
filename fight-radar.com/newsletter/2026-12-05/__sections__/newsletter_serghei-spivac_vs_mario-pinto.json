@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Serghei Spivac",
+    "fighter_b": "Mario Pinto",
+    "prediction": "Mario Pinto",
+    "confidence": 78,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 40,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 53,
+    "raw_fighter_a": "Serghei Spivac",
+    "raw_fighter_b": "Mario Pinto",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Serghei+Spivac+%28Polar+Bear%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Serghei Spivac</a></strong>, <strong>#10 del ranking peso pesado</strong>, llega con un récord total de carrera de 18-7-0, pero su forma reciente preocupa: en los últimos 36 meses acumula 2-3-0 en 5 peleas, incluyendo tres derrotas, la más reciente el 22 de agosto de 2026. Su radar muestra un golpeo ofensivo de 42 y una amenaza de finalización de 50, cifras que reflejan a un peleador capaz pero que últimamente no ha logrado imponer su ritmo ante rivales de nivel similar.\nDel otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a></strong>, también <strong>#10 del ranking peso pesado</strong>, presenta un perfil radicalmente distinto: récord total de carrera intacto de 13-0-0, con un 4-0-0 en los últimos 36 meses repartido en 4 peleas, la última el 5 de septiembre de 2026. Sus números en el radar son contundentes: 69 en golpeo ofensivo, 100 en derribo defensivo y 93 en control, además de una amenaza de finalización de 75. Esa combinación de control y capacidad de cierre lo coloca como una pieza completa dentro de la división, mientras que <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Serghei+Spivac+%28Polar+Bear%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Serghei Spivac</a> deberá apoyarse en su experiencia acumulada para frenar el ritmo de un rival que domina claramente el terreno del control."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a></strong> llega invicto, con un récord total de carrera de 13-0-0, y encadena cuatro victorias consecutivas en sus últimos 36 meses.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Serghei+Spivac+%28Polar+Bear%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Serghei Spivac</a></strong> afronta una racha irregular: 2-3-0 en sus últimos 36 meses, con tres derrotas en ese tramo reciente.\nEl combate de peso pesado apunta a un final por <strong>KO/TKO</strong> antes de agotar las 3 rondas programadas."
+    ],
+    "fight_conclusions": [
+      "Los números del radar respaldan con fuerza la tendencia reciente de ambos peleadores. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mario+Pinto\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mario Pinto</a> con un 78% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

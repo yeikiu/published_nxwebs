@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Magomed Tuchalov",
+    "fighter_b": "Ion Cutelaba",
+    "prediction": "Magomed Tuchalov",
+    "confidence": 59,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "SUMISIÓN",
+    "method_prob": 38,
+    "duration": "",
+    "duration_prob": 0,
+    "raw_fighter_a": "Magomed Tuchalov",
+    "raw_fighter_b": "Ion Cutelaba",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Tuchalov+%28Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Tuchalov</a></strong> se presenta en este duelo divisional sin ranking oficial en el top 15, pero con un historial perfecto: <strong>récord total de carrera de 7-0-0</strong>, reforzado por un <strong>1-0-0 en los últimos 36 meses</strong> tras su victoria del 25 de julio de 2026. Su mayor fortaleza está en el plano del control, donde su radar marca un dominante <strong>97/100</strong>, acompañado de un <strong>derribo defensivo de 100/100</strong>, cifras que sugieren una capacidad notable para imponer el ritmo y neutralizar los intentos de su rival sobre la lona.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ion+Cutelaba+%28The+Hulk%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ion Cutelaba</a></strong>, también fuera del top 15, trae un <strong>récord total de carrera de 20-12-1 (con 1 NC)</strong>, bastante más extenso que el de su oponente. Sin embargo, en los últimos 3 años su forma ha sido irregular: <strong>3-3-0 en 6 peleas</strong>, con derrotas recientes el 20 de junio de 2026, el 10 de mayo de 2025 y el 9 de marzo de 2024. Su mejor baza ofensiva está en la amenaza de finalización, con un <strong>67/100</strong>, muy por encima del 0 que marca <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Tuchalov+%28Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Tuchalov</a> en ese apartado, lo que convierte este enfrentamiento en una posible carrera contra el reloj para <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ion+Cutelaba+%28The+Hulk%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ion Cutelaba</a> si la pelea se extiende."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Tuchalov+%28Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Tuchalov</a></strong> llega invicto y es el favorito claro de este duelo divisional.\n<a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Ion+Cutelaba+%28The+Hulk%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Ion Cutelaba</a> acumula altibajos recientes, con un dominio de <strong>control del 44</strong> frente al <strong>97</strong> de su rival.\nEl método más probable de finalización apunta a la <strong>sumisión</strong>, sin importar quién la ejecute."
+    ],
+    "fight_conclusions": [
+      "Con el control y la defensa de derribo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Tuchalov+%28Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Tuchalov</a> como ejes del enfrentamiento, el radar inclina la balanza hacia él. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Magomed+Tuchalov+%28Tiger%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Magomed Tuchalov</a> con un 59% de probabilidad. Por separado, el método más probable de finalización es sumisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

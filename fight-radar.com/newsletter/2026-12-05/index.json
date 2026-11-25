@@ -1,0 +1,134 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "generated_at": "2026-11-25T22:02:50Z",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt"
+  ],
+  "fights": [
+    {
+      "fighter_a": "Israel Adesanya",
+      "fighter_b": "Shara Magomedov",
+      "slug_a": "israel-adesanya",
+      "slug_b": "shara-magomedov",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_israel-adesanya_vs_shara-magomedov.html",
+        "en": "newsletter/2026-12-05/en/newsletter_israel-adesanya_vs_shara-magomedov.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_israel-adesanya_vs_shara-magomedov.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_israel-adesanya_vs_shara-magomedov.html"
+      }
+    },
+    {
+      "fighter_a": "Ian Machado Garry",
+      "fighter_b": "Yaroslav Amosov",
+      "slug_a": "ian-machado-garry",
+      "slug_b": "yaroslav-amosov",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_ian-machado-garry_vs_yaroslav-amosov.html",
+        "en": "newsletter/2026-12-05/en/newsletter_ian-machado-garry_vs_yaroslav-amosov.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_ian-machado-garry_vs_yaroslav-amosov.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_ian-machado-garry_vs_yaroslav-amosov.html"
+      }
+    },
+    {
+      "fighter_a": "Serghei Spivac",
+      "fighter_b": "Mario Pinto",
+      "slug_a": "serghei-spivac",
+      "slug_b": "mario-pinto",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_serghei-spivac_vs_mario-pinto.html",
+        "en": "newsletter/2026-12-05/en/newsletter_serghei-spivac_vs_mario-pinto.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_serghei-spivac_vs_mario-pinto.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_serghei-spivac_vs_mario-pinto.html"
+      }
+    },
+    {
+      "fighter_a": "Magomed Tuchalov",
+      "fighter_b": "Ion Cutelaba",
+      "slug_a": "magomed-tuchalov",
+      "slug_b": "ion-cutelaba",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_magomed-tuchalov_vs_ion-cutelaba.html",
+        "en": "newsletter/2026-12-05/en/newsletter_magomed-tuchalov_vs_ion-cutelaba.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_magomed-tuchalov_vs_ion-cutelaba.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_magomed-tuchalov_vs_ion-cutelaba.html"
+      }
+    },
+    {
+      "fighter_a": "Bruno Silva",
+      "fighter_b": "Jafel Filho",
+      "slug_a": "bruno-silva",
+      "slug_b": "jafel-filho",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_bruno-silva_vs_jafel-filho.html",
+        "en": "newsletter/2026-12-05/en/newsletter_bruno-silva_vs_jafel-filho.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_bruno-silva_vs_jafel-filho.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_bruno-silva_vs_jafel-filho.html"
+      }
+    },
+    {
+      "fighter_a": "Marco Tulio",
+      "fighter_b": "JunYong Park",
+      "slug_a": "marco-tulio",
+      "slug_b": "junyong-park",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_marco-tulio_vs_junyong-park.html",
+        "en": "newsletter/2026-12-05/en/newsletter_marco-tulio_vs_junyong-park.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_marco-tulio_vs_junyong-park.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_marco-tulio_vs_junyong-park.html"
+      }
+    },
+    {
+      "fighter_a": "Pavel Andrusca",
+      "fighter_b": "Mahammadali Osmanli",
+      "slug_a": "pavel-andrusca",
+      "slug_b": "mahammadali-osmanli",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_pavel-andrusca_vs_mahammadali-osmanli.html",
+        "en": "newsletter/2026-12-05/en/newsletter_pavel-andrusca_vs_mahammadali-osmanli.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_pavel-andrusca_vs_mahammadali-osmanli.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_pavel-andrusca_vs_mahammadali-osmanli.html"
+      }
+    },
+    {
+      "fighter_a": "Abdul Hussein",
+      "fighter_b": "Hecher Sosa",
+      "slug_a": "abdul-hussein",
+      "slug_b": "hecher-sosa",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_abdul-hussein_vs_hecher-sosa.html",
+        "en": "newsletter/2026-12-05/en/newsletter_abdul-hussein_vs_hecher-sosa.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_abdul-hussein_vs_hecher-sosa.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_abdul-hussein_vs_hecher-sosa.html"
+      }
+    },
+    {
+      "fighter_a": "Luke Riley",
+      "fighter_b": "Gabriel Santos",
+      "slug_a": "luke-riley",
+      "slug_b": "gabriel-santos",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_luke-riley_vs_gabriel-santos.html",
+        "en": "newsletter/2026-12-05/en/newsletter_luke-riley_vs_gabriel-santos.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_luke-riley_vs_gabriel-santos.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_luke-riley_vs_gabriel-santos.html"
+      }
+    },
+    {
+      "fighter_a": "Mateusz Rebecki",
+      "fighter_b": "Elves Brener",
+      "slug_a": "mateusz-rebecki",
+      "slug_b": "elves-brener",
+      "files": {
+        "es": "newsletter/2026-12-05/es/newsletter_mateusz-rebecki_vs_elves-brener.html",
+        "en": "newsletter/2026-12-05/en/newsletter_mateusz-rebecki_vs_elves-brener.html",
+        "pt": "newsletter/2026-12-05/pt/newsletter_mateusz-rebecki_vs_elves-brener.html",
+        "fr": "newsletter/2026-12-05/fr/newsletter_mateusz-rebecki_vs_elves-brener.html"
+      }
+    }
+  ]
+}

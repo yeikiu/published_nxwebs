@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:04:29.511Z",
+  "generatedAt": "2026-11-25T21:58:37.813Z",
   "provenance": {
     "registryAt": "2026-10-15T19:15:42.892Z"
   },
@@ -27,23 +27,23 @@
   "markets": {
     "winner": {
       "high": {
-        "n": 60,
-        "correct": 39,
-        "hitRate": 0.65,
-        "stdError": 0.0616,
+        "n": 54,
+        "correct": 36,
+        "hitRate": 0.6667,
+        "stdError": 0.0642,
         "ci95": {
-          "low": 0.5236,
-          "high": 0.7583
+          "low": 0.5336,
+          "high": 0.7776
         }
       },
       "medium": {
-        "n": 129,
-        "correct": 84,
-        "hitRate": 0.6512,
-        "stdError": 0.042,
+        "n": 165,
+        "correct": 104,
+        "hitRate": 0.6303,
+        "stdError": 0.0376,
         "ci95": {
-          "low": 0.5656,
-          "high": 0.728
+          "low": 0.5545,
+          "high": 0.7002
         }
       },
       "low": {
@@ -54,77 +54,77 @@
         "ci95": null
       },
       "all": {
-        "n": 189,
-        "correct": 123,
-        "hitRate": 0.6508,
-        "stdError": 0.0347,
+        "n": 219,
+        "correct": 140,
+        "hitRate": 0.6393,
+        "stdError": 0.0324,
         "ci95": {
-          "low": 0.5804,
-          "high": 0.7151
+          "low": 0.5738,
+          "high": 0.7
         }
       }
     },
     "method": {
       "high": {
-        "n": 5,
-        "correct": 4,
-        "hitRate": 0.8,
-        "stdError": 0.1789,
+        "n": 6,
+        "correct": 5,
+        "hitRate": 0.8333,
+        "stdError": 0.1521,
         "ci95": {
-          "low": 0.3755,
-          "high": 0.9638
+          "low": 0.4365,
+          "high": 0.9699
         }
       },
       "medium": {
-        "n": 109,
-        "correct": 57,
-        "hitRate": 0.5229,
-        "stdError": 0.0478,
+        "n": 97,
+        "correct": 53,
+        "hitRate": 0.5464,
+        "stdError": 0.0505,
         "ci95": {
-          "low": 0.43,
-          "high": 0.6143
+          "low": 0.4474,
+          "high": 0.6418
         }
       },
       "low": {
-        "n": 124,
-        "correct": 62,
-        "hitRate": 0.5,
-        "stdError": 0.0449,
+        "n": 116,
+        "correct": 55,
+        "hitRate": 0.4741,
+        "stdError": 0.0464,
         "ci95": {
-          "low": 0.4133,
-          "high": 0.5867
+          "low": 0.3856,
+          "high": 0.5644
         }
       },
       "all": {
-        "n": 238,
-        "correct": 123,
-        "hitRate": 0.5168,
-        "stdError": 0.0324,
+        "n": 219,
+        "correct": 113,
+        "hitRate": 0.516,
+        "stdError": 0.0338,
         "ci95": {
-          "low": 0.4536,
-          "high": 0.5795
+          "low": 0.4501,
+          "high": 0.5813
         }
       }
     },
     "duration": {
       "high": {
-        "n": 82,
-        "correct": 54,
-        "hitRate": 0.6585,
-        "stdError": 0.0524,
+        "n": 80,
+        "correct": 53,
+        "hitRate": 0.6625,
+        "stdError": 0.0529,
         "ci95": {
-          "low": 0.5509,
-          "high": 0.752
+          "low": 0.5536,
+          "high": 0.7565
         }
       },
       "medium": {
-        "n": 126,
-        "correct": 82,
-        "hitRate": 0.6508,
-        "stdError": 0.0425,
+        "n": 150,
+        "correct": 94,
+        "hitRate": 0.6267,
+        "stdError": 0.0395,
         "ci95": {
-          "low": 0.5642,
-          "high": 0.7285
+          "low": 0.547,
+          "high": 0.7
         }
       },
       "low": {
@@ -135,13 +135,13 @@
         "ci95": null
       },
       "all": {
-        "n": 208,
-        "correct": 136,
-        "hitRate": 0.6538,
-        "stdError": 0.033,
+        "n": 230,
+        "correct": 147,
+        "hitRate": 0.6391,
+        "stdError": 0.0317,
         "ci95": {
-          "low": 0.5869,
-          "high": 0.7152
+          "low": 0.5752,
+          "high": 0.6984
         }
       }
     }
@@ -150,23 +150,23 @@
     "ge3": {
       "winner": {
         "high": {
-          "n": 42,
-          "correct": 28,
-          "hitRate": 0.6667,
-          "stdError": 0.0727,
+          "n": 36,
+          "correct": 25,
+          "hitRate": 0.6944,
+          "stdError": 0.0768,
           "ci95": {
-            "low": 0.5155,
-            "high": 0.7899
+            "low": 0.5314,
+            "high": 0.82
           }
         },
         "medium": {
-          "n": 82,
-          "correct": 51,
-          "hitRate": 0.622,
-          "stdError": 0.0535,
+          "n": 118,
+          "correct": 71,
+          "hitRate": 0.6017,
+          "stdError": 0.0451,
           "ci95": {
-            "low": 0.5138,
-            "high": 0.7192
+            "low": 0.5115,
+            "high": 0.6855
           }
         },
         "low": {
@@ -177,77 +177,77 @@
           "ci95": null
         },
         "all": {
-          "n": 124,
-          "correct": 79,
-          "hitRate": 0.6371,
-          "stdError": 0.0432,
+          "n": 154,
+          "correct": 96,
+          "hitRate": 0.6234,
+          "stdError": 0.039,
           "ci95": {
-            "low": 0.5495,
-            "high": 0.7164
+            "low": 0.5447,
+            "high": 0.696
           }
         }
       },
       "method": {
         "high": {
-          "n": 3,
-          "correct": 2,
-          "hitRate": 0.6667,
-          "stdError": 0.2722,
+          "n": 4,
+          "correct": 3,
+          "hitRate": 0.75,
+          "stdError": 0.2165,
           "ci95": {
-            "low": 0.2077,
-            "high": 0.9385
+            "low": 0.3006,
+            "high": 0.9544
           }
         },
         "medium": {
-          "n": 63,
-          "correct": 36,
-          "hitRate": 0.5714,
-          "stdError": 0.0623,
+          "n": 51,
+          "correct": 32,
+          "hitRate": 0.6275,
+          "stdError": 0.0677,
           "ci95": {
-            "low": 0.4486,
-            "high": 0.686
+            "low": 0.4903,
+            "high": 0.7468
           }
         },
         "low": {
-          "n": 83,
-          "correct": 42,
-          "hitRate": 0.506,
-          "stdError": 0.0549,
+          "n": 75,
+          "correct": 35,
+          "hitRate": 0.4667,
+          "stdError": 0.0576,
           "ci95": {
-            "low": 0.4006,
-            "high": 0.6109
+            "low": 0.3582,
+            "high": 0.5784
           }
         },
         "all": {
-          "n": 149,
-          "correct": 80,
-          "hitRate": 0.5369,
-          "stdError": 0.0408,
+          "n": 130,
+          "correct": 70,
+          "hitRate": 0.5385,
+          "stdError": 0.0437,
           "ci95": {
-            "low": 0.4569,
-            "high": 0.615
+            "low": 0.4529,
+            "high": 0.6218
           }
         }
       },
       "duration": {
         "high": {
-          "n": 57,
-          "correct": 40,
-          "hitRate": 0.7018,
-          "stdError": 0.0606,
+          "n": 55,
+          "correct": 39,
+          "hitRate": 0.7091,
+          "stdError": 0.0612,
           "ci95": {
-            "low": 0.5734,
-            "high": 0.8047
+            "low": 0.5786,
+            "high": 0.8123
           }
         },
         "medium": {
-          "n": 75,
-          "correct": 48,
-          "hitRate": 0.64,
-          "stdError": 0.0554,
+          "n": 99,
+          "correct": 60,
+          "hitRate": 0.6061,
+          "stdError": 0.0491,
           "ci95": {
-            "low": 0.527,
-            "high": 0.7394
+            "low": 0.5076,
+            "high": 0.6966
           }
         },
         "low": {
@@ -258,13 +258,13 @@
           "ci95": null
         },
         "all": {
-          "n": 132,
-          "correct": 88,
-          "hitRate": 0.6667,
-          "stdError": 0.041,
+          "n": 154,
+          "correct": 99,
+          "hitRate": 0.6429,
+          "stdError": 0.0386,
           "ci95": {
-            "low": 0.5825,
-            "high": 0.7414
+            "low": 0.5645,
+            "high": 0.7142
           }
         }
       }
@@ -397,78 +397,78 @@
       "winner": [
         {
           "th": 50,
-          "n": 124,
-          "correct": 79,
-          "hitRate": 0.6371,
-          "stdError": 0.0432,
+          "n": 154,
+          "correct": 96,
+          "hitRate": 0.6234,
+          "stdError": 0.039,
           "ci95": {
-            "low": 0.5495,
-            "high": 0.7164
+            "low": 0.5447,
+            "high": 0.696
           }
         },
         {
           "th": 55,
-          "n": 124,
-          "correct": 79,
-          "hitRate": 0.6371,
-          "stdError": 0.0432,
+          "n": 131,
+          "correct": 83,
+          "hitRate": 0.6336,
+          "stdError": 0.0421,
           "ci95": {
-            "low": 0.5495,
-            "high": 0.7164
+            "low": 0.5484,
+            "high": 0.7112
           }
         },
         {
           "th": 60,
           "n": 97,
-          "correct": 66,
-          "hitRate": 0.6804,
-          "stdError": 0.0473,
+          "correct": 64,
+          "hitRate": 0.6598,
+          "stdError": 0.0481,
           "ci95": {
-            "low": 0.5823,
-            "high": 0.7648
+            "low": 0.561,
+            "high": 0.7464
           }
         },
         {
           "th": 65,
-          "n": 73,
-          "correct": 47,
-          "hitRate": 0.6438,
-          "stdError": 0.056,
+          "n": 74,
+          "correct": 48,
+          "hitRate": 0.6486,
+          "stdError": 0.0555,
           "ci95": {
-            "low": 0.5293,
-            "high": 0.744
+            "low": 0.535,
+            "high": 0.7476
           }
         },
         {
           "th": 70,
-          "n": 42,
-          "correct": 28,
-          "hitRate": 0.6667,
-          "stdError": 0.0727,
+          "n": 36,
+          "correct": 25,
+          "hitRate": 0.6944,
+          "stdError": 0.0768,
           "ci95": {
-            "low": 0.5155,
-            "high": 0.7899
+            "low": 0.5314,
+            "high": 0.82
           }
         },
         {
           "th": 75,
-          "n": 14,
-          "correct": 12,
-          "hitRate": 0.8571,
-          "stdError": 0.0935,
+          "n": 16,
+          "correct": 14,
+          "hitRate": 0.875,
+          "stdError": 0.0827,
           "ci95": {
-            "low": 0.6006,
-            "high": 0.9599
+            "low": 0.6398,
+            "high": 0.965
           }
         },
         {
           "th": 80,
-          "n": 3,
-          "correct": 3,
+          "n": 4,
+          "correct": 4,
           "hitRate": 1,
           "stdError": 0,
           "ci95": {
-            "low": 0.4385,
+            "low": 0.5101,
             "high": 1
           }
         },
@@ -492,113 +492,110 @@
       "method": [
         {
           "th": 30,
-          "n": 149,
-          "correct": 80,
-          "hitRate": 0.5369,
-          "stdError": 0.0408,
+          "n": 130,
+          "correct": 70,
+          "hitRate": 0.5385,
+          "stdError": 0.0437,
           "ci95": {
-            "low": 0.4569,
-            "high": 0.615
+            "low": 0.4529,
+            "high": 0.6218
           }
         },
         {
           "th": 35,
-          "n": 149,
-          "correct": 80,
-          "hitRate": 0.5369,
-          "stdError": 0.0408,
+          "n": 130,
+          "correct": 70,
+          "hitRate": 0.5385,
+          "stdError": 0.0437,
           "ci95": {
-            "low": 0.4569,
-            "high": 0.615
+            "low": 0.4529,
+            "high": 0.6218
           }
         },
         {
           "th": 40,
-          "n": 138,
-          "correct": 75,
-          "hitRate": 0.5435,
-          "stdError": 0.0424,
+          "n": 130,
+          "correct": 70,
+          "hitRate": 0.5385,
+          "stdError": 0.0437,
           "ci95": {
-            "low": 0.4603,
-            "high": 0.6243
+            "low": 0.4529,
+            "high": 0.6218
           }
         },
         {
           "th": 45,
-          "n": 108,
-          "correct": 63,
-          "hitRate": 0.5833,
-          "stdError": 0.0474,
+          "n": 99,
+          "correct": 57,
+          "hitRate": 0.5758,
+          "stdError": 0.0497,
           "ci95": {
-            "low": 0.4891,
-            "high": 0.6719
+            "low": 0.4774,
+            "high": 0.6685
           }
         },
         {
           "th": 50,
-          "n": 66,
-          "correct": 38,
-          "hitRate": 0.5758,
-          "stdError": 0.0608,
+          "n": 55,
+          "correct": 35,
+          "hitRate": 0.6364,
+          "stdError": 0.0649,
           "ci95": {
-            "low": 0.4556,
-            "high": 0.6876
+            "low": 0.5042,
+            "high": 0.7507
           }
         },
         {
           "th": 55,
-          "n": 41,
-          "correct": 29,
-          "hitRate": 0.7073,
-          "stdError": 0.0711,
+          "n": 37,
+          "correct": 28,
+          "hitRate": 0.7568,
+          "stdError": 0.0705,
           "ci95": {
-            "low": 0.5552,
-            "high": 0.8239
+            "low": 0.5988,
+            "high": 0.8664
           }
         },
         {
           "th": 60,
-          "n": 26,
-          "correct": 18,
-          "hitRate": 0.6923,
-          "stdError": 0.0905,
+          "n": 20,
+          "correct": 14,
+          "hitRate": 0.7,
+          "stdError": 0.1025,
           "ci95": {
-            "low": 0.5001,
-            "high": 0.835
+            "low": 0.481,
+            "high": 0.8545
           }
         },
         {
           "th": 65,
-          "n": 9,
-          "correct": 8,
-          "hitRate": 0.8889,
-          "stdError": 0.1048,
+          "n": 12,
+          "correct": 9,
+          "hitRate": 0.75,
+          "stdError": 0.125,
           "ci95": {
-            "low": 0.565,
-            "high": 0.9801
+            "low": 0.4677,
+            "high": 0.9111
           }
         },
         {
           "th": 70,
-          "n": 3,
-          "correct": 2,
-          "hitRate": 0.6667,
-          "stdError": 0.2722,
+          "n": 4,
+          "correct": 3,
+          "hitRate": 0.75,
+          "stdError": 0.2165,
           "ci95": {
-            "low": 0.2077,
-            "high": 0.9385
+            "low": 0.3006,
+            "high": 0.9544
           }
         },
         {
           "th": 75,
-          "n": 1,
-          "correct": 1,
-          "hitRate": 1,
-          "stdError": 0,
-          "ci95": {
-            "low": 0.2065,
-            "high": 1
-          }
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
         },
         {
           "th": 80,
@@ -612,89 +609,89 @@
       "duration": [
         {
           "th": 50,
-          "n": 132,
-          "correct": 88,
-          "hitRate": 0.6667,
-          "stdError": 0.041,
+          "n": 154,
+          "correct": 99,
+          "hitRate": 0.6429,
+          "stdError": 0.0386,
           "ci95": {
-            "low": 0.5825,
-            "high": 0.7414
+            "low": 0.5645,
+            "high": 0.7142
           }
         },
         {
           "th": 55,
-          "n": 132,
-          "correct": 88,
-          "hitRate": 0.6667,
-          "stdError": 0.041,
+          "n": 134,
+          "correct": 89,
+          "hitRate": 0.6642,
+          "stdError": 0.0408,
           "ci95": {
-            "low": 0.5825,
-            "high": 0.7414
+            "low": 0.5806,
+            "high": 0.7386
           }
         },
         {
           "th": 60,
           "n": 106,
-          "correct": 71,
-          "hitRate": 0.6698,
-          "stdError": 0.0457,
+          "correct": 69,
+          "hitRate": 0.6509,
+          "stdError": 0.0463,
           "ci95": {
-            "low": 0.5757,
-            "high": 0.752
+            "low": 0.5564,
+            "high": 0.735
           }
         },
         {
           "th": 65,
           "n": 87,
-          "correct": 59,
-          "hitRate": 0.6782,
-          "stdError": 0.0501,
+          "correct": 58,
+          "hitRate": 0.6667,
+          "stdError": 0.0505,
           "ci95": {
-            "low": 0.5743,
-            "high": 0.767
+            "low": 0.5624,
+            "high": 0.7568
           }
         },
         {
           "th": 70,
-          "n": 57,
-          "correct": 40,
-          "hitRate": 0.7018,
-          "stdError": 0.0606,
+          "n": 55,
+          "correct": 39,
+          "hitRate": 0.7091,
+          "stdError": 0.0612,
           "ci95": {
-            "low": 0.5734,
-            "high": 0.8047
+            "low": 0.5786,
+            "high": 0.8123
           }
         },
         {
           "th": 75,
-          "n": 36,
-          "correct": 28,
-          "hitRate": 0.7778,
-          "stdError": 0.0693,
+          "n": 30,
+          "correct": 25,
+          "hitRate": 0.8333,
+          "stdError": 0.068,
           "ci95": {
-            "low": 0.6192,
-            "high": 0.8828
+            "low": 0.6644,
+            "high": 0.9266
           }
         },
         {
           "th": 80,
-          "n": 17,
-          "correct": 15,
-          "hitRate": 0.8824,
-          "stdError": 0.0781,
+          "n": 11,
+          "correct": 11,
+          "hitRate": 1,
+          "stdError": 0,
           "ci95": {
-            "low": 0.6566,
-            "high": 0.9671
+            "low": 0.7412,
+            "high": 1
           }
         },
         {
           "th": 85,
-          "n": 4,
-          "correct": 4,
+          "n": 3,
+          "correct": 3,
           "hitRate": 1,
           "stdError": 0,
           "ci95": {
-            "low": 0.5101,
+            "low": 0.4385,
             "high": 1
           }
         },
@@ -829,13 +826,13 @@
         },
         {
           "th": 40,
-          "n": 77,
+          "n": 78,
           "correct": 38,
-          "hitRate": 0.4935,
-          "stdError": 0.057,
+          "hitRate": 0.4872,
+          "stdError": 0.0566,
           "ci95": {
-            "low": 0.3848,
-            "high": 0.6028
+            "low": 0.3795,
+            "high": 0.5961
           }
         },
         {
@@ -1025,155 +1022,152 @@
     "ge3": {
       "KO/TKO": {
         "high": {
-          "n": 2,
-          "correct": 1,
-          "hitRate": 0.5,
-          "stdError": 0.3536,
+          "n": 1,
+          "correct": 0,
+          "hitRate": 0,
+          "stdError": 0,
           "ci95": {
-            "low": 0.0945,
-            "high": 0.9055
+            "low": 0,
+            "high": 0.7935
           }
         },
         "medium": {
-          "n": 28,
+          "n": 25,
           "correct": 14,
-          "hitRate": 0.5,
-          "stdError": 0.0945,
+          "hitRate": 0.56,
+          "stdError": 0.0993,
           "ci95": {
-            "low": 0.3263,
-            "high": 0.6737
+            "low": 0.3707,
+            "high": 0.7333
           }
         },
         "low": {
-          "n": 30,
-          "correct": 17,
-          "hitRate": 0.5667,
-          "stdError": 0.0905,
+          "n": 27,
+          "correct": 15,
+          "hitRate": 0.5556,
+          "stdError": 0.0956,
           "ci95": {
-            "low": 0.392,
-            "high": 0.7262
+            "low": 0.3731,
+            "high": 0.7241
           }
         },
         "all": {
-          "n": 60,
-          "correct": 32,
-          "hitRate": 0.5333,
-          "stdError": 0.0644,
+          "n": 53,
+          "correct": 29,
+          "hitRate": 0.5472,
+          "stdError": 0.0684,
           "ci95": {
-            "low": 0.4089,
-            "high": 0.6537
+            "low": 0.4145,
+            "high": 0.6734
           }
         },
         "thresholds": [
           {
             "th": 30,
-            "n": 60,
-            "correct": 32,
-            "hitRate": 0.5333,
-            "stdError": 0.0644,
+            "n": 53,
+            "correct": 29,
+            "hitRate": 0.5472,
+            "stdError": 0.0684,
             "ci95": {
-              "low": 0.4089,
-              "high": 0.6537
+              "low": 0.4145,
+              "high": 0.6734
             }
           },
           {
             "th": 35,
-            "n": 60,
-            "correct": 32,
-            "hitRate": 0.5333,
-            "stdError": 0.0644,
+            "n": 53,
+            "correct": 29,
+            "hitRate": 0.5472,
+            "stdError": 0.0684,
             "ci95": {
-              "low": 0.4089,
-              "high": 0.6537
+              "low": 0.4145,
+              "high": 0.6734
             }
           },
           {
             "th": 40,
-            "n": 56,
-            "correct": 31,
-            "hitRate": 0.5536,
-            "stdError": 0.0664,
+            "n": 53,
+            "correct": 29,
+            "hitRate": 0.5472,
+            "stdError": 0.0684,
             "ci95": {
-              "low": 0.4241,
-              "high": 0.6761
+              "low": 0.4145,
+              "high": 0.6734
             }
           },
           {
             "th": 45,
-            "n": 48,
-            "correct": 27,
-            "hitRate": 0.5625,
-            "stdError": 0.0716,
+            "n": 42,
+            "correct": 25,
+            "hitRate": 0.5952,
+            "stdError": 0.0757,
             "ci95": {
-              "low": 0.4228,
-              "high": 0.693
+              "low": 0.4449,
+              "high": 0.7296
             }
           },
           {
             "th": 50,
-            "n": 30,
-            "correct": 15,
-            "hitRate": 0.5,
-            "stdError": 0.0913,
+            "n": 26,
+            "correct": 14,
+            "hitRate": 0.5385,
+            "stdError": 0.0978,
             "ci95": {
-              "low": 0.3315,
-              "high": 0.6685
+              "low": 0.3546,
+              "high": 0.7124
             }
           },
           {
             "th": 55,
             "n": 20,
-            "correct": 10,
-            "hitRate": 0.5,
-            "stdError": 0.1118,
+            "correct": 11,
+            "hitRate": 0.55,
+            "stdError": 0.1112,
             "ci95": {
-              "low": 0.2993,
-              "high": 0.7007
+              "low": 0.3421,
+              "high": 0.7418
             }
           },
           {
             "th": 60,
-            "n": 16,
-            "correct": 8,
-            "hitRate": 0.5,
-            "stdError": 0.125,
+            "n": 11,
+            "correct": 5,
+            "hitRate": 0.4545,
+            "stdError": 0.1501,
             "ci95": {
-              "low": 0.28,
-              "high": 0.72
+              "low": 0.2127,
+              "high": 0.7199
             }
           },
           {
             "th": 65,
-            "n": 4,
-            "correct": 3,
-            "hitRate": 0.75,
-            "stdError": 0.2165,
+            "n": 7,
+            "correct": 4,
+            "hitRate": 0.5714,
+            "stdError": 0.187,
             "ci95": {
-              "low": 0.3006,
-              "high": 0.9544
+              "low": 0.2505,
+              "high": 0.8418
             }
           },
           {
             "th": 70,
-            "n": 2,
-            "correct": 1,
-            "hitRate": 0.5,
-            "stdError": 0.3536,
+            "n": 1,
+            "correct": 0,
+            "hitRate": 0,
+            "stdError": 0,
             "ci95": {
-              "low": 0.0945,
-              "high": 0.9055
+              "low": 0,
+              "high": 0.7935
             }
           },
           {
             "th": 75,
-            "n": 1,
-            "correct": 1,
-            "hitRate": 1,
-            "stdError": 0,
-            "ci95": {
-              "low": 0.2065,
-              "high": 1
-            }
+            "n": 0,
+            "correct": 0,
+            "hitRate": null,
+            "stdError": null,
+            "ci95": null
           },
           {
             "th": 80,
@@ -1194,90 +1188,84 @@
           "ci95": null
         },
         "medium": {
-          "n": 1,
-          "correct": 1,
-          "hitRate": 1,
-          "stdError": 0,
-          "ci95": {
-            "low": 0.2065,
-            "high": 1
-          }
+          "n": 0,
+          "correct": 0,
+          "hitRate": null,
+          "stdError": null,
+          "ci95": null
         },
         "low": {
-          "n": 12,
-          "correct": 5,
-          "hitRate": 0.4167,
-          "stdError": 0.1423,
+          "n": 14,
+          "correct": 6,
+          "hitRate": 0.4286,
+          "stdError": 0.1323,
           "ci95": {
-            "low": 0.1933,
-            "high": 0.6805
+            "low": 0.2138,
+            "high": 0.6741
           }
         },
         "all": {
-          "n": 13,
+          "n": 14,
           "correct": 6,
-          "hitRate": 0.4615,
-          "stdError": 0.1383,
+          "hitRate": 0.4286,
+          "stdError": 0.1323,
           "ci95": {
-            "low": 0.2321,
-            "high": 0.7086
+            "low": 0.2138,
+            "high": 0.6741
           }
         },
         "thresholds": [
           {
             "th": 30,
-            "n": 13,
+            "n": 14,
             "correct": 6,
-            "hitRate": 0.4615,
-            "stdError": 0.1383,
+            "hitRate": 0.4286,
+            "stdError": 0.1323,
             "ci95": {
-              "low": 0.2321,
-              "high": 0.7086
+              "low": 0.2138,
+              "high": 0.6741
             }
           },
           {
             "th": 35,
-            "n": 13,
+            "n": 14,
             "correct": 6,
-            "hitRate": 0.4615,
-            "stdError": 0.1383,
+            "hitRate": 0.4286,
+            "stdError": 0.1323,
             "ci95": {
-              "low": 0.2321,
-              "high": 0.7086
+              "low": 0.2138,
+              "high": 0.6741
             }
           },
           {
             "th": 40,
-            "n": 9,
-            "correct": 4,
-            "hitRate": 0.4444,
-            "stdError": 0.1656,
+            "n": 14,
+            "correct": 6,
+            "hitRate": 0.4286,
+            "stdError": 0.1323,
             "ci95": {
-              "low": 0.1888,
-              "high": 0.7333
+              "low": 0.2138,
+              "high": 0.6741
             }
           },
           {
             "th": 45,
-            "n": 3,
-            "correct": 2,
-            "hitRate": 0.6667,
-            "stdError": 0.2722,
+            "n": 8,
+            "correct": 3,
+            "hitRate": 0.375,
+            "stdError": 0.1712,
             "ci95": {
-              "low": 0.2077,
-              "high": 0.9385
+              "low": 0.1368,
+              "high": 0.6943
             }
           },
           {
             "th": 50,
-            "n": 1,
-            "correct": 1,
-            "hitRate": 1,
-            "stdError": 0,
-            "ci95": {
-              "low": 0.2065,
-              "high": 1
-            }
+            "n": 0,
+            "correct": 0,
+            "hitRate": null,
+            "stdError": null,
+            "ci95": null
           },
           {
             "th": 55,
@@ -1331,120 +1319,120 @@
       },
       "Decision": {
         "high": {
-          "n": 1,
-          "correct": 1,
+          "n": 3,
+          "correct": 3,
           "hitRate": 1,
           "stdError": 0,
           "ci95": {
-            "low": 0.2065,
+            "low": 0.4385,
             "high": 1
           }
         },
         "medium": {
-          "n": 34,
-          "correct": 21,
-          "hitRate": 0.6176,
-          "stdError": 0.0833,
+          "n": 26,
+          "correct": 18,
+          "hitRate": 0.6923,
+          "stdError": 0.0905,
           "ci95": {
-            "low": 0.4504,
-            "high": 0.761
+            "low": 0.5001,
+            "high": 0.835
           }
         },
         "low": {
-          "n": 41,
-          "correct": 20,
-          "hitRate": 0.4878,
-          "stdError": 0.0781,
+          "n": 34,
+          "correct": 14,
+          "hitRate": 0.4118,
+          "stdError": 0.0844,
           "ci95": {
-            "low": 0.3425,
-            "high": 0.6352
+            "low": 0.2637,
+            "high": 0.5778
           }
         },
         "all": {
-          "n": 76,
-          "correct": 42,
-          "hitRate": 0.5526,
-          "stdError": 0.057,
+          "n": 63,
+          "correct": 35,
+          "hitRate": 0.5556,
+          "stdError": 0.0626,
           "ci95": {
-            "low": 0.441,
-            "high": 0.6592
+            "low": 0.4332,
+            "high": 0.6715
           }
         },
         "thresholds": [
           {
             "th": 30,
-            "n": 76,
-            "correct": 42,
-            "hitRate": 0.5526,
-            "stdError": 0.057,
+            "n": 63,
+            "correct": 35,
+            "hitRate": 0.5556,
+            "stdError": 0.0626,
             "ci95": {
-              "low": 0.441,
-              "high": 0.6592
+              "low": 0.4332,
+              "high": 0.6715
             }
           },
           {
             "th": 35,
-            "n": 76,
-            "correct": 42,
-            "hitRate": 0.5526,
-            "stdError": 0.057,
+            "n": 63,
+            "correct": 35,
+            "hitRate": 0.5556,
+            "stdError": 0.0626,
             "ci95": {
-              "low": 0.441,
-              "high": 0.6592
+              "low": 0.4332,
+              "high": 0.6715
             }
           },
           {
             "th": 40,
-            "n": 73,
-            "correct": 40,
-            "hitRate": 0.5479,
-            "stdError": 0.0583,
+            "n": 63,
+            "correct": 35,
+            "hitRate": 0.5556,
+            "stdError": 0.0626,
             "ci95": {
-              "low": 0.4342,
-              "high": 0.6569
+              "low": 0.4332,
+              "high": 0.6715
             }
           },
           {
             "th": 45,
-            "n": 57,
-            "correct": 34,
-            "hitRate": 0.5965,
-            "stdError": 0.065,
+            "n": 49,
+            "correct": 29,
+            "hitRate": 0.5918,
+            "stdError": 0.0702,
             "ci95": {
-              "low": 0.467,
-              "high": 0.7138
+              "low": 0.4525,
+              "high": 0.7178
             }
           },
           {
             "th": 50,
-            "n": 35,
-            "correct": 22,
-            "hitRate": 0.6286,
-            "stdError": 0.0817,
+            "n": 29,
+            "correct": 21,
+            "hitRate": 0.7241,
+            "stdError": 0.083,
             "ci95": {
-              "low": 0.4634,
-              "high": 0.7683
+              "low": 0.5428,
+              "high": 0.853
             }
           },
           {
             "th": 55,
-            "n": 21,
-            "correct": 19,
-            "hitRate": 0.9048,
-            "stdError": 0.0641,
+            "n": 17,
+            "correct": 17,
+            "hitRate": 1,
+            "stdError": 0,
             "ci95": {
-              "low": 0.7109,
-              "high": 0.9735
+              "low": 0.8157,
+              "high": 1
             }
           },
           {
             "th": 60,
-            "n": 10,
-            "correct": 10,
+            "n": 9,
+            "correct": 9,
             "hitRate": 1,
             "stdError": 0,
             "ci95": {
-              "low": 0.7225,
+              "low": 0.7009,
               "high": 1
             }
           },
@@ -1461,12 +1449,12 @@
           },
           {
             "th": 70,
-            "n": 1,
-            "correct": 1,
+            "n": 3,
+            "correct": 3,
             "hitRate": 1,
             "stdError": 0,
             "ci95": {
-              "low": 0.2065,
+              "low": 0.4385,
               "high": 1
             }
           },
@@ -1512,57 +1500,57 @@
           }
         },
         "low": {
-          "n": 16,
+          "n": 17,
           "correct": 11,
-          "hitRate": 0.6875,
+          "hitRate": 0.6471,
           "stdError": 0.1159,
           "ci95": {
-            "low": 0.444,
-            "high": 0.8584
+            "low": 0.413,
+            "high": 0.8269
           }
         },
         "all": {
-          "n": 37,
+          "n": 38,
           "correct": 27,
-          "hitRate": 0.7297,
-          "stdError": 0.073,
+          "hitRate": 0.7105,
+          "stdError": 0.0736,
           "ci95": {
-            "low": 0.5702,
-            "high": 0.846
+            "low": 0.5524,
+            "high": 0.83
           }
         },
         "thresholds": [
           {
             "th": 30,
-            "n": 37,
+            "n": 38,
             "correct": 27,
-            "hitRate": 0.7297,
-            "stdError": 0.073,
+            "hitRate": 0.7105,
+            "stdError": 0.0736,
             "ci95": {
-              "low": 0.5702,
-              "high": 0.846
+              "low": 0.5524,
+              "high": 0.83
             }
           },
           {
             "th": 35,
-            "n": 37,
+            "n": 38,
             "correct": 27,
-            "hitRate": 0.7297,
-            "stdError": 0.073,
+            "hitRate": 0.7105,
+            "stdError": 0.0736,
             "ci95": {
-              "low": 0.5702,
-              "high": 0.846
+              "low": 0.5524,
+              "high": 0.83
             }
           },
           {
             "th": 40,
-            "n": 32,
+            "n": 33,
             "correct": 24,
-            "hitRate": 0.75,
-            "stdError": 0.0765,
+            "hitRate": 0.7273,
+            "stdError": 0.0775,
             "ci95": {
-              "low": 0.5789,
-              "high": 0.8675
+              "low": 0.5578,
+              "high": 0.8493
             }
           },
           {
@@ -1671,46 +1659,46 @@
           }
         },
         "low": {
-          "n": 8,
+          "n": 7,
           "correct": 0,
           "hitRate": 0,
           "stdError": 0,
           "ci95": {
             "low": 0,
-            "high": 0.3244
+            "high": 0.3543
           }
         },
         "all": {
-          "n": 12,
+          "n": 11,
           "correct": 2,
-          "hitRate": 0.1667,
-          "stdError": 0.1076,
+          "hitRate": 0.1818,
+          "stdError": 0.1163,
           "ci95": {
-            "low": 0.047,
-            "high": 0.448
+            "low": 0.0514,
+            "high": 0.477
           }
         },
         "thresholds": [
           {
             "th": 30,
-            "n": 12,
+            "n": 11,
             "correct": 2,
-            "hitRate": 0.1667,
-            "stdError": 0.1076,
+            "hitRate": 0.1818,
+            "stdError": 0.1163,
             "ci95": {
-              "low": 0.047,
-              "high": 0.448
+              "low": 0.0514,
+              "high": 0.477
             }
           },
           {
             "th": 35,
-            "n": 12,
+            "n": 11,
             "correct": 2,
-            "hitRate": 0.1667,
-            "stdError": 0.1076,
+            "hitRate": 0.1818,
+            "stdError": 0.1163,
             "ci95": {
-              "low": 0.047,
-              "high": 0.448
+              "low": 0.0514,
+              "high": 0.477
             }
           },
           {
@@ -1969,102 +1957,102 @@
   "winnerMethod": {
     "ge3": {
       "all": {
-        "n": 119,
-        "correct": 38,
-        "hitRate": 0.3193,
-        "stdError": 0.0427,
+        "n": 130,
+        "correct": 39,
+        "hitRate": 0.3,
+        "stdError": 0.0402,
         "ci95": {
-          "low": 0.2423,
-          "high": 0.4076
+          "low": 0.2279,
+          "high": 0.3836
         }
       },
       "thresholds": [
         {
           "th": 15,
-          "n": 119,
-          "correct": 38,
-          "hitRate": 0.3193,
-          "stdError": 0.0427,
+          "n": 130,
+          "correct": 39,
+          "hitRate": 0.3,
+          "stdError": 0.0402,
           "ci95": {
-            "low": 0.2423,
-            "high": 0.4076
+            "low": 0.2279,
+            "high": 0.3836
           }
         },
         {
           "th": 20,
-          "n": 119,
-          "correct": 38,
-          "hitRate": 0.3193,
-          "stdError": 0.0427,
+          "n": 130,
+          "correct": 39,
+          "hitRate": 0.3,
+          "stdError": 0.0402,
           "ci95": {
-            "low": 0.2423,
-            "high": 0.4076
+            "low": 0.2279,
+            "high": 0.3836
           }
         },
         {
           "th": 25,
-          "n": 111,
-          "correct": 35,
-          "hitRate": 0.3153,
-          "stdError": 0.0441,
+          "n": 110,
+          "correct": 33,
+          "hitRate": 0.3,
+          "stdError": 0.0437,
           "ci95": {
-            "low": 0.2363,
-            "high": 0.4067
+            "low": 0.2223,
+            "high": 0.3912
           }
         },
         {
           "th": 30,
-          "n": 75,
+          "n": 82,
           "correct": 25,
-          "hitRate": 0.3333,
-          "stdError": 0.0544,
+          "hitRate": 0.3049,
+          "stdError": 0.0508,
           "ci95": {
-            "low": 0.2371,
-            "high": 0.4458
+            "low": 0.2158,
+            "high": 0.4114
           }
         },
         {
           "th": 35,
-          "n": 53,
-          "correct": 16,
-          "hitRate": 0.3019,
-          "stdError": 0.0631,
+          "n": 52,
+          "correct": 17,
+          "hitRate": 0.3269,
+          "stdError": 0.0651,
           "ci95": {
-            "low": 0.1952,
-            "high": 0.4354
+            "low": 0.2152,
+            "high": 0.4624
           }
         },
         {
           "th": 40,
           "n": 19,
-          "correct": 6,
-          "hitRate": 0.3158,
-          "stdError": 0.1066,
+          "correct": 7,
+          "hitRate": 0.3684,
+          "stdError": 0.1107,
           "ci95": {
-            "low": 0.1536,
-            "high": 0.5399
+            "low": 0.1915,
+            "high": 0.5896
           }
         },
         {
           "th": 45,
-          "n": 5,
-          "correct": 2,
-          "hitRate": 0.4,
-          "stdError": 0.2191,
+          "n": 6,
+          "correct": 3,
+          "hitRate": 0.5,
+          "stdError": 0.2041,
           "ci95": {
-            "low": 0.1176,
-            "high": 0.7693
+            "low": 0.1876,
+            "high": 0.8124
           }
         },
         {
           "th": 50,
-          "n": 2,
-          "correct": 1,
-          "hitRate": 0.5,
-          "stdError": 0.3536,
+          "n": 1,
+          "correct": 0,
+          "hitRate": 0,
+          "stdError": 0,
           "ci95": {
-            "low": 0.0945,
-            "high": 0.9055
+            "low": 0,
+            "high": 0.7935
           }
         },
         {
@@ -2121,13 +2109,13 @@
         },
         {
           "th": 25,
-          "n": 55,
+          "n": 56,
           "correct": 21,
-          "hitRate": 0.3818,
-          "stdError": 0.0655,
+          "hitRate": 0.375,
+          "stdError": 0.0647,
           "ci95": {
-            "low": 0.2652,
-            "high": 0.5139
+            "low": 0.2601,
+            "high": 0.5059
           }
         },
         {
@@ -2210,121 +2198,121 @@
   "methodTop2": {
     "ge3": {
       "high": {
-        "n": 3,
+        "n": 2,
         "correct": 2,
-        "hitRate": 0.6667,
-        "stdError": 0.2722,
+        "hitRate": 1,
+        "stdError": 0,
         "ci95": {
-          "low": 0.2077,
-          "high": 0.9385
+          "low": 0.3424,
+          "high": 1
         }
       },
       "medium": {
-        "n": 85,
-        "correct": 47,
-        "hitRate": 0.5529,
-        "stdError": 0.0539,
+        "n": 79,
+        "correct": 43,
+        "hitRate": 0.5443,
+        "stdError": 0.056,
         "ci95": {
-          "low": 0.4472,
-          "high": 0.6541
+          "low": 0.435,
+          "high": 0.6495
         }
       },
       "low": {
-        "n": 31,
-        "correct": 13,
-        "hitRate": 0.4194,
-        "stdError": 0.0886,
+        "n": 49,
+        "correct": 23,
+        "hitRate": 0.4694,
+        "stdError": 0.0713,
         "ci95": {
-          "low": 0.2642,
-          "high": 0.5923
+          "low": 0.337,
+          "high": 0.6062
         }
       },
       "all": {
-        "n": 119,
-        "correct": 62,
-        "hitRate": 0.521,
-        "stdError": 0.0458,
+        "n": 130,
+        "correct": 68,
+        "hitRate": 0.5231,
+        "stdError": 0.0438,
         "ci95": {
-          "low": 0.432,
-          "high": 0.6087
+          "low": 0.4378,
+          "high": 0.607
         }
       },
       "thresholds": [
         {
           "th": 40,
-          "n": 119,
-          "correct": 62,
-          "hitRate": 0.521,
-          "stdError": 0.0458,
+          "n": 125,
+          "correct": 65,
+          "hitRate": 0.52,
+          "stdError": 0.0447,
           "ci95": {
-            "low": 0.432,
-            "high": 0.6087
+            "low": 0.4331,
+            "high": 0.6057
           }
         },
         {
           "th": 45,
-          "n": 111,
-          "correct": 59,
-          "hitRate": 0.5315,
+          "n": 109,
+          "correct": 62,
+          "hitRate": 0.5688,
           "stdError": 0.0474,
           "ci95": {
-            "low": 0.4392,
-            "high": 0.6217
+            "low": 0.4751,
+            "high": 0.6579
           }
         },
         {
           "th": 50,
-          "n": 88,
-          "correct": 49,
-          "hitRate": 0.5568,
-          "stdError": 0.053,
+          "n": 81,
+          "correct": 45,
+          "hitRate": 0.5556,
+          "stdError": 0.0552,
           "ci95": {
-            "low": 0.4528,
-            "high": 0.6561
+            "low": 0.4473,
+            "high": 0.6588
           }
         },
         {
           "th": 55,
-          "n": 56,
-          "correct": 32,
-          "hitRate": 0.5714,
-          "stdError": 0.0661,
+          "n": 52,
+          "correct": 28,
+          "hitRate": 0.5385,
+          "stdError": 0.0691,
           "ci95": {
-            "low": 0.4414,
-            "high": 0.6923
+            "low": 0.405,
+            "high": 0.6666
           }
         },
         {
           "th": 60,
-          "n": 34,
-          "correct": 20,
-          "hitRate": 0.5882,
-          "stdError": 0.0844,
+          "n": 28,
+          "correct": 16,
+          "hitRate": 0.5714,
+          "stdError": 0.0935,
           "ci95": {
-            "low": 0.4222,
-            "high": 0.7363
+            "low": 0.3907,
+            "high": 0.7349
           }
         },
         {
           "th": 65,
-          "n": 10,
-          "correct": 7,
-          "hitRate": 0.7,
-          "stdError": 0.1449,
+          "n": 9,
+          "correct": 5,
+          "hitRate": 0.5556,
+          "stdError": 0.1656,
           "ci95": {
-            "low": 0.3968,
-            "high": 0.8922
+            "low": 0.2667,
+            "high": 0.8112
           }
         },
         {
           "th": 70,
-          "n": 3,
+          "n": 2,
           "correct": 2,
-          "hitRate": 0.6667,
-          "stdError": 0.2722,
+          "hitRate": 1,
+          "stdError": 0,
           "ci95": {
-            "low": 0.2077,
-            "high": 0.9385
+            "low": 0.3424,
+            "high": 1
           }
         },
         {
@@ -2349,23 +2337,23 @@
         }
       },
       "medium": {
-        "n": 40,
+        "n": 41,
         "correct": 26,
-        "hitRate": 0.65,
-        "stdError": 0.0754,
+        "hitRate": 0.6341,
+        "stdError": 0.0752,
         "ci95": {
-          "low": 0.4951,
-          "high": 0.7787
+          "low": 0.4812,
+          "high": 0.7641
         }
       },
       "low": {
-        "n": 23,
+        "n": 22,
         "correct": 11,
-        "hitRate": 0.4783,
-        "stdError": 0.1042,
+        "hitRate": 0.5,
+        "stdError": 0.1066,
         "ci95": {
-          "low": 0.2924,
-          "high": 0.6704
+          "low": 0.3072,
+          "high": 0.6928
         }
       },
       "all": {
@@ -2403,13 +2391,13 @@
         },
         {
           "th": 50,
-          "n": 41,
+          "n": 42,
           "correct": 26,
-          "hitRate": 0.6341,
-          "stdError": 0.0752,
+          "hitRate": 0.619,
+          "stdError": 0.0749,
           "ci95": {
-            "low": 0.4812,
-            "high": 0.7641
+            "low": 0.4681,
+            "high": 0.75
           }
         },
         {

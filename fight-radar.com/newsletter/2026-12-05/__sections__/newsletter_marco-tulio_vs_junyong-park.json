@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Marco Tulio",
+    "fighter_b": "JunYong Park",
+    "prediction": "Marco Tulio",
+    "confidence": 69,
+    "band": "high",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "KO / TKO",
+    "method_prob": 47,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 56,
+    "raw_fighter_a": "Marco Tulio",
+    "raw_fighter_b": "JunYong Park",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong> llega a este combate con un récord total de carrera de <strong>14-3-0</strong>, aunque su tramo más reciente pinta un panorama más parejo: en los últimos 36 meses acumula un <strong>2-2-0</strong> en cuatro peleas, con derrotas el 09-05-2026 y el 08-11-2025 que rompen la narrativa de dominio absoluto. Su <strong>amenaza de finalización de 100</strong> sobre el radar es el dato que más llama la atención, respaldado por un golpeo ofensivo de 55 y uno defensivo de 56, cifras que sugieren un peleador cómodo tanto atacando como resistiendo el intercambio.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=JunYong+Park+%28The+Iron+Turtle%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">JunYong Park</a></strong>, sin ranking oficial en el top 15 igual que su rival, presenta un récord total de carrera de <strong>19-7-0</strong>, con el mismo patrón reciente: <strong>2-2-0</strong> en sus últimas cuatro apariciones, incluyendo una derrota el 25-10-2025. Su control de 48 y derribo ofensivo de 29 indican que podría buscar llevar la pelea al suelo para neutralizar el poder de golpeo de <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a>, aunque su amenaza de finalización de 0 sugiere que esa vía rara vez se traduce en un cierre definitivo. El combate está pactado a 3 asaltos, por lo que cualquier plan de desgaste deberá ejecutarse con rapidez."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a></strong> llega como favorito claro del radar en este duelo de peso medio.\nAmbos peleadores arrastran un tramo reciente irregular, con <strong>dos derrotas cada uno</strong> en sus últimas cuatro salidas.\nEl <strong>KO/TKO</strong> se perfila como la vía más probable para cerrar el combate."
+    ],
+    "fight_conclusions": [
+      "Con métricas ofensivas superiores y una capacidad de finalización que destaca sobre el radar, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a> parte con ventaja estadística hacia este enfrentamiento de peso medio. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Marco+Tulio+%28Matuto%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Marco Tulio</a> con un 69% de probabilidad. Por separado, el método más probable de finalización es KO/TKO, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Pavel Andrusca",
+    "fighter_b": "Mahammadali Osmanli",
+    "prediction": "Pavel Andrusca",
+    "confidence": 56,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "",
+    "method_prob": 0,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 73,
+    "raw_fighter_a": "Pavel Andrusca",
+    "raw_fighter_b": "Mahammadali Osmanli",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Pavel+Andrusca\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pavel Andrusca</a></strong> llega a este combate dentro de peso gallo con un récord total de carrera de <strong>9-0-0</strong>, manteniéndose invicto en toda su trayectoria. En los últimos 36 meses acumula <strong>1-0-0</strong> en una sola pelea, una muestra reducida pero perfecta que respalda la confianza del radar en su candidatura. Fuera del top 15 oficial, <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Pavel+Andrusca\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pavel Andrusca</a> destaca sobre todo por un dominio de <strong>control que alcanza 98/100</strong>, una cifra que lo posiciona como un peleador capaz de dictar el ritmo desde el suelo o contra la valla, además de un derribo defensivo de 85/100 que complica cualquier intento de arrastrarlo al terreno ajeno.\n<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mahammadali+Osmanli+%28The+Ineffable%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mahammadali Osmanli</a></strong>, también fuera del top 15, presenta un récord total de carrera de <strong>13-2-0</strong>, una trayectoria más extensa que la de su rival. Sin embargo, en los últimos 36 meses registra <strong>0-1-0</strong> en una pelea, con una derrota que marca su tramo más reciente. Su golpeo ofensivo de 46 y su derribo ofensivo de 45 lo dejan parejo en el intercambio a distancia, pero su control de 0/100 contrasta fuertemente con el dominio que exhibe <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Pavel+Andrusca\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pavel Andrusca</a> en ese aspecto, un factor que podría inclinar el desarrollo del enfrentamiento según hacia dónde se traslade la acción."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Pavel+Andrusca\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pavel Andrusca</a></strong> llega como favorito con un <strong>56%</strong> de probabilidad según el radar.\nSu <strong>control de 98/100</strong> marca la ventaja más decisiva de todo el enfrentamiento.\nSin amenaza de finalización clara en ninguno de los dos, el combate podría estirarse hasta la decisión."
+    ],
+    "fight_conclusions": [
+      "Ninguno de los dos peleadores exhibe una amenaza de finalización relevante en las métricas registradas. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Pavel+Andrusca\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Pavel Andrusca</a> con un 56% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

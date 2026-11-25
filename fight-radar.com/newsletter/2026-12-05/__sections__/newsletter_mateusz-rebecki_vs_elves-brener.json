@@ -1,0 +1,52 @@
+{
+  "event": "UFC Fight Night: Adesanya vs. Magomedov",
+  "event_date": "5 de diciembre de 2026",
+  "event_date_iso": "2026-12-05",
+  "fight": {
+    "fighter_a": "Mateusz Rebecki",
+    "fighter_b": "Elves Brener",
+    "prediction": "Elves Brener",
+    "confidence": 53,
+    "band": "medium",
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 47,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 66,
+    "raw_fighter_a": "Mateusz Rebecki",
+    "raw_fighter_b": "Elves Brener",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\nEste combate en el peso ligero enfrenta a dos nombres que buscan reencontrar el rumbo tras tramos recientes complicados. <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a></strong>, sin ranking oficial en el top 15, acumula un récord total de carrera de 21-5-0, aunque en los últimos 36 meses su balance cae a 2-4-0 en 6 peleas, con cuatro derrotas que marcan un presente exigente. Del otro lado, <strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Elves+Brener\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Elves Brener</a></strong>, también fuera del top 15, presenta un récord total de 17-6-0, y en el mismo período reciente de 36 meses su registro es de 1-3-0 en 4 peleas, con tres derrotas que reflejan una racha igualmente difícil.\nEl radar dibuja un panorama equilibrado. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Mateusz+Rebecki\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Mateusz Rebecki</a> impone superioridad en el control (60) y mantiene un derribo defensivo sólido (50), con un golpeo defensivo de 53 que le da margen para sostener intercambios. <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Elves+Brener\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Elves Brener</a>, en cambio, destaca por una amenaza de finalización que toca el máximo (100) y un golpeo ofensivo de 50, aunque su derribo ofensivo (15) y su control (26) son notablemente más bajos. Esa combinación de variables —un peleador que domina el ritmo desde el control y otro que vive del peligro puntual— es justamente lo que deja la balanza tan ajustada."
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Elves+Brener\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Elves Brener</a></strong> llega como favorito con ligera ventaja en el radar.\nAmbos atraviesan un tramo reciente irregular, con más derrotas que victorias en los últimos 36 meses.\nLa vía más probable de cierre es la <strong>decisión</strong>, sin favorecer a ningún estilo en particular."
+    ],
+    "fight_conclusions": [
+      "Ambos llegan con la necesidad de revertir una tendencia negativa reciente, lo que añade presión a cada decisión táctica dentro del jaula. El radar favorece a <a href=\"https://fight-radar.com/#/es/data-center/fighter-details?fighter=Elves+Brener\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Elves Brener</a> con un 53% de probabilidad. Por separado, el método más probable de finalización es decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
