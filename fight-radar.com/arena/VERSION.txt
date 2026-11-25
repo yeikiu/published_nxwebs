@@ -1,1 +1,1 @@
-fight_radar_pokemon 437ddda (movil/preview)
+fight_radar_pokemon ec4156a (movil/preview)
