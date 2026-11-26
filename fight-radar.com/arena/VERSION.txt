@@ -1,1 +1,2 @@
-fight_radar_pokemon 334223a (movil/preview)
+1.2.32
+fight_radar_pokemon f30f519 (fix/nube-produccion)
