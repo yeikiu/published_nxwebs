@@ -1,0 +1,230 @@
+{
+ "type": "world",
+ "onlyShowAdjacentMaps": false,
+ "maps": [
+  {
+   "fileName": "campana.tmj",
+   "x": 2048,
+   "y": 768,
+   "width": 1024,
+   "height": 384
+  },
+  {
+   "fileName": "lona.tmj",
+   "x": 1024,
+   "y": 384,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ceniza.tmj",
+   "x": 2048,
+   "y": 1536,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "retiro.tmj",
+   "x": 1024,
+   "y": 1920,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "gancho.tmj",
+   "x": 1024,
+   "y": 2688,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "guantes.tmj",
+   "x": 2048,
+   "y": 0,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "esquina.tmj",
+   "x": 0,
+   "y": 1152,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "metropolis.tmj",
+   "x": 0,
+   "y": 1920,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "cartelera.tmj",
+   "x": 0,
+   "y": 2688,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "reality.tmj",
+   "x": 3584,
+   "y": 3072,
+   "width": 512,
+   "height": 768
+  },
+  {
+   "fileName": "liga.tmj",
+   "x": 3584,
+   "y": 384,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_1.tmj",
+   "x": 2048,
+   "y": 384,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_21.tmj",
+   "x": 512,
+   "y": 384,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_2.tmj",
+   "x": 1536,
+   "y": 0,
+   "width": 512,
+   "height": 768
+  },
+  {
+   "fileName": "ruta_3.tmj",
+   "x": 0,
+   "y": 768,
+   "width": 1536,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_4.tmj",
+   "x": 0,
+   "y": 1536,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_5.tmj",
+   "x": 512,
+   "y": 2688,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_6.tmj",
+   "x": 512,
+   "y": 1152,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_7.tmj",
+   "x": 1024,
+   "y": 1152,
+   "width": 512,
+   "height": 768
+  },
+  {
+   "fileName": "ruta_8.tmj",
+   "x": 512,
+   "y": 1920,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_9.tmj",
+   "x": 0,
+   "y": 2304,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_10.tmj",
+   "x": 0,
+   "y": 3072,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_11.tmj",
+   "x": 512,
+   "y": 3072,
+   "width": 1536,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_12.tmj",
+   "x": 2048,
+   "y": 3072,
+   "width": 1536,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_13.tmj",
+   "x": 1536,
+   "y": 2688,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_14.tmj",
+   "x": 2048,
+   "y": 2688,
+   "width": 1024,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_15.tmj",
+   "x": 3072,
+   "y": 2688,
+   "width": 1024,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_16.tmj",
+   "x": 4096,
+   "y": 1536,
+   "width": 512,
+   "height": 1920
+  },
+  {
+   "fileName": "ruta_17.tmj",
+   "x": 2560,
+   "y": 1536,
+   "width": 1536,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_18.tmj",
+   "x": 2048,
+   "y": 1152,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_19.tmj",
+   "x": 2560,
+   "y": 0,
+   "width": 512,
+   "height": 384
+  },
+  {
+   "fileName": "ruta_20.tmj",
+   "x": 3072,
+   "y": 0,
+   "width": 512,
+   "height": 768
+  }
+ ]
+}
