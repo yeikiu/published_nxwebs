@@ -1,2 +1,2 @@
-1.2.34
-fight_radar_pokemon f565767 (fix/huida-y-borde-mapa)
+1.2.35
+fight_radar_pokemon 4e9d5af (fix/coach-manual-suelo)
