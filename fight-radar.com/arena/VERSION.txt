@@ -1,2 +1,2 @@
-1.2.35
-fight_radar_pokemon 4e9d5af (fix/coach-manual-suelo)
+1.2.36
+fight_radar_pokemon 8b5a7d1 (fix/prota-sin-gorra)
