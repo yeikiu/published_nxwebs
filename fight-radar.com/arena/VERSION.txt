@@ -1,2 +1,2 @@
-1.2.32
-fight_radar_pokemon f30f519 (fix/nube-produccion)
+1.2.33
+fight_radar_pokemon b9c1239 (fix/ventaja-nivel)
