@@ -1,2 +1,2 @@
-1.2.33
-fight_radar_pokemon b9c1239 (fix/ventaja-nivel)
+1.2.34
+fight_radar_pokemon f565767 (fix/huida-y-borde-mapa)
