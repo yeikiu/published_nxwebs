@@ -9,7 +9,7 @@
  "tilewidth": 16,
  "tileheight": 16,
  "columns": 16,
- "tilecount": 209,
+ "tilecount": 212,
  "margin": 0,
  "spacing": 0,
  "tiles": [
@@ -4390,6 +4390,81 @@
      "name": "zona",
      "type": "string",
      "value": "interior"
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "properties": [
+    {
+     "name": "nombre",
+     "type": "string",
+     "value": "mall_top_i"
+    },
+    {
+     "name": "colision",
+     "type": "bool",
+     "value": true
+    },
+    {
+     "name": "zona",
+     "type": "string",
+     "value": "exterior"
+    },
+    {
+     "name": "luz",
+     "type": "int",
+     "value": 14
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "properties": [
+    {
+     "name": "nombre",
+     "type": "string",
+     "value": "mall_top_c"
+    },
+    {
+     "name": "colision",
+     "type": "bool",
+     "value": true
+    },
+    {
+     "name": "zona",
+     "type": "string",
+     "value": "exterior"
+    },
+    {
+     "name": "luz",
+     "type": "int",
+     "value": 14
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "properties": [
+    {
+     "name": "nombre",
+     "type": "string",
+     "value": "mall_top_d"
+    },
+    {
+     "name": "colision",
+     "type": "bool",
+     "value": true
+    },
+    {
+     "name": "zona",
+     "type": "string",
+     "value": "exterior"
+    },
+    {
+     "name": "luz",
+     "type": "int",
+     "value": 14
     }
    ]
   }
